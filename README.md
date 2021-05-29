@@ -1,1 +1,1 @@
-- logseq
+# My Logseq Notes
