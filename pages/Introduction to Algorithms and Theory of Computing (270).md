@@ -1,5 +1,5 @@
-:title:: CSCI 270: Introduction to Algorithms and Theory of Computing
-
+- :title:: CSCI 270: Introduction to Algorithms and Theory of Computing
+- #[[University of Southern California]]
 - 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
@@ -13,13 +13,13 @@
 		  collapsed:: true
 			-
 			  ```cpp
-			  			  For all people in the class p
-			  			  	For all people in the class q, where p != q
-			  			    	If p knows q, then p is not famous
-			  			    	If q doesn't know p, then p is not famous
-			  			    If p is famous, add p to the list
-			  			  Return our list
-			  			  ```
+			  			  			  For all people in the class p
+			  			  			  	For all people in the class q, where p != q
+			  			  			    	If p knows q, then p is not famous
+			  			  			    	If q doesn't know p, then p is not famous
+			  			  			    If p is famous, add p to the list
+			  			  			  Return our list
+			  			  			  ```
 			- How many queries does this algorithm use, exactly?
 			  collapsed:: true
 				- $2n(n-1)$
@@ -79,6 +79,7 @@
 		  collapsed:: true
 			- Counter-example: when $C = \phi$, $A \times C = B \times C$ even when $A \ne B$.
 	- Proof by [[Induction]]: find the flaw in the proof that $a^n=1$, for all non-negative integers $n$ and all non-zero reals $a$.
+	  collapsed:: true
 		- _Base Case_: $a^0 = 1$
 		- _Inductive Hypothesis_: $a^n = 1$, for all $n \le k$
 		- _Inductive Step_: $a^{k+1} = \frac{a^k \cdot a^k}{a^{k-1}} = 1$, by the inductive hypothesis
@@ -109,7 +110,7 @@
 	  collapsed:: true
 		- Master Theorem can solve (almost) any recurrence relation of the form
 		- $f(n) = a \cdot f(n/b) + g(n)$, for constants $a \ge 1$ and $b > 1$
-	- Using the [[Master Theorem]] :
+	- Using the [[Master Theorem]]:
 	  collapsed:: true
 		- Given $f(n) = a \cdot f(n/b) + g(n)$, for constants $a \ge 1$ and $b > 1$, compare $g(n)$ with $n^{\log a / \log b}$
 			- Case 1: If $g(n) = \Theta(n^{\log a / \log b})$, then $f(n) = \Theta(g(n) \cdot \log n)$
@@ -121,10 +122,21 @@
 		- If the work done on the top level is a **polynomial-factor** bigger than the work on the bottom level, then the total work is the work on the top level.
 		- If the difference between the top and bottom level is greater than a constant, but smaller than a polynomial, then master theorem **will not help us**.
 	- What is [[Amortized Runtime]]?
+	  collapsed:: true
 		- It is a blend between average-case and worst-case. It is kind of the "worst-case average-case".
 	- Practice:
 		- Prove for all integers $n$: $n$ is odd iff $3n+1$ is even.
+		  collapsed:: true
+			- $n = 2k+1$
+			- $3(2k+1)+1 = 6k+3+1 = 6k+4 = 2(3k+2) = 2c$, which is even.
 		- Use induction to prove that $\sum^n_{i=0} \frac{1}{2^i} < 2$
+		  collapsed:: true
+			- _B.C._: For $n = 0$, $\sum^0_{i=0} \frac{1}{2^i} = \frac{1}{2^0}  = 1 < 2$
+			- _I.H._: Assume $\sum^n_{i=0} \frac{1}{2^i} < 2$ for $n \le k$
+			- _I.S._: Consider $n = k + 1$, 
+			  $$
+			  \sum^{k+1}_{i=0} \frac{1}{2^i}  = \frac{1}{2^{k+1}} + \sum^{k}_{i=0} \frac{1}{2^i} < \frac{1}{2^{k+1}} + 2 < 2
+			  $$
 		- Chapter 2, exercises 3, 4, 5, 6
 		- Challenge: Chapter 2, exercise 8
 		- Solve the following recurrence relations:

@@ -1,0 +1,21 @@
+- [[B.S. Computer Science]] & [[B.S. Applied and Computational Mathematics]] #[[University of Southern California]]
+	- Fall 2020 #COMPLETED
+		- WRIT-150
+		- MATH-226
+		- CSCI-103
+		- [[Discrete Methods in Computer Science (170)]]
+		- ENGR-102
+	- Spring 2021 #COMPLETED
+		- GESM-120 (B)
+		- CSCI-104
+		- EE-109L
+		- MATH-407
+		- MATH-225
+	- Summer 2021 #IN-PROGRESS
+		- [[Introduction to Algorithms and Theory of Computing (270)]]
+	- Fall 2021
+		- CSCI-356
+		- CSCI-201L
+		- BISC-120L (D)
+		- CTCS-190 (A)
+		- [[Advanced Programming Paradigms (499)]]

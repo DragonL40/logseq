@@ -1,0 +1,14 @@
+- #[[University of Southern California]] #[[B.S. Computer Science]]
+- [[Pigeon Hole Principle]]
+	- If $f: X \to Y$ and $|X| > |Y|$, then there are elements $x_1, x_2 \in X$ such that $x_1 \ne x_2$ and $f(x_1) = f(x_2)$.
+- Extended [[Pigeon Hole Principle]]
+	- For any sets $X$, $Y$, and positive integer $k$ such that $|X| > k \cdot |Y|$, if $f: X \to Y$ then there are at least $k+1$ distinct members $x_1, \dots, x_{k+1} \in X$ such that $f(x_1) = \dots = f(x_{k+1})$
+- [[Fundamental Theorem of Arithmetic]]
+	- There are exactly one way to express an integer $>1$ as a product of distinct prime numbers in increasing order, with positive integer exponents.
+# [[Proof]]
+- A **proof** is an argument that is both correct and accepted by your peers.
+- Proving and disproving a claim:
+	- To _prove_ a **general statement** (a for-all statement), you have to supply a general proof.
+	- To _disprove_ a general statement, all you need to provide is a counter-example (there exists...).
+	- To _prove_ a **specific statement** (such as "$\exists$ an even prime"), all you need is to provide an example.
+	- To _disprove_ a **specific statement**, you need to supply a general proof that no such value exists (such as "$\forall$ values, the specific statement doesn't hold").
