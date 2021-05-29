@@ -1,6 +1,6 @@
 :title:: CSCI 270: Introduction to Algorithms and Theory of Computing
 
-## 5/19: Introduction
+- 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
 		- Person $p$ is **famous** iff everyone in this class knows *p*, but *p* knows no one else in this class.
@@ -13,13 +13,13 @@
 		  collapsed:: true
 			-
 			  ```cpp
-			  For all people in the class p
-			  	For all people in the class q, where p != q
-			    	If p knows q, then p is not famous
-			    	If q doesn't know p, then p is not famous
-			    If p is famous, add p to the list
-			  Return our list
-			  ```
+			  			  For all people in the class p
+			  			  	For all people in the class q, where p != q
+			  			    	If p knows q, then p is not famous
+			  			    	If q doesn't know p, then p is not famous
+			  			    If p is famous, add p to the list
+			  			  Return our list
+			  			  ```
 			- How many queries does this algorithm use, exactly?
 			  collapsed:: true
 				- $2n(n-1)$
@@ -41,16 +41,16 @@
 			  4. Return to step 2
 			  5. There is one person on the list now: $c$
 			  6. For all people $q \ne c$:
-			  				- Check if $c$ knows $q$. If so, return `nullptr`.
-			  				- Check if $q$ knows $c$. If not, return `nullptr`.
-			  			-
-			  7. Return $c$.
-			  			- But $c$ is not necessarily famous.
-			  	- Improve the algorithm for the Famous Person Problem to require only $3 \cdot (n-1) - \log_2 n$ queries.
-			  	- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
-			  	  collapsed:: true
-			  		- To determine for sure whether a candidate $p$ is for sure a famous person, we have to ask if $p$ knows $q$ for each $q$ in the class, which will take $n-1$ time. Thus, we will always have to ask at least $\Theta(n)$ queries.
-## 5/20: Proof and Runtime
+				- Check if $c$ knows $q$. If so, return `nullptr`.
+				- Check if $q$ knows $c$. If not, return `nullptr`.
+				-
+				  7. Return $c$.
+				- But $c$ is not necessarily famous.
+				- Improve the algorithm for the Famous Person Problem to require only $3 \cdot (n-1) - \log_2 n$ queries.
+				- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
+				  collapsed:: true
+				- To determine for sure whether a candidate $p$ is for sure a famous person, we have to ask if $p$ knows $q$ for each $q$ in the class, which will take $n-1$ time. Thus, we will always have to ask at least $\Theta(n)$ queries.
+- 5/20: Proof and Runtime
 	- Prove by contradiction: if $n^2$ is odd, then $n$ is odd.
 	  collapsed:: true
 		- Assume that $n^2$ is odd and $n$ is even.
@@ -104,7 +104,7 @@
 	  collapsed:: true
 		- $f(n) = 2f(n/2) + cn, f(1) = d$
 		- ![image.png](../assets/image_1621622242889_0.png)
-## 5/21: Master Theorem
+- 5/21: Master Theorem
 	- What can [[Master Theorem]] do?
 	  collapsed:: true
 		- Master Theorem can solve (almost) any recurrence relation of the form
@@ -131,7 +131,7 @@
 			- $f(n) = f(n/4) + \sqrt{n}$
 			- $f(n) = f(n/4) + 1$
 			- $f(n) = f(n/4) + \log n$
-## 5/24: [[Union-Find ADT]]
+- 5/24: [[Union-Find ADT]]
 	- [[Spanning Tree]]
 		- Given a connected, undirected graph $G$, a **spanning tree** is a subset of the edges which form a tree on the original nodes.
 	- [[Minimum Spanning Tree]]
@@ -176,7 +176,7 @@
 	- [[Kruskal's Algorithm]] Runtime
 	  collapsed:: true
 		- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
-## 5/26: Graph Algorithms
+- 5/26: Graph Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
 		- Given a [[Sorting Decision Tree]], the at least $n!$ leaf nodes will be the final sorted order of the list.
 		- The depth of the tree must then be $\Omega(\log n!) = \Omega(n \log n)$

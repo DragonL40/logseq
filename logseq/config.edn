@@ -74,4 +74,5 @@
  :macros {}
  :ui/show-brackets? true
  :editor/logical-outdenting? true
- :preferred-format :markdown}
+ :preferred-format :markdown
+ :markdown/version 2}
