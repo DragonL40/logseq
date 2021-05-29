@@ -1,0 +1,6 @@
+- Phase 1: Make an array of linked list, put the elements that you wish to sort into the array based on the ones digit. Spit out the numbers in the array in order.
+	- ![image.png](/Users/helen/Documents/notes/assets/image_1622197013072_0.png)
+- Phase 2: take the list from phase 1 and do the exact same thing, but based on the tens digit.
+	- ![image.png](/Users/helen/Documents/notes/assets/image_1622197219062_0.png)
+- Phase 3: do the same thing with the hundreds digit.
+	- ![image.png](/Users/helen/Documents/notes/assets/image_1622197249891_0.png)

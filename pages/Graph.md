@@ -1,0 +1,4 @@
+- An unweighted graph $G$ is defined by two sets $G = \langle V, E \rangle$.
+	- $V$ is the set of vertices/nodes. $|V| = n$
+	- $E$ is the set of edges/arcs. $|E| = m$
+- We will typically disallow self-loops in this class, as they do not contribute towards finding your way through a graph.
