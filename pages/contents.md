@@ -1,3 +1,2 @@
-- [[Introduction to Algorithms and Theory of Computing (270)]]
 - [[Course Plan]]
--
+- [[Introduction to Algorithms and Theory of Computing (270)]]

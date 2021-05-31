@@ -1,6 +1,5 @@
-- :title:: CSCI 270: Introduction to Algorithms and Theory of Computing
-- #[[University of Southern California]]
-- 5/19: Introduction
+- #[[University of Southern California (USC)]] #[[B.S. Computer Science]] #[[B.S. Applied and Computational Mathematics]]
+## 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
 		- Person $p$ is **famous** iff everyone in this class knows *p*, but *p* knows no one else in this class.
@@ -13,13 +12,13 @@
 		  collapsed:: true
 			-
 			  ```cpp
-			  			  			  For all people in the class p
-			  			  			  	For all people in the class q, where p != q
-			  			  			    	If p knows q, then p is not famous
-			  			  			    	If q doesn't know p, then p is not famous
-			  			  			    If p is famous, add p to the list
-			  			  			  Return our list
-			  			  			  ```
+			  			  			  			  			  For all people in the class p
+			  			  			  			  			  	For all people in the class q, where p != q
+			  			  			  			  			    	If p knows q, then p is not famous
+			  			  			  			  			    	If q doesn't know p, then p is not famous
+			  			  			  			  			    If p is famous, add p to the list
+			  			  			  			  			  Return our list
+			  			  			  			  			  ```
 			- How many queries does this algorithm use, exactly?
 			  collapsed:: true
 				- $2n(n-1)$
@@ -50,7 +49,7 @@
 				- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
 				  collapsed:: true
 				- To determine for sure whether a candidate $p$ is for sure a famous person, we have to ask if $p$ knows $q$ for each $q$ in the class, which will take $n-1$ time. Thus, we will always have to ask at least $\Theta(n)$ queries.
-- 5/20: Proof and Runtime
+## 5/20: Proof and Runtime
 	- Prove by contradiction: if $n^2$ is odd, then $n$ is odd.
 	  collapsed:: true
 		- Assume that $n^2$ is odd and $n$ is even.
@@ -105,7 +104,7 @@
 	  collapsed:: true
 		- $f(n) = 2f(n/2) + cn, f(1) = d$
 		- ![image.png](../assets/image_1621622242889_0.png)
-- 5/21: Master Theorem
+## 5/21: Master Theorem
 	- What can [[Master Theorem]] do?
 	  collapsed:: true
 		- Master Theorem can solve (almost) any recurrence relation of the form
@@ -143,7 +142,7 @@
 			- $f(n) = f(n/4) + \sqrt{n}$
 			- $f(n) = f(n/4) + 1$
 			- $f(n) = f(n/4) + \log n$
-- 5/24: [[Union-Find ADT]]
+## 5/24: [[Union-Find ADT]]
 	- [[Spanning Tree]]
 		- Given a connected, undirected graph $G$, a **spanning tree** is a subset of the edges which form a tree on the original nodes.
 	- [[Minimum Spanning Tree]]
@@ -188,7 +187,7 @@
 	- [[Kruskal's Algorithm]] Runtime
 	  collapsed:: true
 		- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
-- 5/26: Graph Algorithms
+## 5/26: [[Graph]] Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
 		- Given a [[Sorting Decision Tree]], the at least $n!$ leaf nodes will be the final sorted order of the list.
 		- The depth of the tree must then be $\Omega(\log n!) = \Omega(n \log n)$
@@ -206,3 +205,22 @@
 		- Assign all nodes in an odd level Gold, and all nodes in an even level Cardinal.
 		- If there is an edge between two nodes on the same level, then the coloring will not work.
 		  background-color:: #533e7d
+	- Properties of [[Bipartite Graph]]:
+		- If there is an edge between two nodes at the same level, then the coloring will fail. Otherwise it will succeed.
+		- If the nodes are $k$ levels below their common ancestor, then the length of the cycle is $2k+1$.
+	- [[Connectivity (Graph)]]
+		- A directed graph is **weakly connected** if every pair of nodes can reach each other if you ignore edge directions.
+		- A directed graph is **(vanilla) connected** if, for every pair of nodes $\langle u, v \rangle$, there is a path from $u$ to $v$, or a path from $v$ to $u$ (possibly both).
+		- A directed graph is **strongly connected** if, for every pair of nodes $\langle u, v\rangle$, there is a path from $u$ to $v$, and a path from $v$ to $u$.
+	- Strong [[Connectivity (Graph)]]
+		- Let $s$ be an arbitrary node in $G$. $G$ is strongly connected iff every node is reachable from $s$, and $s$ is reachable from every node.
+	- Algorithm to Find whether a Graph is Strongly Connectivity:
+		- Given $G=\langle V,E \rangle$, define $G' = \langle V,E \rangle$, where $\langle u,v \rangle \in V$ iff $\langle v, u \rangle \in V'$.
+		- Choose an arbitrary node $s$
+		- Run BFS from $s$ on $G$. If you don't reach every node, reject.
+		- Run BFS from $s$ on $G'$. If you don't reach every node, reject.
+		- Otherwise, accept.
+		- **Runtime:** $\Theta(m+n)$
+	- [[Directed Acyclic Graph (DAG)]]
+	- If you have a [[Topological Order]] of a graph, then it must be a [[Directed Acyclic Graph (DAG)]] .
+	-

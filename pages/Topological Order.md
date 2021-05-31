@@ -1,0 +1,1 @@
+- A **topological order** of a directed graph is an ordering of its nodes $v_1,\dots,v_n$, such that for every edge $\langle v_i, v_j \rangle, i < j$.

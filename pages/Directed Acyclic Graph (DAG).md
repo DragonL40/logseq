@@ -1,0 +1,1 @@
+- A **directed acyclic graph**, or **DAG**, is a directed [[Graph]] with no cycles.

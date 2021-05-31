@@ -1,16 +1,16 @@
-- [[B.S. Computer Science]] & [[B.S. Applied and Computational Mathematics]] #[[University of Southern California]]
+- [[B.S. Computer Science]] & [[B.S. Applied and Computational Mathematics]] #[[University of Southern California (USC)]]
 	- Fall 2020 #COMPLETED
-		- WRIT-150
-		- MATH-226
-		- CSCI-103
+		- [[Writing and Critical Reasoning: Technology and Social Change (WRIT 150)]]
+		- [[Calculus III (226)]]
+		- [[Introduction to Programming (103)]]
 		- [[Discrete Methods in Computer Science (170)]]
-		- ENGR-102
+		- [[Engineering Freshman Academy (ENGR 102)]]
 	- Spring 2021 #COMPLETED
-		- GESM-120 (B)
-		- CSCI-104
-		- EE-109L
-		- MATH-407
-		- MATH-225
+		- [[Seminar in Humanistic Inquiry (GESM 120)]]
+		- [[Data Structures and Object Oriented Design (104)]]
+		- [[Introduction to Embedded Systems (EE 109)]]
+		- [[Probability Theory (407)]]
+		- [[Linear Algebra and Linear Differential Equations (225)]]
 	- Summer 2021 #IN-PROGRESS
 		- [[Introduction to Algorithms and Theory of Computing (270)]]
 	- Fall 2021

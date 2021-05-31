@@ -1,0 +1,1 @@
+- #[[University of Southern California (USC)]] #[[B.S. Computer Science]] #[[B.S. Applied and Computational Mathematics]]

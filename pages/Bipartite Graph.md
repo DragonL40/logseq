@@ -1,4 +1,2 @@
 - A [[Graph]] is **bipartite** if it is 2-colorable.
-- ![image.png](/Users/helen/Documents/notes/assets/image_1622197880663_0.png)
-- What causes a [[Graph]] to not be bipartite?
-	- If a graph has an [[Odd
+- ![image.png](/Users/dawei/Documents/notes/assets/image_1622197880663_0.png)
