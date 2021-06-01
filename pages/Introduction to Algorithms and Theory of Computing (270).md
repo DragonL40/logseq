@@ -1,4 +1,7 @@
+filters:: {}
+
 - #[[University of Southern California (USC)]] #[[B.S. Computer Science]] #[[B.S. Applied and Computational Mathematics]]
+collapsed:: true
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
@@ -12,13 +15,13 @@
 		  collapsed:: true
 			-
 			  ```cpp
-			  			  			  			  			  For all people in the class p
-			  			  			  			  			  	For all people in the class q, where p != q
-			  			  			  			  			    	If p knows q, then p is not famous
-			  			  			  			  			    	If q doesn't know p, then p is not famous
-			  			  			  			  			    If p is famous, add p to the list
-			  			  			  			  			  Return our list
-			  			  			  			  			  ```
+			  			  			  			  			  			  For all people in the class p
+			  			  			  			  			  			  	For all people in the class q, where p != q
+			  			  			  			  			  			    	If p knows q, then p is not famous
+			  			  			  			  			  			    	If q doesn't know p, then p is not famous
+			  			  			  			  			  			    If p is famous, add p to the list
+			  			  			  			  			  			  Return our list
+			  			  			  			  			  			  ```
 			- How many queries does this algorithm use, exactly?
 			  collapsed:: true
 				- $2n(n-1)$
@@ -49,6 +52,7 @@
 				- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
 				  collapsed:: true
 				- To determine for sure whether a candidate $p$ is for sure a famous person, we have to ask if $p$ knows $q$ for each $q$ in the class, which will take $n-1$ time. Thus, we will always have to ask at least $\Theta(n)$ queries.
+collapsed:: true
 ## 5/20: Proof and Runtime
 	- Prove by contradiction: if $n^2$ is odd, then $n$ is odd.
 	  collapsed:: true
@@ -104,7 +108,8 @@
 	  collapsed:: true
 		- $f(n) = 2f(n/2) + cn, f(1) = d$
 		- ![image.png](../assets/image_1621622242889_0.png)
-## 5/21: Master Theorem
+collapsed:: true
+## 5/21: [[Master Theorem]]
 	- What can [[Master Theorem]] do?
 	  collapsed:: true
 		- Master Theorem can solve (almost) any recurrence relation of the form
@@ -142,6 +147,7 @@
 			- $f(n) = f(n/4) + \sqrt{n}$
 			- $f(n) = f(n/4) + 1$
 			- $f(n) = f(n/4) + \log n$
+collapsed:: true
 ## 5/24: [[Union-Find ADT]]
 	- [[Spanning Tree]]
 		- Given a connected, undirected graph $G$, a **spanning tree** is a subset of the edges which form a tree on the original nodes.
@@ -187,17 +193,22 @@
 	- [[Kruskal's Algorithm]] Runtime
 	  collapsed:: true
 		- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
+collapsed:: true
 ## 5/26: [[Graph]] Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
+	  collapsed:: true
 		- Given a [[Sorting Decision Tree]], the at least $n!$ leaf nodes will be the final sorted order of the list.
 		- The depth of the tree must then be $\Omega(\log n!) = \Omega(n \log n)$
 		- Thus, if a [[Comparison-Based Sorting Algorithm]] takes less than $\Omega(n \log n)$ time, it literally doesn't have enough time to distinguish between all the possible answers!
 	- Is there such a thing as a non-comparison-based sorting algorithm that does better than $\Omega(n \log n)$?
+	  collapsed:: true
 		- There are, and one of the most famous ones is [[Radix Sort]].
 	- What is the runtime of [[Radix Sort]]?
+	  collapsed:: true
 		- $\Theta(nd)$, where $d$ is the maximum number of digits in any input.
 		- If you can make assumptions about the data (such as $d$ will be small), then you can do better than $n \log n$. If you can't, then $n \log n$ is the best possible.
 	- How to determine whether a [[Graph]] is a [[Bipartite Graph]]?
+	  collapsed:: true
 		- Run [[Breadth-First Search]]
 		- Assign the starting node Cardinal. It doesn't matter what color we choose.
 		- Assign all nodes in level 1 Gold, since they have to be.
@@ -206,15 +217,19 @@
 		- If there is an edge between two nodes on the same level, then the coloring will not work.
 		  background-color:: #533e7d
 	- Properties of [[Bipartite Graph]]:
+	  collapsed:: true
 		- If there is an edge between two nodes at the same level, then the coloring will fail. Otherwise it will succeed.
 		- If the nodes are $k$ levels below their common ancestor, then the length of the cycle is $2k+1$.
 	- [[Connectivity (Graph)]]
+	  collapsed:: true
 		- A directed graph is **weakly connected** if every pair of nodes can reach each other if you ignore edge directions.
 		- A directed graph is **(vanilla) connected** if, for every pair of nodes $\langle u, v \rangle$, there is a path from $u$ to $v$, or a path from $v$ to $u$ (possibly both).
 		- A directed graph is **strongly connected** if, for every pair of nodes $\langle u, v\rangle$, there is a path from $u$ to $v$, and a path from $v$ to $u$.
 	- Strong [[Connectivity (Graph)]]
+	  collapsed:: true
 		- Let $s$ be an arbitrary node in $G$. $G$ is strongly connected iff every node is reachable from $s$, and $s$ is reachable from every node.
 	- Algorithm to Find whether a Graph is Strongly Connectivity:
+	  collapsed:: true
 		- Given $G=\langle V,E \rangle$, define $G' = \langle V,E \rangle$, where $\langle u,v \rangle \in V$ iff $\langle v, u \rangle \in V'$.
 		- Choose an arbitrary node $s$
 		- Run BFS from $s$ on $G$. If you don't reach every node, reject.
@@ -222,5 +237,105 @@
 		- Otherwise, accept.
 		- **Runtime:** $\Theta(m+n)$
 	- [[Directed Acyclic Graph (DAG)]]
-	- If you have a [[Topological Order]] of a graph, then it must be a [[Directed Acyclic Graph (DAG)]] .
-	-
+	- If you have a [[Topological Order]] of a graph, then it must be a [[Directed Acyclic Graph (DAG)]].
+	  collapsed:: true
+		- Is the converse true?
+			- Yes. See: ((60b50099-3fea-4edc-9be3-07d37a1e5d5d))
+	- *True or False?* If $G$ is a [[Directed Acyclic Graph (DAG)]], then it has a node with no incoming edges.
+	  collapsed:: true
+		- True.
+		- Assume $G$ is a DAG, and every node has an incoming edge.
+		- Choose an arbitrary node $v$.
+		- $v$ has an incoming edge from some node $u$. Go to $u$.
+		- $u$ has an incoming edge from some node $w$. Go to $w$.
+		- We will never hit a dead-end, since everything has an incoming edge. Therefore we will eventually return to a node we've visited. Contradiction!
+	- How can we use this property of DAGs to identify a [[Topological Order]] of a [[Directed Acyclic Graph (DAG)]]?
+	  collapsed:: true
+	  id:: 60b50099-3fea-4edc-9be3-07d37a1e5d5d
+		- The node $v$ with no incoming edges is the first node in the topological order.
+		- Remove $v$ from the graph including its edges. The graph is still a DAG, since we clearly can't have created a cycle by removing things. Therefore, it has a node with no incoming edges!
+		- Repeat the process until you have a topological ordering!
+	- What is the runtime of our algorithm?
+	  collapsed:: true
+		- Finding each node will take $\Theta(m + n)$
+		- We repeat this $n$ times, for a total of $\Theta(n^2 + mn)$
+	- Can we do better?
+		- Find the in-degree of all nodes: this takes $\Theta(m+n)$
+		- Find all nodes with in-degree 0, and add them to a queue: $\Theta(n)$
+		- Repeat until the queue is empty: ($n$ repeats)
+			- Pop $u$ form the queue: this is your next node in the order
+			- For all outgoing edges $\langle u, v \rangle$:
+				- *Decrement v's in-degree. If it is now 0, add it to the queue*
+		- The runtime is now $\Theta(m+n)$
+	- Take-Home Practice:
+		- Chapter 3, exercises 2, 4, 5, 6, 7, 9, 10, 12
+## 5/28: [[Dynamic Programming]]
+	- Recursive Fibonacci
+	  collapsed:: true
+		- If you wanted to write an algorithm that calculated the $n$th Fibonacci number, you might do it like this:
+		-
+		  ```cpp
+		  int Fib
+		  ```
+		- The recurrence relation for this function is $f(n) = f(n-1) + f(n-2) + \Theta(1)$
+		- The runtime is difficult to calculate, but it's **really** bad.
+	- What is [[Memoization]]?
+	  collapsed:: true
+		- The process of writing down intermediate result to refer to later.
+	- [[Weighted Interval Scheduling Problem]]
+	  collapsed:: true
+		- In the **weighted interval scheduling** problem, we have $n$ jobs.
+		  collapsed:: true
+			- Each job $j$ has a start time $s_j$, a finish time $f_j$, and a value $v_j$.
+			- Two jobs are incompatible if their time overlap by any amoun.
+			- We want to find the max-valued subset of mutually compatible jobs.
+		- What is the optimal solution for this instance?
+		  collapsed:: true
+			- ![image.png](../assets/image_1622483089242_0.png)
+			- 2, 7 or 3, 6, 8
+		- Find a Recursive Solution for [[Weighted Interval Scheduling]]
+		  collapsed:: true
+			-
+			  ```cpp
+			  int WIS(int i)
+			  	if i > n Then Return 0
+			  	x = WIS(i+1)
+			  	y = v[i] + WIS(S)
+			  	return max(x, y)
+			  ```
+			- We can calculate the first interval $j$ where $s_j \ge f_i$, for all $i$, before we start the recursive procedure, and store them in an array $S[1:n]$.
+		- Applying [[Dynamic Programming]] to [[Weighted Interval Scheduling]]:
+		  collapsed:: true
+			- Transform into an iterative solution
+			- We will re-envision `WIS(i)` as an array, not a function.
+			- `W[i]` will store exactly what `WIS(i)` would have returned.
+			- We need to determine the order to fill this array, so that we have what we need, when we need it.
+			- That's actually quite easy in basic dynamic programming problems: its always reverse order.
+			- We'll calculate `W[n+1]` (our base case), then `W[n]`, then `W[n-1]`, etc.
+		- How to write your solutions?
+		  collapsed:: true
+			- State what parameters your function/array accepts, what those parameters mean, and what value it is calculating/storing specifically
+				- `W[i] stores the largest value attainable on job i through n`
+			- Give the recursive formula to calculate the intended output.  This is the hardest step.
+				- `W[i] = max(W[i+1], v[i] + W[S[i]])`
+			- Give the base case(s) for your recursive formula
+				- `W[n+1] = 0`
+			- State what order you fill the array in.
+				- `for i = n to 1 calculate W[i]`
+			- State where the answer is stored in your final array
+				- `return W[1]`
+	- The Design Process of [[Dynamic Programming]]
+	  collapsed:: true
+		- Reduce the problem to a series of ordered, bite-size decisions.
+		- Figure out what subproblem(s) you will have to solve, based on each possible outcome of the bite-sized decision.
+		- Represent those subproblems with as few input parameters to your recursive function as possible (more parameters = more complicated, and more runtime)
+		- Design the complete recursive procedure
+		- Figure out the order you will need to solve each subproblem, so that you have what you need, when you need it.
+		- Figure out what indices of the array will store the final answer.
+		  Design the complete iterative procedure
+	- Longest Increasing Subsequence Problem
+		- Given a sequence of numbers $s_1, \dots, s_n$ delete the fewest numbers possible so that what is left is in increasing order.
+		  background-color:: #787f97
+		- We’ll loop over all numbers that come after $s_i$, and consider them if they are also greater than $s_i$.
+		- `LIS(int i)` returns the length of the longest increasing subsequence that uses $s_i$ as its first number.
+		- $LIS(i)= 1 + \max_{k : k > i, s_k > s_j}LIS(k)$
