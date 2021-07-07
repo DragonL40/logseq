@@ -10,8 +10,8 @@
  :preferred-workflow :todo
 
  ;; Git settings
- :git-pull-secs 60
- :git-push-secs 10
+ :git-pull-secs 1800
+ :git-push-secs 3600
  :git-auto-push true
 
  ;; The app will ignore those directories or files.
@@ -73,6 +73,6 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
  :ui/show-brackets? true
- :editor/logical-outdenting? true
+ :editor/logical-outdenting? false
  :preferred-format :markdown
  :markdown/version 2}
