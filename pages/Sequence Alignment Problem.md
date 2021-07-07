@@ -1,0 +1,8 @@
+- You are given two strings:
+	- $X = x_1 \dots x_n$
+	- $Y = y_1 \dots y_m$
+- You want to determine how similar these strings are.
+- The [[Edit Distance]] between two strings $X$ and $Y$ is the minimum possible number of changes to transform $X$ into $Y$.
+	- You might decide to transform a letter
+	- You might decide to add a letter
+	- You might decide to remove a letter

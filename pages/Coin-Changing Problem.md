@@ -1,0 +1,1 @@
+- You have a target $T$, $n$ denominations of coins $1 = d_1 < \dots < d_n$, and you have an unlimited amount of each coin. Determine the fewest number of coins needed to make $T$ cents change.

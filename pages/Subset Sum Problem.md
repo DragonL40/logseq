@@ -1,0 +1,1 @@
+- Given positive integers $w_1, \dots, w_n$ and a target $W$, is there a subset of the integers which adds up exactly to $W$?
