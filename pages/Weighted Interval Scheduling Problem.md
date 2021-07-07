@@ -1,0 +1,4 @@
+- In the **weighted interval scheduling** problem, we have $n$ jobs.
+- Each job $j$ has a start time $s_j$, a finish time $f_j$, and a value $v_j$.
+- Two jobs are incompatible if their time overlap by any amoun.
+- We want to find the max-valued subset of mutually compatible jobs.
