@@ -75,4 +75,5 @@
  :ui/show-brackets? true
  :editor/logical-outdenting? false
  :preferred-format :markdown
- :markdown/version 2}
+ :markdown/version 2
+ :shortcuts {:editor/up "up"}}
