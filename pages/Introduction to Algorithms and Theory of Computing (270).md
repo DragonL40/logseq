@@ -1,7 +1,4 @@
-filters:: {}
-
 - #[[University of Southern California (USC)]] #[[B.S. Computer Science]] #[[B.S. Applied and Computational Mathematics]]
-collapsed:: true
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
@@ -15,13 +12,13 @@ collapsed:: true
 		  collapsed:: true
 			-
 			  ```cpp
-			  			  			  			  			  			  For all people in the class p
-			  			  			  			  			  			  	For all people in the class q, where p != q
-			  			  			  			  			  			    	If p knows q, then p is not famous
-			  			  			  			  			  			    	If q doesn't know p, then p is not famous
-			  			  			  			  			  			    If p is famous, add p to the list
-			  			  			  			  			  			  Return our list
-			  			  			  			  			  			  ```
+			  			  			  			  			  			  			  			  			  			  For all people in the class p
+			  			  			  			  			  			  			  			  			  			  	For all people in the class q, where p != q
+			  			  			  			  			  			  			  			  			  			    	If p knows q, then p is not famous
+			  			  			  			  			  			  			  			  			  			    	If q doesn't know p, then p is not famous
+			  			  			  			  			  			  			  			  			  			    If p is famous, add p to the list
+			  			  			  			  			  			  			  			  			  			  Return our list
+			  			  			  			  			  			  			  			  			  			  ```
 			- How many queries does this algorithm use, exactly?
 			  collapsed:: true
 				- $2n(n-1)$
@@ -52,7 +49,7 @@ collapsed:: true
 				- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
 				  collapsed:: true
 				- To determine for sure whether a candidate $p$ is for sure a famous person, we have to ask if $p$ knows $q$ for each $q$ in the class, which will take $n-1$ time. Thus, we will always have to ask at least $\Theta(n)$ queries.
-collapsed:: true
+				  collapsed:: true
 ## 5/20: Proof and Runtime
 	- Prove by contradiction: if $n^2$ is odd, then $n$ is odd.
 	  collapsed:: true
@@ -108,7 +105,7 @@ collapsed:: true
 	  collapsed:: true
 		- $f(n) = 2f(n/2) + cn, f(1) = d$
 		- ![image.png](../assets/image_1621622242889_0.png)
-collapsed:: true
+		  collapsed:: true
 ## 5/21: [[Master Theorem]]
 	- What can [[Master Theorem]] do?
 	  collapsed:: true
@@ -128,32 +125,89 @@ collapsed:: true
 	- What is [[Amortized Runtime]]?
 	  collapsed:: true
 		- It is a blend between average-case and worst-case. It is kind of the "worst-case average-case".
-	- Practice:
+	- [[Take-Home Practice]]:
+	  collapsed:: true
 		- Prove for all integers $n$: $n$ is odd iff $3n+1$ is even.
 		  collapsed:: true
-			- $n = 2k+1$
-			- $3(2k+1)+1 = 6k+3+1 = 6k+4 = 2(3k+2) = 2c$, which is even.
-		- Use induction to prove that $\sum^n_{i=0} \frac{1}{2^i} < 2$
+			- If $n$ is odd, then $3n+1$ is even.
+				- $n = 2k+1$
+				- $3(2k+1)+1 = 6k+3+1 = 6k+4 = 2(3k+2)$, which is even.
+			- If $3n+1$ is even, then $n$ is odd.
+				- Contrapositive: If $n$ is even, then $3n+1$ is odd.
+				- $n = 2k$
+				- $3n+1 = 3(2k)+1 = 6k+1$, which is even.
+		- Use induction to prove that $\sum^n_{i=1} \frac{1}{2^i} < 2$
 		  collapsed:: true
-			- _B.C._: For $n = 0$, $\sum^0_{i=0} \frac{1}{2^i} = \frac{1}{2^0}  = 1 < 2$
-			- _I.H._: Assume $\sum^n_{i=0} \frac{1}{2^i} < 2$ for $n \le k$
+			- Prove that $\sum^n_{i=1} \frac{1}{2^i} = 1 - \frac{1}{2^i}$
+			- _B.C._: For $n = 1$, $\sum^1_{i=1} \frac{1}{2^i} = \frac{1}{2}  = 1 - \frac{1}{2^1}$
+			- _I.H._: Assume $\sum^n_{i=0} \frac{1}{2^i} = 1 - \frac{1}{2^i}$ for $1 \le n \le k$
 			- _I.S._: Consider $n = k + 1$, 
 			  $$
-			  \sum^{k+1}_{i=0} \frac{1}{2^i}  = \frac{1}{2^{k+1}} + \sum^{k}_{i=0} \frac{1}{2^i} < \frac{1}{2^{k+1}} + 2 < 2
+			  \sum^{k+1}_{i=1} \frac{1}{2^i}  = \frac{1}{2^{k+1}} + \sum^{k}_{i=1} \frac{1}{2^i} \\
+			  \text{By I.H.:} \sum^{k+1}_{i=1} \frac{1}{2^i} = \frac{1}{2^{k+1}} + 1 - \frac{1}{2^k} = 1 + \frac{1}{2^k}(\frac{1}{2} - 1) = 1 - \frac{1}{2^{k+1}}
 			  $$
-		- Chapter 2, exercises 3, 4, 5, 6
+			- By induction, $\sum^{k+1}_{i=1} \frac{1}{2^i} = 1 - \frac{1}{2^{k+1}}$, since $\frac{1}{2^{k+1}}$ is positive, we proved that the sum of sequence is less than 2.
+		- Ch. 2, Ex. 3
+		  collapsed:: true
+			- ![image.png](../assets/image_1622567505863_0.png)
+			- $f_2, f_3, f_6, f_1, f_4, f_5$
+			  background-color:: #264c9b
+			- $f_1, f_2, f_3, f_6$ are polynomials. To compare polynomials, we just need to check the exponent on $n$.
+			- $f_4, f_5$ are exponentials. $f_5$ is clearly larger than $f_4$.
+		- Ch. 2, Ex. 4
+		  collapsed:: true
+			- ![image.png](../assets/image_1622570369644_0.png)
+			- $g_1, g_3, g_4, g_5, g_2, g_7, g_6$
+			  background-color:: #264c9b
+			- Take logarithm of all functions and compare them.
+		- Ch. 2, Ex. 5
+		  collapsed:: true
+			- Given that $f(n) = O(g(n))$, this means that $f(n) \le C_1g(n)$ for $n > x_1$
+			- Prove or disprove: $\log f(n) = O(\log g(n))$
+			  collapsed:: true
+				-
+				  $$ 
+				  \log f(n) \le \log(C_1g(n))) = \log C_1 + \log g(n) \\
+				  \log f(n) \le \log g(n) + C_2 \text{ for } n \ge x_1 \\
+				  \log f(n) = O(g(n))
+				  $$
+			- Prove or disprove: $2^{f(n)} = O(2^{g(n)})$
+			  collapsed:: true
+				- False. Counter example: $\log n^2 = O(\log n)$, but $2^{\log n^2} \ne O(2^{\log n})$ since $n^2 \ne O(n)$
+			- Prove or disprove: $f(n)^2 = O(g(n)^2)$
+			  collapsed:: true
+				- $f(n)^2 \le C^2_1 g(n)^2$. Since $C^2_1$ is still a constant, $f(n) = g(n)$
+		- Ch. 2, Ex. 6
+			- ![image.png](../assets/image_1622571988465_0.png)
+			- ![image.png](../assets/image_1622572025060_0.png)
+			  collapsed:: true
+				- $O(n^3)$, since there is 3 loops that goes up to $n$.
+			- ![image.png](../assets/image_1622572092618_0.png)
+				-
+			- (c) Find a better algorithm to solve this problem, with a better runtime
+			  collapsed:: true
+				- `B[i,j]` is the sum of `A[i]` though `A[j]`
+				- For the first iteration of the inner for loop, we store `A[i] + A[j]` in `B[i,j]` (note that `j = i+1` by the nature of the for loop)
+				- For all remaining iterations of the inner for-loop, we just add `B[i, j-1]` (the sum of `A[i]` through `A[j-1]`) with `A[j]`, storing the result is `B[i,j]`.
 		- Challenge: Chapter 2, exercise 8
 		- Solve the following recurrence relations:
+		  collapsed:: true
 			- $f(n) = f(n/4) + \sqrt{n}$
+				- By [[Master Theorem]], $f(n) = \Theta(\sqrt{n})$
 			- $f(n) = f(n/4) + 1$
+				- By [[Master Theorem]], $f(n) = \Theta(\log n)$
 			- $f(n) = f(n/4) + \log n$
-collapsed:: true
+				- $\log n$ and $1$ does not difference by more than a polynomial factor. Therefore, [[Master Theorem]]  won't work there.
+				- Use solve-by-tree.
 ## 5/24: [[Union-Find ADT]]
 	- [[Spanning Tree]]
+	  collapsed:: true
 		- Given a connected, undirected graph $G$, a **spanning tree** is a subset of the edges which form a tree on the original nodes.
 	- [[Minimum Spanning Tree]]
+	  collapsed:: true
 		- Given a connected, undirected graph $G$, a **minimum spanning tree** is the [[Spanning Tree]] which minimizes the sum of the edge weights.
 	- Kruskal's Algorithm
+	  collapsed:: true
 		- [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle. It provably find the [[Minimum Spanning Tree]] .
 	- Implementing [[Kruskal's Algorithm]]
 	  collapsed:: true
@@ -193,7 +247,7 @@ collapsed:: true
 	- [[Kruskal's Algorithm]] Runtime
 	  collapsed:: true
 		- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
-collapsed:: true
+		  collapsed:: true
 ## 5/26: [[Graph]] Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
 	  collapsed:: true
@@ -208,7 +262,6 @@ collapsed:: true
 		- $\Theta(nd)$, where $d$ is the maximum number of digits in any input.
 		- If you can make assumptions about the data (such as $d$ will be small), then you can do better than $n \log n$. If you can't, then $n \log n$ is the best possible.
 	- How to determine whether a [[Graph]] is a [[Bipartite Graph]]?
-	  collapsed:: true
 		- Run [[Breadth-First Search]]
 		- Assign the starting node Cardinal. It doesn't matter what color we choose.
 		- Assign all nodes in level 1 Gold, since they have to be.
@@ -250,13 +303,11 @@ collapsed:: true
 		- $u$ has an incoming edge from some node $w$. Go to $w$.
 		- We will never hit a dead-end, since everything has an incoming edge. Therefore we will eventually return to a node we've visited. Contradiction!
 	- How can we use this property of DAGs to identify a [[Topological Order]] of a [[Directed Acyclic Graph (DAG)]]?
-	  collapsed:: true
 	  id:: 60b50099-3fea-4edc-9be3-07d37a1e5d5d
 		- The node $v$ with no incoming edges is the first node in the topological order.
 		- Remove $v$ from the graph including its edges. The graph is still a DAG, since we clearly can't have created a cycle by removing things. Therefore, it has a node with no incoming edges!
 		- Repeat the process until you have a topological ordering!
 	- What is the runtime of our algorithm?
-	  collapsed:: true
 		- Finding each node will take $\Theta(m + n)$
 		- We repeat this $n$ times, for a total of $\Theta(n^2 + mn)$
 	- Can we do better?
@@ -267,16 +318,29 @@ collapsed:: true
 			- For all outgoing edges $\langle u, v \rangle$:
 				- *Decrement v's in-degree. If it is now 0, add it to the queue*
 		- The runtime is now $\Theta(m+n)$
-	- Take-Home Practice:
-		- Chapter 3, exercises 2, 4, 5, 6, 7, 9, 10, 12
+	- [[k-vertex-connected]]
+		- The graph $G$ is k-vertex-connected only if any k-vertex-removals does not disconnect $G$
+	- [[Take-Home Practice]]:
+	  collapsed:: true
+		- Ch. 3, Ex. 2
+		  collapsed:: true
+			- ![image.png](../assets/image_1622579613481_0.png)
+			- Run BFS on the graph and mark the predecessor of each newly explored node. When we reach a node $p$ that already has a predecessor, we have a cycle. Backtrack from the node right before the collision and add all nodes visited on the route to a vector. Once we've added $p$ to our vector, output all nodes in the vector. This is our cycle!
+		- Ch. 3, Ex. 4
+		- Ch. 3, Ex. 5
+		- Ch. 3, Ex. 6
+		- Ch. 3, Ex. 7
+		- Ch. 3, Ex. 9
+		- Ch. 3, Ex. 10
+		- Ch. 3, Ex. 12
 ## 5/28: [[Dynamic Programming]]
 	- Recursive Fibonacci
 	  collapsed:: true
 		- If you wanted to write an algorithm that calculated the $n$th Fibonacci number, you might do it like this:
 		-
 		  ```cpp
-		  int Fib
-		  ```
+		  		  		  		  		  int Fib
+		  		  		  		  		  ```
 		- The recurrence relation for this function is $f(n) = f(n-1) + f(n-2) + \Theta(1)$
 		- The runtime is difficult to calculate, but it's **really** bad.
 	- What is [[Memoization]]?
@@ -284,11 +348,6 @@ collapsed:: true
 		- The process of writing down intermediate result to refer to later.
 	- [[Weighted Interval Scheduling Problem]]
 	  collapsed:: true
-		- In the **weighted interval scheduling** problem, we have $n$ jobs.
-		  collapsed:: true
-			- Each job $j$ has a start time $s_j$, a finish time $f_j$, and a value $v_j$.
-			- Two jobs are incompatible if their time overlap by any amoun.
-			- We want to find the max-valued subset of mutually compatible jobs.
 		- What is the optimal solution for this instance?
 		  collapsed:: true
 			- ![image.png](../assets/image_1622483089242_0.png)
@@ -297,12 +356,12 @@ collapsed:: true
 		  collapsed:: true
 			-
 			  ```cpp
-			  int WIS(int i)
-			  	if i > n Then Return 0
-			  	x = WIS(i+1)
-			  	y = v[i] + WIS(S)
-			  	return max(x, y)
-			  ```
+			  			  			  			  			  int WIS(int i)
+			  			  			  			  			  	if i > n Then Return 0
+			  			  			  			  			  	x = WIS(i+1)
+			  			  			  			  			  	y = v[i] + WIS(S)
+			  			  			  			  			  	return max(x, y)
+			  			  			  			  			  ```
 			- We can calculate the first interval $j$ where $s_j \ge f_i$, for all $i$, before we start the recursive procedure, and store them in an array $S[1:n]$.
 		- Applying [[Dynamic Programming]] to [[Weighted Interval Scheduling]]:
 		  collapsed:: true
@@ -324,8 +383,7 @@ collapsed:: true
 				- `for i = n to 1 calculate W[i]`
 			- State where the answer is stored in your final array
 				- `return W[1]`
-	- The Design Process of [[Dynamic Programming]]
-	  collapsed:: true
+	- The *Design Process* of [[Dynamic Programming]]
 		- Reduce the problem to a series of ordered, bite-size decisions.
 		- Figure out what subproblem(s) you will have to solve, based on each possible outcome of the bite-sized decision.
 		- Represent those subproblems with as few input parameters to your recursive function as possible (more parameters = more complicated, and more runtime)
@@ -334,8 +392,255 @@ collapsed:: true
 		- Figure out what indices of the array will store the final answer.
 		  Design the complete iterative procedure
 	- Longest Increasing Subsequence Problem
+	  collapsed:: true
 		- Given a sequence of numbers $s_1, \dots, s_n$ delete the fewest numbers possible so that what is left is in increasing order.
 		  background-color:: #787f97
 		- We’ll loop over all numbers that come after $s_i$, and consider them if they are also greater than $s_i$.
 		- `LIS(int i)` returns the length of the longest increasing subsequence that uses $s_i$ as its first number.
 		- $LIS(i)= 1 + \max_{k : k > i, s_k > s_j}LIS(k)$
+	- [[Pseudo-Polynomial Runtimes]]
+	  collapsed:: true
+		- When you say a runtime is "polynomial" or "linear" or "logarithmic", that has to be in relation to something.
+			- It means in relation to the length of the input.
+		- When you have a $\Theta(m+n)$ graph algorithm, that's a linear runtime, because the size of the graph (which is the input) is $m+n$.
+			- I could introduce a new variable $X$ such that $\log X = m+n$. It would be correct to say the runtime is $\Theta(\log X)$. That does not somehow make the runtime logarithmic.
+	- What is the runtime of the [[Primality Algorithm]]?
+	  collapsed:: true
+		- The runtime of is $\Theta(X)$. However, this is not a polynomial runtime.
+		- The length of the input is $n = \log X$.
+			- So the runtime is $\Theta(X) = \Theta(2^{\log X}) = \Theta(2^n)$
+			- Thus the algorithm was exponential, even though it looked linear.
+	- The [[Coin-Changing Problem]]
+		- What should my first decision be?
+			- "What coin do I choose next?"
+		- What should the parameters of my function be?
+		  collapsed:: true
+			- I need to know the remaining target I am aiming to sum to.
+			- $CC(x)$ will return the fewest number of coins needed to make $x$ cents change.
+		- If I choose denomination $d_i$, what recursive call should I make?
+		  collapsed:: true
+			- $CC(x-d_i)$
+		- What should our recursive formula be?
+			- We need to consider every possible denomination
+			- $CC(x) = 1 + \min_{i: d_i \le x} CC(x-d_i)$
+		- What is our base case?
+		  collapsed:: true
+			- $CC(0) = 0$
+		- Pseudocode 
+		  collapsed:: true
+			- ![image.png](../assets/image_1622771872832_0.png){:height 181, :width 327}
+		- What is the runtime of the dynamic programming solution?
+		  collapsed:: true
+			- $\Theta(nT)$
+			- However, this is not polynomial since $T$ is not the size of the input.
+			- $\Theta(nT) = \Theta(n \cdot 2^{\log T})$ where $\log T$ is the size of the input $T$. So this is actually exponential.
+	- The [[Assembly-line Scheduling Problem]]
+	  collapsed:: true
+		- What should our bite-size decision be?
+		  collapsed:: true
+			- "Do I stay on the same line, or switch to the other line?"
+		- What information do I need to pass into the function as input parameters?
+		  collapsed:: true
+			- The current station we're at, which is represented by two values: line and station number.
+		- $ALS(i, j)$ will return the length of the shortest path that starts at $S_{i,j}$.
+		  collapsed:: true
+			- $ALS(1,j) = a_{1,j} + \min(ALS(1, j+1), t_{1,j} + ALS(2, j+1))$
+			- $ALS(2,j) = a_{2,j} + \min(ALS(2, j+1), t_{2,j} + ALS(1, j+1))$
+			- $ALS(i, n) = a_{i,n}$
+		- Pseudocode
+		  collapsed:: true
+			- ![image.png](../assets/image_1622773166271_0.png)
+		- What is the runtime?
+		  collapsed:: true
+			- $\Theta(n)$
+	- The [[Sequence Alignment Problem]]: How to efficiently calculate the [[Edit Distance]]?
+		- Bite-size Decision
+		  collapsed:: true
+			- "Do I match $x_i$ and $y_j$?
+			- There are a few options:
+				- Match the letters
+				- Transform $x_i$ to $y_j$
+				- Delete $x_i$
+				- Add $y_j$
+		- What do we need to keep track of in our call so Sequence Alignment?
+		  collapsed:: true
+			- $SA(i,j)$, where $i$ is the current character of $X$, and $j$ is the current character of $Y$.
+		- What will $SA(i,j)$ return?
+		  collapsed:: true
+			- The edit distance of $X = x_i \dots x_n$ and $Y = y_j \dots y_m$
+		- What is the recursive formula for $SA(i,j)$
+		  collapsed:: true
+			- If $x_i = y_i$, then we return $SA(i+1,j+1)$. It is possible to formally prove that is always optimal
+			- If we decide to transform $x_i$ into $y_j$, we return $1 + SA(i+1, j+1)$
+			- If we remove $x_j$, we return $1 + SA(i+1, j)$
+			- If we add $y_j$, we return $1+SA(i,j+1)$
+			- $SA(i,j) = SA(i+1,j+1)$, if $x_i = y_j$
+			- $SA(i,j) = 1 + \min(SA(i+1, j+1), SA(i, j+1), SA(i+1, j))$, otherwise
+		- Base case:
+		  collapsed:: true
+			- $SA(i, m+1) = n-i+1$
+			- $SA(n+1, j) = m - j + 1$
+		- What order do we need to fill the array?
+		  collapsed:: true
+			- ![image.png](../assets/image_1623083935647_0.png)
+		- Runtime
+		  collapsed:: true
+			- $\Theta(mn)$
+		- Space
+		  collapsed:: true
+			- $\Theta(mn)$
+		- How could we improve the space requirement?
+		  collapsed:: true
+			- We only need the current column and the previous column.
+			- $\Theta(n)$
+	- The [[Subset Sum Problem]]
+	  collapsed:: true
+		- What should my bite-size decision be?
+			- Do I include the current integer. $w_i$ or not?
+		- What information do we need to pass into the parameter?
+			- $SS(i, x)$, where $i$ is the current integer, and $x$ is the remaining target
+			- $SS(i, x)$ returns $1$ if there is a subset of $w_1, \dots, w_n$ that add exactly to $x$, and $0$ otherwise.
+		- If I include $w_i$, what is my recursive call?
+			- $SS(i+1, x-w_i)$
+		- If I don't include $w_i$, what is my recursive call?
+			- $SS(i + 1, x)$
+		- What base cases do I need?
+			- $SS(i, 0) = 1$
+			- $SS(n+1, x) = 0$, for $x \ne 0$
+			- $SS(i,x) = \max(SS(i+1, x-w_i), SS(i+1, x))$
+		- How to fill in the array?
+		  collapsed:: true
+			- ![image.png](../assets/image_1623085628565_0.png)
+		- Runtime
+		  collapsed:: true
+			- $\Theta(nW)$
+		- Is this a polynomial runtime?
+		  collapsed:: true
+			- No, $W$ is not size.
+	- Finding [[RNA Secondary Structure]]
+	  collapsed:: true
+		- How [[Ribonucleic acid (RNA)]] bonds with itself is very complicated.
+		- We will simplify it, getting an approximation of how it looks.
+		- We will be reconstructing one of the first algorithmic attempts to predict [[RNA Secondary Structure]].
+		- We want to identify $S$, the set of pairs for input string $B$.
+		- We will assume that [[Ribonucleic acid (RNA)]] always follows these rules:
+			- Each pairing is $AU$ or $CG$
+			- If $\langle b_i, b_j \rangle \in S$, then $i < j-4$ (the ends of each pair are separated by 4+ bases)
+			- If $\langle b_i, b_j \rangle$, $\langle b_k, b_l \rangle \in S$, it is not the case that $i < k < j < l$ (no crossed pairs)
+			- We will assume RNA forms the maximum possible pairs subject to the above rules.
+		- Bite-size Decisions
+			- What, if anything, do I pair with $i$?
+		- Suppose $b_1$ pairs with $b_{n/2}$. What sub problems do I need to worry about?
+			- ![image.png](../assets/image_1623331749064_0.png)
+			- $[b_2, b_{n/2 - 1}] \cup [b_{n/2+1}, b_n]$
+		- What parameters do we need to pass into out function?
+			- $RNA(i, j)$ returns the max possible matched pairs on the substring $b_i \dots b_j$.
+		- If $b_i$ doesn't pair with anything, what recursive call should we make?
+			- $RNA(i+1, j)$
+		- If $b_i$ pairs with $b_k$, what is my recursive formula?
+			- $1 + RNA(i+1, k-1) + RNA(k+1, j)$
+		- I try all possible $k$, and take the best option:
+			- $RNA(i,j) = \max(RNA(i+1, j), 1 + \max_k (RNA(i+1, k-1) + RNA(k+1, j)))$
+		- Considering the valid choices for $k$, the full recursive formula is
+			- $RNA(i,j) = \max(RNA(i+1, j), 1 + \max_{k : k > i+4, \{b_j, b_k\} = \{A, U\} or \{C, G\}} (RNA(i+1, k-1) + RNA(k+1, j)))$
+			- $RNA(i,j) = 0$, if $i \ge j-4$
+		- What order do we fill the array in?
+			- ![image.png](../assets/image_1623336113955_0.png)
+	- The [[Shortest Path Problem]]
+	  collapsed:: true
+		- We are going to find the shortest path on a graph with negative edges, which [[Dijkstra's Algorithm]] cannot do.
+		- While we will allow negative-weight edges, we will disallow negative-weight cycles, as this produces nonsensical answers.
+		- Bite-size decision:
+			- What node do I go to next?
+		- Input parameters:
+			- The current node.
+			- How many edges have been traversed. We will use this to determine whether we are in an infinite cycle. If we traversed more edges than necessary, then we will stop.
+		- $SP(i, x)=$ The length of the shortest path from $x$ to $t$, using no more than $i$ edges.
+			- $SP(i,t) = 0$, for $i > 0$
+			- $SP(0,x) = \infty$, for $x \ne t$
+			- $SP(i,x) = \min _{(x,y)\in E}(c_{\langle x,y \rangle} + SP(i-1,y))$
+		- What values should I initially pass into this function?
+			- $SP(n-1,s)$
+		- Which order to fill the array in?
+			- ![image.png](../assets/image_1623337681511_0.png)
+	- Finding Negative-Weight Cycles
+	  collapsed:: true
+		- If $SP[i,x] = SP[i+1,x]$, for all $x$, then there are no more updates to be made for larger values of $i$.
+		- If $SP[n-1,x] \ne SP[n,x]$, then there must exist a negative-weight cycle!
+	- Finding All-Pairs [[Shortest Path Problem]]
+	  collapsed:: true
+		- Suppose we want to return the shortest path between *all* pairs of points.
+			- So we will return $n(n-1)$ answers, one for each pair.
+		- $ASP(i,x,z) =$ the length of the shortest path from $x$ to $z$, using no more than $i$ edges.
+		  collapsed:: true
+			- $ASP(i,z,z)=0$
+			- $ASP(0,x,z) = \infty$, for $x \ne z$
+			- $ASP(i,x,z) = \min_{\langle x, y \rangle \subset E} (c_{\langle x, y \rangle} + ASP(i-1, y, z))$
+			-
+			  ```cpp
+			  for i=1 to n-1
+			  	for all nodes z
+			      	for all nodes x
+			          	calc ASP[i,x,z]
+			  ```
+	- Extra Practice
+		- Ch. 6, Ex. 1, 4, 6, 19, 20, 24, 26, 27
+## 6/9: [[Greedy Algorithm]]
+- What is a [[Greedy Algorithm]]?
+  collapsed:: true
+	- A [[Greedy Algorithm]] is very much like a [[Dynamic Programming]] algorithm, with one significant difference.
+	- A [[Dynamic Programming]] algorithm says "there's a bunch of choices, I don't know which one is correct, let's try them all and take the best!"
+	- A [[Greedy Algorithm]] says "there's a bunch of choices, but I only need to try this specific one."
+	- For example, [[Kruskal's Algorithm]] and [[Dijkstra's Algorithm]] are [[Greedy Algorithm]].
+- The [[Unweighted Interval Scheduling]] Problem
+  collapsed:: true
+	- Greedy criteria
+		- Earliest Finish Time
+	- Earliest Finish Time: the Proof, using the [[Exchange Argument]]
+		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
+		- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
+		- I.S.: Assume that OPT does not include EFT's $(k+1)$st choice
+			- Sort OPT's intervals by finish time: EFT's first $k$ choices must be the first $k$ intervals in this sorting.
+			- Let interval $j$ be the $(k+1)$st interval in this sorting, and let interval $i$ be EFT's $(k+1)$st choice.
+				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
+			- Transform OPT into OPT' by replacing interval $j$ with $i$.
+			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
+- The [[Exchange Argument]]
+  collapsed:: true
+	- What does it mean for our first choice to be correct?
+		- There is an optimal solution which includes our first choice.
+		- There may be many optimal solutions, we just care that one of them includes this choice. If none do, our choice was clearly wrong.
+	- So if our first choices are correct, there must be an optimal solution that includes both of our first two choices.
+		- Our inductive hypothesis will (always) be "there is an optimal solution, called $OPT$, that includes our first $k$ choices."
+		- Our inductive step will be to find an optimal solution, call $OPT'$,that includes our first $k+1$ choices.
+		- Our base case will always be simple: "there is an optimal solution that includes our first 0 choices."
+- [[Sequential Exchange Arguments]]
+	- There is an optimal solution which includes our first 0 choices
+	- Assume there is an optimal solution OPT which includes our first $k$ choices.
+	- Swap something in OPT without $(k+1)$st choice to produce OPT'
+		- Figuring out what to swap is a large part of the challenge
+		- Simply saying "OPT's $(k+1)$st choice is meaningless. OPT is a solution. It includes some choices, and not others. IT doesn't specify the order to choose those choices, because the order is irrelevant to whether or not the solution is optimal.
+		- You **can** impose an order on OPT's choices (such as sorting them by finish time), and use that to bring meaning to the phrase "OPT's $(k+1)$st choice."
+	- Prove that OPT' is still valid, that is it doesn't break any rules of the problem
+	- Prove that OPT' is still optimal, that is it still optimizes the solution
+- Proof of the [[Kruskal's Algorithm]]
+	- The [[Cycle Property]] states that the largest-cost edge in a cycle is not in the [[Minimum Spanning Tree]]
+	- B.C.: There is an optimal solution that includes out first 0 edges from Kruskal's Algorithm (KA)
+	- I.H.: Assume there is an OPT solution that includes the first $k$ edges from KA.
+	- I.S.: KA includes edge $i$ next: assume that OPT does not include this edge.
+		- $OPT+i$ creates a cycle $C$. Since KA included edge $i$, there must be another edge in the cycle, $j$, that KA didn't include.
+		- It must be that $c_j \ge c_i$, because otherwise we would have considered, and included, $j$ instead of $i$.
+		- $OPT' = OPT + i-j$ costs no more than OPT, so it is optimal.
+		- $OPT'$ has $n-1$ edges, because we added one and removed one.
+		- $OPT'$ is connected: any pair of nodes that used edge $j$ can use the rest of cycle $C$ as a detour instead.
+		- Therefore, $OPT'$ is still a tree, and thus is valid.
+- Proof of the [[Prim's Algorithm]]
+	- The [[Cut Property]] states that for any partition $\langle P, V-P \rangle$ of the vertices, the cheapest edge spanning the partition is in the [[Minimum Spanning Tree]]
+	- B.C.: There is an optimal solution that includes the first 0 edges from Prim's Algorithm.
+	- I.H.: PA includes edge $i$ next: assume that OPT does not include this edge (otherwise we're done)
+		- $OPT+i$ creates a cycle $C$. Since PA included edge $i$, all other edges spanning the discovered and undiscovered nodes must cost at least as much.
+		- Since part of $C$ is in the discovered nodes, and the rest is in the undiscovered nodes, there must be another edge $j$ in $C$ that spans the partition.
+		- $c_j \ge c_i$, because otherwise PA would have included $j$ instead of $i$.
+		- $OPT' = OPT+i-j$ costs no more than $OPT$, so it is optimal.
+		-
+-
