@@ -22,6 +22,7 @@
 	- [[Competitive Facility Location]]
 ## Greedy Algorithm
 - What is some characteristics of [[Greedy Algorithm]]?
+  collapsed:: true
 	- Builds solution in small steps
 	- Each step optimizes some myopic criterion
 	- Does not backtrack/reverse decision
@@ -68,8 +69,10 @@ collapsed:: true
 			- Transform OPT into OPT' by replacing interval $j$ with $i$.
 			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
 - What is the [[Exchange Argument]]?
+  collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
+- The []
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
