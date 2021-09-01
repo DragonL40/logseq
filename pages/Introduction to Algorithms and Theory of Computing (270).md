@@ -68,7 +68,7 @@ collapsed:: true
 			- Transform OPT into OPT' by replacing interval $j$ with $i$.
 			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
 - What is the [[Exchange Argument]]?
-	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to pur greedy solution.
+	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
 -
 ## 5/19: Introduction
