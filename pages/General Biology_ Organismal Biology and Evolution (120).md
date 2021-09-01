@@ -44,6 +44,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
 - What is [[Mendel's Model]] of inheritance?
+	- ![image.png](../assets/image_1630515352591_0.png){:height 428, :width 343}
 - Difference between [[Genotype]] and [[Phenotype]]?
 - What is difference between [[Homozygous]] and [[Heterozygous]]?
 - What is [[DNA]]?
