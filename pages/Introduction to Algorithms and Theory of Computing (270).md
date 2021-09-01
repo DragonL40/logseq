@@ -25,8 +25,8 @@
 	- Builds solution in small steps
 	- Each step optimizes some myopic criterion
 	- Does not backtrack/reverse decision
-- ### The [[Interval Scheduling]] Problem
-  collapsed:: true
+### The [[Interval Scheduling]] Problem?
+collapsed:: true
 	- What is the greedy criteria?
 	  collapsed:: true
 		- Earliest Finish Time
@@ -67,8 +67,9 @@
 				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
 			- Transform OPT into OPT' by replacing interval $j$ with $i$.
 			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
-### The [[Exchange Argument]]
--
+- What is the [[Exchange Argument]]?
+	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to pur greedy solution.
+	-
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
