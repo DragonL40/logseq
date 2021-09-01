@@ -74,6 +74,9 @@ collapsed:: true
 	-
 ### Scheduling to minimize late time
 	-
+	  > Input: jobs $J=\{1, \dots, n\}$ 
+	  > Time requirement $t(i) \ge 0$
+	-
 -
 -
 ## 5/19: Introduction
