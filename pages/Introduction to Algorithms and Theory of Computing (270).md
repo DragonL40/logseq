@@ -26,7 +26,7 @@
 	- Builds solution in small steps
 	- Each step optimizes some myopic criterion
 	- Does not backtrack/reverse decision
-### The [[Interval Scheduling]] Problem?
+### The [[Interval Scheduling]] Problem
 collapsed:: true
 	- What is the greedy criteria?
 	  collapsed:: true
@@ -72,7 +72,8 @@ collapsed:: true
   collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
-- The []
+## The [[Weighted Interval Scheduling]] problem
+-
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
