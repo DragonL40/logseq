@@ -31,6 +31,7 @@
 		- Earliest Finish Time
 		- "I want to finish every tasks ASAP, so I can leave more time for the later tasks"
 	- The Algorithm
+	  collapsed:: true
 		- $R =T, A = \phi$
 		- While $R \ne \phi$
 			- $i = \text{argmin} f(j): j \in R$
@@ -66,6 +67,7 @@
 				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
 			- Transform OPT into OPT' by replacing interval $j$ with $i$.
 			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
+-
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
