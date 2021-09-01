@@ -72,4 +72,8 @@
 	  }
 	  ```
 ## Exceptions
-- What are ecx
+- What are exceptions in Java?
+- What options do you have after an exception is thrown? #numlist
+	- do not handle it at all
+	- handle it where it occurs
+	- handle it later in the program
