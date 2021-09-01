@@ -79,4 +79,6 @@
 	- handle it later in the program
 - What is the difference between **checked** and **unchecked** exceptions?
 - How to define your own **checked** exception?
-	-
+	- extend from `Exception` class
+- How to define your own **unchecked** exception?
+	- extend from ``
