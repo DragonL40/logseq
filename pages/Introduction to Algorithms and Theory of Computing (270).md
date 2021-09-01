@@ -74,7 +74,7 @@ collapsed:: true
 	-
 ### Scheduling to minimize late time
 	-
-	  >
+	  > There exists an optimal schedule with no "idle time"
 -
 -
 ## 5/19: Introduction
