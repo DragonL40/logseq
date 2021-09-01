@@ -77,6 +77,7 @@ collapsed:: true
 	  > There exists an optimal schedule with no "idle time"
 -
 -
+-
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
