@@ -72,7 +72,8 @@ collapsed:: true
   collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
-## The [[Weighted Interval Scheduling]] problem
+### Scheduling to minimize late time
+	-
 -
 -
 ## 5/19: Introduction
