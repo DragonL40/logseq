@@ -85,4 +85,6 @@
 - What is the point of the `throws` keyword?
 ## Java Files I/O
 - What is `try-with-resources`?
-	- The try-with-resources does automatic resource management. It ensure
+	- The try-with-resources does automatic resource management. It ensures that each resource is closed at the end of the statement.
+	- Resources that are to be automatically closed must be created inside the parentheses of the `try` block.
+-
