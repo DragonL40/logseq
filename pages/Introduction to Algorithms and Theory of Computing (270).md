@@ -73,7 +73,8 @@ collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
 ### Scheduling to minimize late time
-	- µ
+	-
+	  >
 -
 -
 ## 5/19: Introduction
