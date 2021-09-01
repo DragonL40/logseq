@@ -82,4 +82,5 @@
 	- extend from `Exception` class
 - How to define your own **unchecked** exception?
 	- extend from `RuntimeException` class
+- What is the point of the `throws` keyword?
 -
