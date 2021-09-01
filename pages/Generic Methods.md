@@ -1,0 +1,1 @@
+- Generic Methods are written with a single method declaration and can be called with arguments of different types.

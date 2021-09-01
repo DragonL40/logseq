@@ -1,0 +1,22 @@
+- Title: what kind of impression does it create?
+- Subject and Theme: what is the film about?
+- Life/Story/Plot/Narrative
+	- What is the _life_?
+	- What is the _story_?
+	- What is the _plot_?
+		- What is the model of the [[Aristotelian Plots]]?
+		- What is usually the protagonist motivation in classical Hollywood genre?
+	- What is the _narrative_?
+		-
+- Character
+	- How are characters revealed?
+	- How are formal elements relevant to characterization?
+- Setting
+- Point-of-View
+	- _Who is telling the story?_
+	- Difference between [[first person inside]] and [[first person outside]]
+- Figure of Speech
+	- Motifs
+	- Symbols
+	- Allusions
+	- Metaphors

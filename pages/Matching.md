@@ -1,0 +1,1 @@
+- A subset of $S$ of $M \times W$ where each man/women appears at most one in *S*.

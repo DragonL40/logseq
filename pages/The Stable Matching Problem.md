@@ -1,0 +1,10 @@
+- Given as input
+	- $n$ men and $n$ women
+	- $M = {m_1, \dots, m_n}, W = {w_1, \dots, w_n}$
+	- For each $w \in W$, given a "preference list" (aka. "ranking") of the men.
+		- an array of length $n$ listing all the men in decreasing order of preference.
+	- Similarly, each men has a "preference list" for all the women.
+- Mathematical/Economic Question: Does a [[Stable Matching]] exist for every set of preference list?
+- Algorithmic Question: Can a [[Stable Matching]] be computed efficiently?
+	- In this class, efficiently means low order polynomial time.
+-

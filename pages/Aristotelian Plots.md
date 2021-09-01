@@ -1,0 +1,12 @@
+- Causality of events
+- Connection between events
+	- Temporal continuity
+	- Spatial contiguity
+- Goal-oriented protagonist in a setting
+- Actions - progression and regression
+- Antagonist - either character or other force
+- Hierarchy of conflicts
+- Peripeteia
+- Suspense
+- Unity
+- Closure

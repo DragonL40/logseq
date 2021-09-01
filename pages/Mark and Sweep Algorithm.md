@@ -1,0 +1,2 @@
+- The garbage collector determines which pieces of memory are in use and which are not
+- Now, remove unreferenced objects and compact the remaining referenced object ([[Defragmentation]]).

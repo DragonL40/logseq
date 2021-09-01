@@ -1,4 +1,72 @@
 - #[[University of Southern California (USC)]] #[[B.S. Computer Science]] #[[B.S. Applied and Computational Mathematics]]
+- What is an [[Algorithmic Problem]]?
+  collapsed:: true
+	- Compute some function of "input data", "efficiently."
+	- [[Decision Problems]]
+	- [[Optimization Problems]]
+	- [[Search Problems]]
+## [[The Stable Matching Problem]]
+- What is the [[Gale-Shapley Algorithm]]?
+- How many iteration before the [[Gale-Shapley Algorithm]] terminates?
+  collapsed:: true
+	-
+	  > It is not guaranteed that the runtime of the [[Gale-Shapley Algorithm]] is $O(n^2)$, as the **runtime per iteration** may vary.
+- How to guarantee that each iteration of the [[Gale-Shapley Algorithm]] takes constant time?
+- Prove: Consider an execution of the [[Gale-Shapley Algorithm]] that returns a set of pairs $S$. The set $S$ is a stable matching.
+- Five Representative Problems
+  collapsed:: true
+	- [[Interval Scheduling]]
+	- [[Weighted Interval Scheduling]]
+	- [[Bipartite Matching]]
+	- [[Independent Set]]
+	- [[Competitive Facility Location]]
+## Greedy Algorithm
+- What is some characteristics of [[Greedy Algorithm]]?
+	- Builds solution in small steps
+	- Each step optimizes some myopic criterion
+	- Does not backtrack/reverse decision
+### The [[Interval Scheduling]] Problem
+	- What is the greedy criteria?
+	  collapsed:: true
+		- Earliest Finish Time
+		- "I want to finish every tasks ASAP, so I can leave more time for the later tasks"
+	- The Algorithm
+		- $R =T, A = \phi$
+		- While $R \ne \phi$
+			- $i = \text{argmin} f(j): j \in R$
+			- $A = A \cup \{i\}$
+			- Remove from $R$ all tasks overlapping $i$.
+		- EndWhile
+		- Return $A$
+	- How to prove optimality?
+		- $A$ is the solution output by our algorithm
+		- $O$ is the optimal solution
+		- Denote $k = |A|, m = |O|$, obviously $k \le m$
+		- We will show that $k = m$ (our solution is **an** optimal solution)
+	- Proof
+		- Let $A = \{i_1, \dots, i_k\}$ in order by finish time
+		- Let $O = \{j_1, \dots. j_m\}$ in order by finish time.
+		-
+		  > $i_t$ is task added in iteration $t$
+		- Lemma (Greedy stays ahead): $f(i_t) \le f(j_t), \forall t = 1, \dots, k$
+		- B.C.: $t=1$
+		- I.H.: Assume true for $t$
+		- I.S.: Prove for $t+1$
+			- $S(j_{t+1}) \ge f(j_t) \ge^{IH} f(i_t)$
+			- $j_{t+1} \in R$ at iteration $t+1$
+			- Since $i_{t+1}$ is earliest finishing tasks in $R$ during iteration $t+1$
+			-
+			  $$f(i_t + 1) \le f(j_t+1)$$
+	- Earliest Finish Time: the proof, using the [[Exchange Argument]]
+		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
+		- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
+		- I.S.: Assume that OPT does not include EFT's $(k+1)$st choice
+			- Sort OPT's intervals by finish time: EFT's first $k$ choices must be the first $k$ intervals in this sorting.
+			- Let interval $j$ be the $(k+1)$st interval in this sorting, and let interval $i$ be EFT's $(k+1)$st choice.
+				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
+			- Transform OPT into OPT' by replacing interval $j$ with $i$.
+			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
+-
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
 	  collapsed:: true
@@ -346,7 +414,7 @@
 	- What is [[Memoization]]?
 	  collapsed:: true
 		- The process of writing down intermediate result to refer to later.
-	- [[Weighted Interval Scheduling Problem]]
+	- [[Weighted Interval Scheduling]]
 	  collapsed:: true
 		- What is the optimal solution for this instance?
 		  collapsed:: true
@@ -585,26 +653,12 @@
 			  ```
 	- Extra Practice
 		- Ch. 6, Ex. 1, 4, 6, 19, 20, 24, 26, 27
-## 6/9: [[Greedy Algorithm]]
+## 6/9: Greedy Algorithm
 - What is a [[Greedy Algorithm]]?
-  collapsed:: true
 	- A [[Greedy Algorithm]] is very much like a [[Dynamic Programming]] algorithm, with one significant difference.
 	- A [[Dynamic Programming]] algorithm says "there's a bunch of choices, I don't know which one is correct, let's try them all and take the best!"
 	- A [[Greedy Algorithm]] says "there's a bunch of choices, but I only need to try this specific one."
 	- For example, [[Kruskal's Algorithm]] and [[Dijkstra's Algorithm]] are [[Greedy Algorithm]].
-- The [[Unweighted Interval Scheduling]] Problem
-  collapsed:: true
-	- Greedy criteria
-		- Earliest Finish Time
-	- Earliest Finish Time: the Proof, using the [[Exchange Argument]]
-		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
-		- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
-		- I.S.: Assume that OPT does not include EFT's $(k+1)$st choice
-			- Sort OPT's intervals by finish time: EFT's first $k$ choices must be the first $k$ intervals in this sorting.
-			- Let interval $j$ be the $(k+1)$st interval in this sorting, and let interval $i$ be EFT's $(k+1)$st choice.
-				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
-			- Transform OPT into OPT' by replacing interval $j$ with $i$.
-			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
 - The [[Exchange Argument]]
   collapsed:: true
 	- What does it mean for our first choice to be correct?
@@ -615,6 +669,7 @@
 		- Our inductive step will be to find an optimal solution, call $OPT'$,that includes our first $k+1$ choices.
 		- Our base case will always be simple: "there is an optimal solution that includes our first 0 choices."
 - [[Sequential Exchange Arguments]]
+  collapsed:: true
 	- There is an optimal solution which includes our first 0 choices
 	- Assume there is an optimal solution OPT which includes our first $k$ choices.
 	- Swap something in OPT without $(k+1)$st choice to produce OPT'
@@ -624,6 +679,7 @@
 	- Prove that OPT' is still valid, that is it doesn't break any rules of the problem
 	- Prove that OPT' is still optimal, that is it still optimizes the solution
 - Proof of the [[Kruskal's Algorithm]]
+  collapsed:: true
 	- The [[Cycle Property]] states that the largest-cost edge in a cycle is not in the [[Minimum Spanning Tree]]
 	- B.C.: There is an optimal solution that includes out first 0 edges from Kruskal's Algorithm (KA)
 	- I.H.: Assume there is an OPT solution that includes the first $k$ edges from KA.
@@ -635,6 +691,7 @@
 		- $OPT'$ is connected: any pair of nodes that used edge $j$ can use the rest of cycle $C$ as a detour instead.
 		- Therefore, $OPT'$ is still a tree, and thus is valid.
 - Proof of the [[Prim's Algorithm]]
+  collapsed:: true
 	- The [[Cut Property]] states that for any partition $\langle P, V-P \rangle$ of the vertices, the cheapest edge spanning the partition is in the [[Minimum Spanning Tree]]
 	- B.C.: There is an optimal solution that includes the first 0 edges from Prim's Algorithm.
 	- I.H.: PA includes edge $i$ next: assume that OPT does not include this edge (otherwise we're done)
@@ -642,5 +699,3 @@
 		- Since part of $C$ is in the discovered nodes, and the rest is in the undiscovered nodes, there must be another edge $j$ in $C$ that spans the partition.
 		- $c_j \ge c_i$, because otherwise PA would have included $j$ instead of $i$.
 		- $OPT' = OPT+i-j$ costs no more than $OPT$, so it is optimal.
-		-
--

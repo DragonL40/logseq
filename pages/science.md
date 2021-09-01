@@ -1,0 +1,3 @@
+- A body of knowledge about our universe that forms an interlinked web of information.
+- Every detail fits into a larger, integrated picture
+- Based on the [[Scientific Method]]

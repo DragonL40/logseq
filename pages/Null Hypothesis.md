@@ -1,0 +1,5 @@
+- a "conservative" hypothesis, often denoted $H_0$
+- e.g. "the new medicine is no better than the old medicine" or "the new pesticide does not improve crop yield"
+- On the other hand, the [[alternative hypothesis]] is usually the new, alternative treatment or idea
+	- e.g. "the new medicine is better than the old medicine"
+- **The two should ideally be mutually exclusive**

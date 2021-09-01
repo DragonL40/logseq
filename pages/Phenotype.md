@@ -1,0 +1,1 @@
+- The physical traits as observed in the living organism

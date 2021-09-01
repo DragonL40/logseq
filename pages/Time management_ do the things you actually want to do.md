@@ -1,0 +1,32 @@
+- There are only 24 hours in a day.
+- We need to be smart about how we allocate our time to different tasks and activities.
+- Short-term and long-term golas do not always align.
+	- What's expected from yo uand what you actually want to do are not always the same.
+### How to take control of your schedule
+	- Overaching rules when the author is using her calendar:
+		- **Everthing goes in there.**
+		- **Make time for the things that matter, not the other way around**
+			- Take a few minutes at the beginning of the week to ensure that you have time for the few key goals you are working towards.
+		- **It's okay to say no**
+			- If something is not important and not related to your goals, say "no" or delay it to a few weeks later.
+		- **Be flexible with your scheduled tasks**
+			- If something took longer than expected and you weren't able to go to the gym. Do other exercises, like 15 minutes running block, instead.
+### 5 time management techniques
+	- 1. **Get enough sleep**
+		- [Research](https://www.researchgate.net/publication/8167721_Sleep_Quality_Sleep_Propensity_and_Academic_Performance) shows that being sleep deprived negatively affects your performance.
+		- It is harder to focus and harder to switch between tasks when you're tired.
+	- 2. **Plan ahead**
+		- While planning may not impact how well you perform, [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5718186/) found that it does impact your ability to actually execute.
+		- If you take the time to plan and commit to doing certain things, you are more likely to do them.
+	- 3. **Avoid multitasking**
+		- Constantly switching between tasks has a terrible effect on attention.
+		- Remove distractions by putting your phone in another room and turning off notifications on your laptop
+	- 4. **Create mindful routines**
+		- Think about the times of the day where you feel more productive, and take advantage of it.
+	- 5. **Take breaks**
+		- Spend some times alone, go take a walk, meditate, or whatever, as long as it involves getting away from your laptop and your phone.
+		- __Add these breaks to your calendar!__
+- Additional tools/tips:
+	- [[Pomodoro Technique]]
+- Summary:
+	- Being rested, planning ahead, avoiding multitasking, knowing yourself, and taking breaks.

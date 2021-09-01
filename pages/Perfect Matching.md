@@ -1,0 +1,1 @@
+- A perfect matching of a graph is a [[matching]] (an independent edge set) in which every vertex of the graph is incident to exactly one edge of the matching.

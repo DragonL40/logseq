@@ -1,0 +1,14 @@
+- #[[Getting Things Done (Book)]]
+## What is the 5 key principles of productivity?
+	- capture
+		- Our mind is for having ideas, not for storing them.
+		- Anything that we have on our mind, we write it down.
+	- clarify
+		- Procrastination and lack of productivity come from not having a clearly defined _next step_.
+		- Convert our to-do list to action verbs.
+	- organize
+		- Put stuff where they are suppose to go.
+	- reflect
+		- i.e. weekly reviews, monthly reviews, and yearly reviews.
+	- engage
+		- Actually do the things.

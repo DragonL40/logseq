@@ -2,9 +2,9 @@
 - Given an `n x n` `matrix` where each of the rows and columns are sorted in ascending order, return the `k`th smallest element in the matrix. 
   
   Note that it is the `k`th smallest element in the sorted order, not the `k`th distinct element.
-- ## Solution 1: [[Binary Search]] on `matrix`
+## Solution 1: [[Binary Search]] on `matrix`
 	-
-	  ```cpp
+	  ```c++
 	  #include <iostream>
 	  #include <vector>
 	  

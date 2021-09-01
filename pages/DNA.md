@@ -1,0 +1,2 @@
+- Deoxyribonucleicacid
+- Bases on the two strands form base pairs: Adenine with Thymine, Guanine with Cytosine; bound with relatively weak hydrogen bonds.

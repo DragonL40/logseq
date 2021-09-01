@@ -1,0 +1,1 @@
+- a style of computer programming in which algorithms are written in terms of types to be specified later.

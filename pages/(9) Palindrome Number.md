@@ -7,8 +7,7 @@
   > You can check for a palindrome number by reversing the number and comparing to the original number
 - ## Solution 1: Reverse the Entire Number
 	-
-	  collapsed:: false
-	  ```cpp
+	  ```c++
 	  #include <cmath>
 	  
 	  using namespace std;
@@ -29,7 +28,7 @@
 	- However, this solution requires `ans` to be of `long` type, as it may exceed the storage limit for `int` when reversing `x`.
 - ## Solution 2: Reverse Half of the Number
 	-
-	  ```cpp
+	  ```c++
 	  class Solution {
 	  public:
 	    bool isPalindrome(int x) {
