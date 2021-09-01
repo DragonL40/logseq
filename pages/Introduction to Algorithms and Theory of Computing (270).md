@@ -67,7 +67,8 @@
 				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
 			- Transform OPT into OPT' by replacing interval $j$ with $i$.
 			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
-### The
+### The [[Exchange Argument]]
+-
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
@@ -662,7 +663,6 @@
 	- A [[Greedy Algorithm]] says "there's a bunch of choices, but I only need to try this specific one."
 	- For example, [[Kruskal's Algorithm]] and [[Dijkstra's Algorithm]] are [[Greedy Algorithm]].
 - The [[Exchange Argument]]
-  collapsed:: true
 	- What does it mean for our first choice to be correct?
 		- There is an optimal solution which includes our first choice.
 		- There may be many optimal solutions, we just care that one of them includes this choice. If none do, our choice was clearly wrong.
