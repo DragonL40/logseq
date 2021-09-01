@@ -78,4 +78,5 @@
 	- handle it where it occurs
 	- handle it later in the program
 - What is the difference between **checked** and **unchecked** exceptions?
--
+- How to define your own **checked** exception?
+	-
