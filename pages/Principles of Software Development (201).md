@@ -89,4 +89,5 @@
 	- Resources that are to be automatically closed must be created inside the parentheses of the `try` block.
 - How to read/write binary files?
 	- Use `InputStream` and `OutputStream`
+- What is `InputStreamReader`?
 -
