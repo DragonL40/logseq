@@ -43,8 +43,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- parents pass on discrete heritable units (genes) that retain their separate identities in offspring; i.e., more like a deck of cards than a pail of paint
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
--
-- What is [[Mendel's Model]] of inheritence?
+- What is [[Mendel's Model]] of inheritance?
+	-
 - Difference between [[Genotype]] and [[Phenotype]]?
 - What is difference between [[Homozygous]] and [[Heterozygous]]?
 - What is [[DNA]]?
