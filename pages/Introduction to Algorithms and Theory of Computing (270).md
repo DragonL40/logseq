@@ -31,7 +31,6 @@
 		- Earliest Finish Time
 		- "I want to finish every tasks ASAP, so I can leave more time for the later tasks"
 	- The Algorithm
-	  collapsed:: true
 		- $R =T, A = \phi$
 		- While $R \ne \phi$
 			- $i = \text{argmin} f(j): j \in R$
