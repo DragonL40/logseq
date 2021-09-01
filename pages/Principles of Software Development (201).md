@@ -71,4 +71,5 @@
 	    public boolean(T obj1, T obj2);
 	  }
 	  ```
+## Exceptions
 -
