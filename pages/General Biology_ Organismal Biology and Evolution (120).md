@@ -62,5 +62,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Storage proteins
 	- Defensive proteins
 	- Transport proteins
--
+- How is mRNA translated into amino acids?
 -
