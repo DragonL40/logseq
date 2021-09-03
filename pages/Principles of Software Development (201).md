@@ -32,7 +32,6 @@
 ## [[Generics]]
 - What is [[Generic Programming]]?
 - Why use [[Generics]]?
-- How to write [[Generic Methods]]?
 - How to define generic classes? 
   collapsed:: true
 	- ![image.png](../assets/image_1630637212678_0.png){:height 272, :width 421}
@@ -41,6 +40,7 @@
 	- generic type (`List<AnyType>`) is a type with formal type parameters.
 - What is a parameterized type?
 	- The instantiation of a generic type with actual type arguments (such as, `List<String>`).
+- How to write [[Generic Methods]]?
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
