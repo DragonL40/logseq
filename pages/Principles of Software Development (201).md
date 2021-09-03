@@ -66,6 +66,8 @@
 	  }
 	  ```
 - When to use upper bounded wildcards?
+  collapsed:: true
+	- If you want the generic expression to accept all subclasses of a particular type, you will use upper bound wildcard.
 - What are Unbounded Wildcards?
   collapsed:: true
 	-
