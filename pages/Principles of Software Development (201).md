@@ -33,11 +33,12 @@
 - What is [[Generic Programming]]?
 - Why use [[Generics]]?
 - How to write [[Generic Methods]]?
-- How to define generic classes?
+- How to define generic classes? 
   collapsed:: true
 	- ![image.png](../assets/image_1630637212678_0.png){:height 272, :width 421}
+- ((61318cea-57b6-4775-8cb8-08bd4b29c202))
+- Difference between a generic type (`List<AnyType>`) is a type with formal type parameters.
 -
-  >
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
