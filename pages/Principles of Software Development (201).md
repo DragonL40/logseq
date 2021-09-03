@@ -33,6 +33,8 @@
 - What is [[Generic Programming]]?
 - Why use [[Generics]]?
 - How to write [[Generic Methods]]?
+- How to define generic classes?
+	-
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
