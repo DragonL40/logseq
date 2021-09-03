@@ -43,7 +43,11 @@
 - How to write [[Generic Methods]]?
 	-
 	  ```java
+	  public static <T> void printArray(T[] array) {
+	    for (T item : array) System.out.printf("%s", item);
+	  }
 	  ```
+-
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
