@@ -76,12 +76,13 @@
 	    lst.add(new Integer(5));
 	  }
 	  ```
-- What are Unbounded Wildcards?
+- What are unbounded wildcards?
   collapsed:: true
 	-
 	  ```java
 	  Collection<?> col = new ArrayList<String>();
 	  ```
+- What are lower bounded wild
 ## Arrays
 - `==` only compares memory locations of objects, so we should use the function `Arrays.equals()` to compare Arrays.
 - What is deep copy?
