@@ -10,9 +10,13 @@
 	- [[Inheritance]]
 	- [[Interfaces]]
 ## Garbage Collection in Java
+- What the memory locations are candidates for garbage collection?
+  ```java
+  ```
 - What are the advantages of automatic garbage collection?
 - What is global synchronization with the OS?
 - What are the four ways to make an object eligible for garbage collection?
+  collapsed:: true
 	- Nullifying the reference variable
 		-
 		  ```cpp
