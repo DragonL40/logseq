@@ -41,6 +41,9 @@
 - What is a parameterized type?
 	- The instantiation of a generic type with actual type arguments (such as, `List<String>`).
 - How to write [[Generic Methods]]?
+	-
+	  ```java
+	  ```
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
