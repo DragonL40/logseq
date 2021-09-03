@@ -40,7 +40,7 @@
 - What is a generic type?
 	- generic type (`List<AnyType>`) is a type with formal type parameters.
 - What is a parameterized type?
-	- The instantiation of a generic type with actual type arguments is called a pa
+	- The instantiation of a generic type with actual type arguments (such as, `List<String>`).
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
