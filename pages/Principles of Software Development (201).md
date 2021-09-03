@@ -13,8 +13,9 @@
 - What the memory locations are candidates for garbage collection?
   ```java
   ```
-- What are the advantages of automatic garbage collection?
-- What is global synchronization with the OS?
+- What are the (2) advantages of automatic garbage collection?
+	- Object creation is faster because global synchronization with the OS is not needed
+	- The garbage collector reclaims the underlying memory and reuses it for future object
 - What are the four ways to make an object eligible for garbage collection?
   collapsed:: true
 	- Nullifying the reference variable
