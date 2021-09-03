@@ -34,7 +34,10 @@
 - Why use [[Generics]]?
 - How to write [[Generic Methods]]?
 - How to define generic classes?
-	-
+  collapsed:: true
+	- ![image.png](../assets/image_1630637212678_0.png){:height 272, :width 421}
+-
+  > Generic types have no runtime representation,
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
