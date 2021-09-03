@@ -41,13 +41,15 @@
 - What is a parameterized type?
 	- The instantiation of a generic type with actual type arguments (such as, `List<String>`).
 - How to write [[Generic Methods]]?
+	- limited by angle brackets that precedes the method's return type. You cannot compile if there is no <T>
 	-
 	  ```java
 	  public static <T> void printArray(T[] array) {
 	    for (T item : array) System.out.printf("%s", item);
 	  }
 	  ```
--
+- How to bound the type parameters?
+	-
 - What are upper bounded wildcards?
   collapsed:: true
 	- The question mark (`?`), represents the wildcard, stands for unknown type in generics.
