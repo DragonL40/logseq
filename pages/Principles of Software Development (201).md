@@ -83,7 +83,7 @@
 	  Collection<?> col = new ArrayList<String>();
 	  ```
 - What are lower bounded wildcards?
-	-
+	- 3
 ## Arrays
 - `==` only compares memory locations of objects, so we should use the function `Arrays.equals()` to compare Arrays.
 - What is deep copy?
