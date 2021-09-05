@@ -59,7 +59,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Polymers of amino acids = polypeptides
 - What are [[proteins]]?
 	- proteins are constructed from amino acids.
-	- nearly every dynamic function of a living being depends on proteins
+	- nearly every dynamic function of a living b eing depends on proteins
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
