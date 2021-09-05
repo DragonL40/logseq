@@ -66,9 +66,13 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is mRNA?
 - What is tRNA?
 - What is codominance?
+  collapsed:: true
 	-
 	  $$I^AI^A \times I^BI^B = I^AI^B$$
 	- type A $\times$ type B = type AB
 - What is incomplete dominance?
+  collapsed:: true
 	-
-	  $$$$
+	  $$C^RC^R \times C^BC^B = C^RC^B$$
+	- red $\times$ blue = purple
+-
