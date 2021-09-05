@@ -38,5 +38,5 @@
 	- We subtract a bias number of 4 from the exponent to convert the range of $[0,9]$ to $[-4, 5]$
 - What is a fixed point number?
 	- the position of the decimal point is fixed (presumed)
-- Perils of Floating point: What is the result of
+- Perils of Floating Point: What is the result of $123450 + 0.10000$?
 	-
