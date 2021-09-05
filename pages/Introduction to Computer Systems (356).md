@@ -32,4 +32,5 @@
 - How to compensate for the extra 0.5 when rounding a negative number in the [[2's complement]] system? (Biasing)
 	- Add $2^k-1$, the sequence of $k$ ones, to $x$ before shifting.
 - Why use floating point value?
-	-
+	- It can be used to represent very small numbers and very large numbers.
+-
