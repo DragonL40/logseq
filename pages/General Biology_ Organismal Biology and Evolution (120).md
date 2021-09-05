@@ -1,6 +1,7 @@
 title:: General Biology: Organismal Biology and Evolution (120)
 
 - What is [[science]]?
+	- Science is a way of knowing—an approach to understand- ing the natural world.
 - How to differentiate science from pseudoscience?
 - What is the [[Scientific Method]]?
 - [[Experimentation]]
@@ -59,7 +60,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Polymers of amino acids = polypeptides
 - What are [[proteins]]?
 	- proteins are constructed from amino acids.
-	- nearly every dynamic function of a living b eing depends on proteins
+	- nearly every dynamic function of a living being depends on proteins
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
