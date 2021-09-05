@@ -34,4 +34,5 @@
 - Why use floating point value?
 	- It can be used to represent very small numbers and very large numbers.
 - How does floating point numbers represent more range than int with the same amount of bits (32/64)?
-	-
+- What is a fixed point number?
+	- the position of the decimal point is fixed,
