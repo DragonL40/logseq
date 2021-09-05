@@ -26,6 +26,8 @@
 	- Right shift = divide by power of 2
 - What if I need to multiply a number by a non-power of 2?
 	- $17x = 16x + 1x$
+- When does dividing by $2^k$ with `x >> k` works and doesn't work?
+	- Works if $x \ge 0$ OR ($x <0$ AND $x$ is a multiple of $2^k$)
 - How to compensate for the extra 0.5 when rounding a negative number in the [[2's complement]] system?
 	- Biasing
 	-
