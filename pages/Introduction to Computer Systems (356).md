@@ -40,4 +40,7 @@
 	- the position of the decimal point is fixed (presumed)
 	- Unsigned and [[2's complement]] fall under this category
 - Perils of Floating Point: What is the result of $123450 + 0.10000$?
-- Trade-off
+- Trade-off of floating point value:
+	- Many fraction digits limit the range
+	- Few fraction digits increase the representation error
+-
