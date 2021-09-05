@@ -63,4 +63,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Defensive proteins
 	- Transport proteins
 - How is mRNA translated into amino acids?
+- What is mRNA?
+- What is tRNA?
 -
