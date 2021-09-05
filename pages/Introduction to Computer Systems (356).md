@@ -44,4 +44,5 @@
 	- Many fraction digits limit the range
 	- Few fraction digits increase the representation error
 - How is floating-point number normalized?
+- What does the Excess-N exponent representation mean?
 -
