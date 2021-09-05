@@ -65,4 +65,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
--
+- Incomplete dominance
