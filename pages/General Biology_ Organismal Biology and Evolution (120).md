@@ -67,3 +67,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is tRNA?
 - What is codominance?
 	-
+	  $$I^AI^A \times I^BI^B = I^AI^B$$
+	- type A $\times$ type B = type AB
+- What is incomplete dominance?
+	-
+	  $$$$
