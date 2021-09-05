@@ -58,10 +58,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Genes code for proteins
 	- Polymers of amino acids = polypeptides
 - What are [[proteins]]?
-	- Enzymatic proteins
-	- Storage proteins
-	- Defensive proteins
-	- Transport proteins
+	- proteins are constructed from amino acids.
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
