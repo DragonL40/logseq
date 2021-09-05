@@ -1,7 +1,6 @@
 title:: General Biology: Organismal Biology and Evolution (120)
 
 - What is [[science]]?
-	- Science is a way of knowing—an approach to understand- ing the natural world.
 - How to differentiate science from pseudoscience?
 - What is the [[Scientific Method]]?
 - [[Experimentation]]
