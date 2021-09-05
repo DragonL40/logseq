@@ -39,4 +39,4 @@
 - What is a fixed point number?
 	- the position of the decimal point is fixed (presumed)
 - Perils of Floating Point: What is the result of $123450 + 0.10000$?
-	-
+-
