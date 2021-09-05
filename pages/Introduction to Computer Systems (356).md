@@ -45,4 +45,7 @@
 	- Few fraction digits increase the representation error
 - How is floating-point number normalized?
 - What does the Excess-N exponent representation mean?
+- Why put the exponent field before the fraction?
+	- We should look at the exponent first to compare FP values; only look at the fraction if the exponents are equal
+	- By placing the exponent field first we can compare entire FP values as single bit strings (i.e., as if they were unsigned numbers)
 -
