@@ -35,8 +35,8 @@
 	- It can be used to represent very small numbers and very large numbers.
 - How does floating point numbers represent more range than int with the same amount of bits (32/64)?
 	- It uses a digit to represent the exponent
-	- We subtract a bias number of 4 from the exponent to convert the range of [0,9] to []
+	- We subtract a bias number of 4 from the exponent to convert the range of $[0,9]$ to $[-4, 5]$
 - What is a fixed point number?
 	- the position of the decimal point is fixed (presumed)
--
+- Perils of Floating point: What is the result of
 	-
