@@ -21,4 +21,7 @@
 - How to detect overflow?
 	- If **positive + positive = negative** or **negative + negative = positive**
 - What is the difference between [[logical shift]] and [[arithmetic shift]]?
+- How to multiply/divide by power of 2?
+	- Left shift = multiply by power of 2
+	- Right shift = divide by power of 2
 -
