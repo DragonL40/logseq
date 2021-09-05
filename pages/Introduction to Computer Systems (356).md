@@ -24,4 +24,6 @@
 - How to multiply/divide by power of 2?
 	- Left shift = multiply by power of 2
 	- Right shift = divide by power of 2
+- What if I need to multiply a number by a non-power of 2?
+	- $17x = 16x + 1x$
 -
