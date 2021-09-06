@@ -32,7 +32,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- The [[cell]] is the smallest unit of organization that can perform all activities required for life
 - Two main types of [[cell]]?
-  collapsed:: true
 	- [[Eukaryotic Cell]]
 	- [[Prokaryotic Cell]]
 - What is blending?
