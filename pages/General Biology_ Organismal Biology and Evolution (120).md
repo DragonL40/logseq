@@ -74,4 +74,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	  $$C^RC^R \times C^BC^B = C^RC^B$$
 	- red $\times$ blue = purple
 - What about a cross involving multiple characters?
-	-
+-
