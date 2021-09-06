@@ -35,7 +35,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- [[Eukaryotic Cell]]
 	- [[Prokaryotic Cell]]
-- What is blending?
+- What is blending inheritance?
   collapsed:: true
 	- the idea that genetic material contributed by the two parents mixes in a manner analogous to the way blue and yellow paints blend to make green
 - What is particulate?
