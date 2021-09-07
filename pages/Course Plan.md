@@ -11,8 +11,8 @@
 		- [[Introduction to Embedded Systems (EE 109)]]
 		- [[Probability Theory (407)]]
 		- [[Linear Algebra and Linear Differential Equations (225)]]
-	- Fall 2021
-		- CSCI-356
+	- Fall 2021 #IN-PROGRESS
+		- [[Introduction to Computer Systems (356)]]
 		- [[Principles of Software Development (201)]]
 		- [[General Biology: Organismal Biology and Evolution (120)]]
 		- [[Introduction to Cinema (190)]]
