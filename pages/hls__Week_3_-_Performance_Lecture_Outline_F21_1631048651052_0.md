@@ -41,3 +41,15 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 4
   id:: 6137dba4-83a3-4627-b05f-8341ccd12ab6
+- Pantomime/Presentational 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 6137dc9d-e43a-438a-a5a3-3adee701dec9
+- Representational/Realist 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 6137dca8-a396-4e6d-ae5f-0ca043ff0f69
+- Method Acting / Modern Acting 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 6137dcb2-8375-4027-ba1c-93997d75aa81
