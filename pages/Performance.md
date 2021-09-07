@@ -1,2 +1,2 @@
 - ![Week 3 - Performance Lecture Outline F21.pdf](../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.pdf)
--
+- Through what means does performance act as a representation of the scipt
