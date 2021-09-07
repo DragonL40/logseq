@@ -65,3 +65,7 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 5
   id:: 6137ddec-1fd8-4da7-a6ab-acff6e5d1f14
+- Critical Criteria for judging a performance
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 6137de66-1ccb-4e9a-b557-a2238c81bf37
