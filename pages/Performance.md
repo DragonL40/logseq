@@ -6,5 +6,6 @@
 - Character through the Properties of the Player
 	- ((6137d7a8-e0b4-4b5a-bac0-56494571320a))
 	- ((6137d7bb-4d45-4e24-ae27-53e1d3dbefd8))
-	-
+	- ((6137d7cf-dd22-404e-9e2a-4b38a9ff1ecd))
+	- ((6137d7d8-dcca-495a-88bd-343b78df41ba))
 -
