@@ -21,3 +21,7 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 2
   id:: 6137d7d8-dcca-495a-88bd-343b78df41ba
+- Together a player’s physicality, personality, talent, and mythology make up their “persona.”
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 6137da68-4e93-4ad4-a1dd-3d29caa9e205
