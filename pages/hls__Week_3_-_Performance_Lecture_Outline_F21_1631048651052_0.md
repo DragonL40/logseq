@@ -21,7 +21,3 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 2
   id:: 6137d7d8-dcca-495a-88bd-343b78df41ba
-- Persona
-  ls-type:: annotation
-  hl-page:: 2
-  id:: 6137d869-88b2-4630-823a-6191fd397f60

@@ -8,5 +8,5 @@
 	- ((6137d7bb-4d45-4e24-ae27-53e1d3dbefd8))
 	- ((6137d7cf-dd22-404e-9e2a-4b38a9ff1ecd))
 	- ((6137d7d8-dcca-495a-88bd-343b78df41ba))
-- What makes up a players ((6137d869-88b2-4630-823a-6191fd397f60))?
--
+- What makes up a players [[persona]]?
+	-
