@@ -10,4 +10,9 @@
 	- ((6137d7d8-dcca-495a-88bd-343b78df41ba))
 - What makes up a player‘s [[persona]]?
 	- ((6137da68-4e93-4ad4-a1dd-3d29caa9e205))
+- What are the different type of players?
+	- ((6137db87-edd9-4328-83c6-a33f97114b10))
+	- ((6137db90-b493-421c-8f08-07f4d58b6855))
+	- ((6137db99-72c9-4b3b-ae54-4a69768bbcae))
+	- ((6137dba4-83a3-4627-b05f-8341ccd12ab6))
 -

@@ -25,3 +25,19 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 2
   id:: 6137da68-4e93-4ad4-a1dd-3d29caa9e205
+- The Non-Professional 
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 6137db87-edd9-4328-83c6-a33f97114b10
+- The Actor
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 6137db90-b493-421c-8f08-07f4d58b6855
+- The Star 
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 6137db99-72c9-4b3b-ae54-4a69768bbcae
+- The Star-Actor 
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 6137dba4-83a3-4627-b05f-8341ccd12ab6
