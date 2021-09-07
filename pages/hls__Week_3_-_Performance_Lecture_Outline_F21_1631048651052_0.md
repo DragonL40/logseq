@@ -53,3 +53,15 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 4
   id:: 6137dcb2-8375-4027-ba1c-93997d75aa81
+- Classical
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 6137dddb-8b40-45f0-8fc4-a89b276408f4
+- Improvisation
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 6137dde2-2f0c-4324-96d8-1727e6c7e28e
+- Star Turn –based on the actor’s presence; personality carries the performance 
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 6137ddec-1fd8-4da7-a6ab-acff6e5d1f14
