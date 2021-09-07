@@ -30,4 +30,6 @@
 - What critical criteria do we use to judge a performance?
   collapsed:: true
 	- ((6137de66-1ccb-4e9a-b557-a2238c81bf37))
-- Whati s
+- What is the role of the director?
+  collapsed:: true
+	- ((6137e080-eea8-4903-bcde-3d54c2f712d9))

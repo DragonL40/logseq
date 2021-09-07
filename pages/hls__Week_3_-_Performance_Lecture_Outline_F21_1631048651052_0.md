@@ -69,3 +69,7 @@ file-path:: ../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.p
   ls-type:: annotation
   hl-page:: 5
   id:: 6137de66-1ccb-4e9a-b557-a2238c81bf37
+- Director as Guide
+  ls-type:: annotation
+  hl-page:: 6
+  id:: 6137e080-eea8-4903-bcde-3d54c2f712d9
