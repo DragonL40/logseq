@@ -1,4 +1,8 @@
 - ![Week 3 - Performance Lecture Outline F21.pdf](../assets/Week_3_-_Performance_Lecture_Outline_F21_1631048651052_0.pdf)
 - Through what means does performance act as a representation of the script?
 	- ((6137d741-6827-4a5e-b09c-b04c330537f5))
+- Dialogue through the voice of the player
+- Action through the body of the player
+- Character through the Properties of the Player
+	-
 -
