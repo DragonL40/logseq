@@ -1,5 +1,6 @@
 ### Film as a form of Technology
 	- How did it develop (six)?
+	  collapsed:: true
 		- Still photography
 		- Persistence of Vision
 		- Motion Picture Camera
@@ -9,6 +10,7 @@
 	- What is the [[Principle of Camera Obscura]]?
 	- What improvement did Louis Daguerre make that made photography practical?
 	- What is the [[Persistence of Vision]]?
+	  collapsed:: true
 		- [[Thaumatrope]]
 		- [[Phenakistoscope]]
 		- [[Zeotrope]]
@@ -16,6 +18,7 @@
 	- What is a [[film stock]]?
 	- [[Film Printer]]
 	- Why film caught on?
+	  collapsed:: true
 		- It was about new technology, new ways to edit, and new ways to present
 ### Film as a form of Busniess
 ### Film as a form of Art/Entertainment
