@@ -36,6 +36,7 @@
 ## Bordwell and Thompson [[Aug 26th, 2021]]
 -
 ## Literary Design
+- ![Week 2 - Literary Design.pdf](../assets/Week_2_-_Literary_Design_1631143453232_0.pdf)
 - What are some different manners in which one can adapt the original?
 	- Loose adaptation
 	- Faithful adaptation
