@@ -31,6 +31,8 @@
 	- Doesn't work if $x < 0$ AND $x$ is NOT a multiple of $2^k$
 - How to compensate for the extra 0.5 when rounding a negative number in the [[2's complement]] system? (Biasing)
 	- Add $2^k-1$, the sequence of $k$ ones, to $x$ before shifting.
+## Unit 3: Floating Point
+- ![CS356Unit03_FP.pdf](../assets/CS356Unit03_FP_1631175822688_0.pdf)
 - Why use floating point value?
 	- It can be used to represent very small numbers and very large numbers.
 - How does floating point numbers represent more range than int with the same amount of bits (32/64)?
@@ -49,4 +51,4 @@
 	- We should look at the exponent first to compare FP values; only look at the fraction if the exponents are equal
 	- By placing the exponent field first we can compare entire FP values as single bit strings (i.e., as if they were unsigned numbers)
 - IEEE Exponent Special Values
-	- ![CS356Unit03_FP.pdf](../assets/CS356Unit03_FP_1631175822688_0.pdf)
+	-
