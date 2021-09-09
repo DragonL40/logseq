@@ -1,8 +1,9 @@
 - It was my first time watching this film. Up until the part where Chris goes up the stairs and everybody goes silent everything just felt off.
 - Peacocking, performing
 	- Rose's Dad: "It is such a privilege to experience someone else's culture"
-	-
+	- Have something from another culture isn't the same as understanding another culture.
 - Deer symbol
 	- Dad talks about how he wants deers to be eradicated
 -
--
+## Vocabs
+	-
