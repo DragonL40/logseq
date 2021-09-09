@@ -8,4 +8,8 @@
 ## Vocabs
 	- Extreme Long/Full/Wide Shot
 	- Long/Full/Wide Shot
-	- Medium Long/Full/Wdie
+	- Medium Long/Full/Wide Shot
+	- Medium Shot
+	- Medium Close-up
+	- Close-up
+	- Extreme Close-up
