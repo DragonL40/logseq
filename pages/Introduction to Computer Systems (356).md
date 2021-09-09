@@ -57,4 +57,6 @@
 	- `1 | 1000 0010 | 110 0110 0000 0000 0000 0000`
 	- `+0.6875 = +0.1011`
 -
-  > For the purpose of this class, what will
+  > For the purpose of this class, we will use ((6139cfd8-1b14-4500-8267-ccab23163649))
+- Examples #numlist
+	- `1 | `
