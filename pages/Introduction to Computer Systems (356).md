@@ -93,5 +93,6 @@
 	  > Add similar, small magnitude numbers first
 - FP MUL/DIV is...
 	- also not associative
-	- Doesn't distribute over addition ($a$)
+	- Doesn't distribute over addition ($a \times (b + c) \ne a \times b + a \times c$)
+	-
 -
