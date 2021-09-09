@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "6139cb9b-f361-4306-be11-b80e79b34ec7", :page 14, :position {:bounding {:x1 82.5625, :y1 35.84375, :x2 507.123291015625, :y2 76.84375, :width 590, :height 442.5}, :rects ({:x1 82.5625, :y1 35.84375, :x2 507.123291015625, :y2 76.84375, :width 590, :height 442.5}), :page 14}, :content {:text "IEEE Exponent Special Values"}, :properties {:color "yellow"}}]}
