@@ -82,4 +82,8 @@
 	- $1.001100100 \times 2^4$
 	- $1.111111100 \times 2^4$
 	- $1.001101100 \times 2^4$
-- How to implement the
+- How to implement the Guard, Round, and Sticky bit (GRS)?
+	- **Guard bits**: bits immediately after LSB of fraction (many HW implementations keep up to 16 additional guard bits)
+	- **Round bit**: bit to the right of the guard bits
+	- **Sticky bit**: Logical OR of all other bits after Guard & R bits
+	-
