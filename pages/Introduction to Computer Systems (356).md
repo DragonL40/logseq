@@ -71,4 +71,5 @@
 	- ((6139d554-df27-471f-8156-d1bcdc2898db))
 -
   > ((6139d5e7-baa4-416b-bc67-b299e0140249))
+- What does "exactly" half-way correspond to in binary?
 -
