@@ -82,4 +82,4 @@
 	- $1.001100100 \times 2^4$
 	- $1.111111100 \times 2^4$
 	- $1.001101100 \times 2^4$
--
+- How to implement the
