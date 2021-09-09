@@ -55,4 +55,4 @@
   > Visualization tool: http://evanw.github.io/float-toy/
 - Single-Precision Example #numlist
 	- `1 | 1000 0010 | 110 0110 0000 0000 0000 0000`
-	- +
+	- `+0.6875 = +0.1011`
