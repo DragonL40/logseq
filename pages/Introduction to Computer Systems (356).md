@@ -88,4 +88,5 @@
 	- **Sticky bit**: Logical OR of all other bits after Guard & R bits
 	- ((6139da49-8156-4abb-a711-c0de3281f813))
 ## Major Implications for Programmers
+- ((6139da92-5ec9-4877-862a-7fef27fd0ee2))
 -
