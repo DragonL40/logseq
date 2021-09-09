@@ -75,7 +75,7 @@
   collapsed:: true
 	- Hardware will keep some additional bits beyond what can be stored to help with rounding. (GRS)
 	- ((6139d70e-db9a-4873-ae85-a68458f451bd))
-- Example (the last three bits are GRS): #numlist
+- Example: Run to Nearest, Base 2,  (the last three bits are GRS): #numlist
 	- $1.001100110 \times 2^4$
 	- $1.111111101 \times 2^4$
 	- $1.001101001 \times 2^4$
