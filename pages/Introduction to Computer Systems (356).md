@@ -58,7 +58,7 @@
 	- `+0.6875 = +0.1011`
 -
   > For the purpose of this class, we will use ((6139cfd8-1b14-4500-8267-ccab23163649))
-- Examples #numlist
+- #Example #numlist
 	- `1 | 10100 | 101101`
 	- `+21.75 = +10101.11`
 	- `1 | 01101 | 100000`
@@ -75,7 +75,7 @@
   collapsed:: true
 	- Hardware will keep some additional bits beyond what can be stored to help with rounding. (GRS)
 	- ((6139d70e-db9a-4873-ae85-a68458f451bd))
-- Example: Run to Nearest, Base 2,  (the last three bits are GRS): #numlist
+- #Example Run to Nearest, Base 2,  (the last three bits are GRS): #numlist
 	- $1.001100110 \times 2^4$
 	- $1.111111101 \times 2^4$
 	- $1.001101001 \times 2^4$
