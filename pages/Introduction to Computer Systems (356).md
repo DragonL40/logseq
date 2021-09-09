@@ -56,5 +56,5 @@
 - Single-Precision Example #numlist
 	- `1 | 1000 0010 | 110 0110 0000 0000 0000 0000`
 	- `+0.6875 = +0.1011`
-- What is the benefit of Floating Point vs. Fixed Point?
-	-
+-
+  > For the purpose of this class, what will
