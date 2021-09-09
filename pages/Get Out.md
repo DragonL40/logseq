@@ -1,3 +1,3 @@
-- It was my first time watching this film, and up until the part where Chris goes up the stairs .
+- It was my first time watching this film. Up until the part where Chris goes up the stairs and everybody goes silent.
 - Deer symbol
 	- Dad talks about how he wants deers to be eradicated
