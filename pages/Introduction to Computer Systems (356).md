@@ -93,5 +93,5 @@
 	  > Add similar, small magnitude numbers first
 - FP MUL/DIV is...
 	- also not associative
-	- Doesn't distribute over addition
+	- Doesn't distribute over addition ($a$)
 -
