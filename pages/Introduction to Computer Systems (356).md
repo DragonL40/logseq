@@ -91,4 +91,4 @@
 - ((6139da92-5ec9-4877-862a-7fef27fd0ee2))
 	-
 	  > Add similar, small magnitude numbers first
--
+- FP MUL/DIV is also not associative!
