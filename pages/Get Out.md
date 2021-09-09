@@ -6,4 +6,6 @@
 	- Dad talks about how he wants deers to be eradicated
 -
 ## Vocabs
-	-
+	- Extreme Long/Full/Wide Shot
+	- Long/Full/Wide Shot
+	- Medium Long/Full/Wdie
