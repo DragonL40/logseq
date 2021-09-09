@@ -72,4 +72,5 @@
 -
   > ((6139d5e7-baa4-416b-bc67-b299e0140249))
 - What does "exactly" half-way correspond to in binary?
--
+	- Hardware will keep some additional bits beyond what can be stored to help with rounding. (GRS)
+	- ((6139d70e-db9a-4873-ae85-a68458f451bd))
