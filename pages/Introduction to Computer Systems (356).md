@@ -65,8 +65,8 @@
 	- `+3.625 = +11.101`
 ## ((6139d454-8a31-425d-9c5d-8dba2b2ed88f))
 - What are the methods of rounding?
-	- ((6139d533-c4ef-4ade-b8ab-14b6e7da1c15))
-	- ((6139d53d-9198-4c0b-9e3c-5314a4e964f9))
+	- [[Round to Nearest]]
+	- [[]]
 	- ((6139d546-3c42-4d8e-9a5d-0e63110b86c7))
 	- ((6139d554-df27-471f-8156-d1bcdc2898db))
 -
