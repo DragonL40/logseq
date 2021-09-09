@@ -31,7 +31,7 @@
 	- Doesn't work if $x < 0$ AND $x$ is NOT a multiple of $2^k$
 - How to compensate for the extra 0.5 when rounding a negative number in the [[2's complement]] system? (Biasing)
 	- Add $2^k-1$, the sequence of $k$ ones, to $x$ before shifting.
-## Unit 3: Floating Point
+# Unit 3: Floating Point
 - ![CS356Unit03_FP.pdf](../assets/CS356Unit03_FP_1631175822688_0.pdf)
 - Why use floating point value?
 	- It can be used to represent very small numbers and very large numbers.
@@ -86,4 +86,6 @@
 	- **Guard bits**: bits immediately after LSB of fraction (many HW implementations keep up to 16 additional guard bits)
 	- **Round bit**: bit to the right of the guard bits
 	- **Sticky bit**: Logical OR of all other bits after Guard & R bits
-	-
+	- ((6139da49-8156-4abb-a711-c0de3281f813))
+## Major Implications for Programmers
+-
