@@ -1,3 +1,5 @@
 - It was my first time watching this film. Up until the part where Chris goes up the stairs and everybody goes silent everything just felt off.
+- Peacocking, performing
+	- Rose's
 - Deer symbol
 	- Dad talks about how he wants deers to be eradicated
