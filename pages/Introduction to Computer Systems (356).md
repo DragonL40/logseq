@@ -49,4 +49,4 @@
 	- We should look at the exponent first to compare FP values; only look at the fraction if the exponents are equal
 	- By placing the exponent field first we can compare entire FP values as single bit strings (i.e., as if they were unsigned numbers)
 - IEEE Exponent Special Values
-	-
+	- ![CS356Unit03_FP.pdf](../assets/CS356Unit03_FP_1631175822688_0.pdf)
