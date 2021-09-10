@@ -97,4 +97,5 @@
 # Unit 4: x86 Instruction Set
 - ![CS356Unit04_x86_ISA.pdf](../assets/CS356Unit04_x86_ISA_1631297676910_0.pdf)
 - Compling and Disassembling
-	-
+	- From C to assembly code: `gcc -0g -c -s file1.c`
+	- Looking at binary files: `gcc -0g -c file1.c`, `hexdump -C file1.o`
