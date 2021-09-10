@@ -95,4 +95,4 @@
 	- also not associative
 	- Doesn't distribute over addition ($a \times (b + c) \ne a \times b + a \times c$)
 # Unit 4: x86 Instruction Set
--
+- 4
