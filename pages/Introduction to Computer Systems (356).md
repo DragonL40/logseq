@@ -99,3 +99,4 @@
 - Compling and Disassembling
 	- From C to assembly code: `gcc -0g -c -s file1.c`
 	- Looking at binary files: `gcc -0g -c file1.c`, `hexdump -C file1.o`
+	- From binary to assembly: `gcc -0g -c file1.c`, `objdump -d file1.o`
