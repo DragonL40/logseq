@@ -95,4 +95,6 @@
 	- also not associative
 	- Doesn't distribute over addition ($a \times (b + c) \ne a \times b + a \times c$)
 # Unit 4: x86 Instruction Set
+- ![CS356Unit04_x86_ISA.pdf](../assets/CS356Unit04_x86_ISA_1631297676910_0.pdf)
 - Compling and Disassembling
+	-
