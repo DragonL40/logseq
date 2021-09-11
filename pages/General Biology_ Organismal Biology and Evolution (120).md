@@ -90,7 +90,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Biogeography of closely related spp.
 	- Fossils
 	- Embryology - homologies, vestigial organs
-	- Also, Darwin emphasized similarities to artificial selection.
+	- Also, Darwin emphasized similarities to [[Artificial Selection]].
+-
+	-
 -
 -
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
