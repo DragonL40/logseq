@@ -79,7 +79,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Class > Order > Family > Genus > Species
 ## [[Theory of Natural Selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
--
+- What are the three main components in Darwin-Wallace [[Theory of Natural Selection]]?
+	-
 -
 -
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
