@@ -85,6 +85,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Selection results from differential reproductive success
 	-
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
+- Individuals do not evolve. It is the population that evolves over time.
 -
 -
 -
