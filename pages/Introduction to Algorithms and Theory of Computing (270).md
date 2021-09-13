@@ -246,14 +246,10 @@
 				- $\log n$ and $1$ does not difference by more than a polynomial factor. Therefore, [[Master Theorem]]  won't work there.
 				- Use solve-by-tree.
 ## 5/24: [[Union-Find ADT]]
-	- [[Spanning Tree]]
-	  collapsed:: true
-		- Given a connected, undirected graph $G$, a **spanning tree** is a subset of the edges which form a tree on the original nodes.
 	- [[Minimum Spanning Tree]]
 	  collapsed:: true
 		- Given a connected, undirected graph $G$, a **minimum spanning tree** is the [[Spanning Tree]] which minimizes the sum of the edge weights.
 	- Kruskal's Algorithm
-	  collapsed:: true
 		- [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle. It provably find the [[Minimum Spanning Tree]] .
 	- Implementing [[Kruskal's Algorithm]]
 	  collapsed:: true
