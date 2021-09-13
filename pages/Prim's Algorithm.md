@@ -1,6 +1,7 @@
 - What is the [[Cut Property]]? #card
 -
 - The Algorithm
+  collapsed:: true
 	- $T = \phi$
 	- $S = \{s\}$ for arbitrary $s \in V$
 	- While $S \ne V$
@@ -8,3 +9,4 @@
 		- Add $e$ to $T$
 		- Add $v$ to $S$
 -
+- P
