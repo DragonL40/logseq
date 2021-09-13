@@ -7,6 +7,10 @@
 - What is the greedy criteria?
 	- Earliest Deadline First, $d_1 \le \dots \le d_n$
 - The Algorithm
-	-
+	- Order the jobs in order of their deadlines
+	- Assume for simplicity of notation that $d_1 \le \dots \le d_n$
+	- Initially, $f = s$
+	- Consider the jobs $i = 1, \dots, n$ in this order
+		-
 -
 -
