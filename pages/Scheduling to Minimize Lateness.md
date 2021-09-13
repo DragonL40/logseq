@@ -20,6 +20,7 @@
 -
 - **(4.7)** _There is an optimal schedule with no idle time_
 - **(4.8)** _All schedules with no inversions and no idle time have the same maximum lateness_
-- **(4.9)** _There is an optimal schedule that_
+- **(4.9)** _There is an optimal schedule that has no inversions and no idle time_
+-
 -
 -
