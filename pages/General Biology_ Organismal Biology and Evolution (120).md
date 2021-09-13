@@ -123,6 +123,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Mutations produce new variations
 	- Often caused by [[DNA polymerase]] errors in DNA synthesis (or DNA repair)
 	- Mutations can be spontaneous errors or caused by [[mutagens]]
-- Difference between [[large scale mutation]] and [[small scale mutation]] #Mutation
+- Difference between [[large scale mutation]] and [[small scale mutation (point mutation)]] #Mutation
 	- ((613f1149-eb5a-40b1-87fb-9ebf1e910379))
 -
