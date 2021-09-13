@@ -110,4 +110,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- [[Directional selection]]
 	  collapsed:: true
 		- ((613f0f6c-c171-4917-836f-cd49e6ae60c1))
-	-
+	- [[Disruptive selection]]
+		- ((613f0f9d-e776-40a3-9316-8237680c665b))
