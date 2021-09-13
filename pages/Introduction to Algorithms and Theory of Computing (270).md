@@ -32,6 +32,7 @@
 		- Earliest Finish Time
 		- "I want to finish every tasks ASAP, so I can leave more time for the later tasks"
 	- The Algorithm
+	  collapsed:: true
 		- $R =T, A = \phi$
 		- While $R \ne \phi$
 			- $i = \text{argmin} f(j): j \in R$
@@ -44,7 +45,7 @@
 		- $O$ is the optimal solution
 		- Denote $k = |A|, m = |O|$, obviously $k \le m$
 		- We will show that $k = m$ (our solution is **an** optimal solution)
-	- Proof
+	- Proof: Greedy Stays ahead
 		- Let $A = \{i_1, \dots, i_k\}$ in order by finish time
 		- Let $O = \{j_1, \dots. j_m\}$ in order by finish time.
 		-
