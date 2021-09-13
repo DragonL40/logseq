@@ -283,10 +283,6 @@
 		- How could we modify Union to ensure the runtime of Find is minimized
 			- Always point the smaller-depth tree to the larger depth tree.
 			- By doing this, we reduce the runtime of Find to $\Theta(\log n)$
-	- [[Kruskal's Algorithm]] Runtime
-	  collapsed:: true
-		- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
-		  collapsed:: true
 ## 5/26: [[Graph]] Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
 	  collapsed:: true
