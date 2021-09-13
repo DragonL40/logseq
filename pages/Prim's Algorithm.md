@@ -1,3 +1,2 @@
-- Lemma [[Cut Property]]
-	- Let $S$ be a set of nodes s.t. $\phi \subset S \subset V$.
+- What is the [[Cut Property]]? #card
 -
