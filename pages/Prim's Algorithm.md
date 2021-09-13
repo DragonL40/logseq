@@ -1,4 +1,5 @@
 - Lemma [[Cut Property]]
 	- Let $S$ be a set of nodes s.t. $\phi \subset S \subset V$.
-	- Let
+	- Let $e$ be the minimum cost edge with one end in $S$ and one end in $V - S$
+	-
 -
