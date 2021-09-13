@@ -7,4 +7,5 @@
 	- There is a path $P$ from $u$ to $v$ in $T^*$
 	- Let $e^* = (u^*, v^*)$ be the first edge in $P$ crossing from $S$ to $S-V$
 	- By definition, $C_{e^*} > C_e$
+	- Therefore, we can exchange $e^*$ for $e$ to get $T' = T^* - e^* + e$
 	-
