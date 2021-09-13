@@ -3,6 +3,5 @@
 - $e$ is in every [[Minimum Spanning Tree]] of $G$.
 - #[[Proof by Contradiction]]
 	- Let $S$ and $e = <u,v>$ be s.t. $u \in S$, $v \in V-S$, and $e$ is the min-cost edge crossing $(S, V-S)$
-	- Let $T^*$ be an [[Minimum Spanning Tree]] of $G$, and assume for contradiction that $e \in T^*$
-	-
+	- Let $T^*$ be an [[Minimum Spanning Tree]] of $G$, and assume for contradiction that $e \notin T^*$
 	-
