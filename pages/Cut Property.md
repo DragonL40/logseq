@@ -8,4 +8,6 @@
 	- Let $e^* = (u^*, v^*)$ be the first edge in $P$ crossing from $S$ to $S-V$
 	- By definition, $C_{e^*} > C_e$
 	- Therefore, we can exchange $e^*$ for $e$ to get $T' = T^* - e^* + e$
-	- $T'$ must be a MST because
+	- $T'$ must be a MST because..
+		- ((613fd6c8-6437-42e4-9e61-9aba48332d96))
+		-
