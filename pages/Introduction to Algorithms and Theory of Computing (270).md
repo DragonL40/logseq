@@ -41,7 +41,7 @@
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
-- [[The Minimum Spanning Tree Problem]]
+### [[The Minimum Spanning Tree Problem]]
 -
 -
 -

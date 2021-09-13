@@ -1,0 +1,3 @@
+- Input:
+	- Connected undirected graph $G=<V,E>$
+	-
