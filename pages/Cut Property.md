@@ -5,4 +5,5 @@
 	- Let $S$ and $e = <u,v>$ be s.t. $u \in S$, $v \in V-S$, and $e$ is the min-cost edge crossing $(S, V-S)$
 	- Let $T^*$ be an [[Minimum Spanning Tree]] of $G$, and assume for contradiction that $e \notin T^*$
 	- There is a path $P$ from $u$ to $v$ in $T^*$
-	- Let $e^* = (u^*, v^)$
+	- Let $e^* = (u^*, v^*)$ be the first edge in $P$ crossing from $S$ to $S-V$
+	- By definition, $$
