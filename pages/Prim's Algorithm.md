@@ -9,4 +9,4 @@
 		- Add $e$ to $T$
 		- Add $v$ to $S$
 -
-- P
+- _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] _
