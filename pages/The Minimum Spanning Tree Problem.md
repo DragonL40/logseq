@@ -1,4 +1,6 @@
+- #[[Minimum Spanning Tree]]
 - Input:
 	- Connected undirected graph $G=<V,E>$
 	- Cost $C_e \ge 0$ for each $e \in E$
--
+- Output:
+	-
