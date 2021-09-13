@@ -6,4 +6,5 @@
 	- Let $T^*$ be an [[Minimum Spanning Tree]] of $G$, and assume for contradiction that $e \notin T^*$
 	- There is a path $P$ from $u$ to $v$ in $T^*$
 	- Let $e^* = (u^*, v^*)$ be the first edge in $P$ crossing from $S$ to $S-V$
-	- By definition, $$
+	- By definition, $C_{e^*} > C_e$
+	-
