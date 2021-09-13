@@ -57,7 +57,7 @@
 			- $j_{t+1} \in R$ at iteration $t+1$
 			- Since $i_{t+1}$ is earliest finishing tasks in $R$ during iteration $t+1$
 			-
-			  $$f(i_t + 1) \le f(j_t+1)$$
+			  $$f(i_{t + 1}) \le f(j_{t+1})$$
 	- Earliest Finish Time: the proof, using the [[Exchange Argument]]
 		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
 		- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
