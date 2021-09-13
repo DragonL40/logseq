@@ -5,6 +5,6 @@
 - Output:
 	- [[Spanning Tree]] $T \subset E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
 - {{embed [[Tree]]}}
-- Algorithms to solve this problem:
-	-
-	-
+- Algorithms to solve this problem #numlist
+	- [[Prim's Algorithm]]
+	- [[Kruskal's Algorithm]]

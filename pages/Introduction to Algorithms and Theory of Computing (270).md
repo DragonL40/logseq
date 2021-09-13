@@ -657,7 +657,6 @@
 		- $OPT'$ is connected: any pair of nodes that used edge $j$ can use the rest of cycle $C$ as a detour instead.
 		- Therefore, $OPT'$ is still a tree, and thus is valid.
 - Proof of the [[Prim's Algorithm]]
-  collapsed:: true
 	- The [[Cut Property]] states that for any partition $\langle P, V-P \rangle$ of the vertices, the cheapest edge spanning the partition is in the [[Minimum Spanning Tree]]
 	- B.C.: There is an optimal solution that includes the first 0 edges from Prim's Algorithm.
 	- I.H.: PA includes edge $i$ next: assume that OPT does not include this edge (otherwise we're done)
