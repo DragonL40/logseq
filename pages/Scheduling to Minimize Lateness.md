@@ -6,5 +6,5 @@
 -
 - What is the greedy criteria?
 	- Earliest Deadline First
-	-
+-
 -
