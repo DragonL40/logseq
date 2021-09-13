@@ -103,4 +103,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is the impact of natural selection on a population?
 	- ((613f0e97-fae9-4792-9158-59e3d8dd6e45))
 - Different modes of natural selection:
--
+	- ((613f0f27-49e8-48c6-8128-07be0a813a05))
+	- [[Stabilizing selection]]
+		- ((613f0f47-1f89-4c5c-894c-b32ea05c1d9a))
+	-
