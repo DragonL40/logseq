@@ -1,3 +1,2 @@
-- [[Course Catalog]]
 - [[Introduction to Algorithms and Theory of Computing (270)]]
 - [[TODO]]
