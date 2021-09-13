@@ -80,6 +80,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## [[Theory of Natural Selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
 - What are the three main components in Darwin-Wallace [[Theory of Natural Selection]]?
+  collapsed:: true
 	- Variation in traits
 	- Hearitability of traits
 	- Selection results from differential reproductive success
@@ -87,22 +88,27 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
 - Individuals do not evolve. It is the population that evolves over time.
 - Evidence supporting Darwin-Wallace [[Theory of Natural Selection]]
+  collapsed:: true
 	- Biogeography of closely related spp.
 	- Fossils
 	- Embryology - homologies, vestigial organs
 	- Also, Darwin emphasized similarities to [[Artificial Selection]].
 - [[three-spined stickleback]]
+  collapsed:: true
 	- Shows significant morphological change within a few thousand years
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
 - What are the forces of Evolutionary Change in a population?
+  collapsed:: true
 	- Natural Selection
 	- Sexual Selection
 	- Genetic Drift
 	- Gene Flow
 	- Mutation
 - What is the impact of natural selection on a population?
+  collapsed:: true
 	- ((613f0e97-fae9-4792-9158-59e3d8dd6e45))
 - Different modes of natural selection:
+  collapsed:: true
 	- ((613f0f27-49e8-48c6-8128-07be0a813a05))
 	- [[Stabilizing selection]]
 	  collapsed:: true
