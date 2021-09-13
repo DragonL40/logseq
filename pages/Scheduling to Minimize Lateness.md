@@ -6,6 +6,7 @@
 -
 - What is the greedy criteria?
 	- Earliest Deadline First, $d_1 \le \dots \le d_n$
--
+- The Algorithm
+	-
 -
 -
