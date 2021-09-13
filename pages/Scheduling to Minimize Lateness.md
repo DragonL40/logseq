@@ -11,6 +11,9 @@
 	- Assume for simplicity of notation that $d_1 \le \dots \le d_n$
 	- Initially, $f = s$
 	- Consider the jobs $i = 1, \dots, n$ in this order
-		-
+		- Assign job $i$ to the time interval from $s(i) = f$ to $f(i) = f + t_i$
+		- Let $f = f +t_i$
+	- End
+	- Return the set of scheduled intervals $[s(i), f(i)]$
 -
 -
