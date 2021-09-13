@@ -3,6 +3,7 @@
 - Beginning at our overall start time $s$, we will assign each request $i$ an interval of time of length $t_i$; let us denote this interval by $[s(i), f(i)]$, with $f(i) = s(i) + t_i$.
 - A request $i$ is _late_ if $f(i) > d_i$, and the _lateness_ of such a request $i$ is defined to be $l_i = f(i)-d_i$.
 - **The goal is to schedule all requests, using non-overlapping intervals, so as to minimize the _maximum lateness_**
+-
 - _There exists an optimal schedule with no "idle time"_
 - _Schedules with no idle time are in one-to-one correspondence with orderings of jobs_
 -
