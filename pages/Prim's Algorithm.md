@@ -1,4 +1,8 @@
 - What is the [[Cut Property]]? #card
 -
 - $T = \phi$
--
+- $S = \{s\}$ for arbitrary $s \in V$
+- While $S \ne V$
+	- Let $e = <u,v> be the min cost edge with $u \in S$ and $v \in S$
+	- Add $e$ to $T$
+	- add
