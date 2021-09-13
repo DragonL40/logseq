@@ -5,8 +5,10 @@
 - **The goal is to schedule all requests, using non-overlapping intervals, so as to minimize the _maximum lateness_**
 -
 - What is the greedy criteria?
+  collapsed:: true
 	- Earliest Deadline First, $d_1 \le \dots \le d_n$
 - The Algorithm
+  collapsed:: true
 	- Order the jobs in order of their deadlines
 	- Assume for simplicity of notation that $d_1 \le \dots \le d_n$
 	- Initially, $f = s$
@@ -14,6 +16,7 @@
 		- Assign job $i$ to the time interval from $s(i) = f$ to $f(i) = f + t_i$
 		- Let $f = f +t_i$
 	- End
-	- Return the set of scheduled intervals $[s(i), f(i)]$
+	- Return the set of scheduled intervals $[s(i), f(i)]$ for $i = 1, \dots, n$
+- _T_
 -
 -
