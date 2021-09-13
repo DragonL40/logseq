@@ -3,4 +3,6 @@
 	- Connected undirected graph $G=<V,E>$
 	- Cost $C_e \ge 0$ for each $e \in E$
 - Output:
+	- [[Spanning Tree]] $T \subset E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
+	-
 	-
