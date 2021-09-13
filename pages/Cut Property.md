@@ -13,5 +13,3 @@
 		- $(V, T')$ is connected
 		- ((613fd6c8-6437-42e4-9e61-9aba48332d96)) implies that $T'$ is a spanning tree of $G$.
 	- Contradiction: $C(T') = C(T^*) - C_{e^*} + C_e < C(T^*)$
-	-
-	-

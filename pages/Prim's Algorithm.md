@@ -1,2 +1,4 @@
 - What is the [[Cut Property]]? #card
 -
+- $T = \phi$
+-
