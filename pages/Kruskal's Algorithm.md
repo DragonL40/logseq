@@ -1,2 +1,1 @@
 - [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle. It provably find the [[Minimum Spanning Tree]].
--
