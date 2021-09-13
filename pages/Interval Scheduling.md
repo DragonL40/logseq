@@ -34,3 +34,5 @@ filters:: {}
 		- Since $i_{t+1}$ is earliest finishing tasks in $R$ during iteration $t+1$
 		-
 		  $$f(i_{t + 1}) \le f(j_{t+1})$$
+- Proof: _The greedy algorithm returns an optimal set $A$_
+	-
