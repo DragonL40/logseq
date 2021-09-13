@@ -5,5 +5,5 @@
 - Output:
 	- [[Spanning Tree]] $T \subset E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
 - {{embed [[Tree]]}}
-	-
+-
 	-
