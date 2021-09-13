@@ -17,6 +17,9 @@
 		- Let $f = f +t_i$
 	- End
 	- Return the set of scheduled intervals $[s(i), f(i)]$ for $i = 1, \dots, n$
-- _T_
+-
+- _There is an optimal schedule with no idle time_
+- _All schedules with no inversions and no idle time have the same maximum lateness_
+-
 -
 -
