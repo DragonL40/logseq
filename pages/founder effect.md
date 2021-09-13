@@ -1,3 +1,3 @@
 -
   > happens at dispersion events
-- Dis
+- Dispersion to small founder population can lead to random differences in allele frequencies
