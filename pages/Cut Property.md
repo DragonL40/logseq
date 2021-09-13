@@ -2,4 +2,5 @@
 - Let $e$ be the minimum cost edge with one end in $S$ and one end in $V - S$.
 - $e$ is in every [[Minimum Spanning Tree]] of $G$.
 ## Proof
+	- Let $S$ and $e = <u,v>$ be s.t. $u \in S$, $v \in V-S$, and $e$ is the min-cost edge crossing $(S, V-S)$
 	-
