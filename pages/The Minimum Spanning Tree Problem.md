@@ -3,7 +3,7 @@
 	- Connected undirected graph $G=<V,E>$
 	- Cost $C_e \ge 0$ for each $e \in E$
 - Output:
-	- [[Spanning Tree]] $T \subset E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
+	- [[Spanning Tree]] $T \subseteq E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
 - {{embed [[Tree]]}}
 - Algorithms to solve this problem #numlist
 	- [[Prim's Algorithm]]
