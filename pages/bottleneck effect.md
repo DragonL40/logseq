@@ -1,0 +1,2 @@
+- dramatic decrease of population size leaves only part of the genetic variation
+- Example: Northern elephant seals
