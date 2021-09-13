@@ -247,10 +247,7 @@
 				- Use solve-by-tree.
 ## 5/24: [[Union-Find ADT]]
 	- [[Minimum Spanning Tree]]
-	  collapsed:: true
-		- Given a connected, undirected graph $G$, a **minimum spanning tree** is the [[Spanning Tree]] which minimizes the sum of the edge weights.
-	- Kruskal's Algorithm
-		- [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle. It provably find the [[Minimum Spanning Tree]] .
+	- [[Kruskal's Algorithm]]
 	- Implementing [[Kruskal's Algorithm]]
 	  collapsed:: true
 		- What would be the first step in the implementation of Kruskal's Algorithm?
