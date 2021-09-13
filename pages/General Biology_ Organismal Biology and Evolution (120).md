@@ -91,8 +91,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Fossils
 	- Embryology - homologies, vestigial organs
 	- Also, Darwin emphasized similarities to [[Artificial Selection]].
+- [[three-spined stickleback]]
+	- Shows significant morphological change within a few thousand years
 -
-	-
 -
 -
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
