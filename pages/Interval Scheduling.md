@@ -35,4 +35,4 @@ filters:: {}
 		  id:: 6137e097-a872-4c94-b52f-bec15d4ca0e2
 		  $$f(i_{t + 1}) \le f(j_{t+1})$$
 - Proof: _The greedy algorithm returns an optimal set A_  #[[Proof by Contradiction]]
-	- If $A$ is not optimal, then an optimal set $OPT$ must have more requests, that is, we must have $m > k$. Applying ((6137e097-a872-4c94-b52f-bec15d4ca0e2)) with $r = k$, we get that $f(i_k) \le f(j_k)$. Since $m > k$, there is a request $j_{k+1}$ in OPT. This request
+	- If $A$ is not optimal, then an optimal set $OPT$ must have more requests, that is, we must have $m > k$. Applying ((6137e097-a872-4c94-b52f-bec15d4ca0e2)) with $r = k$, we get that $f(i_k) \le f(j_k)$. Since $m > k$, there is a request $j_{k+1}$ in OPT. This request starts after request $j_k$ ends, and hence after $i_k$ ends. So after deleting all requests that are not compatible with requests
