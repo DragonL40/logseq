@@ -3,6 +3,7 @@
 - $T = \phi$
 - $S = \{s\}$ for arbitrary $s \in V$
 - While $S \ne V$
-	- Let $e = <u,v> be the min cost edge with $u \in S$ and $v \in S$
+	- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
 	- Add $e$ to $T$
-	- add
+	- Add $v$ to $S$
+-
