@@ -4,6 +4,6 @@
 - A request $i$ is _late_ if $f(i) > d_i$, and the _lateness_ of such a request $i$ is defined to be $l_i = f(i)-d_i$.
 - **The goal is to schedule all requests, using non-overlapping intervals, so as to minimize the _maximum lateness_**
 -
-- _There exists an optimal schedule with no "idle time"_
-- _Schedules with no idle time are in one-to-one correspondence with orderings of jobs_
+- What is the greedy criteria?
+	- Earliest Deadline First
 -
