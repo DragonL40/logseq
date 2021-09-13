@@ -1,0 +1,2 @@
+- Example: many apes have 24 pairs of chromosomes, while humans have 23 pairs.
+	-
