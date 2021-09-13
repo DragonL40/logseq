@@ -4,4 +4,4 @@
 - Fact B: Given a graph, any two of the following properties implies the third: #numlist
 	- Connected
 	- Acyclic
-	-
+	- $|E| = |V| - 1$
