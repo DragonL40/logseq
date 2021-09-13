@@ -12,4 +12,4 @@
 - _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ #[[Proof by Induction]]
 	- After iteration $i$, $|S| = i+1$ and $(S,T)$ is a tree.
 	- B.C.: True for $i = 0$
-	- I.S.: In each iteration, we add one node $v$ to $S$, plus $e$ from $T$ to $V$
+	- I.S.: In each iteration, we add one node $v$ to $S$, plus $e$ from $T$ to $v$
