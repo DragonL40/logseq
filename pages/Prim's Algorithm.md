@@ -9,4 +9,6 @@
 		- Add $e$ to $T$
 		- Add $v$ to $S$
 -
-- _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] _
+- _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ #[[Proof by Induction]]
+	- After iteration $i$,
+	-
