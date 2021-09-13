@@ -1,9 +1,10 @@
 - What is the [[Cut Property]]? #card
 -
-- $T = \phi$
-- $S = \{s\}$ for arbitrary $s \in V$
-- While $S \ne V$
-	- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
-	- Add $e$ to $T$
-	- Add $v$ to $S$
+- The Algorithm
+	- $T = \phi$
+	- $S = \{s\}$ for arbitrary $s \in V$
+	- While $S \ne V$
+		- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
+		- Add $e$ to $T$
+		- Add $v$ to $S$
 -
