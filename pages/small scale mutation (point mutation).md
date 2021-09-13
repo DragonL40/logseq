@@ -2,4 +2,3 @@
 - You can get **silent** mutations when the change in genetic code does not change the prospective enzyme.
 - You can get **nonsense** mutations where it leads to wild changes.
 - Point mutations can also lead to [[frameshift]] (subsequent codon triplets shifted and all wrong)
--
