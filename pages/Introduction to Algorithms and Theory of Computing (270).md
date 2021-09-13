@@ -40,7 +40,7 @@
   collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
 	-
-### Scheduling to minimize late time
+### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 	-
 	  > There exists an optimal schedule with no "idle time"
 	-
