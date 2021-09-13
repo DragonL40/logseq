@@ -5,6 +5,7 @@
 - **The goal is to schedule all requests, using non-overlapping intervals, so as to minimize the _maximum lateness_**
 -
 - What is the greedy criteria?
-	- Earliest Deadline First
+	- Earliest Deadline First, $d_1 \le \dots \le d_n$
+-
 -
 -
