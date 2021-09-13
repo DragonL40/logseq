@@ -1,11 +1,11 @@
 - Let $S$ be a set of nodes s.t. $\phi \subset S \subset V$.
 - Let $e$ be the minimum cost edge with one end in $S$ and one end in $V - S$.
-- $e$ is in every [[Minimum Spanning Tree]] of $G$.
+- $e$ is in every [[Minimum Spanning Tree (MST)]] of $G$.
 - #[[Proof by Contradiction]]
 	- Let $S$ and $e = <u,v>$ be s.t. $u \in S$, $v \in V-S$, and $e$ is the min-cost edge crossing $(S, V-S)$
-	- Let $T^*$ be an [[Minimum Spanning Tree]] of $G$, and assume for contradiction that $e \notin T^*$
+	- Let $T^*$ be an [[Minimum Spanning Tree (MST)]] of $G$, and assume for contradiction that $e \notin T^*$
 	- There is a path $P$ from $u$ to $v$ in $T^*$
 	- Let $e^* = (u^*, v^*)$ be the first edge in $P$ crossing from $S$ to $S-V$
 	- By definition, $C_{e^*} > C_e$
 	- Therefore, we can exchange $e^*$ for $e$ to get $T' = T^* - e^* + e$
-	-
+	- $T'$ must be a MST because

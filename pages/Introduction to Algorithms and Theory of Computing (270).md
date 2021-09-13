@@ -246,7 +246,7 @@
 				- $\log n$ and $1$ does not difference by more than a polynomial factor. Therefore, [[Master Theorem]]  won't work there.
 				- Use solve-by-tree.
 ## 5/24: [[Union-Find ADT]]
-	- [[Minimum Spanning Tree]]
+	- [[Minimum Spanning Tree (MST)]]
 	- [[Kruskal's Algorithm]]
 	- Implementing [[Kruskal's Algorithm]]
 	  collapsed:: true
@@ -646,7 +646,7 @@
 	- Prove that OPT' is still optimal, that is it still optimizes the solution
 - Proof of the [[Kruskal's Algorithm]]
   collapsed:: true
-	- The [[Cycle Property]] states that the largest-cost edge in a cycle is not in the [[Minimum Spanning Tree]]
+	- The [[Cycle Property]] states that the largest-cost edge in a cycle is not in the [[Minimum Spanning Tree (MST)]]
 	- B.C.: There is an optimal solution that includes out first 0 edges from Kruskal's Algorithm (KA)
 	- I.H.: Assume there is an OPT solution that includes the first $k$ edges from KA.
 	- I.S.: KA includes edge $i$ next: assume that OPT does not include this edge.
@@ -657,7 +657,7 @@
 		- $OPT'$ is connected: any pair of nodes that used edge $j$ can use the rest of cycle $C$ as a detour instead.
 		- Therefore, $OPT'$ is still a tree, and thus is valid.
 - Proof of the [[Prim's Algorithm]]
-	- The [[Cut Property]] states that for any partition $\langle P, V-P \rangle$ of the vertices, the cheapest edge spanning the partition is in the [[Minimum Spanning Tree]]
+	- The [[Cut Property]] states that for any partition $\langle P, V-P \rangle$ of the vertices, the cheapest edge spanning the partition is in the [[Minimum Spanning Tree (MST)]]
 	- B.C.: There is an optimal solution that includes the first 0 edges from Prim's Algorithm.
 	- I.H.: PA includes edge $i$ next: assume that OPT does not include this edge (otherwise we're done)
 		- $OPT+i$ creates a cycle $C$. Since PA included edge $i$, all other edges spanning the discovered and undiscovered nodes must cost at least as much.
