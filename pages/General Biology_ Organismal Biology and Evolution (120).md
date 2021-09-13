@@ -105,5 +105,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Different modes of natural selection:
 	- ((613f0f27-49e8-48c6-8128-07be0a813a05))
 	- [[Stabilizing selection]]
+	  collapsed:: true
 		- ((613f0f47-1f89-4c5c-894c-b32ea05c1d9a))
+	- [[Directional selection]]
+	  collapsed:: true
+		- ((613f0f6c-c171-4917-836f-cd49e6ae60c1))
 	-
