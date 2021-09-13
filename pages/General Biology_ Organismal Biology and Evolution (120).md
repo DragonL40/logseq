@@ -121,4 +121,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- ((613f1001-4879-4744-be2f-3d4575877a31))
 - What is [[Mutation]]?
 	- Mutations produce new variations
+	- Often caused by DNA polymerase errors in DNA synthesis (or DNA repair)
 	-
