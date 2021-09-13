@@ -18,8 +18,8 @@
 	- End
 	- Return the set of scheduled intervals $[s(i), f(i)]$ for $i = 1, \dots, n$
 -
-- _There is an optimal schedule with no idle time_
-- _All schedules with no inversions and no idle time have the same maximum lateness_
--
+- **(4.7)** _There is an optimal schedule with no idle time_
+- **(4.8)** _All schedules with no inversions and no idle time have the same maximum lateness_
+- **(4.9)** _There is an optimal schedule that_
 -
 -
