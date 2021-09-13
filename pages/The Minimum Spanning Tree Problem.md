@@ -4,6 +4,6 @@
 	- Cost $C_e \ge 0$ for each $e \in E$
 - Output:
 	- [[Spanning Tree]] $T \subset E$ minimizing total cost $C(T)  := \sum_{e \in T} C_e$
-- [[Tree]]: ((613fd41b-f449-4dcd-a715-ce54b66dbfef))
--
+- {{embed [[Tree]]}}
+	-
 	-
