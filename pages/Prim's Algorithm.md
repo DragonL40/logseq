@@ -1,1 +1,1 @@
-- Lemma ()
+- Lemma [[Cut Property]]: Let $S$ be a set of nodes s.t.
