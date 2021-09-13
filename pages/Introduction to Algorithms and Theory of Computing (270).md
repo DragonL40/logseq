@@ -26,7 +26,7 @@
 	- Builds solution in small steps
 	- Each step optimizes some myopic criterion
 	- Does not backtrack/reverse decision
-### The [[Interval Scheduling]] Problem
+### [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
 collapsed:: true
 	- What is the greedy criteria?
 	  collapsed:: true
