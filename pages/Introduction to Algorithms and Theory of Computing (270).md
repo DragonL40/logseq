@@ -45,7 +45,7 @@
 		- $O$ is the optimal solution
 		- Denote $k = |A|, m = |O|$, obviously $k \le m$
 		- We will show that $k = m$ (our solution is **an** optimal solution)
-	- Proof: Greedy Stays ahead
+	- Proof: Greedy Stays Ahead
 		- Let $A = \{i_1, \dots, i_k\}$ in order by finish time
 		- Let $O = \{j_1, \dots. j_m\}$ in order by finish time.
 		-
