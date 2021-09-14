@@ -6,5 +6,5 @@
 	- ((61410fa9-d520-4a66-a6da-549cf0f8fa71))
 	- ((61411078-4569-4390-acfd-23a245168bff))
 		- 3-point lighting system
-		-
+			- The back light creates a sense of background separation by lighting up the
 	-
