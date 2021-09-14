@@ -5,12 +5,11 @@
 		- Hairstyles
 	- ((61410fa9-d520-4a66-a6da-549cf0f8fa71))
 	- ((61411078-4569-4390-acfd-23a245168bff))
-		- 3-point lighting system
+		- ((614111df-046c-49d5-a0bd-2d3b70ee1c70))
 			- The **key light** is the main source, usually off to one side
 			- The **fill light** fills in the shadows created by the key light.
 			- The **back light** creates a sense of background separation by lighting up the shoulders
-		- Light direction
+		- ((614111d6-2089-4294-9b98-7e2ff7a463f3))
 			- Front lighting flattens the feature on the subject's face
-		- Light intensity
-			-
-	-
+		- ((614111c8-e62d-42c1-8ec9-c8514b425187))
+			- high-key lighting means high
