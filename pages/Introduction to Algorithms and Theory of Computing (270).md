@@ -8,7 +8,6 @@
 ## [[The Stable Matching Problem]]
 - What is the [[Gale-Shapley Algorithm]]?
 - How many iteration before the [[Gale-Shapley Algorithm]] terminates?
-  collapsed:: true
 	-
 	  > It is not guaranteed that the runtime of the [[Gale-Shapley Algorithm]] is $O(n^2)$, as the **runtime per iteration** may vary.
 - How to guarantee that each iteration of the [[Gale-Shapley Algorithm]] takes constant time?
