@@ -1,5 +1,6 @@
 - ![Week 4- Visual Design.pdf](../assets/Week_4-_Visual_Design_1631653342821_0.pdf)
 - What are the elements of visual design?
 	- ((61410ebf-e637-4834-812b-5a087a375918))
-		- Costume can situate you in the setting
+		- Costume can situate you in the setting and give you information about the character
+		- Hairstyles
 	-
