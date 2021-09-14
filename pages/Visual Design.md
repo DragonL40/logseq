@@ -24,4 +24,7 @@
 			- Fast stock is very sensitive to light, can shoot in low light, but it will be grainy and lack resolution
 			- Slow stock is less sensitive and needs more light, but is it very shard with high resolution
 	- ((61411644-450d-46a3-8aa3-73112d94044d))
-		-
+	- ((61411773-f15b-4dc0-ae8f-869043ed1539))
+		- Representational
+		- Abstract
+		- _The two can also be combined_

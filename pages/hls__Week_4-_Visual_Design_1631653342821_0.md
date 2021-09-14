@@ -33,3 +33,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 2
   id:: 61411644-450d-46a3-8aa3-73112d94044d
+- Title Design
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 61411773-f15b-4dc0-ae8f-869043ed1539
