@@ -19,4 +19,5 @@
 			- low-key lighting means low fill (hight contrast).
 			- hard lighting
 			- soft lighting
+	- ((61411436-3e01-4060-b028-724e7be8f3cf)) - grain, clarity
 		-
