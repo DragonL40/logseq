@@ -6,7 +6,9 @@
 	- ((61410fa9-d520-4a66-a6da-549cf0f8fa71))
 	- ((61411078-4569-4390-acfd-23a245168bff))
 		- 3-point lighting system
-			- The key light is the main source, usually off to one side
-			- The fill light fills in the shadows created by the key light.
+			- The **key light** is the main source, usually off to one side
+			- The **fill light** fills in the shadows created by the key light.
 			- The **back light** creates a sense of background separation by lighting up the shoulders
+		- Front lighting flattens the feature on the subject's face
+		-
 	-
