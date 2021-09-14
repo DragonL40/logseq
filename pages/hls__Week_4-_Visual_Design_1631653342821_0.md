@@ -9,3 +9,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 1
   id:: 61410fa9-d520-4a66-a6da-549cf0f8fa71
+- Lighting
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 61411078-4569-4390-acfd-23a245168bff
