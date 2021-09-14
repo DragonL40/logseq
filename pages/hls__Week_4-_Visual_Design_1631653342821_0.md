@@ -5,3 +5,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 1
   id:: 61410ebf-e637-4834-812b-5a087a375918
+- Décor –Set, Set Dressing, Props
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 61410fa9-d520-4a66-a6da-549cf0f8fa71
