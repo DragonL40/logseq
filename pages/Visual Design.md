@@ -9,6 +9,8 @@
 			- The **key light** is the main source, usually off to one side
 			- The **fill light** fills in the shadows created by the key light.
 			- The **back light** creates a sense of background separation by lighting up the shoulders
-		- Front lighting flattens the feature on the subject's face
-		-
+		- Light direction
+			- Front lighting flattens the feature on the subject's face
+		- Light intensity
+			-
 	-

@@ -13,3 +13,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 1
   id:: 61411078-4569-4390-acfd-23a245168bff
+- Degree of Lighting Intensity
+  ls-type:: annotation
+  hl-page:: 1
+  id:: 614111c8-e62d-42c1-8ec9-c8514b425187
