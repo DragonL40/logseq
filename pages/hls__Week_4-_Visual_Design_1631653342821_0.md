@@ -29,3 +29,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 2
   id:: 61411436-3e01-4060-b028-724e7be8f3cf
+- Color
+  ls-type:: annotation
+  hl-page:: 2
+  id:: 61411644-450d-46a3-8aa3-73112d94044d
