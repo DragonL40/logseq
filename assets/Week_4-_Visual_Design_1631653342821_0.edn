@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "61410ebf-e637-4834-812b-5a087a375918", :page 1, :position {:bounding {:x1 121.484375, :y1 138.453125, :x2 253.91635131835938, :y2 152.453125, :width 589.9999999999999, :height 763.5294117647059}, :rects ({:x1 121.484375, :y1 138.453125, :x2 253.91635131835938, :y2 152.453125, :width 589.9999999999999, :height 763.5294117647059}), :page 1}, :content {:text "Costume, Hairstyle, Makeup"}, :properties {:color "yellow"}}]}
