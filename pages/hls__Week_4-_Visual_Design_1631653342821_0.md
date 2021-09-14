@@ -41,3 +41,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 3
   id:: 614117fb-75af-4e4e-9015-42937eaeb1ac
+- Functions of Visual Design
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 6141189a-3a69-4c32-809a-9c3683e82118
