@@ -13,4 +13,6 @@
 			- Front lighting flattens the feature on the subject's face
 		- ((614111c8-e62d-42c1-8ec9-c8514b425187))
 			- high-key lighting means high fill; that is, there is not much ratio between key and fill.
-			-
+			- low-key lighting means low fill (hight contrast).
+			- hard lighting
+			- soft lighting
