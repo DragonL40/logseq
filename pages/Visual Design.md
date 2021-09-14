@@ -22,4 +22,4 @@
 	- ((61411436-3e01-4060-b028-724e7be8f3cf)) - grain, clarity
 		- Different types of film stock
 			- Fast stock is very sensitive to light, can shoot in low light.
-			-
+			- Slow stock is less sensitive
