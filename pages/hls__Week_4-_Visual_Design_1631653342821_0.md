@@ -37,3 +37,7 @@ file-path:: ../assets/Week_4-_Visual_Design_1631653342821_0.pdf
   ls-type:: annotation
   hl-page:: 3
   id:: 61411773-f15b-4dc0-ae8f-869043ed1539
+- Special Effects
+  ls-type:: annotation
+  hl-page:: 3
+  id:: 614117fb-75af-4e4e-9015-42937eaeb1ac
