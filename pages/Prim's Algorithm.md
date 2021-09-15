@@ -1,12 +1,13 @@
 - What is the [[Cut Property]]?
-- The Algorithm
-  collapsed:: true
-	- $T = \phi$
-	- $S = \{s\}$ for arbitrary $s \in V$
-	- While $S \ne V$
-		- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
-		- Add $e$ to $T$
-		- Add $v$ to $S$
+-
+## T
+- $T = \phi$
+- $S = \{s\}$ for arbitrary $s \in V$
+- While $S \ne V$
+	- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
+	- Add $e$ to $T$
+	- Add $v$ to $S$
+-
 - #[[Proof by Induction]] _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ (feasibility)
 	- I.H.: After iteration $i$, $|S| = i+1$ and $(S,T)$ is a tree.
 	- B.C.: True for $i = 0$
