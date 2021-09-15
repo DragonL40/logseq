@@ -21,4 +21,5 @@
 	- $T \subseteq T^*$
 	- $c(T) \subseteq c(T^*)$
 - _The runtime of the Prim's Algorithm is_ $n\log n$
-	-
+	- Same as the proof for [[Dijkstra's Algorithm]].
+	- This is because
