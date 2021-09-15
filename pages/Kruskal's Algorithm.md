@@ -8,7 +8,8 @@
 -
 - Kruskal's Algorithm produces a [[Spanning Tree]] of G (feasibility)
 	- Let $T$ be output of algorithm
-	-
+	- $T$ is acyclic by definition of algorithm
+	- By ((613fd6c8-6437-42e4-9e61-9aba48332d96))
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
