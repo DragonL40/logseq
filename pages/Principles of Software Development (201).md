@@ -142,5 +142,6 @@
 	- [[HashSet]] that keeps the sorted order
 - [[HashMap]] in Java
 ## Functional Programming in Java
-- What is Lambda expression
+- What is [[lambda expression]]?
+	- A lambda expression describes  an anonymous function
 -
