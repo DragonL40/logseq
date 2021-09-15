@@ -6,6 +6,7 @@
 	- Endfor
 	- Output $T$
 -
+- hi
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
