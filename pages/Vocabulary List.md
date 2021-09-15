@@ -6,4 +6,7 @@
 	- adj. keen, perceptive
 	-
 	  > Observant students of ideas will recognize Hindu beliefs in this movement as well.
-- mount
+- mount #card
+	- v. to increase in amount
+	- v. to organize and begin something
+-
