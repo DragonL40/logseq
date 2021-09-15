@@ -20,7 +20,7 @@
 	- Enough to show that each edge we add satisfies [[Cut Property]].
 	- Consider edge $e = (u,v)$ added in iteration $i$
 	- **Notation**: $T_i$ is $T$ at beginning of iteration $i$
-	- Let $S$ be connected component of $u$ in $(v, T_i)$
+	- Let $S$ be [[connected component]] of $u$ in $(v, T_i)$
 	-
 -
 -
