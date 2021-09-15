@@ -18,7 +18,8 @@
 	- $\exists$ a path from $u$ to $v$ in $T$. $_\square$
 - _Kruskal's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ (optimality)
 	- Enough to show that each edge we add satisfies [[Cut Property]].
-	- Consider edge $e = (u,v)$
+	- Consider edge $e = (u,v)$ added in iteration $i$
+	- **Notation**: $T_i
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
