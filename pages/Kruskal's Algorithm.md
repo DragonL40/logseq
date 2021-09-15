@@ -24,6 +24,7 @@
 	- $v \notin S$
 	- We need to show that $e$ is the min-cost edge crossing $(S, V-S)$
 		- Suppose for contradiction $e' = (u', v')$ is cheaper and crosses $(S, V-S)$
+		- $e'$ was examined in earlier iteration $j < i$
 		-
 -
 -
