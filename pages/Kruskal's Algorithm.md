@@ -6,7 +6,7 @@
 	- Endfor
 	- Output $T$
 -
-- Kruskal's Algorithm produces a [[Spanning Tree]] of G (feasibility)
+- _Kruskal's Algorithm produces a [[Spanning Tree]] of G_ (feasibility)
 	- Let $T$ be output of algorithm
 	- $T$ is acyclic by definition of algorithm
 	- If we show that $T$ is connected, then by ((613fd6c8-6437-42e4-9e61-9aba48332d96)) we know that $T$ is a spanning tree.
@@ -16,7 +16,7 @@
 		- If $e \in T$, then there is a path in $T$ between endpoints of $e$.
 	- Take two nodes $(u,v)$, we know $\exists$ path from $u$ to $v$ in $G$, by replacing edges $e$ not in $T$ with $p_e$.
 	- $\exists$ a path from $u$ to $v$ in $T$. $_\square$
-	-
+-
 -
 -
 -
