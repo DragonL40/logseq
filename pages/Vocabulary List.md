@@ -4,8 +4,7 @@
 	- adj. designed or intended to teach people something
 - observant #card
 	- adj. keen, perceptive
-	-
-	  > Observant students of ideas will recognize Hindu beliefs in this movement as well.
+		- _Observant students of ideas will recognize Hindu beliefs in this movement as well._
 - mount #card
 	- v. to increase in amount
 	- v. to organize and begin something
@@ -14,4 +13,5 @@
 - periphery #card
 	- n. the external boundary or surface of a body
 - repudiate #card
-	-
+	- v. to refuse to have anything to do with (i.e. to repudiate an accusation)
+		- _Leaders urged people to turn out in large numbers to repudiate the violence._
