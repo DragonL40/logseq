@@ -20,4 +20,5 @@
 	- By [[Cut Property]], $e \in T$ must be in every MST, in particular in $T^*$
 	- $T \subseteq T^*$
 	- $c(T) \subseteq c(T^*)$
--
+- _The runtime of the Prim's Algorithm is_ $n\log n$
+	-
