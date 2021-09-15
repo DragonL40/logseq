@@ -15,3 +15,6 @@
 - repudiate #card
 	- v. to refuse to have anything to do with (i.e. to repudiate an accusation)
 		- _Leaders urged people to turn out in large numbers to repudiate the violence._
+- anomalous #card
+	- adj. inconsistent with or deviating from what is usual, normal, or expected
+-
