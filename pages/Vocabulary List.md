@@ -11,4 +11,6 @@
 	- v. to organize and begin something
 - involved #card
 	- adj. very complicated (i.e. an involved plot)
+- periphery #card
+	- n. the external boundary or surface of a body
 -
