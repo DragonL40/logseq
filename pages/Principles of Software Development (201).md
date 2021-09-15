@@ -132,10 +132,13 @@
 - What is `InputStreamReader`?
 -
 ## Java Collections Framework
-- What is a [[HashSet]] ?
+- [[HashSet]]
+	- [[Hash Table]] in Java
 - What is a `LinkedHashSet`?
+  collapsed:: true
 	- [[HashSet]] that keeps the inserted order
 - What is a `TreeSet`?
+  collapsed:: true
 	- [[HashSet]] that keeps the sorted order
 - [[HashMap]] in Java
-	-
+-
