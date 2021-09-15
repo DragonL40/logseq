@@ -134,4 +134,7 @@
 ## Java Collections Framework
 - What is a `HashSet`?
 - What is a `LinkedHashSet`?
-	- ``
+	- `HashSet` that keeps the inserted order
+- What is a `TreeSet`?
+	- `HashSet` that keeps the sorted order
+-
