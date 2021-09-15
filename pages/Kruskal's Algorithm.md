@@ -6,7 +6,9 @@
 	- Endfor
 	- Output $T$
 -
--
+- Kruskal's Algorithm produces a [[Spanning Tree]] of G (feasibility)
+	- Let $T$ be output of algorithm
+	-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
