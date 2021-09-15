@@ -2,6 +2,7 @@
 - Let $e$ be the minimum cost edge with one end in $S$ and one end in $V - S$.
 - $e$ is in every [[Minimum Spanning Tree (MST)]] of $G$.
 - #[[Proof by Contradiction]]
+  collapsed:: true
 	- Let $S$ and $e = <u,v>$ be s.t. $u \in S$, $v \in V-S$, and $e$ is the min-cost edge crossing $(S, V-S)$
 	- Let $T^*$ be an [[Minimum Spanning Tree (MST)]] of $G$, and assume for contradiction that $e \notin T^*$
 	- There is a path $P$ from $u$ to $v$ in $T^*$
