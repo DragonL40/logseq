@@ -15,4 +15,5 @@
 		- After $n-1$ iterations, $|S| = n \implies S = V$
 		- $(V,T)$ is a tree
 		- Therefore, $T$ is a [[Spanning Tree]] of $G$.
-- __ Optim
+- _Need to show that output tree T minimizes cost_ (optimality)
+	- Let $T**$
