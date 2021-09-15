@@ -2,4 +2,5 @@
 	- v. to avoid habitually especially on moral or practical grounds
 - didactic #card
 	- adj. designed or intended to teach people something
--
+- observant #card
+	- adj
