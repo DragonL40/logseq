@@ -9,4 +9,6 @@
 - mount #card
 	- v. to increase in amount
 	- v. to organize and begin something
+- involved #card
+	- adj. very complicated (i.e. an involved plot)
 -
