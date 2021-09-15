@@ -133,4 +133,5 @@
 -
 ## Java Collections Framework
 - What is a `HashSet`?
--
+- What is a `LinkedHashSet`?
+	- ``
