@@ -1,4 +1,4 @@
-- [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle. It provably find the [[Minimum Spanning Tree (MST)]].
+- [[Kruskal's Algorithm]] adds edges from smallest to largest value, unless adding an edge creates a cycle.
 	- Sort the edges in increasing order of cost
 	- $T=\phi$
 	- For $e \in E$ in order
@@ -6,7 +6,7 @@
 	- Endfor
 	- Output $T$
 -
-- hi
+-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.

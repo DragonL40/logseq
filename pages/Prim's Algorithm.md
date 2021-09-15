@@ -1,5 +1,3 @@
-- Finds the [[Minimum Spanning Tree (MST)]]
-## The Algorithm
 - $T = \phi$
 - $S = \{s\}$ for arbitrary $s \in V$
 - While $S \ne V$
