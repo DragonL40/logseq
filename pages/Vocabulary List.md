@@ -28,4 +28,6 @@
 			- _The sharp increase in crime seems to **buttress** the argument for more police officers on the street._
 	- conspicuous #card
 		- adj. very easy to see or notice
+	- list #card
+		- n. a deviation from the vertical
 	-
