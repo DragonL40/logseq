@@ -6,4 +6,4 @@
 	- adj. keen, perceptive
 	-
 	  > Observant students of ideas will recognize Hindu beliefs in this movement as well.
--
+- mount
