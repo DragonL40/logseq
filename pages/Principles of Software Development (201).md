@@ -143,5 +143,9 @@
 - [[HashMap]] in Java
 ## Functional Programming in Java
 - What is [[lambda expression]]?
-	- A lambda expression describes  an anonymous function
+	- A lambda expression describes  an anonymous function and is represented by the following syntax:
+	-
+	  ```java
+	  list of parameters -> expression body
+	  ```
 -
