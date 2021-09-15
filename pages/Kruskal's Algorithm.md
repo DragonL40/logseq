@@ -9,6 +9,7 @@
 - Kruskal's Algorithm produces a [[Spanning Tree]] of G (feasibility)
 	- Let $T$ be output of algorithm
 	- $T$ is acyclic by definition of algorithm
+	- We know that $G$ is connected
 	- By ((613fd6c8-6437-42e4-9e61-9aba48332d96))
 -
 -
