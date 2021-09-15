@@ -8,8 +8,7 @@
 		- Let $e = <u,v>$ be the min cost edge with $u \in S$ and $v \notin S$
 		- Add $e$ to $T$
 		- Add $v$ to $S$
--
-- _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ #[[Proof by Induction]]
+- #[[Proof by Induction]] _Prim's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_
   collapsed:: true
 	- I.H.: After iteration $i$, $|S| = i+1$ and $(S,T)$ is a tree.
 	- B.C.: True for $i = 0$
