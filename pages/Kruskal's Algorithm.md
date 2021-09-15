@@ -15,7 +15,8 @@
 		- If $e \notin T$, that means adding $e$ would have created a cycle in $T$. In other words, there is a path $p_e$ in $T$ between endpoints of $e$ that does not include $e$.
 		- If $e \in T$, then there is a path in $T$ between endpoints of $e$.
 	- Take two nodes $(u,v)$, we know $\exists$ path from $u$ to $v$ in $G$, by replacing edges $e$ not in $T$ with $p_e$.
-	- \
+	- $\exists$ a path from $u$ to $v$ in $T$. $\square$
+-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
