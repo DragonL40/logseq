@@ -21,4 +21,6 @@
 	- elusive #card
 		- adj. hard to comprehend or define
 			- I had an idea that was too elusive to be put into words.
-	-
+	- buttress #card
+		- v. to support, strengthen, or defend
+			- The sharp increase in crime seems to
