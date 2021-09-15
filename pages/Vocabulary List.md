@@ -18,4 +18,7 @@
 			- _Leaders urged people to turn out in large numbers to repudiate the violence._
 	- anomalous #card
 		- adj. inconsistent with or deviating from what is usual, normal, or expected
+	- elusive #card
+		- adj. hard to comprehend or define
+			- I had an idea that was too elusive to be put into words.
 	-
