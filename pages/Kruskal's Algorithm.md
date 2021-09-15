@@ -23,7 +23,8 @@
 	- Let $S$ be [[connected component]] of $u$ in $(v, T_i)$
 	- $v \notin S$
 	- We need to show that $e$ is the min-cost edge crossing $(S, V-S)$
-		- Suppose for contradiction $
+		- Suppose for contradiction $e' = (u', v')$ is cheaper and crosses $(S, V-S)$
+		-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
