@@ -16,4 +16,5 @@
 		- Therefore, $T$ is a Spanning Tree of $G$.
 - _Need to show that output tree T minimizes cost_ (optimality)
 	- Let $T^*$ be a MST
-	- Each time an edge is added by Prim's, $e$ was the min
+	- Each time an edge is added by Prim's, $e$ was the min-cost edge crossing $(S, V-S)$ for $S$ in that iteration
+	-
