@@ -23,4 +23,3 @@
 - _The runtime of the Prim's Algorithm is_ $n\log n$
 	- Same as the proof for [[Dijkstra's Algorithm]].
 	- This is because Prim's  just uses a different key as Dijkstra's.
--
