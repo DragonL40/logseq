@@ -132,4 +132,5 @@
 - What is `InputStreamReader`?
 -
 ## Java Collections Framework
+- What is a `HashSet`?
 -
