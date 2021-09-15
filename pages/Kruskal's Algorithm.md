@@ -11,7 +11,8 @@
 	- $T$ is acyclic by definition of algorithm
 	- If we show that $T$ is connected, then by ((613fd6c8-6437-42e4-9e61-9aba48332d96)) we know that $T$ is a spanning tree.
 	- We know that $G$ is connected
-	-
+	- Take an edge $e$ in $G$,
+		- If $e \notin T$,
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
