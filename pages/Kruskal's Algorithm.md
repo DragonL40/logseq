@@ -25,7 +25,8 @@
 	- We need to show that $e$ is the min-cost edge crossing $(S, V-S)$
 		- Suppose for contradiction $e' = (u', v')$ is cheaper and crosses $(S, V-S)$
 		- $e'$ was examined in earlier iteration $j < i$ and was not added
-		- $T^i + e'$ is acyclic $\implies$ $T_j + e'$ is acyclic
+		- $T_i + e'$ is acyclic $\implies$ $T_j + e'$ is acyclic (becasue $T_j \le T_i$)
+		-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
