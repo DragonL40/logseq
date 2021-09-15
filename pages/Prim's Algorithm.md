@@ -1,4 +1,4 @@
-- What is the [[Cut Property]]?
+- Finds the [[Minimum Spanning Tree (MST)]]
 ## The Algorithm
 - $T = \phi$
 - $S = \{s\}$ for arbitrary $s \in V$
