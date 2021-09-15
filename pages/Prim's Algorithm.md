@@ -22,4 +22,4 @@
 	- $c(T) \subseteq c(T^*)$
 - _The runtime of the Prim's Algorithm is_ $n\log n$
 	- Same as the proof for [[Dijkstra's Algorithm]].
-	- This is because
+	- This is because the Prim's Algorithm just uses a different key as Dijk
