@@ -3,4 +3,7 @@
 - didactic #card
 	- adj. designed or intended to teach people something
 - observant #card
-	- adj
+	- adj. keen, perceptive
+	-
+	  > Observant students of ideas will recognize Hindu beliefs in this movement as well.
+-
