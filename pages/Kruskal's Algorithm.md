@@ -21,7 +21,9 @@
 	- Consider edge $e = (u,v)$ added in iteration $i$
 	- **Notation**: $T_i$ is $T$ at beginning of iteration $i$
 	- Let $S$ be [[connected component]] of $u$ in $(v, T_i)$
-	-
+	- $v \notin S$
+	- We need to show that $e$ is the min-cost edge crossing $(S, V-S)$
+		- Suppose for contradiction $
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
