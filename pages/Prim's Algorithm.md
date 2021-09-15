@@ -1,5 +1,4 @@
-- What is the [[Cut Property]]? #card
--
+- What is the [[Cut Property]]?
 - The Algorithm
   collapsed:: true
 	- $T = \phi$
@@ -14,6 +13,6 @@
 	- I.S.: In each iteration, we add one node $v$ to $S$, plus $e$ from $T$ to $v$
 		- After $n-1$ iterations, $|S| = n \implies S = V$
 		- $(V,T)$ is a tree
-		- Therefore, $T$ is a [[Spanning Tree]] of $G$.
+		- Therefore, $T$ is a Spanning Tree of $G$.
 - _Need to show that output tree T minimizes cost_ (optimality)
-	- Let $T**$
+	- Let $T*$ be a MST,
