@@ -12,9 +12,10 @@
 	- If we show that $T$ is connected, then by ((613fd6c8-6437-42e4-9e61-9aba48332d96)) we know that $T$ is a spanning tree.
 	- We know that $G$ is connected
 	- Take an edge $e$ in $G$,
-		- If $e \notin T$, that means adding $e$ would have created a cycle in $T$. In other words, there is a path in $T$ between endpoints of $e$.
+		- If $e \notin T$, that means adding $e$ would have created a cycle in $T$. In other words, there is a path $p_e$ in $T$ between endpoints of $e$ that does not include $e$.
 		- If $e \in T$, then there is a path in $T$ between endpoints of $e$.
-	- Take two nodes $(u,v)$, we know $\exists$ path from $u$ to $v$ in $G$, by replacing edges
+	- Take two nodes $(u,v)$, we know $\exists$ path from $u$ to $v$ in $G$, by replacing edges not in $T$ with $p_e$.
+	-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
