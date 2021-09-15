@@ -4,7 +4,8 @@
 	- For $e \in E$ in order
 		- If $T + e$ is acyclic, then add $e$ to $T$
 	- Endfor
-	-
+	- Output $T$
+-
 - [[Kruskal's Algorithm]] Runtime
 	- The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
 	  collapsed:: true
