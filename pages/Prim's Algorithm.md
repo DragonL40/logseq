@@ -1,6 +1,5 @@
 - What is the [[Cut Property]]?
--
-## T
+## The Algorithm
 - $T = \phi$
 - $S = \{s\}$ for arbitrary $s \in V$
 - While $S \ne V$
