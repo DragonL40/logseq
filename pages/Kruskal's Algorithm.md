@@ -12,7 +12,8 @@
 	- If we show that $T$ is connected, then by ((613fd6c8-6437-42e4-9e61-9aba48332d96)) we know that $T$ is a spanning tree.
 	- We know that $G$ is connected
 	- Take an edge $e$ in $G$,
-		- If $e \notin T$,
+		- If $e \notin T$, that means adding $e$ would have created a cycle in $T$. In other words, there is a path in $T$ between endpoints of $e$.
+		-
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
