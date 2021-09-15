@@ -1,2 +1,3 @@
-- eschew #cards
+- eschew #card
+	- v. to avoid habitually especially on moral or practical grounds
 -
