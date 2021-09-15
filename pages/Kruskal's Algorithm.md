@@ -17,6 +17,7 @@
 	- Take two nodes $(u,v)$, we know $\exists$ path from $u$ to $v$ in $G$, by replacing edges $e$ not in $T$ with $p_e$.
 	- $\exists$ a path from $u$ to $v$ in $T$. $_\square$
 - _Kruskal's Algorithm produces a [[Minimum Spanning Tree (MST)]] of G_ (optimality)
+	- Enough to show that exchange
 -
 -
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
