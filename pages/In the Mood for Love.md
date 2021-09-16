@@ -2,4 +2,4 @@
 - Non-linear plot, no resolution at the end
 -
 - Interesting camera shoots; seeing the plot indirectly; invasion of privacy (?); surveillance, ;
--
+- Most part of the story happens in the
