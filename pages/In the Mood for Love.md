@@ -1,4 +1,5 @@
 - Avant-pop cinema
 - Non-linear plot, no resolution at the end
 -
-- Interesting camera shoots; seeing the plot indirectly
+- Interesting camera shoots; seeing the plot indirectly; invasion of privacy (?); surveillance, ;
+-
