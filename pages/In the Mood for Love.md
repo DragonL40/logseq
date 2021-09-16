@@ -2,4 +2,5 @@
 - Non-linear plot, no resolution at the end
 -
 - Interesting camera shoots; seeing the plot indirectly; invasion of privacy (?); surveillance, ;
-- Most part of the story happens in the
+- Most part of the story happens in the character's mind?
+	- Mrs. Chen dressing up to go get noodles
