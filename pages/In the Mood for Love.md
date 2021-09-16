@@ -1,8 +1,9 @@
 - Avant-pop cinema
 - Non-linear plot, no resolution at the end
 -
-- Interesting camera shoots; seeing the plot indirectly; invasion of privacy (?); surveillance, ;
+- Indirect camera shoots; invasion of privacy (?); surveillance;
 - Most part of the story happens in the character's mind?
 	- Mrs. Chen dressing up to go get noodles
 	- The audience are not in on the plot
-		- When Mrs. Chen sees
+		- When Mrs. Chen sees the same tie, and the same handbag
+-
