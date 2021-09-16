@@ -9,4 +9,6 @@
 -
 - Step-printing
 - elliptical editing
+- voiceover monologue
+- dis
 -
