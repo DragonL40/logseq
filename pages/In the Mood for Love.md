@@ -9,5 +9,5 @@
 -
 - Step-printing
 - elliptical editing
-- [[disembodied voice (Acousmetre)]]
+- [[disembodied voice (acousmetre)]]
 -
