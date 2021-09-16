@@ -29,6 +29,5 @@
 		- Therefore, the algorithm should have added $e'$ already.
 		- Contradiction, since we claimed that $e'$ crosses $(S, V-S)$ which is not possible if we have already added $e'$.
 -
--
 - The runtime of Kruskal's was $\Theta(m \log m + m \cdot Find + n \cdot Union)$, which now simplifies to $\Theta(m \log m)$.
 -
