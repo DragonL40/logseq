@@ -7,3 +7,6 @@
 	- The audience are not in on the plot
 		- When Mrs. Chen sees the same tie, and the same handbag
 -
+- Step-printing
+- elliptical editing
+-
