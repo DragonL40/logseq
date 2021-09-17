@@ -78,6 +78,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- 2-H bond: A = T (DNA), A = U (RNA)
 	- 3-H bond: G = C
 - What are the components of a nucleotide?
+  collapsed:: true
 	- [[pentose sugar]], [[phosphate]] groups, and [[nitrogenous bases]]
 - What forms the [[genetic code]]?
   collapsed:: true
@@ -88,9 +89,11 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- ((61447997-d83e-46af-bd19-1ba46e949b91))
 - What are [[chromosome]]?
+  collapsed:: true
 	- Consisted of [[proteins]] and [[nucleic acid]].
 - What are [[gene]]?
 - What does the shapes of [[proteins]] determine?
+  collapsed:: true
 	- their function
 - How do genes code for characteristics?
   collapsed:: true
