@@ -9,4 +9,8 @@
 	- Large population
 - The Hardy-Weinberg Equation:
 	-
-	  $$p + $$
+	  $$p + q = 1$$
+	- $p =$ frequency of the dominant **allele** in the population
+	- $q =$ frequency of the recessive **allele** in the population
+	-
+	  $$$$$
