@@ -8,4 +8,8 @@
 - Enzymatic proteins
 	- Selective acceleration of chemical reactions
 	- Example: Digestive enzymes catalyze the hydrolysis of bonds in food molecules
--
+- Denfensive proteins
+	- Protection against disease
+	- Example: Antibodies inactivate and help destroy viruses and bacteria
+- Storage proteins
+	-
