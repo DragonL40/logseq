@@ -25,12 +25,13 @@
 		- Example: Insulin, a hormone secreted by the pancreas, causes other tissues to take up glucose, thus regulating blood sugar concentration.
 	- Receptor proteins
 		- Response of cell to chemical stimuli
-		- Receptors built into the membrane of a nerve cell detect signaling molecules released by other nerve cells.
+		- Example: Receptors built into the membrane of a nerve cell detect signaling molecules released by other nerve cells.
 	- Contractile and motor proteins
 		- Movement
-		- Motor proteins are responsible for the undulations of cilia and flagella.
+		- Example: Motor proteins are responsible for the undulations of cilia and flagella.
 		- Actin and myosin proteins are responsible for the contraction of muscles.
 	- Structural proteins
 		- Support
 		- Keratin is the protein of hair, horns, feathers, and other skin appendages.
-		-
+		- Insects and spiders use silk fibers to make their cocoons and webs, respectively.
+		- Collagen and elastin proteins provide a fibrous framework in animal connective tissues.
