@@ -1,1 +1,4 @@
-- Two components
+- Two components (Identified by Darwin):
+	- [[intrasexual selection]]
+	- [[intersexual selection]]
+- Often leading to strong [[sexual dimorphism]]
