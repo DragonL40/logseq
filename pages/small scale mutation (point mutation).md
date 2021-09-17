@@ -1,6 +1,6 @@
 - substitutions or insertions or deletions of single nucleotide pair (point mutations); or of more than one nucleotide pair
 - Example: ((613f1259-b6e2-4dd1-ab8a-ef4101208d6a))
-- **Missense**
-- You can get **silent** mutations when the change in genetic code does not change the prospective enzyme.
+- **Missense** point mutations result in the formation of a completely difference amino acid.
+- **Silent** point mutations still results in the production of the same protein.
 - You can get **nonsense** mutations where it leads to wild changes.
 - Point mutations can also lead to [[frameshift]] (subsequent codon triplets shifted and all wrong)
