@@ -66,7 +66,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Two alleles for a heritable character segregate (separate) during gamete formation and end up in different gametes [[Law of Segregation]].
 	- ((61447364-b5de-4d8f-89f3-a28b4f8d4a5f))
 - Difference between [[Genotype]] and [[Phenotype]]?
-- What is difference between [[Homozygous]] and [[Heterozygous]]?
+- [[homozygous]] and [[heterozygous]]
 - What is [[DNA]]?
 - What is [[RNA]]?
 - What is the difference between [[DNA]] and [[RNA]]?
