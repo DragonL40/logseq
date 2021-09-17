@@ -4,5 +4,8 @@
 - proteins are constructed from amino acids.
 - nearly every dynamic function of a living being depends on proteins
 -
+## Varieties of Proteins
 - Enzymatic proteins
-	-
+	- Selective acceleration of chemical reactions
+	- Example: Digestive enzymes catalyze the hydrolysis of bonds in food molecules
+-
