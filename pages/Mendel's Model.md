@@ -1,4 +1,0 @@
-- Trait variation is due to alternative variations (alleles) of "heritable factors" (genes)
-- For each character an organism inherits two alleles, one from each parent
-- Dominant alleles mask recessive alleles
-- Two alleles for a heritable character segregate during gamete formation and end up in different gametes ([[Law of Segregation]])
