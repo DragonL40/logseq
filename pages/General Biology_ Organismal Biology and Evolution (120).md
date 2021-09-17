@@ -143,4 +143,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - So why [[sexual reproduction]]?
 	- Increase genetic variation among offspring
 - What is [[Sexual Selection]]?
-	- Darwin identified two componenets
+	- {{embed [[sexual selection]]}}
+-
