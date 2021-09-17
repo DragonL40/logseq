@@ -108,7 +108,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- type A $\times$ type B = type AB
 - What is complete dominance?
 	-
-	  $$BB \times bb$$
+	  $$BB \times bb = Bb$$
+	- Brown $\times$ blue = Brown
 - What about a cross involving multiple characters?
 - What is [[mitosis]]?
 - What is [[meiosis]]?
