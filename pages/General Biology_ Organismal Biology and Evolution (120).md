@@ -73,9 +73,12 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[Deoxyribonucleicacid (DNA)]]?
 - [[nucleic acid]]
 - What are characteristics of [[purines]] and [[pyrimidines]]?
+  collapsed:: true
 	- [[purines]] bond with [[pyrimidines]]
-	- 2-H bond: A = T (DNA) or A = U (RNA)
+	- 2-H bond: A = T (DNA), A = U (RNA)
 	- 3-H bond: G = C
+- What are the components of a nucleotide?
+	-
 - What forms the [[genetic code]]?
   collapsed:: true
 	- The four nitrogenous bases that comprise DNA form the genetic code.
