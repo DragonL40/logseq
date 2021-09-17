@@ -78,7 +78,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- 2-H bond: A = T (DNA), A = U (RNA)
 	- 3-H bond: G = C
 - What are the components of a nucleotide?
-	-
+	- [[pentose sugar]], [[phosphate]] groups, and [[nitrogenous bases]]
 - What forms the [[genetic code]]?
   collapsed:: true
 	- The four nitrogenous bases that comprise DNA form the genetic code.
