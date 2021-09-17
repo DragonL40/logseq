@@ -1,3 +1,3 @@
-- Structure described by
+- Structure described by **Watson and Crick** 1962 using images by Rosalind Franklin's lab.
 - A double helix, antiparallel strands
 - Bases on the two strands form base pairs: [[Adenine]] with [[Thymine]], [[Guanine]] with [[Cytosine]]; bound with relatively weak [[hydrogen bond]]s.
