@@ -127,4 +127,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((613f1149-eb5a-40b1-87fb-9ebf1e910379))
 - What is [[gene flow]]? ((613f13c9-64c5-4c0e-8250-5018eee3cc1f))
 - What is [[genetic drift]]?
-- [Lecture_09.pptx](../assets/Lecture_09_1631840316758_0.pptx)
+- ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
