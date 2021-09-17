@@ -1,4 +1,5 @@
 - Gene = fundamental unit of heredity on the DNA (humans: about 25 000 genes)
 	- Sequence of [[Deoxyribonucleicacid (DNA)]] that codes for particular combination of [[amino acids]] (polypeptide, protein)
 	- Much of the [[Deoxyribonucleicacid (DNA)]] is non-coding.
-	-
+	- Different versions of the same gene are called [[allele]]
+	- [[locus]] is the position of gene in genome
