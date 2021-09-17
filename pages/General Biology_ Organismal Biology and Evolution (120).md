@@ -126,8 +126,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	-
 	  $$BB \times bb = Bb$$
 	- Brown $\times$ blue = Brown
-- What about a cross involving multiple characters? #[[Gregor Mendel]] 
-  collapsed:: true
+- What about a cross involving multiple characters? #[[Gregor Mendel]]
 	- One true-breeding population with yellow round seeds; the other is true-breeding with green wrinkly seeds
 	- Mendel already knew that yellow and round were dominant traits
 	- ((6144d4d1-ade9-4a75-9ab4-b61c4513e140))
