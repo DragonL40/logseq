@@ -1,0 +1,2 @@
+- The [[pentose sugar]] and [[phosphate]] groups make up the "backbone" of a nucleic acid. Fored with covalent bonds.
+-
