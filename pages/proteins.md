@@ -19,4 +19,5 @@
 - Transport porteins
 - Hormonal proteins
 - Receptor proteins
--
+- Contractile and motor proteins
+- Structural proteins
