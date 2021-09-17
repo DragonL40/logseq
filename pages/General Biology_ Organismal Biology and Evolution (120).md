@@ -72,6 +72,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What is [[Deoxyribonucleicacid (DNA)]]?
 - [[nucleic acid]]
+- What are characteristics of [[purine]] and [[pyrimidines]]?
+	-
 - What forms the [[genetic code]]?
   collapsed:: true
 	- The four nitrogenous bases that comprise DNA form the genetic code.
