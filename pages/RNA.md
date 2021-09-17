@@ -1,0 +1,2 @@
+- Sugar part of ribose
+- Adenine, U
