@@ -6,19 +6,19 @@
 -
 - ## Varieties of Proteins
   id:: 6144d021-6bc6-4875-a4c1-112814279219
-- Enzymatic proteins
-	- Selective acceleration of chemical reactions
-	- Example: Digestive enzymes catalyze the hydrolysis of bonds in food molecules
-- Denfensive proteins
-	- Protection against disease
-	- Example: Antibodies inactivate and help destroy viruses and bacteria
-- Storage proteins
-	- Storage of amino acids
-	- Example: Casein, the protein of milk, is the major source of amino acids for baby mammals.
-	- Example: Plants have storage proteins in their seeds.
-	- Example: Ovalbumin is the protein of egg white, used as a n amino acid source for the developing embryo.
-- Transport porteins
-- Hormonal proteins
-- Receptor proteins
-- Contractile and motor proteins
-- Structural proteins
+	- Enzymatic proteins
+		- Selective acceleration of chemical reactions
+		- Example: Digestive enzymes catalyze the hydrolysis of bonds in food molecules
+	- Denfensive proteins
+		- Protection against disease
+		- Example: Antibodies inactivate and help destroy viruses and bacteria
+	- Storage proteins
+		- Storage of amino acids
+		- Example: Casein, the protein of milk, is the major source of amino acids for baby mammals.
+		- Example: Plants have storage proteins in their seeds.
+		- Example: Ovalbumin is the protein of egg white, used as a n amino acid source for the developing embryo.
+	- Transport porteins
+	- Hormonal proteins
+	- Receptor proteins
+	- Contractile and motor proteins
+	- Structural proteins
