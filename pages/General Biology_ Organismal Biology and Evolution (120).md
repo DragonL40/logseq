@@ -136,6 +136,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[mitosis]]?
 - What is [[meiosis]]?
 - What is genetic recombination?
+	- production of offspring with combinations of traits different from those found in $P$ generation
+- How genetic variation is produced among offspring of sexually reproducing organism?
 	-
 - ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
