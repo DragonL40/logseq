@@ -122,6 +122,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Conversely; linked genes on the same chromosome tend to be inherited together (**the number always deviate somewhat due to cross over recombination**).
 - What is [[mitosis]]?
 - What is [[meiosis]]?
+- ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
 	- Class > Order > Family > Genus > Species
