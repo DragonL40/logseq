@@ -40,9 +40,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What makes up an individual living organism?
 	- The [[cell]] is the smallest unit of organization that can perform all activities required for life
 - Two main types of [[cell]]?
-  collapsed:: true
-	- [[Eukaryotic Cell]]
-	- [[Prokaryotic Cell]]
+	- [[Eukaryotic Cell]]  and [[Prokaryotic Cell]]
+		- ((61447058-cd18-481f-9ada-2124194e70b3))
 - What is blending inheritance and what is particulate inheritance?
   collapsed:: true
 	- Blending: the idea that genetic material contributed by the two parents mixes in a manner analogous to the way blue and yellow paints blend to make green
