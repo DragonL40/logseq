@@ -15,4 +15,4 @@
 	- $p^2 =$ frequency of homozygous dominant **individuals** (genotypes)
 	- $q^2 =$ frequency of homozygous recessive **individuals** (genotypes)
 	- $2pq =$ frequency of heterozygous **individuals** (genotypes)
--
+- What is the significance of the Hardy-Weinberg Principle
