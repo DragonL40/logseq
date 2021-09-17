@@ -63,7 +63,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Trait variation is due to alternative variations (alleles) of "heritable factors" (genes)
 	- For each character an organism inherits two alleles, one from each parent
 	- **Dominant** alleles mask **recessive** alleles
-	- Two alleles for a heritable character segregate (separate) during gamete formation and end up in different gametes [[Law of Segregation]].
+	- ((61447329-16ee-49d5-be14-0352a191fb8c)) #[[Law of Segregation]]
 	- ((61447364-b5de-4d8f-89f3-a28b4f8d4a5f))
 - Difference between [[Genotype]] and [[Phenotype]]?
 - [[homozygous]] and [[heterozygous]]
