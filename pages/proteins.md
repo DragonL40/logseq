@@ -22,9 +22,10 @@
 		- Example: Hemoglobin, the iron-containing protein of vertebrate blood, transport oxygen from the lungs to other parts of the body.
 	- Hormonal proteins
 		- Coordination of an organism's activities
-		- Example:
+		- Example: Insulin, a hormone secreted by the pancreas, causes other tissues to take up glucose, thus regulating blood sugar concentration.
 	- Receptor proteins
 		- Response of cell to chemical stimuli
+		- Receptors built into the membrane of a nerve cell detect signaling molecu
 	- Contractile and motor proteins
 		- Movement
 	- Structural proteins
