@@ -1,5 +1,5 @@
 - ((613f1477-bd3e-42b4-9313-ee83d84f8135))
-- Random changes in allele frequencies within populations which result from chance variation in individual survival and reproduction
+- Reduced genetic variation for small populations due to chance events.
 - Most important in small populations
 - Changes can be neutral, maladaptive, or adaptive
 - Examples:
