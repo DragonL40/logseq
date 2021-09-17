@@ -1,6 +1,4 @@
 - Allele frequencies and genotype frequencies in a population will not change between generations, and genotype frequencies follow a set pattern.
--
-  $$p^2 + 2pq + q^2 = 1$$
 - The Hardy-Weinberg Equilibrium #numlist
 	- No [[mutation]]
 	- No [[gene flow]]
@@ -13,4 +11,6 @@
 	- $p =$ frequency of the dominant **allele** in the population
 	- $q =$ frequency of the recessive **allele** in the population
 	-
-	  $$$$$
+	  $$p^2 + 2pq + q^2 = 1$$
+	- $p^2 =$ frequency of homozygous dominant **individuals** (genotypes)
+	- $q^2 =$ frequency of homozygous recessive **individ**
