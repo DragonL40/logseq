@@ -142,4 +142,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Assess mate potential: both sexes have to show signs of sexual maturity and fertility.
 - So why [[sexual reproduction]]?
 	- Increase genetic variation among offspring
--
+- What is [[Sexual Selection]]?
+	- Darwin identified two componenets
