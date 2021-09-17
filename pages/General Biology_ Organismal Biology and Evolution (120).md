@@ -71,6 +71,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 -
   ---
 - What are [[chromosome]]?
+	- Consisted of [[proteins]] and [[nucleic acid]].
 - What is [[DNA]]?
 - What is [[RNA]]?
 - What is the difference between [[DNA]] and [[RNA]]?
