@@ -50,7 +50,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Particulate: parents pass on discrete heritable units (genes) that retain their separate identities in offspring; i.e., more like a deck of cards than a pail of paint
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
--
+- How did [[Gregor Mendel]] test the hypothesis?
+	- Reproduction and hybridization experiments with garden pea plant
+	-
 - What is true-breeding?
   collapsed:: true
 	- A kind of breeding in which the parents with a particular phenotype produce offspring only with the same phenotype.
