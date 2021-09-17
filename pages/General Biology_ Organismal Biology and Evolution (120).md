@@ -140,5 +140,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Why is [[sexual reproduction]] **expensive**?
 	- You have to find a mate, sometimes facing competition.
 	- Assess mate potential: both sexes have to show signs of sexual maturity and fertility.
-- So why sexual reproduction?
-	-
+- So why [[sexual reproduction]]?
+	- Increase genetic variation among offspring
+-
