@@ -3,3 +3,6 @@
 	- each protein has a unique three-dimensional shape.
 - proteins are constructed from amino acids.
 - nearly every dynamic function of a living being depends on proteins
+-
+- Enzymatic proteins
+	-

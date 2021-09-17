@@ -90,6 +90,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Genes on DNA are **transcribed** to mRNA, which is then **translated** to protein through the use of tRNA (mRNA = messenger RNA; tRNA = transfer RNA)
 	- Essentially, genes code for proteins = polymers of amino acids = polypeptides constructed from 20 amino acids.
 	- ((61447a15-6867-4181-9600-5a528daead0e))
+- {{embed [[proteins]]}}
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
