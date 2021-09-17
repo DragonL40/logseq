@@ -1,11 +1,13 @@
 title:: General Biology: Organismal Biology and Evolution (120)
 
+- ![Lecture_01.pdf](../assets/Lecture_01_1631873629430_0.pdf)
 - What is [[science]]?
 - How to differentiate science from pseudoscience?
 - What is the [[Scientific Method]]?
 - [[Experimentation]]
 - [[Observation]]
 - What is [[hypothesis testing]]?
+- ![Lecture_02.pdf](../assets/Lecture_02_1631873654170_0.pdf)
 - What is a proper [[scientific hypothesis]]?
   collapsed:: true
 	- proposed explanation for a scientific question
