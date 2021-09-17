@@ -7,4 +7,5 @@
 	- No [[gene flow]]
 	- No [[natural selection]]
 	- Random mating
-	-
+	- Large population
+-
