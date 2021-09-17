@@ -60,6 +60,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
 	- ((61447279-baef-47b3-984b-5af6ffd161e8))
 - What is [[Mendel's Model]] of inheritance? #numlist
+  collapsed:: true
 	- Trait variation is due to alternative variations (alleles) of "heritable factors" (genes)
 	- For each character an organism inherits two alleles, one from each parent
 	- **Dominant** alleles mask **recessive** alleles
@@ -67,10 +68,12 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((61447364-b5de-4d8f-89f3-a28b4f8d4a5f))
 - Difference between [[Genotype]] and [[Phenotype]]?
 - [[homozygous]] and [[heterozygous]]
+-
+  ---
+- What are [[chromosome]]?
 - What is [[DNA]]?
 - What is [[RNA]]?
 - What is the difference between [[DNA]] and [[RNA]]?
-- What are [[chromosome]]?
 - What are [[genes]]?
 - What is the locus?
 - How do genes code for characteristics?
