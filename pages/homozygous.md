@@ -1,0 +1,1 @@
+- Individuals with two identical alleles
