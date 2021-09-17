@@ -146,11 +146,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Shows significant morphological change within a few thousand years
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
 - What are the forces of Evolutionary Change in a population?
-  collapsed:: true
 	- Natural Selection
 	- Sexual Selection
-	- Genetic Drift
-	- Gene Flow
+	- [[genetic drift]]
+	- [[gene flow]]
 	- Mutation
 - What is the impact of natural selection on a population?
   collapsed:: true
