@@ -128,6 +128,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Class > Order > Family > Genus > Species
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
+- What two inferences make up the basis of Darwin's
 - What are the three main components in Darwin-Wallace [[natural selection]]?
   collapsed:: true
 	- Variation in traits
@@ -135,7 +136,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Selection results from differential reproductive success
 	-
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
-- Individuals do not evolve. It is the population that evolves over time.
+- **Individuals do not evolve. It is the population that evolves over time.**
 - Evidence supporting Darwin-Wallace [[natural selection]]
 	- Biogeography of closely related spp.
 	- Fossils
@@ -146,11 +147,12 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Shows significant morphological change within a few thousand years
 - ![Lecture_08.pdf](../assets/Lecture_08_1631394309130_0.pdf)
 - What are the forces of Evolutionary Change in a population?
-	- Natural Selection
-	- Sexual Selection
+  collapsed:: true
+	- [[natural selection]]
+	- [[sexual selection]]
 	- [[genetic drift]]
 	- [[gene flow]]
-	- Mutation
+	- [[mutation]]
 - What is the impact of natural selection on a population?
   collapsed:: true
 	- ((613f0e97-fae9-4792-9158-59e3d8dd6e45))
