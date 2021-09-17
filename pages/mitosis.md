@@ -1,1 +1,2 @@
-- [[chromosome]] are duplicated. xThen sister chromatids are pulled apart in one cell division, forming new chromosomes
+- [[chromosome]] are duplicated. Then sister chromatids are pulled apart in one cell division, forming new chromosomes
+- ((6144f58d-3f02-4a16-addb-59d9b3eecf44))
