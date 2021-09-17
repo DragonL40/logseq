@@ -116,8 +116,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What about a cross involving multiple characters? #[[Gregor Mendel]]
 	- One true-breeding population with yellow round seeds; the other is true-breeding with green wrinkly seeds
 	- Mendel already knew that yellow and round were dominant traits
-	- ((6144d47c-6ee4-4f46-a8eb-b0af7faaeb57))
-	-
+	- ((6144d4d1-ade9-4a75-9ab4-b61c4513e140))
+	- This is called the [[law of independent assortment]]
 - What is [[mitosis]]?
 - What is [[meiosis]]?
 - What do we mean by evolutionary relationship?
