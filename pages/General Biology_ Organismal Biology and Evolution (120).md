@@ -131,28 +131,40 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
 - Microorganism typically reproduce through simple mitosis, some [[asexual reproduction]] (multicellular) happens by [[budding]], offspring are clones of its parents.
 - How do we define biological sex?
+  collapsed:: true
 	- In biology, defined by having gonads that can produce **eggs** or **sperm**.
 	- In mammals, males always have XY chromosomes, while females have XX.
 	- There is an enormous amount of variation in other animals and plants (e.g. birds: females XY; crocodiles: temperature, not chromosomes)
 - Inheritance of [[sex-linked gene]]
+  collapsed:: true
 	- The mammalian sex chromosomes have genes for many characters unrelated to sex (e.g. color blindness vs normal color vision)
 	- A gene located on either sex chromosome is called a [[sex-linked gene]] (sex-linked genes follow specific patterns of inheritance)
 - Why is [[sexual reproduction]] **expensive**?
+  collapsed:: true
 	- You have to find a mate, sometimes facing competition.
 	- Assess mate potential: both sexes have to show signs of sexual maturity and fertility.
 - So why [[sexual reproduction]]?
+  collapsed:: true
 	- Increase genetic variation among offspring
 - What is [[Sexual Selection]]?
+  collapsed:: true
 	- {{embed [[sexual selection]]}}
 - Why are men larger than women?
+  collapsed:: true
 	- Most common reason for murder: men fighting over women
 	- Women also tend to prefer men who are larger than themselves
 ## Population Genetics
 - What is a [[gene pool]]?
+  collapsed:: true
 	- ((6143eea7-f531-4494-a89f-534907c1a473))
-- What is [[genotype frequency]]?
+- What is [[genotype frequency]]? 
+  collapsed:: true
 	- ((6143efa0-af4b-41bb-baac-a9537f1f7efe))
 - What is [[allele frequency]]?
+  collapsed:: true
 	- ((6143efbd-eb6d-45cd-acad-be8e1fcbb5e4))
 - What does it mean for a locus to be **fixed**?
+  collapsed:: true
 	- There is only one allele for a given locus
+-
+  >
