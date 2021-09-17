@@ -1,0 +1,1 @@
+- All cells share certain characteristics, e.g., a **cell membrane** and at least one [[chromosome]].
