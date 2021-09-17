@@ -69,10 +69,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Difference between [[Genotype]] and [[Phenotype]]?
 - [[homozygous]] and [[heterozygous]]
 -
-  ---
-- ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What are [[chromosome]]?
 	- Consisted of [[proteins]] and [[nucleic acid]].
+- ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What is [[DNA]]?
 - What is [[RNA]]?
 - What is the difference between [[DNA]] and [[RNA]]?
