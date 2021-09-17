@@ -117,7 +117,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- One true-breeding population with yellow round seeds; the other is true-breeding with green wrinkly seeds
 	- Mendel already knew that yellow and round were dominant traits
 	- ((6144d4d1-ade9-4a75-9ab4-b61c4513e140))
-	- This is called the [[law of independent assortment]]
+	- This is called the [[law of independent assortment]], which is true only because these genes are on different chromosomes.
+-
 - What is [[mitosis]]?
 - What is [[meiosis]]?
 - What do we mean by evolutionary relationship?
