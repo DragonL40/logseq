@@ -1,0 +1,3 @@
+- reproductive cells
+- haploid cells ($n$)
+- produced by [[meiosis]]
