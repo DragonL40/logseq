@@ -129,4 +129,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[genetic drift]]?
 ## Sexual Reproduction and Sexual Selection
 - ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
-- Microorganism typically reproduce through simple mitosis, some asexual reproduction (multi)
+- Microorganism typically reproduce through simple mitosis, some [[asexual reproduction]] (multicellular) happens by [[budding]], offspring are clones of its parents.
+- How
