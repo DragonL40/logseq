@@ -15,4 +15,5 @@
 	- $p^2 =$ frequency of homozygous dominant **individuals** (genotypes)
 	- $q^2 =$ frequency of homozygous recessive **individuals** (genotypes)
 	- $2pq =$ frequency of heterozygous **individuals** (genotypes)
-- What is the significance of the Hardy-Weinberg Principle
+- What is the significance of the Hardy-Weinberg Principle in microevolutionary studies?
+	- It serves as a **null model**: if a population does not conform to the equilibrium equation, we can look at which assumptions are violated (i.e., )
