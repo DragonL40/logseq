@@ -1,2 +1,2 @@
 - 2 rings
-- Adenine (A) and Guanine (G)
+- [[Adenine]] (A) and [[Guanine]] (G)

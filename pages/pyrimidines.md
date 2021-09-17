@@ -1,0 +1,2 @@
+- 1 ring
+- [[Thymine]] (T) and [[Cytosine]] (C)
