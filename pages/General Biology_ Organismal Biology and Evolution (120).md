@@ -126,14 +126,17 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	-
 	  $$BB \times bb = Bb$$
 	- Brown $\times$ blue = Brown
-- What about a cross involving multiple characters? #[[Gregor Mendel]]
+- What about a cross involving multiple characters? #[[Gregor Mendel]] 
+  collapsed:: true
 	- One true-breeding population with yellow round seeds; the other is true-breeding with green wrinkly seeds
 	- Mendel already knew that yellow and round were dominant traits
 	- ((6144d4d1-ade9-4a75-9ab4-b61c4513e140))
 	- This is called the [[law of independent assortment]], which is true only because these genes are on different chromosomes.
-	- Conversely; linked genes on the same chromosome tend to be inherited together (**the number always deviate somewhat due to cross over recombination**).
+	- Conversely; [[linked genes]] on the same chromosome tend to be inherited together (**the number always deviate somewhat due to cross over recombination**).
 - What is [[mitosis]]?
 - What is [[meiosis]]?
+- What is genetic recombination?
+	-
 - ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
@@ -141,6 +144,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
 - What two inferences make up the basis of Darwin's theory of [[natural selection]]?
+  collapsed:: true
 	- Observation 1. Populations show heritable variation
 	- Observation 2. All species have the potential for exponential growth. But the environment usually cannot support this; many individuals fail to reproduce.
 	- Inference 1. Some variants are favored over others by nature
