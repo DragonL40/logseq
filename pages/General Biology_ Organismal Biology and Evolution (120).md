@@ -96,19 +96,17 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - How is transcription done in nucleus?
 	- [[Deoxyribonucleicacid (DNA)]] is opened and the code is transcribed to an mRNA molecule (with some enzyme processing)
 - How is translation done in ribosome?
+	- done with the help of tRNA molecules which bind to specific amino acids
+- What is incomplete dominance?
+	- heterozygous individuals appear as a blend
 	-
-- What is mRNA?
-- What is tRNA?
+	  $$C^RC^R \times C^BC^B = C^RC^B$$
+	- red $\times$ blue = purple
 - What is codominance?
   collapsed:: true
 	-
 	  $$I^AI^A \times I^BI^B = I^AI^B$$
 	- type A $\times$ type B = type AB
-- What is incomplete dominance?
-  collapsed:: true
-	-
-	  $$C^RC^R \times C^BC^B = C^RC^B$$
-	- red $\times$ blue = purple
 - What about a cross involving multiple characters?
 - What is [[mitosis]]?
 - What is [[meiosis]]?
