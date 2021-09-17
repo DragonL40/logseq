@@ -51,6 +51,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
 - How did [[Gregor Mendel]] test the hypothesis?
+  collapsed:: true
 	- Reproduction and hybridization experiments with garden pea plant
 	- Why peas?
 	  collapsed:: true
@@ -59,6 +60,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Fairly short generation time
 	- Mendel tracked inheritance of characters with two discrete forms
 	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
+	- ((61447279-baef-47b3-984b-5af6ffd161e8))
 - What is [[Mendel's Model]] of inheritance?
   collapsed:: true
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
