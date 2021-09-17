@@ -78,7 +78,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- A [[Deoxyribonucleicacid (DNA)]] molecule's sequence of bases contains the instructions for the production of [[proteins]] (through mRNA intermediates),
 - What is [[Ribonucleicacid (RNA)]]?
 - What is the difference between [[Deoxyribonucleicacid (DNA)]] and [[Ribonucleicacid (RNA)]]?
-	-
+  collapsed:: true
+	- ((61447997-d83e-46af-bd19-1ba46e949b91))
 - What are [[chromosome]]?
 	- Consisted of [[proteins]] and [[nucleic acid]].
 - What are [[genes]]?
