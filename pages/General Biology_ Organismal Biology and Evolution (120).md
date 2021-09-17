@@ -43,13 +43,17 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- [[Eukaryotic Cell]]  and [[Prokaryotic Cell]]
 		- ((61447058-cd18-481f-9ada-2124194e70b3))
+## Introduction to Genetics
 - What is blending inheritance and what is particulate inheritance?
   collapsed:: true
 	- Blending: the idea that genetic material contributed by the two parents mixes in a manner analogous to the way blue and yellow paints blend to make green
 	- Particulate: parents pass on discrete heritable units (genes) that retain their separate identities in offspring; i.e., more like a deck of cards than a pail of paint
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
-- What is
+-
+- What is true-breeding?
+  collapsed:: true
+	- A kind of breeding in which the parents with a particular phenotype produce offspring only with the same phenotype.
 - What is [[Mendel's Model]] of inheritance?
   collapsed:: true
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
