@@ -64,7 +64,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- For each character an organism inherits two alleles, one from each parent
 	- **Dominant** alleles mask **recessive** alleles
 	- Two alleles for a heritable character segregate (separate) during gamete formation and end up in different gametes [[Law of Segregation]].
-	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
+	- ((61447364-b5de-4d8f-89f3-a28b4f8d4a5f))
 - Difference between [[Genotype]] and [[Phenotype]]?
 - What is difference between [[Homozygous]] and [[Heterozygous]]?
 - What is [[DNA]]?
