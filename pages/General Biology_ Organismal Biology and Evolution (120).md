@@ -144,4 +144,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Increase genetic variation among offspring
 - What is [[Sexual Selection]]?
 	- {{embed [[sexual selection]]}}
+- Why are men larger than women?
+	- Most common reason for murder: men fighting over women
+	- Women also tend to prefer men who are larger than themselves
 -
