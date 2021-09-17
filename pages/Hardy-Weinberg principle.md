@@ -3,5 +3,8 @@
 -
   $$p^2 + 2pq + q^2 = 1$$
 - The Hardy-Weinberg Equilibrium #numlist
-	- No [[Mutation]]
+	- No [[mutation]]
 	- No [[gene flow]]
+	- No [[natural selection]]
+	- Random mating
+	-

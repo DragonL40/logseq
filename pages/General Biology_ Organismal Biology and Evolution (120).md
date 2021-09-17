@@ -77,9 +77,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
 	- Class > Order > Family > Genus > Species
-## [[Theory of Natural Selection]]
+## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
-- What are the three main components in Darwin-Wallace [[Theory of Natural Selection]]?
+- What are the three main components in Darwin-Wallace [[natural selection]]?
   collapsed:: true
 	- Variation in traits
 	- Hearitability of traits
@@ -87,7 +87,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	-
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
 - Individuals do not evolve. It is the population that evolves over time.
-- Evidence supporting Darwin-Wallace [[Theory of Natural Selection]]
+- Evidence supporting Darwin-Wallace [[natural selection]]
   collapsed:: true
 	- Biogeography of closely related spp.
 	- Fossils
