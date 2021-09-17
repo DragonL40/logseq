@@ -145,6 +145,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
 	- Class > Order > Family > Genus > Species
+-
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
 - What two inferences make up the basis of Darwin's theory of [[natural selection]]?
@@ -154,6 +155,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Inference 1. Some variants are favored over others by nature
 	- Inference 2. There is an accumulation of favorable traits over time #[[adaptation]]
 - What are the three main components in Darwin-Wallace [[natural selection]]?
+  collapsed:: true
 	- Variation in traits
 	- Heritability of traits
 	- Selection results from differential reproductive success
@@ -161,6 +163,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
 - **Individuals do not evolve. It is the population that evolves over time.**
 - Evidence supporting Darwin-Wallace [[natural selection]]
+  collapsed:: true
 	- Biogeography of closely related spp.
 	- Fossils
 	- Embryology - homologies, vestigial organs
@@ -197,6 +200,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((614465e2-5449-474f-a700-ee621b23bc8c))
 	- ((614465e2-ebe6-4f42-a3ef-94df62cd7e7a))
 - What is [[gene flow]]?
+  collapsed:: true
 	- {{embed [[gene flow]]}}
 - What is [[genetic drift]]?
 	- {{embed [[genetic drift]]}}
