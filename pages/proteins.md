@@ -19,8 +19,10 @@
 		- Example: Ovalbumin is the protein of egg white, used as a n amino acid source for the developing embryo.
 	- Transport proteins
 		- Transport of substances
+		- Example: Hemoglobin, the iron-containing protein of vertebrate blood, transport oxygen from the lungs to other parts of the body.
 	- Hormonal proteins
 		- Coordination of an organism's activities
+		- Example:
 	- Receptor proteins
 		- Response of cell to chemical stimuli
 	- Contractile and motor proteins
