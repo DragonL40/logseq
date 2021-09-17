@@ -49,6 +49,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Particulate: parents pass on discrete heritable units (genes) that retain their separate identities in offspring; i.e., more like a deck of cards than a pail of paint
 - Who tested the hypothesis about blending and particulate?
 	- [[Gregor Mendel]]
+- What is
 - What is [[Mendel's Model]] of inheritance?
   collapsed:: true
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
