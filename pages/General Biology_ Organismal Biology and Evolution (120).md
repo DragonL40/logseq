@@ -150,4 +150,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## Population Genetics
 - What is a [[gene pool]]?
 	- ((6143eea7-f531-4494-a89f-534907c1a473))
-- Genotype frequency
+- What is [[genotype frequency]]?
+	- ((6143efa0-af4b-41bb-baac-a9537f1f7efe))
+- What is [[allele frequency]]?
+	- ((6143efbd-eb6d-45cd-acad-be8e1fcbb5e4))
+-
