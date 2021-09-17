@@ -33,7 +33,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Yes, it satisfies all properties of [[living organisms]].
 	- ((61446ae3-7145-4884-9fcd-af9e1bf825dc))
 - Is [[viruses]] an organism?
-	- No, it doesn't satisfy ((61446b3f-5890-44d8-8031-91a7ee9e19ed)) , response to environment, and regulation.
+	- No, it doesn't satisfy ((61446b3f-5890-44d8-8031-91a7ee9e19ed)) , ((61446b46-b0a0-4303-9fac-23f1a4e96480)) , and ((61446b4f-6fe5-413f-b83a-6d73ca77acd9)).
 	- ((61446b18-db19-456f-b50c-e7f1be15afbc))
 - What makes up an individual living organism?
   collapsed:: true
