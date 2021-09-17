@@ -147,4 +147,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Why are men larger than women?
 	- Most common reason for murder: men fighting over women
 	- Women also tend to prefer men who are larger than themselves
-- How do
+## How do alleles and genotypes behave in whole populations?
+- What is a [[gene pool]]?
+	-
