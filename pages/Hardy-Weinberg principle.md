@@ -1,5 +1,7 @@
 - Allele frequencies in stable populations
 - Allele frequencies and genotype frequencies in a population will not change between generations, and genotype frequencies follow a set pattern.
 -
-  $$p^2 + 2pq + q^2 = 1$$$$
--
+  $$p^2 + 2pq + q^2 = 1$$
+- The Hardy-Weinberg Equilibrium #numlist
+	- No [[Mutation]]
+	- No [[gene flow]]
