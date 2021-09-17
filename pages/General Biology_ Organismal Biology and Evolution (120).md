@@ -141,7 +141,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Independent assortment of chormosomes
 	- crossing over in [[meiosis]]
 	- Random fertilization
--
 - ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
