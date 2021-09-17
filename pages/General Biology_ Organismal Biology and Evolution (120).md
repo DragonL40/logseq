@@ -48,9 +48,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- Blending: the idea that genetic material contributed by the two parents mixes in a manner analogous to the way blue and yellow paints blend to make green
 	- Particulate: parents pass on discrete heritable units (genes) that retain their separate identities in offspring; i.e., more like a deck of cards than a pail of paint
-- Who tested the hypothesis about blending and particulate?
-	- [[Gregor Mendel]]
-- How did [[Gregor Mendel]] test the hypothesis?
+- How did [[Gregor Mendel]] test the hypothesis regarding blending and particulate inheritance?
   collapsed:: true
 	- Reproduction and hybridization experiments with garden pea plant
 	- Why peas?
@@ -61,8 +59,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Mendel tracked inheritance of characters with two discrete forms
 	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
 	- ((61447279-baef-47b3-984b-5af6ffd161e8))
-- What is [[Mendel's Model]] of inheritance?
-  collapsed:: true
+- What is [[Mendel's Model]] of inheritance? #numlist
+	-
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
 - Difference between [[Genotype]] and [[Phenotype]]?
 - What is difference between [[Homozygous]] and [[Heterozygous]]?
