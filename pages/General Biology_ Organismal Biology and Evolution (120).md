@@ -60,6 +60,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
 	- ((61447279-baef-47b3-984b-5af6ffd161e8))
 - What is [[Mendel's Model]] of inheritance? #numlist
+	- Trait variation is due to alternative variations (alleles) of "heritable factors" (genes)
+	- For each character an organism inherits two alleles, one from each parent
+	- **Dominant** alleles mask **recessive** alleles
 	-
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
 - Difference between [[Genotype]] and [[Phenotype]]?
