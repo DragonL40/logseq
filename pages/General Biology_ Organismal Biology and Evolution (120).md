@@ -138,7 +138,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is genetic recombination?
 	- production of offspring with combinations of traits different from those found in $P$ generation
 - How genetic variation is produced among offspring of sexually reproducing organism?
-	-
+	- Independent assortment of chormosomes
+	- crossing over in [[meiosis]]
+	- Random fertilization
+-
 - ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
