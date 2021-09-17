@@ -75,9 +75,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[Deoxyribonucleicacid (DNA)]]?
 - [[nucleic acid]]
 - What forms the [[genetic code]]?
+  collapsed:: true
 	- The four nitrogenous bases that comprise DNA form the genetic code.
 	- A [[Deoxyribonucleicacid (DNA)]] molecule's sequence of bases contains the instructions for the production of [[proteins]] (through mRNA intermediates),
--
 - What is [[RNA]]?
 - What is the difference between [[Deoxyribonucleicacid (DNA)]] and [[RNA]]?
 - What are [[genes]]?
