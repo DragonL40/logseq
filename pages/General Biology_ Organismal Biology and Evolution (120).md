@@ -52,6 +52,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- [[Gregor Mendel]]
 - How did [[Gregor Mendel]] test the hypothesis?
 	- Reproduction and hybridization experiments with garden pea plant
+	- Why peas?
+		- Many distinct traits
+		- Easy to do both [[cross-fertilization]] and [[self-fertilization]]
 	-
 - What is true-breeding?
   collapsed:: true
