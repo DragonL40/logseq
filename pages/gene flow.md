@@ -1,0 +1,1 @@
+- Consists of “flow” of alleles between populations due to movement of fertile individuals (or gametes, e.g. in pollen)
