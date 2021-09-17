@@ -57,10 +57,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Many distinct traits
 		- Easy to do both [[cross-fertilization]] and [[self-fertilization]]
 		- Fairly short generation time
-	-
+	- Mendel tracked inheritance of characters with two discrete forms
+	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
 - What is true-breeding?
-  collapsed:: true
-	- A kind of breeding in which the parents with a particular phenotype produce offspring only with the same phenotype.
+	-
 - What is [[Mendel's Model]] of inheritance?
   collapsed:: true
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}

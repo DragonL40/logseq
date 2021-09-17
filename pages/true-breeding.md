@@ -1,0 +1,1 @@
+- A kind of breeding in which the parents with a particular phenotype produce offspring only with the same phenotype.
