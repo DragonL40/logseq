@@ -1,2 +1,3 @@
-- A two-step process of cell division that is used to make gametes (sex cells)
--
+- A two-step process of cell division that is used to make [[gametes]] (sex cells)
+- Two cell divisions. The homologous chromosomes from each parent are separated first (meiosis I), then the sister chromatids (meiosis II).
+- Two
