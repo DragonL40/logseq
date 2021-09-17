@@ -105,8 +105,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_05.pdf](../assets/Lecture_05_1631900369501_0.pdf)
 - How is mRNA translated into amino acids?
 - How is transcription done in nucleus?
+  collapsed:: true
 	- [[Deoxyribonucleicacid (DNA)]] is opened and the code is transcribed to an mRNA molecule (with some enzyme processing)
 - How is translation done in ribosome?
+  collapsed:: true
 	- done with the help of tRNA molecules which bind to specific amino acids
 - What is incomplete dominance?
   collapsed:: true
