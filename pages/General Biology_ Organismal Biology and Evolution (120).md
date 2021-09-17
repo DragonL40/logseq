@@ -30,7 +30,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_03.pdf](../assets/Lecture_03_1631873682394_0.pdf)
 - What is [[living organisms]] (life)?
 - Is [[bacteria]] (sing. bacterium) an organism?
-	- Yes it satisfies all
+	- Yes it satisfies all properties of [[living organisms]].
+	- ((61446ae3-7145-4884-9fcd-af9e1bf825dc))
 - Is [[viruses]] an organism?
 - What makes up an individual living organism?
   collapsed:: true

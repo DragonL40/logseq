@@ -1,1 +1,2 @@
-- Reproduction, growth, adaptation, response to environment, order, regulation, energy processing (i.e. metabolism).
+- Reproduction
+- growth, adaptation, response to environment, order, regulation, energy processing (i.e. metabolism).
