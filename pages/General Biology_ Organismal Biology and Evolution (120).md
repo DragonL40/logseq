@@ -103,10 +103,12 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	  $$C^RC^R \times C^BC^B = C^RC^B$$
 	- red $\times$ blue = purple
 - What is codominance?
-  collapsed:: true
 	-
 	  $$I^AI^A \times I^BI^B = I^AI^B$$
 	- type A $\times$ type B = type AB
+- What is complete dominance?
+	-
+	  $$BB \times bb$$
 - What about a cross involving multiple characters?
 - What is [[mitosis]]?
 - What is [[meiosis]]?
