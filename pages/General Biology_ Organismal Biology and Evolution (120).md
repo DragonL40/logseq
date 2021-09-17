@@ -69,8 +69,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((61447364-b5de-4d8f-89f3-a28b4f8d4a5f))
 - Difference between [[Genotype]] and [[Phenotype]]?
 - [[homozygous]] and [[heterozygous]]
-- What are [[chromosome]]?
-	- Consisted of [[proteins]] and [[nucleic acid]].
 - ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What is [[Deoxyribonucleicacid (DNA)]]?
 - [[nucleic acid]]
@@ -78,9 +76,11 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- The four nitrogenous bases that comprise DNA form the genetic code.
 	- A [[Deoxyribonucleicacid (DNA)]] molecule's sequence of bases contains the instructions for the production of [[proteins]] (through mRNA intermediates),
-- What is [[RNA]]?
-- What is the difference between [[Deoxyribonucleicacid (DNA)]] and [[RNA]]?
+- What is [[Ribonucleicacid (RNA)]]?
+- What is the difference between [[Deoxyribonucleicacid (DNA)]] and [[Ribonucleicacid (RNA)]]?
 	-
+- What are [[chromosome]]?
+	- Consisted of [[proteins]] and [[nucleic acid]].
 - What are [[genes]]?
 - What is the locus?
 - How do genes code for characteristics?
