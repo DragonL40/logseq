@@ -135,4 +135,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- In mammals, males always have XY chromosomes, while females have XX.
 	- There is an enormous amount of variation in other animals and plants (e.g. birds: females XY; crocodiles: temperature, not chromosomes)
 - Inheritance of sex-linked genes
-	-
+	- The mammalian sex chromosomes have genes for many characters unrelated to sex (e.g. color blindness vs normal color vision)
+	- A gene located on either sex chromosome is called a sex-linked gene (sex-linked genes follow)
