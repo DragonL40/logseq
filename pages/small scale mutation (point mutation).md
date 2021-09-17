@@ -3,4 +3,4 @@
 - **Missense** point mutations result in the formation of a completely difference amino acid.
 - **Silent** point mutations still results in the production of the same protein.
 - **Nonsense** point mutations codes for a stop codon.
-- Point mutations can also lead to [[frameshift]] (subsequent codon triplets shifted and all wrong)
+- Point mutations (deletion, insertion) can also lead to [[frameshift]] (subsequent codon triplets shifted and all wrong)
