@@ -128,3 +128,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[gene flow]]? ((613f13c9-64c5-4c0e-8250-5018eee3cc1f))
 - What is [[genetic drift]]?
 - ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
+## Sexual repreduction and

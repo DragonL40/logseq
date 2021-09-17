@@ -5,4 +5,3 @@
 - Examples:
 	- [[bottleneck effect]]
 	- [[founder effect]]
--
