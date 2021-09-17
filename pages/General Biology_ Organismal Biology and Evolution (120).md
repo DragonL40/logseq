@@ -137,7 +137,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
 - Individuals do not evolve. It is the population that evolves over time.
 - Evidence supporting Darwin-Wallace [[natural selection]]
-  collapsed:: true
 	- Biogeography of closely related spp.
 	- Fossils
 	- Embryology - homologies, vestigial organs
