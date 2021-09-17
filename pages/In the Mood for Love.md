@@ -10,4 +10,3 @@
 - Step-printing
 - elliptical editing
 - [[disembodied voice (acousmetre)]]
--
