@@ -1,4 +1,3 @@
-- Allele frequencies in stable populations
 - Allele frequencies and genotype frequencies in a population will not change between generations, and genotype frequencies follow a set pattern.
 -
   $$p^2 + 2pq + q^2 = 1$$
@@ -8,4 +7,6 @@
 	- No [[natural selection]]
 	- Random mating
 	- Large population
--
+- The Hardy-Weinberg Equation:
+	-
+	  $$p + $$
