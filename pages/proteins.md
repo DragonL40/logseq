@@ -18,8 +18,12 @@
 		- Example: Plants have storage proteins in their seeds.
 		- Example: Ovalbumin is the protein of egg white, used as a n amino acid source for the developing embryo.
 	- Transport proteins
-		-
+		- Transport of substances
 	- Hormonal proteins
+		- Coordination of an organism's activities
 	- Receptor proteins
+		- Response of cell to chemical stimuli
 	- Contractile and motor proteins
+		- Movement
 	- Structural proteins
+		- Support
