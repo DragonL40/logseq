@@ -118,7 +118,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Mendel already knew that yellow and round were dominant traits
 	- ((6144d4d1-ade9-4a75-9ab4-b61c4513e140))
 	- This is called the [[law of independent assortment]], which is true only because these genes are on different chromosomes.
--
+	- Conversely; linked genes on the same chromosome tend to be inherited together (**the number always deviate somewhat due to cross over recombination**).
 - What is [[mitosis]]?
 - What is [[meiosis]]?
 - What do we mean by evolutionary relationship?
