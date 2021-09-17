@@ -137,5 +137,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Inheritance of [[sex-linked gene]]
 	- The mammalian sex chromosomes have genes for many characters unrelated to sex (e.g. color blindness vs normal color vision)
 	- A gene located on either sex chromosome is called a [[sex-linked gene]] (sex-linked genes follow specific patterns of inheritance)
-- Why is sexual reproduction **expensive**?
+- Why is [[sexual reproduction]] **expensive**?
+	- You have to find a mate, sometimes facing competition.
+	- Assess mate potential: both sexes have to show signs of sexual maturity and fertility.
+- So why sexual reproduction?
 	-
