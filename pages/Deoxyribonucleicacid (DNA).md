@@ -1,2 +1,3 @@
+- Structure described by
 - A double helix, antiparallel strands
 - Bases on the two strands form base pairs: [[Adenine]] with [[Thymine]], [[Guanine]] with [[Cytosine]]; bound with relatively weak [[hydrogen bond]]s.
