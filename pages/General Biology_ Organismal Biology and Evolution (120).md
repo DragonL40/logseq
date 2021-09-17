@@ -93,6 +93,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - {{embed ((6144d021-6bc6-4875-a4c1-112814279219))}}
 - ![Lecture_05.pdf](../assets/Lecture_05_1631900369501_0.pdf)
 - How is mRNA translated into amino acids?
+- How is
 - What is mRNA?
 - What is tRNA?
 - What is codominance?
