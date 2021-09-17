@@ -14,4 +14,9 @@
 - Storage proteins
 	- Storage of amino acids
 	- Example: Casein, the protein of milk, is the major source of amino acids for baby mammals.
-	- Example:
+	- Example: Plants have storage proteins in their seeds.
+	- Example: Ovalbumin is the protein of egg white, used as a n amino acid source for the developing embryo.
+- Transport porteins
+- Hormonal proteins
+- Receptor proteins
+-
