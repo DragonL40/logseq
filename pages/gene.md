@@ -1,0 +1,4 @@
+- Gene = fundamental unit of heredity on the DNA (humans: about 25 000 genes)
+	- Sequence of [[Deoxyribonucleicacid (DNA)]] that codes for particular combination of [[amino acids]] (polypeptide, protein)
+	- Much of the [[Deoxyribonucleicacid (DNA)]] is non-coding.
+	-
