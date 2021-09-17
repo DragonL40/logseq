@@ -30,9 +30,11 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_03.pdf](../assets/Lecture_03_1631873682394_0.pdf)
 - What is [[living organisms]] (life)?
 - Is [[bacteria]] (sing. bacterium) an organism?
-	- Yes it satisfies all properties of [[living organisms]].
+	- Yes, it satisfies all properties of [[living organisms]].
 	- ((61446ae3-7145-4884-9fcd-af9e1bf825dc))
 - Is [[viruses]] an organism?
+	- No, it doesn't satisfy growth,
+	- ((61446b18-db19-456f-b50c-e7f1be15afbc))
 - What makes up an individual living organism?
   collapsed:: true
 	- The [[cell]] is the smallest unit of organization that can perform all activities required for life
