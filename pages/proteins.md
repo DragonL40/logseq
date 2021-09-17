@@ -12,4 +12,6 @@
 	- Protection against disease
 	- Example: Antibodies inactivate and help destroy viruses and bacteria
 - Storage proteins
-	-
+	- Storage of amino acids
+	- Example: Casein, the protein of milk, is the major source of amino acids for baby mammals.
+	- Example:
