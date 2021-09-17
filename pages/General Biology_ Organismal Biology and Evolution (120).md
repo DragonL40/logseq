@@ -170,7 +170,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Often caused by [[DNA polymerase]] errors in DNA synthesis (or DNA repair)
 	- Mutations can be spontaneous errors or caused by [[mutagens]]
 - Difference between [[large scale mutation]] and [[small scale mutation (point mutation)]] #Mutation
-	- ((613f1149-eb5a-40b1-87fb-9ebf1e910379))
 - What is [[gene flow]]? ((613f13c9-64c5-4c0e-8250-5018eee3cc1f))
 - What is [[genetic drift]]?
 ## Sexual Reproduction and Sexual Selection
