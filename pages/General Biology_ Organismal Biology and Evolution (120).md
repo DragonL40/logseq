@@ -135,7 +135,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Inference 2. There is an accumulation of favorable traits over time #[[adaptation]]
 - What are the three main components in Darwin-Wallace [[natural selection]]?
 	- Variation in traits
-	- Hearitability of traits
+	- Heritability of traits
 	- Selection results from differential reproductive success
 	-
 	  > We say that individuals with higher reproductive success have higher [[biological fitness]]
