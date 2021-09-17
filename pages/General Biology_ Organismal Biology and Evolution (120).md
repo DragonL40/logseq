@@ -70,6 +70,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - [[homozygous]] and [[heterozygous]]
 -
   ---
+- ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What are [[chromosome]]?
 	- Consisted of [[proteins]] and [[nucleic acid]].
 - What is [[DNA]]?
