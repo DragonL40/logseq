@@ -73,6 +73,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Consisted of [[proteins]] and [[nucleic acid]].
 - ![Lecture_04.pdf](../assets/Lecture_04_1631876542135_0.pdf)
 - What is [[Deoxyribonucleicacid (DNA)]]?
+- [[nucleic acid]]
 - What is [[RNA]]?
 - What is the difference between [[Deoxyribonucleicacid (DNA)]] and [[RNA]]?
 - What are [[genes]]?
