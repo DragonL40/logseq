@@ -1,3 +1,5 @@
 - The most structurally complex molecules known...
 	- Vary extensively in structure, enabling their diverse functions
 	- each protein has a unique three-dimensional shape.
+- proteins are constructed from amino acids.
+- nearly every dynamic function of a living being depends on proteins

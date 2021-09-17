@@ -85,13 +85,11 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What are [[genes]]?
 - What is the locus?
 - How do genes code for characteristics?
+  collapsed:: true
 	- Most genes are a “recipe” for the production of protein
 	- Genes on DNA are **transcribed** to mRNA, which is then **translated** to protein through the use of tRNA (mRNA = messenger RNA; tRNA = transfer RNA)
-	- Essentially, genes code for proteins = polymers of amino acids = polypeptides constru
+	- Essentially, genes code for proteins = polymers of amino acids = polypeptides constructed from 20 amino acids.
 	- ((61447a15-6867-4181-9600-5a528daead0e))
-- What are [[proteins]]?
-	- proteins are constructed from amino acids.
-	- nearly every dynamic function of a living being depends on proteins
 - How is mRNA translated into amino acids?
 - What is mRNA?
 - What is tRNA?
