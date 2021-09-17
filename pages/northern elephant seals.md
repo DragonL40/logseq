@@ -1,0 +1,3 @@
+- northern elephant seals were hunted for their meat
+- population fell to $<20$
+- reduced genetic variation
