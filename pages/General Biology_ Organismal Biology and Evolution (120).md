@@ -154,4 +154,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((6143efa0-af4b-41bb-baac-a9537f1f7efe))
 - What is [[allele frequency]]?
 	- ((6143efbd-eb6d-45cd-acad-be8e1fcbb5e4))
--
+- What does it mean for a locus to be **fixed**?
+	- There is only one allele for a given locus
