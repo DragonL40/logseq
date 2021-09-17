@@ -2,5 +2,5 @@
 - Example: ((613f1259-b6e2-4dd1-ab8a-ef4101208d6a))
 - **Missense** point mutations result in the formation of a completely difference amino acid.
 - **Silent** point mutations still results in the production of the same protein.
-- You can get **nonsense** mutations where it leads to wild changes.
+- **Nonsense** point mutations codes for a stop codon.
 - Point mutations can also lead to [[frameshift]] (subsequent codon triplets shifted and all wrong)
