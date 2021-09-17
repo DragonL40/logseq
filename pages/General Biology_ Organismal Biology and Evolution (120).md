@@ -171,7 +171,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Mutations can be spontaneous errors or caused by [[mutagens]]
 - Difference between [[large scale mutation]] and [[small scale mutation (point mutation)]] #Mutation
 - {{embed [[gene flow]]}}
-- What is [[genetic drift]]?
+- {{embed [[genetic drift]]}}
 ## Sexual Reproduction and Sexual Selection
 - ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
 - Microorganism typically reproduce through simple mitosis, some [[asexual reproduction]] (multicellular) happens by [[budding]], offspring are clones of its parents.

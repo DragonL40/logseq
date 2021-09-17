@@ -1,1 +1,3 @@
 - Consists of “flow” of alleles between populations due to movement of fertile individuals (or gametes, e.g. in pollen)
+- Causes populations to have more similar gene pools (can benefit pop. , but also sometimes be maladaptive)
+- ((6144eb95-5555-405c-943b-3c6a859e4bbc))
