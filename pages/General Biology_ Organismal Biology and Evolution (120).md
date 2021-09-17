@@ -130,4 +130,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## Sexual Reproduction and Sexual Selection
 - ![Lecture_09.pdf](../assets/Lecture_09_1631840407334_0.pdf)
 - Microorganism typically reproduce through simple mitosis, some [[asexual reproduction]] (multicellular) happens by [[budding]], offspring are clones of its parents.
-- How
+- How do we define biological sex?
+	- In biology, defined by having gonads that can produce **eggs** or **sperm**.
+	- In mammals,
