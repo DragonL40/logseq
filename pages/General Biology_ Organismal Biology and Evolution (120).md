@@ -83,7 +83,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What are [[chromosome]]?
 	- Consisted of [[proteins]] and [[nucleic acid]].
 - What are [[genes]]?
-- What is the locus?
+- What is [[locus]]?
 - How do genes code for characteristics?
   collapsed:: true
 	- Most genes are a “recipe” for the production of protein
