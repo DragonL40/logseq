@@ -167,4 +167,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
   collapsed:: true
 	- There is only one allele for a given locus
 -
-  >
+  > If there are only two alleles present, then $p + q = 1$
+-
