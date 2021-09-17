@@ -59,8 +59,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Fairly short generation time
 	- Mendel tracked inheritance of characters with two discrete forms
 	- Started with varieties of pea plants that had only always produced the same variety via self-pollination ([[true-breeding]]).
-- What is true-breeding?
-	-
 - What is [[Mendel's Model]] of inheritance?
   collapsed:: true
 	- ![image.png](../assets/image_1630515352591_0.png){:height 456, :width 349}
