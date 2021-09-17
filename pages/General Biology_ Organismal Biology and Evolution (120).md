@@ -27,8 +27,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[pseudoscience]]?
   collapsed:: true
 	- Not testable or reproducible OR already falsified.
-- What is life ([[living organisms]])?
+- ![Lecture_03.pdf](../assets/Lecture_03_1631873682394_0.pdf)
+- What is [[living organisms]] (life)?
 - Is [[bacteria]] (sing. bacterium) an organism?
+	- Yes it satisfies all
 - Is [[viruses]] an organism?
 - What makes up an individual living organism?
   collapsed:: true
