@@ -128,7 +128,11 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Class > Order > Family > Genus > Species
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
-- What two inferences make up the basis of Darwin's
+- What two inferences make up the basis of Darwin's theory of [[natural selection]]?
+	- Observation 1. Populations show heritable variation
+	- Observation 2. All species have the potential for exponenetial growth. But the environment usually connot support this; manhy individuals fail to reproduce.
+	- Inference 1. Some variants are favored over others by nature
+	-
 - What are the three main components in Darwin-Wallace [[natural selection]]?
   collapsed:: true
 	- Variation in traits
