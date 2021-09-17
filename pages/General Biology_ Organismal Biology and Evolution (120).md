@@ -89,7 +89,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- ((61447997-d83e-46af-bd19-1ba46e949b91))
 - What are [[chromosome]]?
 	- Consisted of [[proteins]] and [[nucleic acid]].
-- What are [[genes]]?
+- What are [[gene]]?
 - What is [[locus]]?
 - How do genes code for characteristics?
   collapsed:: true
