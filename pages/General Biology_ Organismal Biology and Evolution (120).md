@@ -134,4 +134,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- In biology, defined by having gonads that can produce **eggs** or **sperm**.
 	- In mammals, males always have XY chromosomes, while females have XX.
 	- There is an enormous amount of variation in other animals and plants (e.g. birds: females XY; crocodiles: temperature, not chromosomes)
--
+- Inheritance of sex-linked genes
+	-
