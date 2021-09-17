@@ -1,6 +1,5 @@
 - Allele frequencies and genotype frequencies in a population will not change between generations, and genotype frequencies follow a set pattern.
 - The Hardy-Weinberg Equilibrium #numlist
-  collapsed:: true
 	- No [[mutation]]
 	- No [[gene flow]]
 	- No [[natural selection]]
