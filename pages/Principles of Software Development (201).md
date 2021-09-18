@@ -153,13 +153,18 @@
 - Terminology
 	- ((6145483c-b360-4e7a-88c6-c40158a2179d))
 - Generics with Upper Bounds
-	-
+	- Upper bound is a boundary that includes the specified class or any which it extends.
+		-
+		  ```java
+		  <T extends superClass>
+		  ```
+	- Java generics
 - Generics with Lower Bounds
 	- Lower bound is a boundary that includes the specified class or any super class to it.
-	-
-	  ```java
-	  <T super childClass>
-	  ```
+		-
+		  ```java
+		  <T super childClass>
+		  ```
 	- Mostly we use lower bounds with a wildcard: `List<? super Integer>`
 		- This method will work for `List<Integer>`, `List<Number>`, `List<Object>`
 	-
