@@ -1,0 +1,1 @@
+- compiler javac removes all type parameters and replaces it with their bounds or with `Object` if the type parameter is unbounded.
