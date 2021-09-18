@@ -155,4 +155,8 @@
 - Generics with Upper Bounds
 - Generics with Lower Bounds
 	- Lower bound is a boundary that includes the specified class or any super class to it.
-	- `<T super> child`
+	-
+	  ```java
+	  <T super childClass>
+	  ```
+	-
