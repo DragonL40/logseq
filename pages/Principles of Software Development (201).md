@@ -149,3 +149,4 @@
 	  list of parameters -> expression body
 	  ```
 -
+- ![lecture6.pdf](../assets/lecture6_1631930377622_0.pdf)
