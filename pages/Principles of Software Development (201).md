@@ -152,4 +152,5 @@
 - ![lecture6.pdf](../assets/lecture6_1631930377622_0.pdf)
 - Terminology
 	- ((6145483c-b360-4e7a-88c6-c40158a2179d))
--
+- Generics with Upper Bounds
+	-
