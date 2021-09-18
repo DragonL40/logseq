@@ -182,4 +182,6 @@
 	    }
 	  }
 	  ```
+## Type Erasure
+- Compiler applies a process called [[Type Erasure]] on generics at compile time
 -
