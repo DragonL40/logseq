@@ -174,4 +174,11 @@
 - When to use bounded wildcards?
 	- Use `<? extends>` when you only GET objects.
 	- Use `<? super>` when you PUT values into a structure.
-	- ``````
+	-
+	  ```java
+	  public static <T> void copy (List <? extends T> src, List<? super T> dest) {
+	    for (int i = 0; i < src.size(); i++) {
+	      dest.set(k, src.get(k));
+	    }
+	  }
+	  ```
