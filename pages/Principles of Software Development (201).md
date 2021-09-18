@@ -153,4 +153,6 @@
 - Terminology
 	- ((6145483c-b360-4e7a-88c6-c40158a2179d))
 - Generics with Upper Bounds
-	-
+- Generics with Lower Bounds
+	- Lower bound is a boundary that includes the specified class or any super class to it.
+	- `<T super> child`
