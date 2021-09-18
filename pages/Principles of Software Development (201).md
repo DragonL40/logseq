@@ -172,4 +172,6 @@
 	- Mostly we use lower bounds with a wildcard: `List<? super Integer>`
 		- This method will work for `List<Integer>`, `List<Number>`, `List<Object>`
 - When to use bounded wildcards?
-	-
+	- Use `<? extends>` when you only GET objects.
+	- Use `<? super>` when you PUT values into a structure.
+	- ``````
