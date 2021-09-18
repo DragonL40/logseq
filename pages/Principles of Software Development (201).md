@@ -159,4 +159,5 @@
 	  ```java
 	  <T super childClass>
 	  ```
-	-
+	- Mostly we use lower bounds with a wildcard: `List<? super Integer>`
+		- This method will work for
