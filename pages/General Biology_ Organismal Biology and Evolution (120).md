@@ -145,7 +145,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What do we mean by evolutionary relationship?
 - What is the grouping categories (Linneaus)?
 	- Class > Order > Family > Genus > Species
--
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
 - What two inferences make up the basis of Darwin's theory of [[natural selection]]?
