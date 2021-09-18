@@ -153,6 +153,7 @@
 - Terminology
 	- ((6145483c-b360-4e7a-88c6-c40158a2179d))
 - Generics with Upper Bounds
+	-
 - Generics with Lower Bounds
 	- Lower bound is a boundary that includes the specified class or any super class to it.
 	-
@@ -160,4 +161,5 @@
 	  <T super childClass>
 	  ```
 	- Mostly we use lower bounds with a wildcard: `List<? super Integer>`
-		- This method will work for
+		- This method will work for `List<Integer>`, `List<Number>`, `List<Object>`
+	-
