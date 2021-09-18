@@ -158,7 +158,11 @@
 		  ```java
 		  <T extends superClass>
 		  ```
-	- Java generics
+	- Java Generics supports multiple bounds
+		-
+		  ```java
+		  <T extends superClassName & Interface>
+		  ```
 - Generics with Lower Bounds
 	- Lower bound is a boundary that includes the specified class or any super class to it.
 		-
@@ -167,4 +171,5 @@
 		  ```
 	- Mostly we use lower bounds with a wildcard: `List<? super Integer>`
 		- This method will work for `List<Integer>`, `List<Number>`, `List<Object>`
+- When to use bounded wildcards?
 	-
