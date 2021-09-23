@@ -7,4 +7,5 @@
 - Use staging to show temporary ownership, or the lack thereof
 ## Camera
 - The camera mostly follows Kevin.
+- Subjective camera and objective camera in the film
 -
