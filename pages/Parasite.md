@@ -9,5 +9,6 @@
 - The camera mostly follows Kevin.
 - Subjective camera and objective camera in the film
 - Park's return to home, shift of power back to the Parks
-- ##Motif
--
+## Motif
+- Transparency, the windows
+	- Representing the purm
