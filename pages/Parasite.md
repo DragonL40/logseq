@@ -12,4 +12,5 @@
 ## Motif
 - Transparency, the windows
 	- Representing the permutable nature of class difference
-	-
+	- Fantasy
+-
