@@ -14,3 +14,6 @@
 	- Representing the permutable nature of class difference
 	- Fantasy
 -
+- The basement guys
+	- Comfortable living in the basement
+	- Infantalized
