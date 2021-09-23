@@ -4,3 +4,5 @@
 ## Framing
 - The position switched when Kevin entered the Park's house
 ## Staging
+- Use staging to show temporary ownership, or the lack thereof
+-
