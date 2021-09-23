@@ -55,3 +55,4 @@
 - {{embed [[Get Out]]}}
 - {{embed [[Visual Design]]}}
 - {{embed [[In the Mood for Love]]}}
+- {{embed [[Parasite]]}}
