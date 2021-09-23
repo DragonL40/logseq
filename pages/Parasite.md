@@ -8,4 +8,4 @@
 ## Camera
 - The camera mostly follows Kevin.
 - Subjective camera and objective camera in the film
--
+- Park's return to home,
