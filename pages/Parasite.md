@@ -11,4 +11,5 @@
 - Park's return to home, shift of power back to the Parks
 ## Motif
 - Transparency, the windows
-	- Representing the purm
+	- Representing the permutable nature of class difference
+-
