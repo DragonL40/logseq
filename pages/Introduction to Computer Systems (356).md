@@ -132,4 +132,6 @@
 		- One operand must be a processor register or a constant
 		- Size and operation specified by instruction (`add1,orq,andb,subw`)
 	- **Control / Program Flow**
-		-
+		- `cmp %rax,%rbx` followed by `jl L1` means _"jump to lab L if rbx < rax"_
+		- Unconditional (`jmp L1`)
+		- Conditional Branch (``)
