@@ -119,3 +119,5 @@
 - What is the issue when transferring data between different systems? #Big-Endian #Little-Endian
 	- ((614d6c5e-cff7-4259-8257-58b96c9aee4e))
 - {{embed [[x86-64 Data Sizes]]}}
+- x86-64 Register Names
+	- ((614d72b1-6cab-4451-8b04-1d579eb033c5))
