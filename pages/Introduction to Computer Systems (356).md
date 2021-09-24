@@ -139,4 +139,6 @@
 -
 - **Source** operands must be in one of the following 3 locations:
 	- a register value (e.g. `%rax`) `addq %rax, ...`
-	- a value in a memory location (e,g, value at address ``)
+	- a value in a memory location (e,g, value at address `0x0200e8`) `addq 0x0200e8, ...`
+	- A constant stored in the instruction iteself (known as "immediate value")
+	-
