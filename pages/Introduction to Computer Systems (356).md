@@ -104,4 +104,5 @@
 	- The starting address + the size (B, W, L, Q)
 - What are the rules for valid starting addresses?
 	- A valid starting address should be a multiple of the data size
+- What is endian-ness?
 	-
