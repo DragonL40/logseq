@@ -157,4 +157,5 @@
 		- `movl` zeros the upper bits
 		  background-color:: #978626
 		- `move[b,w,l,q] src, dst`
-	-
+		- ### Variations on the `mov` instruction: Zero / Sign Extension
+			- `movzxy`
