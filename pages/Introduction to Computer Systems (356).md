@@ -102,6 +102,6 @@
 	- From binary to assembly: `gcc -0g -c file1.c`, `objdump -d file1.o`
 - How to refer to a chuck of memory?
 	- The starting address + the size (B, W, L, Q)
--
-	- Because each byte of memory has its own address we can picture memory as one column bytes
+- What are the rules for valid starting addresses?
+	- A valid starting address should be a multiple of the data size
 	-
