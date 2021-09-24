@@ -128,4 +128,8 @@
 		- Moves data **between registers**, or between **registers and memory** (one operand must be a processor register).
 		- Specifices **size via a suffix** on the instruction (`movb,movw,movl,movq`)
 	- **ALU Operations**
-		- `addq %rax,%rbx` means _"_
+		- `addq %rax,%rbx` means _"add rax to rbx"_ akin to _"rbx += rax"_
+		- One operand must be a processor register or a constant
+		- Size and operation specified by instruction (`add1,orq,andb,subw`)
+	- **Control / Program Flow**
+		-
