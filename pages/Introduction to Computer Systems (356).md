@@ -158,4 +158,6 @@
 		  background-color:: #978626
 		- `move[b,w,l,q] src, dst`
 		- ### Variations on the `mov` instruction: Zero / Sign Extension
-			- `movzxy`
+			- `movzxy` will zero-extend the upper portion (up to size `y`)
+				- `movzbw` (move a byte from the source but zero-extend it to a word in the destination register)
+				-
