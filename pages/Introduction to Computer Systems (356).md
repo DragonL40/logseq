@@ -145,4 +145,8 @@
 	  `addq $0x0200e8, ...`
 	  (`$` indicates the constant/immediate)
 - **Destination** operands must be
-	- A register: `addq ..., %rax`
+	- A register: `addq ...,%rax`
+	- A memory location: `addq ...,  0x0200e8`
+	  (specified by its address `0x0200e8`)
+# Data Transfer Instructions
+- `mov`
