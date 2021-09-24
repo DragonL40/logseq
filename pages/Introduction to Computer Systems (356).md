@@ -111,4 +111,6 @@
 	- [[Little-Endian]]
 		- used by Intel processors / original PCI bus
 	- **Some processors and busses can be configured for either big- or little-endian**
+- What is the issue when transferring data between different systems? #Big-Endian #Little-Endian
+	- ((614d6c5e-cff7-4259-8257-58b96c9aee4e))
 -
