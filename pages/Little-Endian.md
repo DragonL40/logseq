@@ -1,2 +1,3 @@
 - least significant byte is put at the starting address
--
+- makes sense if you view your memory as starting at the bottom-right and addresses increasing as you go up.
+- ((614d6bc4-7737-4dc7-b6d8-83b214a051ed))

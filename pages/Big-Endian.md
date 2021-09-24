@@ -1,1 +1,2 @@
 - most significant byte is put at the starting address.
+- makes sense if you view your memory as starting at the top-left and addresses increasing as you go down
