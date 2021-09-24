@@ -65,6 +65,7 @@
 	- `+3.625 = +11.101`
 ## ((6139d454-8a31-425d-9c5d-8dba2b2ed88f))
 - What are the methods of rounding?
+  collapsed:: true
 	- [[Round to Nearest]]
 	- [[Round towards 0 (Chopping)]]
 	- ((6139d546-3c42-4d8e-9a5d-0e63110b86c7))
@@ -76,6 +77,7 @@
 	- Hardware will keep some additional bits beyond what can be stored to help with rounding. (GRS)
 	- ((6139d70e-db9a-4873-ae85-a68458f451bd))
 - #Example Run to Nearest, Base 2,  (the last three bits are GRS): #numlist
+  collapsed:: true
 	- $1.001100110 \times 2^4$
 	- $1.111111101 \times 2^4$
 	- $1.001101001 \times 2^4$
@@ -83,15 +85,18 @@
 	- $1.111111100 \times 2^4$
 	- $1.001101100 \times 2^4$
 - How to implement the Guard, Round, and Sticky bit (GRS)?
+  collapsed:: true
 	- **Guard bits**: bits immediately after LSB of fraction (many HW implementations keep up to 16 additional guard bits)
 	- **Round bit**: bit to the right of the guard bits
 	- **Sticky bit**: Logical OR of all other bits after Guard & R bits
 	- ((6139da49-8156-4abb-a711-c0de3281f813))
 ## Major Implications for Programmers
 - ((6139da92-5ec9-4877-862a-7fef27fd0ee2))
+  collapsed:: true
 	-
 	  > Add similar, small magnitude numbers first
 - FP MUL/DIV is...
+  collapsed:: true
 	- also not associative
 	- Doesn't distribute over addition ($a \times (b + c) \ne a \times b + a \times c$)
 # Unit 4: x86 Instruction Set
@@ -113,4 +118,5 @@
 	- **Some processors and busses can be configured for either big- or little-endian**
 - What is the issue when transferring data between different systems? #Big-Endian #Little-Endian
 	- ((614d6c5e-cff7-4259-8257-58b96c9aee4e))
+- [[x86-64 Data Sizes]]
 -
