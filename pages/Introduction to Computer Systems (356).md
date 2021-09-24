@@ -122,4 +122,6 @@
 - x86-64 Register Names
   collapsed:: true
 	- ((614d72b1-6cab-4451-8b04-1d579eb033c5))
--
+- x86-64 Instruction Classes
+	- **Data Transfer**
+		- `movq %rax,%rbx` means "move rax into rbx" akin to "rbx = rax"
