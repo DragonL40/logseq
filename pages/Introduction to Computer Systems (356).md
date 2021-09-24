@@ -136,4 +136,6 @@
 		- Unconditional (`jmp L1`)
 		- Conditional Branch (`cmpq/test x,y` followed by `he,hne,jl,jge L1`)
 		- Subroutine Calls (`call procedure, ret`)
-	-
+-
+	- **Source** operands must be in one of the following 3 locations:
+		-
