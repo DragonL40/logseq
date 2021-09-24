@@ -102,4 +102,4 @@
 	- From binary to assembly: `gcc -0g -c file1.c`, `objdump -d file1.o`
 - How is memory organized?
 	- Because each byte of memory has its own address we can picture memory as one column bytes
-		-
+	-
