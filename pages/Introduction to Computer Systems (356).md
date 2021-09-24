@@ -110,7 +110,7 @@
 - What are the rules for valid starting addresses?
 	- A valid starting address should be a multiple of the data size
 - What is endian-ness?
-	- refers to the two alternate methods of ordering the [[bytes]] in a larger unit
+	- refers to the two alternate methods of ordering the [[byte]] in a larger unit
 	- [[Big-Endian]]
 		- PPC, Sparc, TCP/IP
 	- [[Little-Endian]]
@@ -118,5 +118,4 @@
 	- **Some processors and busses can be configured for either big- or little-endian**
 - What is the issue when transferring data between different systems? #Big-Endian #Little-Endian
 	- ((614d6c5e-cff7-4259-8257-58b96c9aee4e))
-- [[x86-64 Data Sizes]]
--
+- {{embed [[x86-64 Data Sizes]]}}

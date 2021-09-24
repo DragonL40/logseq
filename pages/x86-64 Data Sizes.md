@@ -1,0 +1,3 @@
+# Integer
+	- [[byte]] (B)
+	- word
