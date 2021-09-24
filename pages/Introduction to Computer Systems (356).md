@@ -150,8 +150,10 @@
 	  (specified by its address `0x0200e8`)
 # Data Transfer Instructions
 	- ## `mov` Instruction
-	- **Moves data between memory and processor register**
-	- Always provide the **LS-Byte address (little-endian)** of the desired data
-	- Size is explicitly defined by the instruction suffix ('mov[bwlq]') used
-	- `move[b,w,l,q] src, dst`
+		- **Moves data between memory and processor register**
+		- Always provide the **LS-Byte address (little-endian)** of the desired data
+		- Size is explicitly defined by the instruction suffix ('mov[bwlq]') used
+		- ((614d7e19-03fb-4d7f-8c85-7deee7f11cd7))
+		- **`movl` zeros the upper bits**
+		- `move[b,w,l,q] src, dst`
 	-
