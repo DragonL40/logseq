@@ -162,4 +162,6 @@
 				- `movzbw` (move a byte from the source but zero-extend it to a word in the destination register)
 				- `movzbw, movzbl, movzbq, movzwl, movzwq` (but no `movzlq`!)
 			- `movsxy` will sign-extend the upper portion (up to size `y`)
-				- `movsbw` (move a byte )
+				- `movsbw` (move a byte from the source but sign-extend it to a word in the destination register)
+				- `movsbw, movsbl, movsbq, movswl, movswq, movslq`
+				-
