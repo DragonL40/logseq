@@ -125,4 +125,7 @@
 - x86-64 Instruction Classes
 	- **Data Transfer**
 		- `movq %rax,%rbx` means _"move rax into rbx"_ akin to _"rbx = rax"_
-		- Moves data **between registers**, or between registers and memory (one operand must be a processor register).
+		- Moves data **between registers**, or between **registers and memory** (one operand must be a processor register).
+		- Specifices **size via a suffix** on the instruction (`movb,movw,movl,movq`)
+	- **ALU Operations**
+		- `addq %rax,%rbx` means _"_
