@@ -134,4 +134,6 @@
 	- **Control / Program Flow**
 		- `cmp %rax,%rbx` followed by `jl L1` means _"jump to lab L if rbx < rax"_
 		- Unconditional (`jmp L1`)
-		- Conditional Branch (``)
+		- Conditional Branch (`cmpq/test x,y` followed by `he,hne,jl,jge L1`)
+		- Subroutine Calls (`call procedure, ret`)
+	-
