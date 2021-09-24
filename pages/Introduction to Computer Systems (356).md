@@ -154,6 +154,7 @@
 		- Always provide the **LS-Byte address (little-endian)** of the desired data
 		- Size is explicitly defined by the instruction suffix ('mov[bwlq]') used
 		- ((614d7e19-03fb-4d7f-8c85-7deee7f11cd7))
-		- **`movl` zeros the upper bits**
+		- `movl` zeros the upper bits
+		  background-color:: #978626
 		- `move[b,w,l,q] src, dst`
 	-
