@@ -141,4 +141,8 @@
 	- a register value (e.g. `%rax`) `addq %rax, ...`
 	- a value in a memory location (e,g, value at address `0x0200e8`) `addq 0x0200e8, ...`
 	- A constant stored in the instruction iteself (known as "immediate value")
-	-
+	  `addq $1, ...`
+	  `addq $0x0200e8, ...`
+	  (`$` indicates the constant/immediate)
+- **Destination** operands must be
+	- A register: `addq ..., %rax`
