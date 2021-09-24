@@ -149,4 +149,7 @@
 	- A memory location: `addq ...,  0x0200e8`
 	  (specified by its address `0x0200e8`)
 # Data Transfer Instructions
-- `mov`
+	- ## `mov` Instruction
+	- **Moves data between memory and processor register**
+	- Always provide the **LS-Byte address (little-endian)** of the desired data
+	- Size is explicitly defined by the inst
