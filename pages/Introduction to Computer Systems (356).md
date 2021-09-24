@@ -105,4 +105,10 @@
 - What are the rules for valid starting addresses?
 	- A valid starting address should be a multiple of the data size
 - What is endian-ness?
+	- refers to the two alternate methods of ordering the [[bytes]] in a larger unit
+	- Big-Endian
+		- MS byte is put at the starting address
+	- Little-Endian
+		- LS byte is put at the starting address
 	-
+	  > Some processors
