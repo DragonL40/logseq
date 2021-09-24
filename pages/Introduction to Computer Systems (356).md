@@ -160,4 +160,6 @@
 		- ### Variations on the `mov` instruction: Zero / Sign Extension
 			- `movzxy` will zero-extend the upper portion (up to size `y`)
 				- `movzbw` (move a byte from the source but zero-extend it to a word in the destination register)
-				-
+				- `movzbw, movzbl, movzbq, movzwl, movzwq` (but no `movzlq`!)
+			- `movsxy` will sign-extend the upper portion (up to size `y`)
+				- `movsbw` (move a byte )
