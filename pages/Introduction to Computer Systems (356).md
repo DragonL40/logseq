@@ -137,5 +137,6 @@
 		- Conditional Branch (`cmpq/test x,y` followed by `he,hne,jl,jge L1`)
 		- Subroutine Calls (`call procedure, ret`)
 -
-	- **Source** operands must be in one of the following 3 locations:
-		-
+- **Source** operands must be in one of the following 3 locations:
+	- a register value (e.g. `%rax`) `addq %rax, ...`
+	- a value in a memory location (e,g, value at address ``)
