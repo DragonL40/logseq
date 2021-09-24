@@ -153,4 +153,5 @@
 	- **Moves data between memory and processor register**
 	- Always provide the **LS-Byte address (little-endian)** of the desired data
 	- Size is explicitly defined by the instruction suffix ('mov[bwlq]') used
+	- `move[b,w,l,q] src, dst`
 	-
