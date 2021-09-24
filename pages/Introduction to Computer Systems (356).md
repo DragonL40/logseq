@@ -106,9 +106,8 @@
 	- A valid starting address should be a multiple of the data size
 - What is endian-ness?
 	- refers to the two alternate methods of ordering the [[bytes]] in a larger unit
-	- Big-Endian
-		- MS byte is put at the starting address
-	- Little-Endian
-		- LS byte is put at the starting address
+	- [[Big-Endian]] : MS byte is put at the starting address
+	- [[Little-Endian]]: LS byte is put at the starting address
 	-
-	  > Some processors
+	  > Some processors and busses can be configured for either big- or little-endian
+	- ((614d6b26-b5cf-449c-a88a-beb9fc24da69))
