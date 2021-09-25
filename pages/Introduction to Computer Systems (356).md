@@ -166,4 +166,8 @@
 	- ## Addressing Modes
 		- What is Addressing Modes?
 			- Ways to specify operand locations
-		- Different
+		- Different ways to specify source values and output location:
+			- **Immediate**: `$imm` to use a constant input value
+			- **Register**: `%reg` to use the value contained in a register
+			- **Memory reference**
+				-
