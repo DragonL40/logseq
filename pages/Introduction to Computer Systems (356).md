@@ -176,4 +176,5 @@
 				- **Indexed**: `(%reg1, %reg2)`, add another register
 				- **Indexed+displacement**: `imm(%reg1,%reg2)` add both
 				- **Scaled indexed**: `imm(%reg1,%reg2,c)` use address: `imm+reg1+reg2*c`
-				  _Restriction_: $c
+				  Restriction: $c$ must be one of 1, 2, 4, 8
+				  Variants: omit `imm` or `reg1` or `both`.
