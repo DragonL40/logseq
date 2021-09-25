@@ -170,4 +170,6 @@
 			- **Immediate**: `$imm` to use a constant input value
 			- **Register**: `%reg` to use the value contained in a register
 			- **Memory reference**
+				- **Absolute**: `addr`, use a fixed address
+				- **Indirect**: `(%reg)`, use address contained in a **q register**
 				-
