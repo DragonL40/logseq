@@ -164,4 +164,6 @@
 			- `movsbw` (move a byte from the source but sign-extend it to a word in the destination register)
 			- `movsbw, movsbl, movsbq, movswl, movswq, movslq`
 	- ## Addressing Modes
-	-
+		- What is Addressing Modes?
+			- Ways to specify operand locations
+		- Different
