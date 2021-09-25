@@ -172,4 +172,6 @@
 			- **Memory reference**
 				- **Absolute**: `addr`, use a fixed address
 				- **Indirect**: `(%reg)`, use address contained in a **q register**
-				-
+				- **Base+displacement**: `imm(%reg)`, add a displacement
+				- **Indexed**: `(%reg1, %reg2)`, add another register
+				- **Indexed+displacement**:
