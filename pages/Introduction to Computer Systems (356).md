@@ -174,4 +174,6 @@
 				- **Indirect**: `(%reg)`, use address contained in a **q register**
 				- **Base+displacement**: `imm(%reg)`, add a displacement
 				- **Indexed**: `(%reg1, %reg2)`, add another register
-				- **Indexed+displacement**:
+				- **Indexed+displacement**: `imm(%reg1,%reg2)` add both
+				- **Scaled indexed**: `imm(%reg1,%reg2,c)` use address: `imm+reg1+reg2*c`
+				  _Restriction_: $c
