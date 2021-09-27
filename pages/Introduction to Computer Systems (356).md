@@ -193,4 +193,4 @@
 		- `leaq 80(%rdx,%rcx,2),%rax`
 		- Computes the address and just puts it in the destination for later
 ## Multiplication and Division
-	- Like decimal multipl
+	- Since the product of a multiplication may result in twice as many bits as the input operands, the x86 architecture splits the output across two registers (`%rdx`)
