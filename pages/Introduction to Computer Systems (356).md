@@ -209,4 +209,7 @@
 	  `%edx = %edx:%eax % src`
 	  `%rax = %rdx:%rax / src` (`divq`)
 	  `%rdx = %rdx:%rax % src`
-		- Implicit dividend is in `%edx:%eax` (or $%rdx:%rax`)
+		- **Implicit dividend** is in `%edx:%eax` (or `%rdx:%rax`)
+		- **Divisor** is specified as src 32-bit (or 64 bits)
+		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
+	-
