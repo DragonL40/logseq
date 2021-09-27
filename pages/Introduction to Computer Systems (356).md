@@ -196,4 +196,4 @@
 	- Since the product of a multiplication may result in twice as many bits as the input operands, the x86 architecture splits the output across two registers (`%rdx` and `%rax`)
 	- **Format**: `mul[l,q] src` (Unsigned multiply)
 	  `imul[l,q] src` (Signed multiply)
-	- **Operation**
+	- **Operation**: Long `%edx:%eax = %eax * src` (mull)
