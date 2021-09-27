@@ -229,4 +229,8 @@
 			- x86 instruction: `jmp label`
 	- Condition Codes (Flags)
 		- The FLAGS register in the process
-		- S
+		- **SF** = Sign Flag
+		- **ZF** = Zero Flag
+		- **OF** = 2's complement Overflow Flah
+		- **CF** = Unsigned Overflow
+	-
