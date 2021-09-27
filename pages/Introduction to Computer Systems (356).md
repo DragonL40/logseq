@@ -199,4 +199,7 @@
 	- **Operation**: Long `%edx:%eax = %eax * src` (mull)
 	  Quad `%rdx:%rax = %rax * src` (mulq)
 		- Implicit 2nd operand is `%eax` or `%rax`
-		- Results is split across `%edx:`
+		- Results is split across `%edx:%eax` (or `%rdx:%rax`)
+			- MSBs (Upper half) are saved to `%edx` (or `%rdx`)
+			- LSBs (Lower half) are saved in `%eax` (or `%rax`)
+	-
