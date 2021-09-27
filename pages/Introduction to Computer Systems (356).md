@@ -196,8 +196,8 @@
 	- Since the product of a multiplication may result in twice as many bits as the input operands, the x86 architecture splits the output across two registers (`%rdx` and `%rax`)
 	- **Format**: `mul[l,q] src` (Unsigned multiply)
 	  `imul[l,q] src` (Signed multiply)
-	- **Operation**: Long `%edx:%eax = %eax * src` (mull)
-	  Quad `%rdx:%rax = %rax * src` (mulq)
+	- **Operation**: Long `%edx:%eax = %eax * src` (`mull`)
+	  Quad `%rdx:%rax = %rax * src` (`mulq`)
 		- Implicit 2nd operand is `%eax` or `%rax`
 		- Results is split across `%edx:%eax` (or `%rdx:%rax`)
 			- MSBs (Upper half) are saved to `%edx` (or `%rdx`)
@@ -205,8 +205,8 @@
 	- For the same reason, the output of division is split across two registers
 	- **Format**: `div[l,q] src` (Unsigned divide)
 	  `idiv[l,q] src` (Signed divide)
-	- **Operation**: `%eax = %edx:%eax / src` (divl)
+	- **Operation**: `%eax = %edx:%eax / src` (`divl`)
 	  `%edx = %edx:%eax % src`
-	  `%rax = %rdx:%rax / src`
+	  `%rax = %rdx:%rax / src` (`divq`)
 	  `%rdx = %rdx:%rax % src`
-	-
+		- Implicit dividend is in `%edx:%eax` (or $%rdx:%rax`)
