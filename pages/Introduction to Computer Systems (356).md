@@ -239,3 +239,4 @@
 	- `test[bwql] src1, src2`
 		- Performs (`src1 & src2`) and sets condition codes
 		- `src1` and `src2` are not changed, OF and CF always set to 0
+		- Often used with the `src1 = src2` to check if a value is 0 or negative (trh)
