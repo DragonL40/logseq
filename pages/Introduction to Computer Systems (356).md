@@ -212,4 +212,5 @@
 		- **Implicit dividend** is in `%edx:%eax` (or `%rdx:%rax`)
 		- **Divisor** is specified as src 32-bit (or 64 bits)
 		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
+- ![CS356Unit05_x86_Control.pdf](../assets/CS356Unit05_x86_Control_1632720904597_0.pdf)
 -
