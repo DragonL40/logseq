@@ -233,4 +233,8 @@
 		- **ZF** = Zero Flag
 		- **OF** = 2's complement Overflow Flah
 		- **CF** = Unsigned Overflow
-	- `cmp` Instructions
+	- `cmp` [bwql] src1, src2
+		- Performs (src2-src1) and sets the condition codes based on the result
+	- `test[bwql] src1, src2`
+		- Performs (src1&src2) and sets condition codes
+		-
