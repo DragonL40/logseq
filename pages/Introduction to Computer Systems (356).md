@@ -148,7 +148,7 @@
 	- A register: `addq ...,%rax`
 	- A memory location: `addq ...,  0x0200e8`
 	  (specified by its address `0x0200e8`)
-## Data Transfer Instructions `mov` Instruction
+- ## Data Transfer Instructions `mov` Instruction
 	- **Moves data between memory and processor register**
 	- Always provide the **LS-Byte address (little-endian)** of the desired data
 	- Size is explicitly defined by the instruction suffix ('mov[bwlq]') used
@@ -163,30 +163,34 @@
 		- `movsxy` will sign-extend the upper portion (up to size `y`)
 			- `movsbw` (move a byte from the source but sign-extend it to a word in the destination register)
 			- `movsbw, movsbl, movsbq, movswl, movswq, movslq`
-	- ## Addressing Modes
-		- What is Addressing Modes?
-			- Ways to specify operand locations
-		- Different ways to specify source values and output location:
-			- **Immediate**: `$imm` to use a constant input value
-			- **Register**: `%reg` to use the value contained in a register
-			- **Memory reference**
-				- **Absolute**: `addr`, use a fixed address
-				- **Indirect**: `(%reg)`, use address contained in a **q register**
-				- **Base+displacement**: `imm(%reg)`, add a displacement
-				- **Indexed**: `(%reg1, %reg2)`, add another register
-				- **Indexed+displacement**: `imm(%reg1,%reg2)` add both
-				- **Scaled indexed**: `imm(%reg1,%reg2,c)` use address: `imm+reg1+reg2*c`
-				  Restriction: $c$ must be one of 1, 2, 4, 8
-				  Variants: omit `imm` or `reg1` or `both`.
-		- Limits on Addressing Modes:
-			- **Not allowed:** memory locations for both operands
-				- To avoid `mem->mem` use two move instructions with a register as the intermediate storage location
-	- ## Arithmetic Instruction
-		- ((61511e11-30f5-432d-a412-807cd41319a9))
-		- What is the format of ALU Instructions?
-			- Restriction: Both operands cannot be memory
-			- Format: `add[b,w,l,q] src2, src1/dst`
-		- The `lea` Instruction
-			- `lea` = Load Effective Address
-			- `leaq 80(%rdx,%rcx,2),%rax`
-			- Computes the address and just puts it in the destination for later
+- ## Addressing Modes
+  collapsed:: true
+	- What is Addressing Modes?
+		- Ways to specify operand locations
+	- Different ways to specify source values and output location:
+		- **Immediate**: `$imm` to use a constant input value
+		- **Register**: `%reg` to use the value contained in a register
+		- **Memory reference**
+			- **Absolute**: `addr`, use a fixed address
+			- **Indirect**: `(%reg)`, use address contained in a **q register**
+			- **Base+displacement**: `imm(%reg)`, add a displacement
+			- **Indexed**: `(%reg1, %reg2)`, add another register
+			- **Indexed+displacement**: `imm(%reg1,%reg2)` add both
+			- **Scaled indexed**: `imm(%reg1,%reg2,c)` use address: `imm+reg1+reg2*c`
+			  Restriction: $c$ must be one of 1, 2, 4, 8
+			  Variants: omit `imm` or `reg1` or `both`.
+	- Limits on Addressing Modes:
+		- **Not allowed:** memory locations for both operands
+			- To avoid `mem->mem` use two move instructions with a register as the intermediate storage location
+- ## Arithmetic Instruction
+  collapsed:: true
+	- ((61511e11-30f5-432d-a412-807cd41319a9))
+	- What is the format of ALU Instructions?
+		- Restriction: Both operands cannot be memory
+		- Format: `add[b,w,l,q] src2, src1/dst`
+	- The `lea` Instruction
+		- `lea` = Load Effective Address
+		- `leaq 80(%rdx,%rcx,2),%rax`
+		- Computes the address and just puts it in the destination for later
+## Multiplication and Division
+	-
