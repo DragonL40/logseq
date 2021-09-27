@@ -178,3 +178,6 @@
 				- **Scaled indexed**: `imm(%reg1,%reg2,c)` use address: `imm+reg1+reg2*c`
 				  Restriction: $c$ must be one of 1, 2, 4, 8
 				  Variants: omit `imm` or `reg1` or `both`.
+		- Limits on Addressing Modes:
+			- **Not allowed:** memory locations for both operands
+			-
