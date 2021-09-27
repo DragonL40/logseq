@@ -232,7 +232,7 @@
 		- **SF** = Sign Flag
 		- **ZF** = Zero Flag
 		- **OF** = 2's complement Overflow Flag
-		- **CF** = Unsigned Overflow
+		- **CF** = Carry Flag (Unsigned Overflow)
 	- `cmp` [bwql] src1, src2
 		- Performs (`src2 - src1`) and sets the condition codes based on the result
 		- `src1` and `src2` are not changed
