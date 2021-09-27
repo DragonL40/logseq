@@ -193,4 +193,4 @@
 		- `leaq 80(%rdx,%rcx,2),%rax`
 		- Computes the address and just puts it in the destination for later
 ## Multiplication and Division
-	-
+	- Like decimal multipl
