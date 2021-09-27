@@ -197,3 +197,6 @@
 	- **Format**: `mul[l,q] src` (Unsigned multiply)
 	  `imul[l,q] src` (Signed multiply)
 	- **Operation**: Long `%edx:%eax = %eax * src` (mull)
+	  Quad `%rdx:%rax = %rax * src` (mulq)
+		- Implicit 2nd operand is `%eax` or `%rax`
+		- Results is split across `%edx:`
