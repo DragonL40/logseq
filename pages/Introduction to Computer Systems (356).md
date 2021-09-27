@@ -235,6 +235,7 @@
 		- **CF** = Unsigned Overflow
 	- `cmp` [bwql] src1, src2
 		- Performs (`src2 - src1`) and sets the condition codes based on the result
+		- `src1` and `src2` are not changed
 	- `test[bwql] src1, src2`
 		- Performs (`src1 & src2`) and sets condition codes
 		- `src1` and `src2` are not changed, OF and CF always set to 0
