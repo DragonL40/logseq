@@ -186,4 +186,7 @@
 		- What is the format of ALU Instructions?
 			- Restriction: Both operands cannot be memory
 			- Format: `add[b,w,l,q] src2, src1/dst`
+		- The `lea` Instruction
+			- `lea` = Load Effective Address
+			- `leaq 80(%rdx,%rcx,2),%rax`
 			-
