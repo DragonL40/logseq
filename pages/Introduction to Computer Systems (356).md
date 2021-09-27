@@ -218,4 +218,6 @@
 	- ((615159aa-9ff9-4e02-901e-1bbb5ac091c2))
 ## Jump/Branching Overview
 	- Assembly is executed in sequential order by default
+	- Jump instruction (aka "branches") cause execution to skip ahead or back to some other location
+	- Jumps are used to implement control structures like if statements & loops
 	-
