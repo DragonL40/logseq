@@ -214,4 +214,5 @@
 		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
 - ![CS356Unit05_x86_Control.pdf](../assets/CS356Unit05_x86_Control_1632720904597_0.pdf)
 - Arguments and Return Values
+  collapsed:: true
 	- ((615159aa-9ff9-4e02-901e-1bbb5ac091c2))
