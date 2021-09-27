@@ -202,4 +202,5 @@
 		- Results is split across `%edx:%eax` (or `%rdx:%rax`)
 			- MSBs (Upper half) are saved to `%edx` (or `%rdx`)
 			- LSBs (Lower half) are saved in `%eax` (or `%rax`)
+	- For the same reason, there is an $n$-bit division produces two $n$-bit results (quotient and remainder).
 	-
