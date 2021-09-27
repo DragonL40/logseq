@@ -189,4 +189,4 @@
 		- The `lea` Instruction
 			- `lea` = Load Effective Address
 			- `leaq 80(%rdx,%rcx,2),%rax`
-			-
+			- Computes the address and just puts it in the destination for later
