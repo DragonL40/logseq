@@ -221,6 +221,7 @@
 	- Jump instruction (aka "branches") cause execution to skip ahead or back to some other location
 	- Jumps are used to implement control structures like if statements & loops
 	- ### Conditional and Unconditional Jumps
+	  collapsed:: true
 		- **Conditional**
 			- Jump only if a condition is true, otherwise continue sequentially
 			- x86 instructions: `je, jne, jge, ...`
@@ -240,4 +241,6 @@
 		- Performs (`src1 & src2`) and sets condition codes
 		- `src1` and `src2` are not changed, OF and CF always set to 0
 		- Often used with the `src1 = src2` to check if a value is 0 or negative (through ZF and SF)
-	-
+	- ### Conditional Jump Instructions
+		-
+		  id:: 61515fa0-352a-4f97-a6ef-e1c9f794a403
