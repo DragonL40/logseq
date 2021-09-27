@@ -205,5 +205,8 @@
 	- For the same reason, the output of division is split across two registers
 	- **Format**: `div[l,q] src` (Unsigned divide)
 	  `idiv[l,q] src` (Signed divide)
-	-
+	- **Operation**: `%eax = %edx:%eax / src` (divl)
+	  `%edx = %edx:%eax % src`
+	  `%rax = %rdx:%rax / src`
+	  `%rdx = %rdx:%rax % src`
 	-
