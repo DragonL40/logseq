@@ -220,4 +220,8 @@
 	- Assembly is executed in sequential order by default
 	- Jump instruction (aka "branches") cause execution to skip ahead or back to some other location
 	- Jumps are used to implement control structures like if statements & loops
-	-
+	- ### Conditional and Unconditional Jumps
+		-
+		- Jump only if a condition is true, otherwise continue sequentially
+		- x86 instructions: `je, jne, jge, ...`
+		-
