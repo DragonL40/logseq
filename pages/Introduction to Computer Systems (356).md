@@ -185,4 +185,5 @@
 		- ((61511e11-30f5-432d-a412-807cd41319a9))
 		- What is the format of ALU Instructions?
 			- Restriction: Both operands cannot be memory
-			- Format: `add[]`
+			- Format: `add[b,w,l,q] src2, src1/dst`
+			-
