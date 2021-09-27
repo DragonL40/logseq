@@ -216,3 +216,6 @@
 - Arguments and Return Values
   collapsed:: true
 	- ((615159aa-9ff9-4e02-901e-1bbb5ac091c2))
+## Jump/Branching Overview
+	- Assembly is executed in sequential order by default
+	-
