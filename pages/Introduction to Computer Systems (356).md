@@ -231,7 +231,7 @@
 		- The FLAGS register in the process
 		- **SF** = Sign Flag
 		- **ZF** = Zero Flag
-		- **OF** = 2's complement Overflow Flah
+		- **OF** = 2's complement Overflow Flag
 		- **CF** = Unsigned Overflow
 	- `cmp` [bwql] src1, src2
 		- Performs (`src2 - src1`) and sets the condition codes based on the result
@@ -239,4 +239,5 @@
 	- `test[bwql] src1, src2`
 		- Performs (`src1 & src2`) and sets condition codes
 		- `src1` and `src2` are not changed, OF and CF always set to 0
-		- Often used with the `src1 = src2` to check if a value is 0 or negative (trh)
+		- Often used with the `src1 = src2` to check if a value is 0 or negative (through ZF and SF)
+	-
