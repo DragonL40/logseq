@@ -193,4 +193,7 @@
 		- `leaq 80(%rdx,%rcx,2),%rax`
 		- Computes the address and just puts it in the destination for later
 ## Multiplication and Division
-	- Since the product of a multiplication may result in twice as many bits as the input operands, the x86 architecture splits the output across two registers (`%rdx`)
+	- Since the product of a multiplication may result in twice as many bits as the input operands, the x86 architecture splits the output across two registers (`%rdx` and `%rax`)
+	- **Format**: `mul[l,q] src` (Unsigned multiply)
+	  `imul[l,q] src` (Signed multiply)
+	- **Operation**
