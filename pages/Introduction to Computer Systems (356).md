@@ -233,4 +233,4 @@
 		- **ZF** = Zero Flag
 		- **OF** = 2's complement Overflow Flah
 		- **CF** = Unsigned Overflow
-	-
+	- `cmp` Instructions
