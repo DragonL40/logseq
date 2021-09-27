@@ -245,3 +245,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
   > If there are only two alleles present, then $p + q = 1$
 - ![Lecture_10.pdf](../assets/Lecture_10_1631862456981_0.pdf)
 - [[Hardy-Weinberg Principle]]
+-
