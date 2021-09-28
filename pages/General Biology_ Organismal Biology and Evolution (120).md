@@ -248,4 +248,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - ![Lecture_11.pdf](../assets/Lecture_11_1632723296889_0.pdf)
 ## Species
 - What are [[species]]?
--
+- [[ecological species]] based on unique ecological niche
+- [[morphological species]] based on unique morphological traits
