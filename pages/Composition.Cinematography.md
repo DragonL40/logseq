@@ -7,4 +7,8 @@
 		- Anamorphic/Cinemascope/Panavision - 2.35:1 (7.05x3, 21:9)
 	- Aesthetic Considerations
 		- Center of interest is usually the center of the frame, 1/3 from the top.
-		-
+		- Filmmakers will offset the action in the frame
+			- Decentering vs. centering
+			- Top-loading (oppressive) vs. bottom-loading (uplifting)
+			- The edge is uneasy
+			- Oblique fram
