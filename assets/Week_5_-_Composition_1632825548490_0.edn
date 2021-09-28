@@ -1,1 +1,1 @@
-{:highlights []}
+{:highlights [{:id #uuid "6152fabb-694d-489b-aa7e-1d80cb79382c", :page 3, :position {:bounding {:x1 128.953125, :y1 611.140625, :x2 234.06317138671875, :y2 631.140625, :width 891.0000000000001, :height 1153.058823529412}, :rects ({:x1 128.953125, :y1 611.140625, :x2 234.06317138671875, :y2 631.140625, :width 891.0000000000001, :height 1153.058823529412}), :page 3}, :content {:text "Photographing"}, :properties {:color "yellow"}}]}
