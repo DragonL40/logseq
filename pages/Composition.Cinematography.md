@@ -24,4 +24,6 @@
 	- [[proxemic patterns]] - the arrangement of objects and players in relation to each other within the frame.
 		- [[proxemic patterns]] with in the frame
 			- The spatial relationships among the elements in the frame
-			- i.e. placing two actors right next to
+			- i.e. placing two actors right next to each other in the frame versus far apart.
+			- The second type of proxemic patterns (outside the frame) is part of photography - how the lens and the camera shape the space
+	-
