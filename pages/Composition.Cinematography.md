@@ -40,4 +40,3 @@
 		- Moving right to left is stronger than left to right because it opposes the natural parsing direction for writing
 		- Moving toward the audience is stronger than moving away
 ## [[Photographing]] ((6152fabb-694d-489b-aa7e-1d80cb79382c))
-	-
