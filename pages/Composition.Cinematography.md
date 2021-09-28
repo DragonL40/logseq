@@ -21,5 +21,7 @@
 		- We feel that the world continues beyond the frame, unlike theater
 		- Six zones of off-screen space - right, left, above, below, in front (behind the camera), and behind the set
 ## [[Staging]]
-	- Proxemic Patterns - the arrangement of objects and players in relation to each other within the frame.
-	-
+	- [[proxemic patterns]] - the arrangement of objects and players in relation to each other within the frame.
+		- [[proxemic patterns]] with in the frame
+			- The spatial relationships among the elements in the frame
+			- i.e. placing two actors right next to
