@@ -11,4 +11,6 @@
 			- Decentering vs. centering
 			- Top-loading (oppressive) vs. bottom-loading (uplifting)
 			- The edge is uneasy
-			- Oblique fram
+			- Oblique frames - off balance, unreliable
+		- Framing can separate or call attention
+			- Fragmentation of the frame - objects or light split the frame, or you can have a truly split screen
