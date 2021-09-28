@@ -18,4 +18,7 @@
 			- Frames within frams
 		- Classical rule of framing - show what is essential
 	- Off-Screen Space
+		- We feel that the world continues beyond the frame, unlike theater
+		- Six zones of off-screen space - right, left, above, below, in front (behind the camera), and behind the set
+## [[Staging]]
 	-
