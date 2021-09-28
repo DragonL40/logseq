@@ -249,4 +249,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## Species
 - What are [[species]]?
 	- A species is a group of populations that can interbreed in nature and produce viable and fertile offspring
--
+- The Biological species concept does not cover cpecies that only reproduce asexually
