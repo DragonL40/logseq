@@ -249,7 +249,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 ## Species
 - What are [[species]]?
 - [[ecological species]] based on unique ecological niche
+	- but species can occupy different niches in different areas (e.g. ravens)
 - [[morphological species]] based on unique morphological traits
+	- are
 - Three traditional models of speciation
 	- [[allopatric speciation]]
 	- [[parapatric speciation]]
