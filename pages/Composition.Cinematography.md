@@ -4,4 +4,7 @@
 	- Most common aspect ratios:
 		- Classical Framing - 1.33:1 (4:3) - the Edition/Lumiere ratio
 		- Widescreen Framing - 1.85:1 (5.5:3) - standard since 1950s, close to HD television
+		- Anamorphic/Cinemascope/Panavision - 2.35:1 (7.05x3, 21:9)
+	- Aesthetic Considerations
+		- Center of interest is usually the center of the frame, 1/3 from the top.
 		-
