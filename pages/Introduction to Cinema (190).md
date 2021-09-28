@@ -55,6 +55,6 @@
 - {{embed [[Get Out]]}}
 - {{embed [[Visual Design]]}}
 - {{embed [[In the Mood for Love]]}}
-- [[Composition]]
+- {{embed [[Composition/Cinematography]]}}
 -
 - {{embed [[Parasite]]}}
