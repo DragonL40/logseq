@@ -183,7 +183,6 @@
 		- **Not allowed:** memory locations for both operands
 			- To avoid `mem->mem` use two move instructions with a register as the intermediate storage location
 - ## Arithmetic Instruction
-  collapsed:: true
 	- ((61511e11-30f5-432d-a412-807cd41319a9))
 	- What is the format of ALU Instructions?
 		- Restriction: Both operands cannot be memory
@@ -214,7 +213,6 @@
 		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
 - ![CS356Unit05_x86_Control.pdf](../assets/CS356Unit05_x86_Control_1632720904597_0.pdf)
 - Arguments and Return Values
-  collapsed:: true
 	- ((615159aa-9ff9-4e02-901e-1bbb5ac091c2))
 ## Jump/Branching Overview
 	- Assembly is executed in sequential order by default
