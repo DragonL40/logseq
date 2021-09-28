@@ -29,3 +29,9 @@
 	- Lines and Planes
 		- Lines
 			- Horizontals = calm, flowing
+			- Verticals = Dominant, energetic, erect
+			- Diagonals = dynamic, unstable, in motion
+			- Jagged = chaos, conflict, danger
+		- Planes
+			- One plane is flat
+			- Multiple planes create
