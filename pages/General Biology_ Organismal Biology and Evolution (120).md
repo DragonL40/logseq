@@ -250,3 +250,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What are [[species]]?
 - [[ecological species]] based on unique ecological niche
 - [[morphological species]] based on unique morphological traits
+- Three traditional models of speciation
+	- [[allopatric speciation]]
+	- [[parapatric speciation]]
+	- [[sympatric speciation]]
+-
