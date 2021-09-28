@@ -34,4 +34,6 @@
 			- Jagged = chaos, conflict, danger
 		- Planes
 			- One plane is flat
-			- Multiple planes create
+			- Multiple planes create depth, open up space
+	- Movement
+		-
