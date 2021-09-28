@@ -14,3 +14,6 @@
 			- Oblique frames - off balance, unreliable
 		- Framing can separate or call attention
 			- Fragmentation of the frame - objects or light split the frame, or you can have a truly split screen
+			- Matting/Masking - frames take different shapes
+			- Frames within frams
+			-
