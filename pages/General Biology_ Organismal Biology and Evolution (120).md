@@ -251,7 +251,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - [[ecological species]] based on unique ecological niche
 	- but species can occupy different niches in different areas (e.g. ravens)
 - [[morphological species]] based on unique morphological traits
-	- are
+	- are hybrids new species?
 - Three traditional models of speciation
 	- [[allopatric speciation]]
 	- [[parapatric speciation]]

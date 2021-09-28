@@ -1,2 +1,4 @@
 - A species is a group of populations that can interbreed in nature and produce **viable** and **fertile** offspring
 - The biological [[species]] concept does not cover species that only reproduce asexually
+- Some counterintuitive results:
+	- brown bears and polar bears sometimes interbreed
