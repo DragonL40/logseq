@@ -17,3 +17,5 @@
 			- Matting/Masking - frames take different shapes
 			- Frames within frams
 		- Classical rule of framing - show what is essential
+	- Off-Screen Space
+	-
