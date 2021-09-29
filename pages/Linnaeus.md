@@ -1,2 +1,2 @@
 - Includes two part format for scientific names (binomial nomenclature) and hierarchical classification system (e.g., Kingdom, Phylum, Class, Order, Family, Genus, Species)
-- Still in use today (although Domain has been added as the most )
+- Still in use today (although Domain has been added as the most inclusive hierarchical category)

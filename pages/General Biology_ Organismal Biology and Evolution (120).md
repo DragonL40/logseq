@@ -268,4 +268,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[cladistics (phylogenetic systematics)]]?
 	- classification of organisms based on their order of branching on an evolutionary tree
 - {{embed [[Linnaeus]]}}
--
+- Taxonomic Tips:
+	- 'Species' is both the singular and the plural form
+	- 'Genus' is singular, 'genera' is plural
+	- In a binomial species name, the
