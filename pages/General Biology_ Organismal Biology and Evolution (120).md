@@ -264,4 +264,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[phylogeny]]?
 	- the evolutionary history of a species or group of related species
 - What is [[systematics]]?
-	- the science of
+	- the science of classifying organisms based on their characteristics, taxonomy = part of systematics concerned with naming organisms.
+- What is [[cladistics (phylogenetic systematics)]]?
+	- classification of organisms based on their order of branching on an evolutionary tree
