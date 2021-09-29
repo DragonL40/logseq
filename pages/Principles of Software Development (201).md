@@ -185,5 +185,6 @@
 ## Type Erasure
 - Compiler applies a process called [[Type Erasure]] on generics at compile time
 -
-## Threading
--
+# [[Threading]]
+## Monitors, Locks, Conditions ![lecture9.pdf](../assets/lecture9_1632884282923_0.pdf)
+- What are
