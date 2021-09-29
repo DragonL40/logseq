@@ -271,4 +271,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Taxonomic Tips:
 	- 'Species' is both the singular and the plural form
 	- 'Genus' is singular, 'genera' is plural
-	- In a binomial species name, the
+	- In a binomial species name, the first letter of the genus only is capitalized
+	- The entire binomial is _italicized_
+-
