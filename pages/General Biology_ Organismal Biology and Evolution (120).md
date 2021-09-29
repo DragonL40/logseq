@@ -143,7 +143,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Random fertilization
 - ![Lecture_06.pdf](../assets/Lecture_06_1631901246569_0.pdf)
 - What do we mean by evolutionary relationship?
-- What is the grouping categories (Linneaus)?
+- What is the grouping categories ([[Linneaus]])?
 	- Class > Order > Family > Genus > Species
 ## [[natural selection]]
 - ![Lecture_07.pdf](../assets/Lecture_07_1631394632776_0.pdf)
