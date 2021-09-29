@@ -189,4 +189,6 @@
 ## Monitors, Locks, Conditions ![lecture9.pdf](../assets/lecture9_1632884282923_0.pdf)
 - What is `monitor`?
 	- A `monitor` is an object with mutual exclusion and synchronization capabilities. Any object can be a monitor. An object becomes a monitor once a thread locks it.
-	- Locking is implemented using the
+	- Locking is implemented using the `synchronized` keyword on a method or a block.
+	- _The monitor functionality is implemented in the `Object` class_
+	-
