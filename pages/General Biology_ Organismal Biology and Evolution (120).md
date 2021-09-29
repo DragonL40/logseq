@@ -255,7 +255,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Three traditional models of speciation
 	- [[allopatric speciation]]
 	- [[parapatric speciation]]
-	- [[sympatric speciation]]
+	- [[sympatric speciation]] ![Lecture_12.pdf](../assets/Lecture_12_1632953839122_0.pdf)
 - What is [[polyploidy]]?
 ## Phylogenetic & Systematics
 -
