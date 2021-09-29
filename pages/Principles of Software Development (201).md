@@ -204,4 +204,5 @@
 	- Intrinsic lock works fine in most situations but has some functional limitation:
 		- it is not possible to interrupt a thread waiting to acquire a lock
 		- it is not possible to acquire a lock without being willing to wait for it forever
-		-
+		- intrinsic locks also must be released in the same block of code in which they are acquired
+	-
