@@ -247,6 +247,7 @@
 		- Set `SF` (copy of MSB) and `ZF` (true if result is 0)
 		- `CF` is always set with the last bit shifted out of the input
 		- `OF = undef` for shifts of more than 1 bit; shifts by 1-bit work as follows..
+	- **Left shifts (Logical or Arth)**
 	- ### Conditional Jump Instructions
 	  id:: 61515e50-4294-45fa-98d2-8fe2e8ce7b0b
 	  collapsed:: true
