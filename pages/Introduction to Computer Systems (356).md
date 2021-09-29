@@ -243,6 +243,8 @@
 	- Logical instructions such as `and`, `or`, `xor`
 		- update only `SF` and `ZF` based on the result and clear `CF` and `OF` to 0.
 		- `not` does not affect the condition codes in any way.
+	- All shift instructions
+		- Set
 	- ### Conditional Jump Instructions
 	  id:: 61515e50-4294-45fa-98d2-8fe2e8ce7b0b
 	  collapsed:: true
