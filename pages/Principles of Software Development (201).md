@@ -205,4 +205,6 @@
 		- it is not possible to interrupt a thread waiting to acquire a lock
 		- it is not possible to acquire a lock without being willing to wait for it forever
 		- intrinsic locks also must be released in the same block of code in which they are acquired
-	-
+- What are thread conditions?
+	- Thread synchronization suffices to avoid race conditions by ensuring the mutual exclusion of multiple threads in the critical region, but sometimes you also need a way for thread to cooperate.
+	- **Conditions** can be used to facilitate
