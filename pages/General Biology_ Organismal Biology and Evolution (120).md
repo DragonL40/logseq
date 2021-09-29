@@ -252,7 +252,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- but species can occupy different niches in different areas (e.g. ravens)
 - [[morphological species]] based on unique morphological traits
 	- are hybrids new species?
-- Three traditional models of speciation
+- Three traditional models of speciation (geographic relationship)
 	- [[allopatric speciation]]
 	- [[parapatric speciation]]
 	- [[sympatric speciation]]
