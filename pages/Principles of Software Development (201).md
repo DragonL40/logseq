@@ -201,4 +201,7 @@
 	- A lock may also use the `newCondition()` method to create any number of `Condition` objects.
 	- **Locks and conditions** are more powerful and flexible than the built-in monitor, so will not need to use monitors.
 - Synchronization is built around an interval entity known as the intrinsic lock or monitor lock.
-	-
+	- Intrinsic lock works fine in most situations but has some functional limitation:
+		- it is not possible to interrupt a thread waiting to acquire a lock
+		- it is not possible to acquire a lock without being willing to wait for it forever
+		-
