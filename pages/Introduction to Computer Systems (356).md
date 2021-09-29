@@ -240,7 +240,9 @@
 		- `src1` and `src2` are not changed, OF and CF always set to 0
 		- Often used with the `src1 = src2` to check if a value is 0 or negative (through ZF and SF)
 	- `mov` and `lea` instructions leave the condition codes unaffected
-	- Logical instructions such as `and`, `or`, `xor` update only `SF` and `ZF` based on the result and clear `CF` and ``
+	- Logical instructions such as `and`, `or`, `xor`
+		- update only `SF` and `ZF` based on the result and clear `CF` and `OF` to 0.
+		- `not` does not affect the condition codes in any way.
 	- ### Conditional Jump Instructions
 	  id:: 61515e50-4294-45fa-98d2-8fe2e8ce7b0b
 	  collapsed:: true
