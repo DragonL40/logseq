@@ -195,4 +195,4 @@
 	- This thread must then be awakened using `notify()` or `notifyAll()` from another thread to be moved back into the **Ready** state.
 -
   > The `wait()`, `notify()`, and `notifyAll()` methods must be called in a synchronized method or a synchronized block.
-- 4
+-
