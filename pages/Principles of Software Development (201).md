@@ -196,7 +196,7 @@
 -
   > The `wait()`, `notify()`, and `notifyAll()` methods must be called in a synchronized method or a synchronized block.
 - Synchronization Using Locks
-	- You can acquire locks explicitly.
+	- You can acquire locks **explicitly**.
 	- A lock is an instance of the Lock interface.
 	- A lock may also use the `newCondition()` method to create any number of `Condition` objects.
 	- **Locks and conditions** are more powerful and flexible than the built-in monitor, so will not need to use monitors.
