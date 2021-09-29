@@ -207,4 +207,6 @@
 		- intrinsic locks also must be released in the same block of code in which they are acquired
 - What are thread conditions?
 	- Thread synchronization suffices to avoid race conditions by ensuring the mutual exclusion of multiple threads in the critical region, but sometimes you also need a way for thread to cooperate.
-	- **Conditions** can be used to facilitate
+	- **Conditions** can be used to facilitate communications among threads. A thread can specify what to do under a certain condition. Conditions are objects created by invoking the `newCondition()` method on a `Lock` object.
+	- Once a condition is created,  you can use `await()`, `signal()`, and `signalAll()` methods for thread communications.
+	-
