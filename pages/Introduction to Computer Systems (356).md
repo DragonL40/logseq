@@ -241,5 +241,7 @@
 		- Often used with the `src1 = src2` to check if a value is 0 or negative (through ZF and SF)
 	- ### Conditional Jump Instructions
 	  id:: 61515e50-4294-45fa-98d2-8fe2e8ce7b0b
+	  collapsed:: true
 		- ((61515fae-c12d-4af3-bddf-96407d40c744))
 		  id:: 61515fa0-352a-4f97-a6ef-e1c9f794a403
+-
