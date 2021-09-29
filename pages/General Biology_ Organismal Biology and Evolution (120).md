@@ -267,3 +267,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- the science of classifying organisms based on their characteristics, taxonomy = part of systematics concerned with naming organisms.
 - What is [[cladistics (phylogenetic systematics)]]?
 	- classification of organisms based on their order of branching on an evolutionary tree
+- {{embed [[Linnaeus]]}}
+-
