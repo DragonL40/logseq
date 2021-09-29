@@ -259,4 +259,9 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - What is [[polyploidy]]?
 ## Phylogenetic & Systematics
 - ![Lecture_12.pdf](../assets/Lecture_12_1632953839122_0.pdf)
-- What is
+- What is [[phylogenetic]]?
+	- the science of figuring out relationships between organisms
+- What is [[phylogeny]]?
+	- the evolutionary history of a species or group of related species
+- What is [[systematics]]?
+	- the science of
