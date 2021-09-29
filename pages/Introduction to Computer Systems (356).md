@@ -250,8 +250,8 @@
 	- **Left shifts (Logical or Arithmetic) by 1-bit**
 		- `OF = 1` if MSB (sign bit) changed; 0 otherwise
 	- **Right shifts by 1-bit**
-		- Logical: `OF` is set with the ORIGINAL MSB of the input value
-		- Arthmetic
+		- **Logical**: `OF` is set with the ORIGINAL MSB of the input value
+		- **Arithmetic**: `OF` is always set to 0
 	- ### Conditional Jump Instructions
 	  collapsed:: true
 	  id:: 61515e50-4294-45fa-98d2-8fe2e8ce7b0b
