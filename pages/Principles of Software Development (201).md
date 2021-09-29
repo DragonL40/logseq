@@ -192,4 +192,6 @@
 	- Locking is implemented using the `synchronized` keyword on a method or a block.
 	- _The monitor functionality is implemented in the `Object` class_
 - A thread can `wait()` in a monitor; **this will release the lock on the object**.
-	- This thread must then be awakened using ``
+	- This thread must then be awakened using `notify()` or `notifyAll()` from another thread to be moved back into the **Ready** state.
+	- The `wait()`, `notify()`, and `notifyAll()` methods must be called in a synchronized method or a synchronized block.
+	-
