@@ -198,4 +198,6 @@
 - Synchronization Using Locks
 	- You can acquire locks explicitly.
 	- A lock is an instance of the Lock interface.
-	-
+	- A lock may also use the `newCondition()` method to create any number of `Condition` objects.
+	- **Locks and conditions** are more powerful and flexible than the built-in monitor, so will not need to use monitors.
+-
