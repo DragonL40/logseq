@@ -1,1 +1,2 @@
-- [[Occam's Razor]] when you have two
+- [[Occam's Razor]]: when you have two competing hypotheses that make the same predictions, the simpler hypothesis is more likely to be correct.
+- In [[phylogenetics]] - Phylogenetic tree (cladogram) that assumes the
