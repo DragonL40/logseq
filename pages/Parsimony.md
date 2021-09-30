@@ -1,0 +1,1 @@
+- [[Occam's Razor]] when you have two

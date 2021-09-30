@@ -281,5 +281,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Molecular homoplasy: statistical tools have been developed to determine whether DNA sequences that share a certain fraction of their bases do so because they are homologous or homoplastic.
 - How to distinguish relationships given these issues?
 	- Phylogenetic trees based on many traits and/or extensive molecular data (e.g. many genes)
-	- Relationships among living forms can be compared to fossil evidence (or vice versa). i.e.
+	- Relationships among living forms can be compared to fossil evidence (or vice versa). i.e. birds and mammals.
+	- Numerous characters can be analyzed using concepts such as [[Parsimony]].
+-
 -
