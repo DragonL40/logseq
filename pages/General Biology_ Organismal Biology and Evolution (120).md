@@ -274,3 +274,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- In a binomial species name, the first letter of the genus only is capitalized
 	- The entire binomial is _italicized_
 - Homologies show developmental phenotypic, and genetic similarities due to shared ancestry
+- Convergent Evolution can lead to analogous (homoplastic) traits:
+	- Sim
