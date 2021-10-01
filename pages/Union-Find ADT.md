@@ -1,7 +1,5 @@
-- U[[Minimum Spanning Tree (MST)]]
-- [[Kruskal's Algorithm]]
-- Implementing [[Kruskal's Algorithm]]
-  collapsed:: true
+- Give [[Kruskal's Algorithm]] a significant improvement in runtime, which is used to solve [[The Minimum Spanning Tree Problem]]
+- Implementing [[Kruskal's Algorithm]] without the [[Union-Find ADT]]
 	- What would be the first step in the implementation of Kruskal's Algorithm?
 	  collapsed:: true
 		- Sort the edges.
@@ -9,10 +7,8 @@
 	  collapsed:: true
 		- $\Theta(m \log m)$
 	- How do we determine if an edge creates a cycle?
-	  collapsed:: true
 		- When adding edge $\langle u,v \rangle$, run BFS or DFS from $u$ on the MST-so-far to see if there is already a path from $u$ to $v$. If so, don't add the edge.
 	- What's the runtime of this implementation?
-	  collapsed:: true
 		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - What operations do the [[Union-Find ADT]] support?
   collapsed:: true
