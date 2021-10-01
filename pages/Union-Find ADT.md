@@ -12,7 +12,7 @@
 	- What's the runtime of this implementation?
 		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - What operations do the [[Union-Find ADT]] support?
-	- `Find(v)`, which returns the name of the set containing node $v$ is in. If `Find(u) == Find(v)`, then `v` and `u` are in the same setwe don't want to add edge $\langle u, v \rangle$.
+	- `Find(v)`, which returns the name of the set containing node $v$ is in. If `Find(u) == Find(v)`, then `v` and `u` are in the same set/component, and we don't want to add edge $\langle u, v \rangle$.
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime of [[Kruskal's Algorithm]]
