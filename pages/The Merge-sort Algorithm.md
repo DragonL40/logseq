@@ -8,5 +8,5 @@
 	   when $n>2$, and 
 	  $$T(2) \le c$$
 	- How to prove this recurrence relation?
-		- Solve-by-tree (unrolling the mergesort )
+		- Solve-by-tree (unrolling the merge-sort recurrence p. 212 KT)
 		-
