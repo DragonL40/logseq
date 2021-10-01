@@ -42,7 +42,7 @@
 	-
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 ### [[The Minimum Spanning Tree Problem]]
-	- How to solve [[The Mini]]
+	- How to solve [[The Minimum Spanning Tree Problem]] in
 -
 -
 -
