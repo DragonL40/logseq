@@ -21,8 +21,7 @@
 	- `Find` is called $2m$ times
 	- `Union` is called $n-1$ times, because there is at most $n-1$ edges on the graph
 	- Runtime $= \Theta(m \log m + m \cdot Find + n \cdot Union)$
-- Implementing Union-Find
-  collapsed:: true
+## Implementing Union-Find
 	- Every node points to a "parent" node that is in the same component.
 	- The root of the component has no parent, and is the "captain", or "identifier", of the component.
 	- Runtime
