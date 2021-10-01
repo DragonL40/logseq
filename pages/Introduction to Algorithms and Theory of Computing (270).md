@@ -43,7 +43,6 @@
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 ### [[The Minimum Spanning Tree Problem]]
 	- [[Union-Find ADT]]
-	-
 -
 -
 -
@@ -247,7 +246,6 @@
 			- $f(n) = f(n/4) + \log n$
 				- $\log n$ and $1$ does not difference by more than a polynomial factor. Therefore, [[Master Theorem]]  won't work there.
 				- Use solve-by-tree.
-## 5/24: [[Union-Find ADT]]
 ## 5/26: [[Graph]] Algorithms
 	- Why is there no [[Comparison-Based Sorting Algorithm]] better than $\Theta(n\log n)$?
 	  collapsed:: true

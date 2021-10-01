@@ -1,5 +1,6 @@
 - Give [[Kruskal's Algorithm]] a significant improvement in runtime, which is used to solve [[The Minimum Spanning Tree Problem]]
-- Implementing [[Kruskal's Algorithm]] without the [[Union-Find ADT]]
+- Implementing [[Kruskal's Algorithm]] without union-find.
+  collapsed:: true
 	- What would be the first step in the implementation of Kruskal's Algorithm?
 	  collapsed:: true
 		- Sort the edges.
@@ -12,7 +13,7 @@
 		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - What operations do the [[Union-Find ADT]] support?
   collapsed:: true
-	- `Find(v)`, which returns which componenet node $v$ is in. If `Find(u) == Find(v)`, then we don't want to add edge $\langle u, v \rangle$.
+	- `Find(v)`, which returns which component node $v$ is in. If `Find(u) == Find(v)`, then we don't want to add edge $\langle u, v \rangle$.
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime of [[Kruskal's Algorithm]]
