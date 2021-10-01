@@ -8,8 +8,10 @@
 	  collapsed:: true
 		- $\Theta(m \log m)$
 	- How do we determine if an edge creates a cycle?
+	  collapsed:: true
 		- When adding edge $\langle u,v \rangle$, run BFS or DFS from $u$ on the MST-so-far to see if there is already a path from $u$ to $v$. If so, don't add the edge.
 	- What's the runtime of this implementation?
+	  collapsed:: true
 		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - What operations do the [[Union-Find ADT]] support?
 	- `Find(v)`, which returns the name of the set containing node $v$ is in. If `Find(u) == Find(v)`, then `v` and `u` are in the same set/component, and we don't want to add edge $\langle u, v \rangle$.
