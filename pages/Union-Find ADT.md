@@ -12,7 +12,6 @@
 	- What's the runtime of this implementation?
 		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - What operations do the [[Union-Find ADT]] support?
-  collapsed:: true
 	- `Find(v)`, which returns which component node $v$ is in. If `Find(u) == Find(v)`, then we don't want to add edge $\langle u, v \rangle$.
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
 - ![image.png](../assets/image_1622153312667_0.png)

@@ -42,7 +42,7 @@
 	-
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 ### [[The Minimum Spanning Tree Problem]]
-	- [[Union-Find ADT]]
+	- Optimizing the runtime: [[Union-Find ADT]]
 -
 -
 -
