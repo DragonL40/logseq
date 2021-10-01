@@ -43,6 +43,7 @@
 ### [[The Minimum Spanning Tree Problem]]
 	- Optimizing the runtime: [[Union-Find ADT]]
 ## [[Divide and Conquer]]
+- [[The Merge-sort Algorithm]]
 -
 -
 ## 5/19: Introduction
