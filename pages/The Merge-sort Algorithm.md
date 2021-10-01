@@ -8,6 +8,6 @@
 	   when $n>2$, and 
 	  $$T(2) \le c$$
 	- How to prove this recurrence relation?
-		- Solve-by-tree (unrolling the merge-sort recurrence p. 212 KT)
-		- Guess the solution and prove with induction
+		- Solve-by-tree (unrolling the merge-sort recurrence KT p. 212)
+		- Guess the solution and prove with induction (KT p. 213)
 	-
