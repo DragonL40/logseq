@@ -19,7 +19,7 @@
 	- [[Bipartite Matching]]
 	- [[Independent Set]]
 	- [[Competitive Facility Location]]
-## Greedy Algorithm
+## [[Greedy Algorithm]]
 - What is some characteristics of [[Greedy Algorithm]]?
   collapsed:: true
 	- Builds solution in small steps
@@ -43,7 +43,7 @@
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 ### [[The Minimum Spanning Tree Problem]]
 	- Optimizing the runtime: [[Union-Find ADT]]
--
+## [[Divide and Conquer]]
 -
 -
 ## 5/19: Introduction
