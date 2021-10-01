@@ -27,8 +27,8 @@
 	- Every node points to a "parent" node that is in the same component.
 	- The root of the component has no parent, and is the "captain", or "identifier", of the component.
 	- Runtime
-		- Union will be $\Theta(1)$, since we just assign the parent pointer.
-		- Find will potentially be $\Theta(n)$, if the parent pointers form a linked list.
+		- `Union(u,v)` will be $\Theta(1)$, since we just assign the parent pointer.
+		- `Find(v)` will potentially be $\Theta(n)$, if the parent pointers form a linked list.
 	- How could we modify Union to ensure the runtime of Find is minimized
 		- Always point the smaller-depth tree to the larger depth tree.
 		- By doing this, we reduce the runtime of Find to $\Theta(\log n)$
