@@ -25,7 +25,7 @@
 	- Builds solution in small steps
 	- Each step optimizes some myopic criterion
 	- Does not backtrack/reverse decision
-- ### [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
+- [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
   collapsed:: true
 	- Earliest Finish Time: the proof, using the [[Exchange Argument]]
 		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
@@ -39,7 +39,6 @@
 - What is the [[Exchange Argument]]?
   collapsed:: true
 	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
-	-
 ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
 ### [[The Minimum Spanning Tree Problem]]
 	- Optimizing the runtime: [[Union-Find ADT]]
