@@ -7,3 +7,6 @@
 	  $$T(n) \le 2T(n/2) + cn$$
 	   when $n>2$, and 
 	  $$T(2) \le c$$
+	- How to prove this recurrence relation?
+		- Solve-by-tree (unrolling the mergesort )
+		-
