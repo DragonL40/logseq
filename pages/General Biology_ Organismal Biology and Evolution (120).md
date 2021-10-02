@@ -302,4 +302,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Major Models of Macroevolution
 		- [[Gradualism]] Darwin, Mayr
 		- [[punctuated equilibria]] Gould, Eldredge
-	-
+	- Gould: Not everything in nature is adaptive
+		- Some features might be the byproduct of selection for other features
+		- Also, some features are vestigial
+		- Iridescence of golden mole fur?
