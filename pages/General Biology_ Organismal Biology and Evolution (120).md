@@ -283,5 +283,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Phylogenetic trees based on many traits and/or extensive molecular data (e.g. many genes)
 	- Relationships among living forms can be compared to fossil evidence (or vice versa). i.e. birds and mammals.
 	- Numerous characters can be analyzed using concepts such as [[Parsimony]].
+- ![Lecture_13.pdf](../assets/Lecture_13_1633156899610_0.pdf)
 -
 -
