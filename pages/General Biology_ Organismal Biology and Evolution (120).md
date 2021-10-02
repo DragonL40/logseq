@@ -301,4 +301,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- computationally demanding
 	- Major Models of Macroevolution
 		- [[Gradualism]] Darwin, Mayr
-		- [[punctuated equilibria]]
+		- [[punctuated equilibria]] Gould, Eldredge
+		-
