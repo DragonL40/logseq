@@ -275,11 +275,13 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- The entire binomial is _italicized_
 - Homologies show developmental phenotypic, and genetic similarities due to shared ancestry
 - Convergent Evolution can lead to analogous (homoplastic) traits:
+  collapsed:: true
 	- Similar, analogous, trait that evolved independently in each lineage.
 	- Usually brought on by natural selection due to similar environment rather than shared ancestry
 	- Example: Marsupial mole and Golden mole
 - Molecular homoplasy: statistical tools have been developed to determine whether DNA sequences that share a certain fraction of their bases do so because they are homologous or homoplastic.
 - How to distinguish relationships given these issues?
+  collapsed:: true
 	- Phylogenetic trees based on many traits and/or extensive molecular data (e.g. many genes)
 	- Relationships among living forms can be compared to fossil evidence (or vice versa). i.e. birds and mammals.
 	- Numerous characters can be analyzed using concepts such as [[Parsimony]].
