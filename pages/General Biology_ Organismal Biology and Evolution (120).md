@@ -295,7 +295,8 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Methods for finding the best cladograms:
 	- Maximum Parsimony: the best tree requires the fewest changes
 		- Although nature is not always parsimonious, our hypotheses obtained with parsimony is always supported by data.
-	- Maximum likelihood
-		-
-	- Bayesian inference
-		-
+	- Maximum likelihood and Bayesian inference
+		- Inset model on likelihood for e.g. base substitutions
+		- calculates how well each tree, and each branch, fits the data (ideally checking all possible trees)
+		- computationally demanding
+	-
