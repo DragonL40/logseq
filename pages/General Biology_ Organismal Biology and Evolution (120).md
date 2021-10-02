@@ -293,7 +293,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- All three have a vertebral column and mammary glands - these are an ancestral characters, and not useful for this specific problem (but useful if looking at a larger scale problem)
 	- Gorillas and humans share a larger brain and lack of a tail, these are shared derived characters (synapomorphies), lacking in vervet monkeys, that indicate relationship.
 - Methods for finding the best cladograms:
-	- Parsimony
+	- Maximum Parsimony
 	- Maximum likelihood
 	- Bayesian inference
 -
