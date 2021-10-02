@@ -313,4 +313,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Fossils - morphological change - transitional fossils
 		- Fossils - adaptive radiations after extinction events
 		- Fossils plus molecular data: molecular clock
-	-
+	- How do we estimate the time of divergence of two lineages?
+		- Molecular clock studies use both fossil and molecular data
