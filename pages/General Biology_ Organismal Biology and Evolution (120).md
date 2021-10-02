@@ -289,4 +289,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 - Homologous characters
 	- Ancestral characters
 	- Shared Derived characters (synapomorphies)
--
+- Example: Are Humans more closely related to vervet monkeys or gorillas?
+	- All three have a vertebral column and mammary glands - these are an ancestral characters, and not useful for this specific problem (but useful if looking at a larger scale problem)
+	-
