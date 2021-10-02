@@ -299,4 +299,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Inset model on likelihood for e.g. base substitutions
 		- calculates how well each tree, and each branch, fits the data (ideally checking all possible trees)
 		- computationally demanding
-	-
+	- Major Models of Macroevolution
+		- [[Gradualism]] Darwin, Mayr
+		- [[punctuated equilibria]]
