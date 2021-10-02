@@ -309,4 +309,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 			- Human Chin
 			- Iridescence of golden mole fur?
 	- Evidence used in study of macroevolution
-		- Biogeography plus molecular data (e.g. )
+		- Biogeography plus molecular data (e.g. chimpanzees & bonobos)
+		- Fossils - morphological change - transitional fossils
+		- Fossils - adaptive radiations after extinction events
+		- Fossils plus molecular data: molecular clock
