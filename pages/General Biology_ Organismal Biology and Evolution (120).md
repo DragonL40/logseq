@@ -296,4 +296,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- Maximum Parsimony
 	- Maximum likelihood
 	- Bayesian inference
+- Maximum Parsimony: the best tree requires the fewest changes
 -
