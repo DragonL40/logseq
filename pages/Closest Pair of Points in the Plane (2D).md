@@ -16,3 +16,4 @@
 	- Let $s$ be points with x-coordinates between $m-s$ and $m+s$, sorted by y-coordiantes
 	- Let $(s_0, s_1) = \text{find-closest-narrow}(s)$
 	- Return closest among $(l_0, l_1), (r_0,r_1), (s_0,s_1)$
+-
