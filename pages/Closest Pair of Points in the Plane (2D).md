@@ -6,7 +6,8 @@
 - closest-pair-rec($P_x$, $P_y$)
 	- If there are $\le 3$ points then brute force.
 	- Let $m$ be median x-coordinate of $P$
-	- Let $L_x$ be points to left of median line, sorted by $x$ coordinates
-	- Let $L_y$ be points to left of median line, sorted by $y$ coordinates
-	- Let $R_x$ be points to the right of the median line, sorted by $x$ coordinates
-	- Let $R_y$ be points to right of median, sorted by
+	- Let $L_x$ be points to left of median line, sorted by x-coordinates
+	- Let $L_y$ be points to left of median line, sorted by y-coordinates
+	- Let $R_x$ be points to right of median line, sorted by x-coordinates
+	- Let $R_y$ be points to right of median, sorted by y-coordinates.
+-
