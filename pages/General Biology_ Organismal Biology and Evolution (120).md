@@ -327,4 +327,4 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Gradual cooling ca 4 billion y.a.; water condenses and forms oceans
 		- The early atmosphere were largely made of water, nitrogen, carbon dioxide, ammonia, hydrogen
 		- Lightning and UV light could have provided energy for the spontaneous production of organic molecules
-		- Early oceans might have been a primitive
+		- Early oceans might have been a "primitive soup" of simple organic molecules
