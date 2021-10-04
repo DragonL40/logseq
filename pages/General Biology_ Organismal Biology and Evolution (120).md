@@ -316,4 +316,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- How do we estimate the time of divergence of two lineages?
 		- [[molecular clock]] studies use both fossil and molecular data
 	- ![Lecture_14.pdf](../assets/Lecture_14_1633309295913_0.pdf)
+	- What does the speed of accumulation depend on?
 	-
