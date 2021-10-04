@@ -10,4 +10,4 @@
 	- Let $L_y$ be points to left of median line, sorted by y-coordinates
 	- Let $R_x$ be points to right of median line, sorted by x-coordinates
 	- Let $R_y$ be points to right of median, sorted by y-coordinates.
--
+	- LEt $()$
