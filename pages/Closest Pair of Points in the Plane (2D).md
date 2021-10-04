@@ -1,4 +1,5 @@
 - [[Kleinberg & Tardos, Algorithm Design (2005)]] 5.4 Finding the Closest Pair of Points
 - Recursive Solution
 	- Sort $P$ by $x$ coordinate to set $P_x$
-	-
+	- Sort $P$ by $y$ coordiante to set $P_y$
+	- Return Closest-pair-rec($)
