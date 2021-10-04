@@ -2,4 +2,6 @@
 - Recursive Solution
 	- Sort $P$ by $x$ coordinate to set $P_x$
 	- Sort $P$ by $y$ coordiante to set $P_y$
-	- Return Closest-pair-rec($)
+	- Return closest-pair-rec($P_x$,$P_y$)
+- closest-pair-rec($P_x$, $P_y$)
+	-
