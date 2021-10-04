@@ -1,4 +1,6 @@
 - Some parts of the genome will accumulate {{cloze changes (mutations)}} at a {{cloze relatively steady}} rate
 - The {{cloze speed of accumulation}} depends on the part of DNA under study (some fast, some slow)
 - The "clock" is calibrated using the {{cloze fossil record}} (e.g. {{cloze orangutan fossils}} have been securely dated for apes), or the accumulation of {{cloze mutations}} over generations
-- Example:
+- Example: orangutan split
+	- ((615a541a-64ed-4266-a772-352dfde3b88e))
+	- By using
