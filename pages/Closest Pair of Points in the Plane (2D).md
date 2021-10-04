@@ -13,7 +13,7 @@
 	- Let $(l_0, l_1) = \text{closest-pair-rec}(L_x,L_y)$
 	- Let $(r_0, r_1) = \text{closest-pair-rec}(R_x, R_y)$
 	- $s = \min(d(l_0,l_1),d(r_0,r_1))$
-	- Let $s$ be points with x-coordinates between $m-s$ and $m+s$, sorted by y-coordiantes
-	- Let $(s_0, s_1) = \text{find-closest-narrow}(s)$
+	- Let $S$ be points with x-coordinates between $m-s$ and $m+s$, sorted by y-coordiantes
+	- Let $(s_0, s_1) = \text{find-closest-narrow}(S)$
 	- Return closest among $(l_0, l_1), (r_0,r_1), (s_0,s_1)$
 -
