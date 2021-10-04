@@ -4,3 +4,5 @@
 - Example: orangutan split
 	- ((615a541a-64ed-4266-a772-352dfde3b88e))
 	- By using the {{cloze known age}} of the orangutan split, plus info on orangutan DNA, we know the rate of mutations in certain parts of the ape genome.
+	- Count known differences in DNA between humans and chimps
+	-
