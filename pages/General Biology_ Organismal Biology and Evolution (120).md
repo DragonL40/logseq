@@ -317,4 +317,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- [[molecular clock]] studies use both fossil and molecular data
 	- ![Lecture_14.pdf](../assets/Lecture_14_1633309295913_0.pdf)
 	- [[molecular clock]]
-	-
+	- The Origin of Life poses some unique problems
+		- {{cloze organic molecules}} do not form fossils
+		- E
