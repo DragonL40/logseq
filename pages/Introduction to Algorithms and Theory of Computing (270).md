@@ -44,6 +44,7 @@
 	- Optimizing the runtime: [[Union-Find ADT]]
 ## [[Divide and Conquer]]
 - [[The Merge-sort Algorithm]]
+- [[Closest Pair of Points in the Plane (2D)]]
 -
 -
 -
