@@ -1,1 +1,2 @@
-- {}
+- [[Kleinberg & Tardos, Algorithm Design (2005)]] 5.4 Finding the Closest Pair of Points
+-
