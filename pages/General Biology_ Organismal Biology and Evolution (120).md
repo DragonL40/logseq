@@ -322,6 +322,7 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- {{cloze organic molecules}} do not form fossils
 		- Earth is {{cloze 4.5 billion}} years old
 		- We know {{cloze prokaryotes}} were around 3.5 billion years ago or more
-	- Early Earth: {{cloze Hadean}}, 4.5 - 4 billion y.a
+	- Early Earth: {{cloze Hadean}}, 4.5 - 4 billion y.a.
 		- A lot of {{cloze volcanism}}, {{cloze meteors}}
+		- Gradual cooling ca 4 billion y.a.; water condenses and forms oceans
 		-
