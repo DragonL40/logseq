@@ -155,17 +155,14 @@
 		  collapsed:: true
 ## 5/21: [[Master Theorem]]
 	- What can [[Master Theorem]] do?
-	  collapsed:: true
 		- Master Theorem can solve (almost) any recurrence relation of the form
 		- $f(n) = a \cdot f(n/b) + g(n)$, for constants $a \ge 1$ and $b > 1$
 	- Using the [[Master Theorem]]:
-	  collapsed:: true
 		- Given $f(n) = a \cdot f(n/b) + g(n)$, for constants $a \ge 1$ and $b > 1$, compare $g(n)$ with $n^{\log a / \log b}$
 			- Case 1: If $g(n) = \Theta(n^{\log a / \log b})$, then $f(n) = \Theta(g(n) \cdot \log n)$
 			- Case 2: If $g(n) = \Omega(n^{(\log a / \log b) + \epsilon})$ for some $\epsilon > 0$, then $f(n) = \Theta(g(n))$
 			- Case 3: If $g(n) = O(n^{(\log a / \log b) - \epsilon})$ for some $\epsilon > 0$, then $f(n) = \Theta(n^{\log a / \log b})$
 	- More Precise Interpretation of [[Master Theorem]]
-	  collapsed:: true
 		- If the work done on the bottom level is a **polynomial-factor** bigger than the work on the top level, then the total work is the work on the bottom level.
 		- If the work done on the top level is a **polynomial-factor** bigger than the work on the bottom level, then the total work is the work on the top level.
 		- If the difference between the top and bottom level is greater than a constant, but smaller than a polynomial, then master theorem **will not help us**.
