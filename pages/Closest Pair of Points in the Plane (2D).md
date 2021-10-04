@@ -12,4 +12,5 @@
 	- Let $R_y$ be points to right of median, sorted by y-coordinates.
 	- Let $(l_0, l_1) = \text{closest-pair-rec}(L_x,L_y)$
 	- Let $(r_0, r_1) = \text{closest-pair-rec}(R_x, R_y)$
+	- $s = \min(d(l_0,l_1),d(r_0,r_1))$
 	-
