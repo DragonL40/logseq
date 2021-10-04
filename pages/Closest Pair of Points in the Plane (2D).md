@@ -10,4 +10,5 @@
 	- Let $L_y$ be points to left of median line, sorted by y-coordinates
 	- Let $R_x$ be points to right of median line, sorted by x-coordinates
 	- Let $R_y$ be points to right of median, sorted by y-coordinates.
-	- LEt $()$
+	- Let $(l_0, l_1) =$ closest-pair-rec($L_x$, $L_y$)
+	- Let $(r_0, r_1) =$
