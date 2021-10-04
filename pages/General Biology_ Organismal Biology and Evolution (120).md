@@ -315,9 +315,10 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- Fossils plus molecular data: molecular clock
 	- How do we estimate the time of divergence of two lineages?
 		- [[molecular clock]] studies use both fossil and molecular data
-	- ![Lecture_14.pdf](../assets/Lecture_14_1633309295913_0.pdf)
 	- [[molecular clock]]
 		- {{embed [[molecular clock]]}}
+	- ## The Origin of Life
+	- ![Lecture_14.pdf](../assets/Lecture_14_1633309295913_0.pdf)
 	- The Origin of Life poses some unique problems
 		- {{cloze organic molecules}} do not form fossils
 		- Earth is {{cloze 4.5 billion}} years old
@@ -326,5 +327,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- A lot of {{cloze volcanism}}, {{cloze meteors}}
 		- Gradual cooling ca 4 billion y.a.; water condenses and forms oceans
 		- The early atmosphere were largely made of water, nitrogen, carbon dioxide, ammonia, hydrogen
-		- Lightning and UV light could have provided energy for the spontaneous production of organic molecules
+		- {{cloze lightning and UV light}} could have provided energy for the spontaneous production of organic molecules
 		- Early oceans might have been a "primitive soup" of simple organic molecules
+	-
