@@ -330,4 +330,5 @@ title:: General Biology: Organismal Biology and Evolution (120)
 		- {{cloze lightning and UV light}} could have provided energy for the spontaneous production of organic molecules
 		- Early oceans might have been a "[[primitive soup]]" of simple organic molecules
 	- [[primitive soup]] hypothesis
-		-
+		- Today's atmosphere is oxidizing
+		- \
