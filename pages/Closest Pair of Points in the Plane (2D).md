@@ -5,4 +5,5 @@
 	- Return closest-pair-rec($P_x$,$P_y$)
 - closest-pair-rec($P_x$, $P_y$)
 	- If there are $\le 3$ points then brute force.
-	- Let $m$ be median
+	- Let $m$ be median x-coordinate of $P$
+	-
