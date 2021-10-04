@@ -5,4 +5,5 @@
 	- ((615a541a-64ed-4266-a772-352dfde3b88e))
 	- By using the {{cloze known age}} of the orangutan split, plus info on orangutan DNA, we know the rate of mutations in certain parts of the ape genome.
 	- Count known differences in DNA between humans and chimps
-	- The data indicates a date of the split between _Pan_ and _Homo_ at about 6-8 mya.
+	- The data indicates a date of the split between {{cloze Pan and Homo}} at about 6-8 mya.
+	-
