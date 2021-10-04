@@ -319,4 +319,6 @@ title:: General Biology: Organismal Biology and Evolution (120)
 	- [[molecular clock]]
 	- The Origin of Life poses some unique problems
 		- {{cloze organic molecules}} do not form fossils
-		- E
+		- Earth is {{cloze 4.5 billion}} years old
+		- We know {{cloze prokaryotes}} were around 3.5 billion years ago or more
+	-
