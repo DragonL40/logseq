@@ -172,7 +172,6 @@
 	  collapsed:: true
 		- It is a blend between average-case and worst-case. It is kind of the "worst-case average-case".
 	- [[Take-Home Practice]]:
-	  collapsed:: true
 		- Prove for all integers $n$: $n$ is odd iff $3n+1$ is even.
 		  collapsed:: true
 			- If $n$ is odd, then $3n+1$ is even.
