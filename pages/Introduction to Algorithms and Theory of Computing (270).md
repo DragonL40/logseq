@@ -236,7 +236,6 @@
 				- For all remaining iterations of the inner for-loop, we just add `B[i, j-1]` (the sum of `A[i]` through `A[j-1]`) with `A[j]`, storing the result is `B[i,j]`.
 		- Challenge: Chapter 2, exercise 8
 		- Solve the following recurrence relations:
-		  collapsed:: true
 			- $f(n) = f(n/4) + \sqrt{n}$
 				- By [[Master Theorem]], $f(n) = \Theta(\sqrt{n})$
 			- $f(n) = f(n/4) + 1$
