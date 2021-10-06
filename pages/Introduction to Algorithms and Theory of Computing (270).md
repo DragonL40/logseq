@@ -45,7 +45,7 @@
 ## [[Divide and Conquer]]
 	- [[The Merge-sort Algorithm]]
 	- [[Closest Pair of Points in the Plane (2D)]]
-## [[Oct 6th, 2021]] [[Dynamic Programming]]
+## [[Oct 6th, 2021]]: [[Dynamic Programming]]
 	-
 -
 ## 5/19: Introduction
