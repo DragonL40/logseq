@@ -5,6 +5,8 @@
   $$ f_1 \le f_2 \le f_3 \dots \le f_n$$
 - Let $p(i)$ be last task finishing before $s_i$
 - Let $OPT(i)$ be the optimal solution up to and including task $i$
+- Either $OPT$ includes $n$ or it doesn't
+	- If $n \notin OPT$: $O$ is op
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
   ```cpp
