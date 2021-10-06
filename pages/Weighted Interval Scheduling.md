@@ -3,3 +3,10 @@
 ## Recursive Solution
 - max(v_j + rec(j), rec(j-1))
 -
+  ```cpp
+  int WIS(int i)
+  	if i > n Then return 0
+  	x = WIS(i+1)
+  	y = v[i] + WIS(S)
+  	return max(x, y)
+  ```
