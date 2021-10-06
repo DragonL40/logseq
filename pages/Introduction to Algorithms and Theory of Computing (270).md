@@ -6,47 +6,47 @@
 	- [[Optimization Problems]]
 	- [[Search Problems]]
 ## [[The Stable Matching Problem]]
-- What is the [[Gale-Shapley Algorithm]]?
-- How many iteration before the [[Gale-Shapley Algorithm]] terminates?
-	-
-	  > It is not guaranteed that the runtime of the Gale-Shapley Algorithm is $O(n^2)$, as the **runtime per iteration** may vary.
-- How to guarantee that each iteration of the [[Gale-Shapley Algorithm]] takes constant time?
-- Prove: Consider an execution of the [[Gale-Shapley Algorithm]] that returns a set of pairs $S$. The set $S$ is a stable matching.
-- Five Representative Problems
-  collapsed:: true
-	- [[Interval Scheduling]]
-	- [[Weighted Interval Scheduling]]
-	- [[Bipartite Matching]]
-	- [[Independent Set]]
-	- [[Competitive Facility Location]]
+	- What is the [[Gale-Shapley Algorithm]]?
+	- How many iteration before the [[Gale-Shapley Algorithm]] terminates?
+		-
+		  > It is not guaranteed that the runtime of the Gale-Shapley Algorithm is $O(n^2)$, as the **runtime per iteration** may vary.
+	- How to guarantee that each iteration of the [[Gale-Shapley Algorithm]] takes constant time?
+	- Prove: Consider an execution of the [[Gale-Shapley Algorithm]] that returns a set of pairs $S$. The set $S$ is a stable matching.
+	- Five Representative Problems
+	  collapsed:: true
+		- [[Interval Scheduling]]
+		- [[Weighted Interval Scheduling]]
+		- [[Bipartite Matching]]
+		- [[Independent Set]]
+		- [[Competitive Facility Location]]
 ## [[Greedy Algorithm]]
-- What is some characteristics of [[Greedy Algorithm]]?
-  collapsed:: true
-	- Builds solution in small steps
-	- Each step optimizes some myopic criterion
-	- Does not backtrack/reverse decision
-- [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
-  collapsed:: true
-	- Earliest Finish Time: the proof, using the [[Exchange Argument]]
-		- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
-		- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
-		- I.S.: Assume that OPT does not include EFT's $(k+1)$st choice
-			- Sort OPT's intervals by finish time: EFT's first $k$ choices must be the first $k$ intervals in this sorting.
-			- Let interval $j$ be the $(k+1)$st interval in this sorting, and let interval $i$ be EFT's $(k+1)$st choice.
-				- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
-			- Transform OPT into OPT' by replacing interval $j$ with $i$.
-			- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
-- What is the [[Exchange Argument]]?
-  collapsed:: true
-	- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
-### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
-### [[The Minimum Spanning Tree Problem]]
-	- Optimizing the runtime: [[Union-Find ADT]]
+	- What is some characteristics of [[Greedy Algorithm]]?
+	  collapsed:: true
+		- Builds solution in small steps
+		- Each step optimizes some myopic criterion
+		- Does not backtrack/reverse decision
+	- [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
+	  collapsed:: true
+		- Earliest Finish Time: the proof, using the [[Exchange Argument]]
+			- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
+			- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
+			- I.S.: Assume that OPT does not include EFT's $(k+1)$st choice
+				- Sort OPT's intervals by finish time: EFT's first $k$ choices must be the first $k$ intervals in this sorting.
+				- Let interval $j$ be the $(k+1)$st interval in this sorting, and let interval $i$ be EFT's $(k+1)$st choice.
+					- Since EFT always pick the interval with the earliest finish time, $f_i < f_j$
+				- Transform OPT into OPT' by replacing interval $j$ with $i$.
+				- Since $i$ starts after the $k$th interval in the sorting finishes, and finishes before $j$ did, this must be a valid solution.
+	- What is the [[Exchange Argument]]?
+	  collapsed:: true
+		- Show that any solution (e.g. OPT) can be improved by gradually transforming it to our greedy solution.
+	- ### [[Scheduling to Minimize Lateness]]: An [[Exchange Argument]]
+	- ### [[The Minimum Spanning Tree Problem]]
+		- Optimizing the runtime: [[Union-Find ADT]]
 ## [[Divide and Conquer]]
-- [[The Merge-sort Algorithm]]
-- [[Closest Pair of Points in the Plane (2D)]]
--
--
+	- [[The Merge-sort Algorithm]]
+	- [[Closest Pair of Points in the Plane (2D)]]
+## [[Oct 6th, 2021]] [[Dynamic Programming]]
+	-
 -
 ## 5/19: Introduction
 	- [[The Famous Person Problem]]
