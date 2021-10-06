@@ -380,6 +380,7 @@
 			- State where the answer is stored in your final array
 				- `return W[1]`
 	- The *Design Process* of [[Dynamic Programming]]
+	  collapsed:: true
 		- Reduce the problem to a series of ordered, bite-size decisions.
 		- Figure out what subproblem(s) you will have to solve, based on each possible outcome of the bite-sized decision.
 		- Represent those subproblems with as few input parameters to your recursive function as possible (more parameters = more complicated, and more runtime)
