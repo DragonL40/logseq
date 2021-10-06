@@ -1,0 +1,4 @@
+- The recursive solution is slow.
+- Two possible fixes:
+	- Recursion with memoization:
+		- The first time you solve for

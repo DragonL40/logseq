@@ -46,7 +46,7 @@
 	- [[The Merge-sort Algorithm]]
 	- [[Closest Pair of Points in the Plane (2D)]]
 ## [[Oct 6th, 2021]]: [[Dynamic Programming]]
-	-
+	- [[Fibonacci Number]]
 	- [[Weighted Interval Scheduling]]
 	-
 -
