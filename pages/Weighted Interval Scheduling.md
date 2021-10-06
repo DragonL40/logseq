@@ -6,7 +6,8 @@
 - Let $p(i)$ be last task finishing before $s_i$
 - Let $OPT(i)$ be the optimal solution up to and including task $i$
 - Either $OPT$ includes $n$ or it doesn't
-	- If $n \notin OPT$: $O$ is op
+	- If $n \notin OPT$: $O$ is optimal solution for tasks $1, \dots, n-1$
+	- If $n \in O$: All other tasks in $O$ are in $\{\}
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
   ```cpp
