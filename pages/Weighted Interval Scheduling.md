@@ -2,6 +2,9 @@
   > In the **weighted interval scheduling** problem, we have $n$ jobs.  Each job $j$ has a start time $s_j$, a finish time $f_j$, and a value $v_j$.  Two jobs are incompatible if their time overlaps.  We want to find the max-valued subset of mutually compatible jobs.
 ## Recursive Solution
 - max(v_j + rec(j), rec(j-1))
+- Suppose we sort jobs by finish time 
+  $$ f_1 \le f_2 \le f_3 \dots \le f_n$$
+-
 -
   ```cpp
   int WIS(int i)
