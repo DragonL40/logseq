@@ -6,12 +6,12 @@
 - Let $p(i)$ be last task finishing before $s_i$
 - Let $OPT(i)$ be the optimal solution up to and including task $i$
 - Either $OPT$ includes $n$ or it doesn't
-	- If $n \notin OPT$: $O$ is optimal solution for tasks $1, \dots, n-1$
-	- If $n \in O$:
-		- All other tasks in $O$ are in $\{1, \dots, p(n)\}$
-		- $O = O' \cup \{n\}$ for some non-overlapping $O' \subseteq \{1, \dots, p(n)\}$
-		- $O'$ must be optimal solution for subproblem $\{1, \dots, p(n)\}$
-		-
+	- If $n \notin OPT$: $OPT$ is optimal solution for tasks $1, \dots, n-1$
+	- If $n \in OPT$:
+		- All other tasks in $OPT$ are in $\{1, \dots, p(n)\}$
+		- $OPT = OPT' \cup \{n\}$ for some non-overlapping $OPT' \subseteq \{1, \dots, p(n)\}$
+		- $OPT'$ must be optimal solution for subproblem $\{1, \dots, p(n)\}$
+	-
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
   ```cpp
