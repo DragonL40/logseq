@@ -4,6 +4,7 @@
 - max(v_j + rec(j), rec(j-1))
 - Suppose we sort jobs by finish time 
   $$ f_1 \le f_2 \le f_3 \dots \le f_n$$
+- Let $p(i)$ be last task finishing before $s_i$
 -
 -
   ```cpp
