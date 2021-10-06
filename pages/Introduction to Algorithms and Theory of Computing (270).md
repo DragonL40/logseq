@@ -386,8 +386,8 @@
 		- Represent those subproblems with as few input parameters to your recursive function as possible (more parameters = more complicated, and more runtime)
 		- Design the complete recursive procedure
 		- Figure out the order you will need to solve each subproblem, so that you have what you need, when you need it.
-		- Figure out what indices of the array will store the final answer.
-		  Design the complete iterative procedure
+		- Figure out what indices of the array will store the final answer
+		- Design the complete iterative procedure
 	- Longest Increasing Subsequence Problem
 	  collapsed:: true
 		- Given a sequence of numbers $s_1, \dots, s_n$ delete the fewest numbers possible so that what is left is in increasing order.
