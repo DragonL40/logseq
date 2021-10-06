@@ -4,7 +4,8 @@
 - Suppose we sort jobs by finish time 
   $$ f_1 \le f_2 \le f_3 \dots \le f_n$$
 - Let $p(i)$ be last task finishing before $s_i$
--
+- Let $OPT(i)$ be the optimal solution up to and including task $i$
+- $\max(v_i + OPT(i), OPT(i-1))$
 -
   ```cpp
   int WIS(int i)
