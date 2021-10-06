@@ -9,7 +9,8 @@
 	- If $n \notin OPT$: $O$ is optimal solution for tasks $1, \dots, n-1$
 	- If $n \in O$:
 		- All other tasks in $O$ are in $\{1, \dots, p(n)\}$
-		- $O = O' \cup \{n\}$ for some non-overlapping $O' \le \{1, \dots, p(n)\}$
+		- $O = O' \cup \{n\}$ for some non-overlapping $O' \subseteq \{1, \dots, p(n)\}$
+		- $O'$ must be optimal solution for subproblem $\{1, \dots, p(n)\}$
 		-
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
