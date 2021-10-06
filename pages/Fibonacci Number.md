@@ -1,5 +1,6 @@
 - The recursive solution is slow.
 - Two possible fixes:
-	- **Recursion with memoization**: The first time you solve for `fib(i)`, remember the solution and store it in a global array. Read off the array any time `fib(i)`
+	- **Recursion with memoization**: The first time you solve for `fib(i)`, remember the solution and store it in a global array. Read off the array any time `fib(i)` is called again.
+	-
 	-
 	-
