@@ -1,0 +1,2 @@
+- Start with `.` (e.g. `.text`, `.quad`, `.long`)
+- Similar to pre-processor statements (`#include`, `#define`, .etc.) and global variable declarations in C/C++
