@@ -58,6 +58,7 @@
 - {{embed [[Composition/Cinematography]]}}
 -
 - {{embed [[Parasite]]}}
+- [[Parasite]]
 - The 180-degree rule
 	- On the Block with Juan
 - [[Temporal Design]]
