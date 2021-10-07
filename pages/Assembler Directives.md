@@ -5,3 +5,5 @@
 	- Compiler and linker status
 - Directs the assembler in how to assemble the actual instructions and how to initialize memory when the program is loaded.
 -
+  ---
+-
