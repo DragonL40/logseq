@@ -211,8 +211,7 @@
 		- **Divisor** is specified as src 32-bit (or 64 bits)
 		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
 - ![CS356Unit05_x86_Control.pdf](../assets/CS356Unit05_x86_Control_1632720904597_0.pdf)
-- Arguments and Return Values
-	- ((615159aa-9ff9-4e02-901e-1bbb5ac091c2))
+- [Arguments and Return Values](615159aa-9ff9-4e02-901e-1bbb5ac091c2)
 ## Jump/Branching Overview
 	- Assembly is executed in sequential order by default
 	- Jump instruction (aka "branches") cause execution to skip ahead or back to some other location
