@@ -273,4 +273,6 @@
 - Pop operation removes data from [[system stack]]
 	- Format: `popq %req`
 		- Reads memory at address given by `%rsp` and places value into `%reg`
-		-
+		- Increments `%rsp` by 8
+	-
+	  >
