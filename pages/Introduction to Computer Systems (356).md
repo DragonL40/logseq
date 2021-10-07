@@ -264,6 +264,4 @@
 		- `PC` increments to point at next instruction while jump is fetched and **BEFORE** the jump is executed
 		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 ## Conditional Moves
-	- Cost of Using Jumps
-		- Modern processors execute multiple instructions at one time
-		- W
+	- Modern processors execute mutiple instructions at one time.
