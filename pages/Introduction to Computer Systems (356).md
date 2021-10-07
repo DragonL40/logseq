@@ -266,5 +266,4 @@
 -
 ## Unit 6: x86 Procedures, Basic Stack Frames
 - ![CS356Unit06_Procedures.pdf](../assets/CS356Unit06_Procedures_1633611801585_0.pdf)
-- [[Procedures]] are reusable sections of code that we can call from some location, execute that procedure, and then **return to where we left off**.
 -
