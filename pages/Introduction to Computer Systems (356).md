@@ -210,9 +210,11 @@
 		- **Implicit dividend** is in `%edx:%eax` (or `%rdx:%rax`)
 		- **Divisor** is specified as src 32-bit (or 64 bits)
 		- **Quotient** goes in `%eax` (%rax), remainder in `%edx` (`%rdx`)
+## Assembly Procedures
 - ![CS356Unit05_x86_Control.pdf](../assets/CS356Unit05_x86_Control_1632720904597_0.pdf)
 - [Arguments and Return Values](615159aa-9ff9-4e02-901e-1bbb5ac091c2)
-## Jump/Branching Overview
+- ## Jump/Branching Overview
+  collapsed:: true
 	- Assembly is executed in sequential order by default
 	- Jump instruction (aka "branches") cause execution to skip ahead or back to some other location
 	- Jumps are used to implement control structures like if statements & loops
@@ -261,4 +263,6 @@
 		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 - [[Conditional Move]]
 - [[Assembler Directives]]
+-
 - ![CS356Unit06_Procedures.pdf](../assets/CS356Unit06_Procedures_1633611801585_0.pdf)
+-
