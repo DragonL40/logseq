@@ -277,5 +277,5 @@
 	- _Pop does not erase the data on the stack._
 - Jump to a [[procedure]] using `call label` or `call *operand`
 	- Pushes the address of next instruction (return address) onto the stack
-	- Updates the PC to go to the start of the desired procedure
+	- Updates the [[program counter (PC)]] to go to the start of the desired procedure
 -
