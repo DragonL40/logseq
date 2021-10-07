@@ -1,0 +1,2 @@
+- System stack defined as growing towards smaller addresses
+- The top of the stack is accessed and maintained using
