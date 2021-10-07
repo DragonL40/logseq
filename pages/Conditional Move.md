@@ -16,4 +16,6 @@
 ## Conditional Move Instruction
 	- Similar to `(cond) ? x : y`
 	- Syntax: `cmov[cond] src, reg`
-		- `cond =` same
+		- `cond`: same conditions as jumps (`e`, `ne`, `l`, `le`, `g`, `ge`)
+		- Destination must be a register
+		- If condition is true, `reg = src`
