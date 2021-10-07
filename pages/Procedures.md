@@ -8,4 +8,5 @@ alias: subroutines, procedure
 	- Jump to the procedure code, leaving a "return link" to know where to return
 	- Find the return address and go back to that location
 	- ((615ef242-b422-49f8-ade9-19f945f6ff7c))
--
+- We store the return addresses in the system stack.
+	-
