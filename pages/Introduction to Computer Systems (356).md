@@ -266,4 +266,5 @@
 -
 ## Unit 6: x86 [[Procedures]], Basic Stack Frames
 - ![CS356Unit06_Procedures.pdf](../assets/CS356Unit06_Procedures_1633611801585_0.pdf)
--
+- Push operation adds data to [[system stack]]
+	-
