@@ -60,4 +60,5 @@
 - {{embed [[Parasite]]}}
 - The 180-degree rule
 	- On the Block with Juan
+- ![Week 6 - Temporal Design.pdf](../assets/Week_6_-_Temporal_Design_1633587451103_0.pdf)
 -
