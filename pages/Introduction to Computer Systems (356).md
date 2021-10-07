@@ -270,4 +270,5 @@
 	- Problem: **Conditional jumps limit [[pipelining]]** because when we reach a jump, the comparison results it relies on may not be computed yet
 		- It is unclear which instruction to fetch next
 		- To be safe we have to stop and wait for the jump condition to be known
-	- Solution: When modern processors reach a jump before the comparison condition is known, it will predict whether the jump condition will be true ()
+	- Solution: When modern processors reach a jump before the comparison condition is known, it will predict whether the jump condition will be true (aka [[branch prediction]]) and "speculatively" execute down the chosen path.
+	-
