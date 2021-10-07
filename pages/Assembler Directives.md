@@ -13,5 +13,5 @@
 	- `.text` directive indicates the following instructions should be placed in the program area of memory
 	- `.data` directive indicates the following data declarations will be placed in the data memory segment
 ## Application: Switch Tables
-	- ((615eeea4-ae34-45fc-a637-11458fe825d2))
--
+	- Switch with Direct Jumps: ((615eeea4-ae34-45fc-a637-11458fe825d2))
+	- Switch with Indirect Jumps (Jump Tables):
