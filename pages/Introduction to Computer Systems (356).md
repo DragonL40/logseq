@@ -3,8 +3,7 @@
 - How many **combinations** can be made with $n$ bits?
 - What are the **range** of C types?
 - How to convert bit sequences to and from **hexadecimal**?
--
-## [[2's Complement]] System
+## The [[2's Complement]] System
 - How does 2's Complement System represent numbers?
 	- Normal binary place values except MSB has negative weight
 - How to extend [[2's complement]]? (Sign Extension)
@@ -19,6 +18,7 @@
 - How to add in [[2's complement]] ?
 - How to subtract in [[2's complement]]?
 - How to detect overflow?
+  collapsed:: true
 	- If **positive + positive = negative** or **negative + negative = positive**
 - What is the difference between [[logical shift]] and [[arithmetic shift]]?
 - How to multiply/divide by power of 2?
