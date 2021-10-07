@@ -266,5 +266,6 @@
 ## Conditional Moves
 	- Modern processors execute multiple instructions at one time.
 		- While earlier instructions are executing, the processor can be fetching and decoding later instructions.
-		- This overlapped execution is known as pipelining and is key to obtaining good performance.
-	-
+		- This overlapped execution is known as [[pipelining]] and is key to obtaining good performance.
+	- Problem: **Conditional jumps limit [[pipelining]]** because when we reach a jump, the comparison results it relies on may not be computed yet
+		-
