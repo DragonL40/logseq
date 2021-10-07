@@ -3,4 +3,5 @@
 	- Text and data segments
 	- Reserving & initializing global variables and constants
 	- Compiler and linker status
-- Directs the asseml
+- Directs the assembler in how to assemble the actual instructions and how to initialize memory when the program is loaded.
+-
