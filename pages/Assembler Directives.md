@@ -4,11 +4,11 @@
 	- Reserving & initializing global variables and constants
 	- Compiler and linker status
 - Directs the assembler in how to assemble the actual instructions and how to initialize memory when the program is loaded.
--
+- Directives specify:
 	- where to place the information
 	- what names are visible to other files in the program
 	- global data variables & their size
 	- alignment requirements
--
-  ---
+## Text and Data Segments
+	- `.tex`
 -
