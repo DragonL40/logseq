@@ -2,7 +2,7 @@
 alias: subroutines, procedure
 ---
 
-- Procedures are reusable sections of code that we can call from some location, execute that procedure, and then **return to where we left off**.
+- Procedures are reusable sections of code that we can call from some location, execute that procedure, and then **return to where we left off**. Although the address to jump to when calling a procedure is **always** the same, the location where a procedure _returns_ will vary.
 - To implement procedures in assembly we need to be able to:
   collapsed:: true
 	- Jump to the procedure code, leaving a "return link" to know where to return
