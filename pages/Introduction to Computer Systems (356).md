@@ -257,9 +257,11 @@
 		- ((61515fae-c12d-4af3-bddf-96407d40c744))
 		  id:: 61515fa0-352a-4f97-a6ef-e1c9f794a403
 	- Branch Displacements ((615ee5fc-2b09-4e77-9da8-8d00e7e20735))
+	  collapsed:: true
 		- Jumps perform `PC = PC + displacement`
 		- Assembler converts jumps and labels to appropriate displacements
 		- Displacements are in the 2nd byte of the instruction
-		- `PC` increments to point at next instruction while jump is fetched and BEFORE the jump is executed
+		- `PC` increments to point at next instruction while jump is fetched and **BEFORE** the jump is executed
+		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 ## Conditional Moves
 	-
