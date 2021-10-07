@@ -48,17 +48,14 @@
 - Is the writer the author of the film?
 - Are there determinations that come into play before the script is written?
 - What are the functions of a film writer?
-- {{embed [[Literary Determinations]]}}
-- {{embed [[Persepolis]]}}
 -
--
+- [[Literary Determinations]]
+	- [[Persepolis]]
 - [[Performance]]
 	- [[Get Out]]
 - [[Visual Design]]
 	- [[In the Mood for Love]]
 - [[Composition/Cinematography]]
 	- [[Parasite]]
-- The 180-degree rule
-	- On the Block with Juan
 - [[Temporal Design]]
--
+	- [[Moonlight]]
