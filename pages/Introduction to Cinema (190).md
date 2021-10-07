@@ -53,12 +53,12 @@
 -
 - {{embed [[Performance]]}}
 - {{embed [[Get Out]]}}
-- {{embed [[Visual Design]]}}
-- {{embed [[In the Mood for Love]]}}
-- {{embed [[Composition/Cinematography]]}}
 -
-- {{embed [[Parasite]]}}
-- [[Parasite]]
+-
+- [[Visual Design]]
+	- [[In the Mood for Love]]
+- [[Composition/Cinematography]]
+	- [[Parasite]]
 - The 180-degree rule
 	- On the Block with Juan
 - [[Temporal Design]]
