@@ -12,7 +12,6 @@
 - **Text and Data Segments**
 	- `.text` directive indicates the following instructions should be placed in the program area of memory
 	- `.data` directive indicates the following data declarations will be placed in the data memory segment
--
-  ---
-## Example
+## Application: Switch Tables
+	- ((615eeea4-ae34-45fc-a637-11458fe825d2))
 -
