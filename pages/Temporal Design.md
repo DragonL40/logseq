@@ -1,4 +1,4 @@
 - ![Week 6 - Temporal Design.pdf](../assets/Week_6_-_Temporal_Design_1633587451103_0.pdf)
 - Mise-en-Scene
-	- the use
+	- the use and arrangement of the objects (actors, sets, props, lighting) within a frame in relation to camera position and movement
 -
