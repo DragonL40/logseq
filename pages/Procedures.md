@@ -12,4 +12,5 @@ alias: subroutines, procedure
 	- Return addresses another saved register values
 	- Local variables of a function
 	- Arguments for procedures
+- {{embed [[system stack]]}}
 -
