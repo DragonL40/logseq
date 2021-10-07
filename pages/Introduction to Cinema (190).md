@@ -51,10 +51,9 @@
 - {{embed [[Literary Determinations]]}}
 - {{embed [[Persepolis]]}}
 -
-- {{embed [[Performance]]}}
-- {{embed [[Get Out]]}}
 -
--
+- [[Performance]]
+	- [[Get Out]]
 - [[Visual Design]]
 	- [[In the Mood for Love]]
 - [[Composition/Cinematography]]
