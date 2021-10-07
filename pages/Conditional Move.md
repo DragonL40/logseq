@@ -13,4 +13,7 @@
 	- ((615ee93d-39ef-4d18-8876-35dc957462d0))
 -
   ---
--
+## Conditional Move Instruction
+	- Similar to `(cond) ? x : y`
+	- Syntax: `cmov[cond] src, reg`
+		- `cond =` same
