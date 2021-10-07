@@ -7,9 +7,10 @@
 - Solution: When modern processors reach a jump before the comparison condition is known, it will predict whether the jump condition will be true (aka [[branch prediction]]) and "speculatively" execute down the chosen path.
 - Potential better solution: Be more **[[pipelining]] friendly** and  compute both results and only store the correct result when the condition is known
 	- Allows for pure sequential execution
-	- The execution
+	- With conditional moves, we only need to choose whether to save or discard a computed result
 - Example:
   collapsed:: true
 	- ((615ee93d-39ef-4d18-8876-35dc957462d0))
 -
+  ---
 -
