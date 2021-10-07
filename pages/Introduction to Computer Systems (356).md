@@ -262,4 +262,4 @@
 		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 - [[Conditional Move]]
 - [[Assembler Directives]]
--
+- ![CS356Unit06_Procedures.pdf](../assets/CS356Unit06_Procedures_1633611801585_0.pdf)
