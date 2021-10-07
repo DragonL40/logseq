@@ -274,5 +274,6 @@
 	- Format: `popq %req`
 		- Reads memory at address given by `%rsp` and places value into `%reg`
 		- Increments `%rsp` by 8
+	- _Pop does not erase the data on the stack._
+- Jump to a [[procedure]] using `call label` or `call *operand`
 	-
-	  >
