@@ -1,2 +1,6 @@
 - Start with `.` (e.g. `.text`, `.quad`, `.long`)
-- Similar to pre-processor statements (`#include`, `#define`, .etc.) and global variable declarations in C/C++
+- Similar to pre-processor statements (`#include`, `#define`, etc.) and global variable declarations in C/C++
+	- Text and data segments
+	- Reserving & initializing global variables and constants
+	- Compiler and linker status
+- Directs the asseml
