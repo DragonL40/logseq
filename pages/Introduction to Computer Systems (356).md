@@ -264,4 +264,7 @@
 		- `PC` increments to point at next instruction while jump is fetched and **BEFORE** the jump is executed
 		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 ## Conditional Moves
-	- Modern processors execute mutiple instructions at one time.
+	- Modern processors execute multiple instructions at one time.
+		- While earlier instructions are executing, the processor can be fetching and decoding later instructions.
+		- This overlapped execution is known as pipelining and is key to obtaining good performance.
+	-
