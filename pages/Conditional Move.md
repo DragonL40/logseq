@@ -19,3 +19,7 @@
 		- `cond`: same conditions as jumps (`e`, `ne`, `l`, `le`, `g`, `ge`)
 		- Destination must be a register
 		- If condition is true, `reg = src`
+		- If condition is false, `reg` is unchanged
+		- **Transfer size inferred from register name**
+		- ((615eea39-0335-4dfd-945d-f9729c8bd48d))
+	-
