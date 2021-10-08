@@ -26,6 +26,7 @@
 		- Each step optimizes some myopic criterion
 		- Does not backtrack/reverse decision
 	- [[Interval Scheduling]]: The Greedy Algorithm Stays Ahead
+	  collapsed:: true
 		- Earliest Finish Time: the proof, using the [[Exchange Argument]]
 			- B.C.: There is an optimal solution that includes EFT's first 0 choices (vacuously true).
 			- I.H.: There is an optimal solution OPT that includes EFT's first $k$ choices.
