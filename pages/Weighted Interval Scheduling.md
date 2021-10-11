@@ -11,7 +11,9 @@
 		- All other tasks in $OPT$ are in $\{1, \dots, p(n)\}$
 		- $OPT = OPT' \cup \{n\}$ for some non-overlapping $OPT' \subseteq \{1, \dots, p(n)\}$
 		- $OPT'$ must be optimal solution for subproblem $\{1, \dots, p(n)\}$
-	-
+- Subproblem $i$: Find max value non-overlapping 
+  $$
+  $$
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
   ```cpp
