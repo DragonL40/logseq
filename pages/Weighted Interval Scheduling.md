@@ -46,7 +46,7 @@
 - [[Dynamic Programming]] Solution with iteration
 	-
 	  ```
-	  int dp-WIS(int n)
+	  int dp-WIS(int n, W, P)
 	    for (int j = 0; j < n; j++) {
 	        W[j] = max(W[j-1], v[j] + W[P(j)]);
 	    }
