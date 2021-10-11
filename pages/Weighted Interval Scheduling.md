@@ -47,7 +47,7 @@
 	-
 	  ```
 	  int dp-WIS(int n, W, P)
-	    for (int j = 0; j < n; j++) {
+	    for (int j = 1; j < n; j++) {
 	        W[j] = max(W[j-1], v[j] + W[P(j)]);
 	    }
 	    return W[n-1];
