@@ -18,7 +18,8 @@
 	- Consider subproblem $j$
 	- A non-overlapping set $S \subseteq \{1, \dots, j\}$ either includes $j$ or it doesn't
 	- Best solution excluding $j$ is the best solution to subproblem $j-1$
-	- Solutions that include $j$ are precisely those that choose non
+	- Solutions that include $j$ are precisely those that choose non-overlapping $S \subseteq \{1, \dots, P(j)\}$ then add $j$
+	-
 -
   ```cpp
   int WIS(int i)
