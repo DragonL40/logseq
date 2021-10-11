@@ -49,4 +49,7 @@
 	  ```
 	- Runtime:
 		- $O(n \log n)$ for sorting and computing $P$.
-		- `memo-WIS`
+		- `memo-WIS`: $O(1)$ per recursive call $\times$ # of recursive calls
+		- How many recursive calls?
+			- At most $2n$
+		- Each time we recurse, we fill one entry
