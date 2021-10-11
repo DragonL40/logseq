@@ -23,7 +23,8 @@
   ```cpp
   int WIS(int j)
   	if j < 2 Then return v[j]
-  	x = WIS(i+1)
-  	y = v[i] + WIS(S)
+  	x = WIS(j-1)
+  	y = v[j] + WIS(P(j))
   	return max(x, y)
   ```
+-
