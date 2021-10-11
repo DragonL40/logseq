@@ -36,7 +36,17 @@
 	    }
 	    return W[n-1];
 	  ```
-- [[Dynamic Programming]] Solution: [[Memoization]]
+- [[Dynamic Programming]] Solution with [[Memoization]]
 	-
 	  ```
+	  int memo-WIS(int j)
+	  	If j=0 return 0
+	      Else if OPT[j] != null then return OPT[j]
+	      Else
+	        OPT[j] = max(memo-WIS(j-1), v[j] + memo-WIS(P(j)))
+	        return OPT[j]
+	      Endif
 	  ```
+	- Runtime:
+		- $O(n \log n)$ for sorting and computing $P$.
+		-
