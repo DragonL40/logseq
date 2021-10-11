@@ -14,6 +14,10 @@
 - Subproblem $i$: Find max value non-overlapping 
   $$S \subseteq \{1, \dots, j\}$$
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
+- Proof:
+	- Consider subproblem $j$
+	- A non-overlapping set $S \subseteq \{1, \dots, j\}$ either includes $j$ or it doesn't
+	-
 -
   ```cpp
   int WIS(int i)
