@@ -27,4 +27,7 @@
   	y = v[j] + WIS(P(j))
   	return max(x, y)
   ```
--
+- [[Dynamic Programming]] Solution
+	-
+	  ```
+	  ```
