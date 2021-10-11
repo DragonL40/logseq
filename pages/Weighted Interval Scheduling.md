@@ -36,3 +36,7 @@
 	    }
 	    return W[n-1];
 	  ```
+- [[Dynamic Programming]] Solution: [[Memoization]]
+	-
+	  ```
+	  ```
