@@ -45,7 +45,6 @@
 		- Total: $O(n\log n) + O(n) = O(n\log n)$
 - [[Dynamic Programming]] Solution with iteration
 	-
-	-
 	  ```
 	  int dp-WIS(int n)
 	    for (int j = 0; j < n; j++) {
@@ -53,3 +52,4 @@
 	    }
 	    return W[n-1];
 	  ```
+-
