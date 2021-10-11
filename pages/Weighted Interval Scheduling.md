@@ -19,11 +19,12 @@
 	- A non-overlapping set $S \subseteq \{1, \dots, j\}$ either includes $j$ or it doesn't
 	- Best solution excluding $j$ is the best solution to subproblem $j-1$
 	- Solutions that include $j$ are precisely those that choose non-overlapping $S \subseteq \{1, \dots, P(j)\}$ then add $j$
+		- Best such solution picks $S=
 	-
 -
   ```cpp
-  int WIS(int i)
-  	if i > n Then return 0
+  int WIS(int j)
+  	if j < 2 Then return v[j]
   	x = WIS(i+1)
   	y = v[i] + WIS(S)
   	return max(x, y)
