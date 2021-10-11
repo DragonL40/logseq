@@ -27,15 +27,6 @@
   	y = v[j] + WIS(P(j))
   	return max(x, y)
   ```
-- [[Dynamic Programming]] Solution
-	-
-	  ```
-	  int dp-WIS(int n)
-	    for (int j = 0; j < n; j++) {
-	        W[j] = max(W[j-1], v[j] + W[P(j)]);
-	    }
-	    return W[n-1];
-	  ```
 - [[Dynamic Programming]] Solution with [[Memoization]]
 	-
 	  ```
@@ -50,5 +41,15 @@
 	- Runtime:
 		- $O(n \log n)$ for sorting and computing $P$.
 		- `memo-WIS`: $O(1)$ per recursive call $\times$ # of recursive calls
-		- There are at most $2n$, because each time we recurse, we fill one entry of `OPT`.
+		- There are at most $2n$ recursive calls, because each time we recurse, we fill one entry of `OPT`.
 		- Total: $O(n\log n) + O(n) = O(n\log n)$
+- [[Dynamic Programming]] Solution with iteration
+	-
+	-
+	  ```
+	  int dp-WIS(int n)
+	    for (int j = 0; j < n; j++) {
+	        W[j] = max(W[j-1], v[j] + W[P(j)]);
+	    }
+	    return W[n-1];
+	  ```
