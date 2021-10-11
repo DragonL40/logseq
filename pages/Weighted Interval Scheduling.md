@@ -12,8 +12,7 @@
 		- $OPT = OPT' \cup \{n\}$ for some non-overlapping $OPT' \subseteq \{1, \dots, p(n)\}$
 		- $OPT'$ must be optimal solution for subproblem $\{1, \dots, p(n)\}$
 - Subproblem $i$: Find max value non-overlapping 
-  $$
-  $$
+  $$S \subseteq \{1, \dots, j\}$$
 - $OPT(i) = \max(v_i + OPT(p(i)), OPT(i-1))$
 -
   ```cpp
