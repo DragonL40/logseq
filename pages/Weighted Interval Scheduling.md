@@ -30,4 +30,8 @@
 - [[Dynamic Programming]] Solution
 	-
 	  ```
+	  W[i]
+	  for (int j = 0; j < n; j++) {
+	  
+	  }
 	  ```
