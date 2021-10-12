@@ -11,4 +11,6 @@ alias: stack frame
 - Compilers usually put data on the stack in a certain order, which we call a [[stack frame]]
 -
   ---
--
+- Frame: All data on stack belonging to a procedure / function
+	- Space for saved registers
+	- Space for local variables (deca)
