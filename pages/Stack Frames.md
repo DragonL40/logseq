@@ -18,3 +18,4 @@ alias: stack frame
 	- Stack pointer (`%rsp`) is usually used to access only the top value on the stack
 	- To access arguments and local variables, we need to access values buried in the. stack
 		- We can simply use an offset from `%rsp` [ e.g. `8(%rsp)`]
+-
