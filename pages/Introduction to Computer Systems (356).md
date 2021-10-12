@@ -278,4 +278,4 @@
 - Jump to a [[procedure]] using `call label` or `call *operand`
 	- Pushes the address of next instruction (return address) onto the stack
 	- Updates the [[program counter (PC)]] to go to the start of the desired procedure
--
+- When
