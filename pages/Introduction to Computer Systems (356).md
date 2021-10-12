@@ -278,4 +278,7 @@
 - Jump to a [[procedure]] using `call label` or `call *operand`
 	- Pushes the address of next instruction (return address) onto the stack
 	- Updates the [[program counter (PC)]] to go to the start of the desired procedure
-- When
+- When coding in an high level language & using a compiler, certain conventions are followed that may lead to heavier usage of the stack
+	- We have to be careful not to **overwrite** registers that have useful data.
+- High level languages (HLL) use the stack:
+	- to **save register values**
