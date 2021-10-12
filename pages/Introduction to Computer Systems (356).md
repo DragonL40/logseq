@@ -264,8 +264,7 @@
 		- ((615ee643-39c4-4366-99bb-22faa69f2ea9))
 - [[Conditional Move]]
 - [[Assembler Directives]]
--
-## Unit 6: x86 [[Procedures]], Basic Stack Frames
+## Unit 6: x86 [[Procedures]], Basic [[Stack Frames]]
 - ![CS356Unit06_Procedures.pdf](../assets/CS356Unit06_Procedures_1633611801585_0.pdf)
 - Push operation adds data to [[system stack]]
 	- Format: `pushq %reg`
