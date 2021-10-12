@@ -13,4 +13,8 @@ alias: stack frame
   ---
 - Frame: All data on stack belonging to a procedure / function
 	- Space for saved registers
-	- Space for local variables (deca)
+	- Space for local variables (declared in a function)
+	- Space for arguments
+-
+  ---
+-
