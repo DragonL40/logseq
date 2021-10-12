@@ -18,4 +18,6 @@ alias: stack frame
 	- Stack pointer (`%rsp`) is usually used to access only the top value on the stack
 	- To access arguments and local variables, we need to access values buried in the. stack
 		- We can simply use an offset from `%rsp` [ e.g. `8(%rsp)`]
--
+## Caller & Callee-Saved Convention
+- Having to always play it safe and save a register to the stack before using it can decrease performance
+- To increase performance, a standard is set to indicate which registers must be preserved (call)
