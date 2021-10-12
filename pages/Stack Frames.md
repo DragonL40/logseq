@@ -20,4 +20,5 @@ alias: stack frame
 		- We can simply use an offset from `%rsp` [ e.g. `8(%rsp)`]
 ## Caller & Callee-Saved Convention
 - Having to always play it safe and save a register to the stack before using it can decrease performance
-- To increase performance, a standard is set to indicate which registers must be preserved (call)
+- To increase performance, a standard is set to indicate which registers must be **preserved(callee-saved)** and which ones can be **overwritten freely(caller-saved)**
+	- Callee Saved: Push values
