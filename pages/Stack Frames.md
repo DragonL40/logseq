@@ -21,4 +21,6 @@ alias: stack frame
 ## Caller & Callee-Saved Convention
 - Having to always play it safe and save a register to the stack before using it can decrease performance
 - To increase performance, a standard is set to indicate which registers must be **preserved(callee-saved)** and which ones can be **overwritten freely(caller-saved)**
-	- Callee Saved: Push values
+	- Callee-saved: Push values before overwriting them; restore before returning
+	- Caller-saved: Push if the register is needed after the function call; callee can freely overwrite; caller will restore upon return
+-
