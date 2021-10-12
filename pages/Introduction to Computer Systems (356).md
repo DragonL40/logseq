@@ -284,4 +284,5 @@
 	- to **save register values** including the return address
 	- for storage of **local variables** declared in the precedure
 	- to pass **arguments** to a procedure
-- Compilers usually put data on the stack in a certain order, which we call a [[Stack Frames]]
+- Compilers usually put data on the stack in a certain order, which we call a [[stack frame]]
+-
