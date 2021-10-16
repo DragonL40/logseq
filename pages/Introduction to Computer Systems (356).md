@@ -302,6 +302,6 @@
 		- Various methods have been devised to prevent or make it harder to exploit this code
 			- **Better libraries that do not allow an overrun** `strncpy(char* dest, char* src, size_t len)`
 			- Add a stack protector (e.g., [[canary values]])
-			- Address space layout randomization (ASLR) techniques
+			- [[address space layout randomization (ASLR)]] techniques
 			- Privilege/access control bits
 		-
