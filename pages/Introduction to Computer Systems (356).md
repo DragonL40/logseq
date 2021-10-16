@@ -292,4 +292,6 @@
 		- We can then craft a return address to go to the starting location of our code.
 	- Methods of Prevention
 		- Various methods have been devised to prevent or make it harder to exploit this code
+			- **Better libraries that do not allow an overrun** `strncpy(char* dest, char* src, size_t len)`
+			- Add a stack protector (e.g., canary values)
 			-
