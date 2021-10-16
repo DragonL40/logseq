@@ -287,4 +287,4 @@
 		- Many functions, especially those related to strings, may not check the bounds of an array
 		- User or other input may overflow a fixed size array
 	- Buffer Overflow
-		-
+		- Now recall these local arrays are stored on the stack where the **return address** is also stored.
