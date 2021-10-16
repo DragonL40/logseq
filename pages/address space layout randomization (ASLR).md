@@ -3,3 +3,4 @@
 - Idea: Randomize where the stack will start
 ### How does the OS randomizes the layout?
 	- The OS can allocate a random amount of space on the stack each time a program is executed to make it harder for an attacker to succeed in an exploit
+- [[nop sleds]]

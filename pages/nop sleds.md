@@ -1,0 +1,2 @@
+- Prepend as many `nop` instructions as possible in the buffer before the exploit code
+-
