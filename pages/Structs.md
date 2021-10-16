@@ -1,2 +1,4 @@
 - Structs are just **collections of heterogeneous data**
--
+- Each member is laid out in consecutive memory locations, with some **padding inserted to ensure alignment**
+	- Intel machinies don't require alignment but perform better when it is used
+	- Reordering can reduce size!****
