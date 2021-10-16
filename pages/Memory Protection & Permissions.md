@@ -2,4 +2,6 @@
 - When performing a memory access the processor will indicate the desired operation:
 	- Fetch (Execute), Read data, Write data
 - This will be compared to the access permissions stored in the MMU and catch any violation
-	-
+	- The stack area can be set for **N**o-e**X**ecute (**NX** or **X=0**)
+	- **If the processor sees an attempt to execute code from the stack it will halt the program**
+-
