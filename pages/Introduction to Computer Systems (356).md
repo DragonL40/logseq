@@ -54,11 +54,13 @@
 -
   > Visualization tool: http://evanw.github.io/float-toy/
 - Single-Precision Example #numlist
+  collapsed:: true
 	- `1 | 1000 0010 | 110 0110 0000 0000 0000 0000`
 	- `+0.6875 = +0.1011`
 -
   > For the purpose of this class, we will use ((6139cfd8-1b14-4500-8267-ccab23163649))
 - #Example #numlist
+  collapsed:: true
 	- `1 | 10100 | 101101`
 	- `+21.75 = +10101.11`
 	- `1 | 01101 | 100000`
@@ -102,14 +104,18 @@
 # Unit 4: x86 Instruction Set
 - ![CS356Unit04_x86_ISA.pdf](../assets/CS356Unit04_x86_ISA_1631297676910_0.pdf)
 - Compling and Disassembling
+  collapsed:: true
 	- From C to assembly code: `gcc -0g -c -s file1.c`
 	- Looking at binary files: `gcc -0g -c file1.c`, `hexdump -C file1.o`
 	- From binary to assembly: `gcc -0g -c file1.c`, `objdump -d file1.o`
 - How to refer to a chuck of memory?
+  collapsed:: true
 	- The starting address + the size (B, W, L, Q)
 - What are the rules for valid starting addresses?
+  collapsed:: true
 	- A valid starting address should be a multiple of the data size
 - What is endian-ness?
+  collapsed:: true
 	- refers to the two alternate methods of ordering the [[byte]] in a larger unit
 	- [[Big-Endian]]
 		- PPC, Sparc, TCP/IP
@@ -117,9 +123,11 @@
 		- used by Intel processors / original PCI bus
 	- **Some processors and busses can be configured for either big- or little-endian**
 - What is the issue when transferring data between different systems? #Big-Endian #Little-Endian
+  collapsed:: true
 	- ((614d6c5e-cff7-4259-8257-58b96c9aee4e))
 - {{embed [[x86-64 Data Sizes]]}}
 - x86-64 Register Names
+  collapsed:: true
 	- ((614d72b1-6cab-4451-8b04-1d579eb033c5))
 - x86-64 Instruction Classes
 	- **Data Transfer**
