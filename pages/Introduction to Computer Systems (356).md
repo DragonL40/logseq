@@ -282,4 +282,4 @@
 ## Unit 7: Data Layout & Intermediate [[Stack Frames]]
 - ![CS356Unit07_StackFrames.pdf](../assets/CS356Unit07_StackFrames_1634358289237_0.pdf)
 - [[Structs]]
--
+### Exploits via the Stack and their Pre
