@@ -1,2 +1,2 @@
-- Attempts to mitigate [[Address space layout randomization (ASLR)]] by prepending as many `nop` instructions as possible in the buffer before the exploit code
+- Attempts to bypass [[Address space layout randomization (ASLR)]] by prepending as many `nop` instructions as possible in the buffer before the exploit code
 - Now our guess for the return address does not need to be exact but **anywhere in the range of the nops**
