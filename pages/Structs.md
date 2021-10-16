@@ -1,0 +1,2 @@
+- Structs are just **collections of heterogeneous data**
+-
