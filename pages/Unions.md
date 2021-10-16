@@ -1,4 +1,4 @@
-- Unions allow you to read/write the same memory region as variables with different types
+- Unions allow you to read/write the **same memory region** as **variables with different types**
 	- All elements start at offset 0
 	- The size of the union is simply the size of the biggest member
 	- Elements must be POD (plain old data) or at least default-constructible
