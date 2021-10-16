@@ -1,3 +1,5 @@
 - Processors have hardware to help track areas of memory used by a program & verify appropriate address usage
 - When performing a memory access the processor will indicate the desired operation:
-	- Fetch ()
+	- Fetch (Execute), Read data, Write data
+- This will be compared to the access permissions stored in the MMU and catch any violation
+	-
