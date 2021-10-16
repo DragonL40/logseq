@@ -4,3 +4,4 @@
 	- Reordering can reduce size!
 	- **"Each type aligned at a multiple of its size"**
 - Its start/end should have the **largest alignment** required by its members
+- Related: #[[Unions]]
