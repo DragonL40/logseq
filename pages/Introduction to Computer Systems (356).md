@@ -290,4 +290,6 @@
 	- Executing Code
 		- We could determine the desired machine code for some sequence we want to execute on the machine and enter that as our string.
 		- We can then craft a return address to go to the starting location of our code.
-	-
+	- Methods of Prevention
+		- Various methods have been devised to prevent or make it harder to exploit this code
+			-
