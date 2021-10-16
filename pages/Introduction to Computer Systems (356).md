@@ -289,4 +289,5 @@
 		- Now recall these local arrays are stored on the stack where the **return address** is also stored. (Buffer Overflow)
 	- Executing Code
 		- We could determine the desired machine code for some sequence we want to execute on the machine and enter that as our string.
-		-
+		- We can then craft a return address to go to the starting location of our code.
+	-
