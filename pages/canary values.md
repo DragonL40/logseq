@@ -1,2 +1,2 @@
 - Compiler will insert code to generate and store a unique value between the return address and the local variable
-- Before returning it will check w
+- Before returning it will check whether this value has been altered (by a buffer overflow) and raise an error if it has
