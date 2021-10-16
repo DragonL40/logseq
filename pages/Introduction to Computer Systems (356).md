@@ -283,4 +283,6 @@
 - ![CS356Unit07_StackFrames.pdf](../assets/CS356Unit07_StackFrames_1634358289237_0.pdf)
 - [[Structs]]
 ### Exploits via the Stack and Their Prevention
-	-
+	- Arrays and Bounds Check
+		- Many functions, especially those related to strings, may not check the bounds of an array
+		- User or other input may overflow a fixed size array
