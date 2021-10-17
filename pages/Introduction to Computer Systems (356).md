@@ -304,4 +304,5 @@
 			- Add a stack protector (e.g., [[canary values]])
 			- [[address space layout randomization (ASLR)]] techniques
 			- [[Memory Protection & Permissions]] Privilege/access control bits
+	- [[Return Oriented Programming]]
 		-
