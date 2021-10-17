@@ -1,3 +1,6 @@
 - Key idea: find the attack instructions inside of those that already exist in the code segment
 - Find **gadgets** in executable areas.
 	- Gadgets: short sequence of instructions followed by `ret (0xc3)`
+-
+  > Often, it is possible to find useful instructions within the byte encoding of other instructions.
+-
