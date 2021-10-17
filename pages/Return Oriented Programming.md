@@ -3,4 +3,6 @@
 	- Gadgets: short sequence of instructions followed by `ret (0xc3)`
 -
   > Often, it is possible to find useful instructions within the byte encoding of other instructions.
--
+### Using a chain of gadgets
+	- The stack contains a sequence of gadget addresses.
+	- Each gadget consists of a series
