@@ -25,4 +25,7 @@ alias: stack frame
 		- Caller-saved: Push if the register is needed after the function call; callee can freely overwrite; caller will restore upon return
 		- ((6165242f-24b9-4e92-9c62-f3a43d604bac))
 ## Base/Frame Pointer
+	- Since we may not know the offsets of variables relative to the stack pointer, a common solution is to use a second register call the **base or frame pointer**
+	- It points at the base (bottom) of the frame and remains stable/constant for the duration of the procedure
+	- Now constant displacement relative to `%rbp` can be used by the compiler
 	-
