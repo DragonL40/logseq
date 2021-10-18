@@ -307,4 +307,5 @@
 	- [[Return Oriented Programming]]
 		- What if the stack is marked as non-executable and its position is randomized?
 - [[Stack Frames]]: Purpose of `%rsp` as "Base" or "Frame" Pointer
--
+## Unit 8: Memory
+	- ![CS356Unit08_Memory.pdf](../assets/CS356Unit08_Memory_1634516700619_0.pdf)
