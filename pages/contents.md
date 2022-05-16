@@ -1,6 +1,1 @@
-- [[Introduction to Algorithms and Theory of Computing (270)]]
-- [[Introduction to Computer Systems (356)]]
-- [[Principles of Software Development (201)]]
-- [[General Biology: Organismal Biology and Evolution (120)]]
-- [[Introduction to Cinema (190)]]
 - [[TODO]]
