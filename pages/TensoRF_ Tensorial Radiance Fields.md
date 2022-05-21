@@ -26,3 +26,5 @@ tag:: #paper #[[Radiance Fields]]
 	  $$
 	- Higher $L$ leads to more precision in the encoding at the cost of increased model size and, subsequently, increased training time.
 	- > What is the optimal $L$ for our model?
+- ## Loss Functions
+	-
