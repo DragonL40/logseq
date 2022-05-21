@@ -1,0 +1,2 @@
+- Most widely used decompositions are Tucker Decomposition and [[CP Decomposition]] , both of which can be seen as generalizations of the matrix singular value decomposition (SVD).
+-

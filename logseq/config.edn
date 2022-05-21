@@ -76,4 +76,5 @@
  :editor/logical-outdenting? false
  :preferred-format :markdown
  :markdown/version 2
- :shortcuts {:editor/up "up"}}
+ :shortcuts {:editor/up "up"}
+ :favorites ["TODO"]}
