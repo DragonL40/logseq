@@ -1,4 +1,4 @@
-public:: false
+public:: true
 title:: TensoRF: Tensorial Radiance Fields
 alias:: TensoRF
 tag:: #paper #[[Radiance Fields]]
