@@ -1,2 +1,4 @@
 - #MAP-Elites
 - [[MAP-Elites]] (1) illuminates the relationship between performance and dimensions of interest in solutions, (2) returns a set of high-performing, yet diverse solutions, and (3) improves the state-of-the-art for finding a single, best solution, it will catalyze advances throughout all science and engineering fields.
+- [[Novelty Search]]
+	-
