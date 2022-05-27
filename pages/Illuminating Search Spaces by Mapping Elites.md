@@ -24,5 +24,5 @@
 	- We exhibit a feature function $b(x)$, where $b(x)$ returns $b_x$, which is an $N$-dimensional vector describing $x$'s features.
 		- With _direct encoding_, each element in the genome specifies an independent component fo the phenotype.
 		- With _indirect encoding_, information in the genome can be reused to affect many parts of the phenotype; such encodings have been shown to improve **regularity**, **performance**, and **evolvability**.
-	- [[MAP-Elites]] starts by randomly generating $G$ genomes and determining the performance and features of each.
+	- [[MAP-Elites]] starts by randomly generating $G$ genomes and determining the performance and features of each. These genomes are placed into the cells to which they belong in the feature space.
 	-
