@@ -1,1 +1,1 @@
-- > The user defines how to measure the distance between behaviors, and then Novelty Search seeks to produce as many different behaviors as possible according to this distance metric. The al- gorithm stops when an individual in the population solves the objective (i.e. their performance is high enough).
+-

@@ -2,5 +2,6 @@
 - [[MAP-Elites]] (1) illuminates the relationship between performance and dimensions of interest in solutions, (2) returns a set of high-performing, yet diverse solutions, and (3) improves the state-of-the-art for finding a single, best solution, it will catalyze advances throughout all science and engineering fields.
 - [[Novelty Search]]: an algorithm that abandons the goal of improving performance altogether, and instead select only for diversity in the feature space.
 	- Performs better than performance-driven search on deceptive problems
-	- How about standard (non-deceptive) problems?
+	- How about standard (non-deceptive) problems? #Questions
+	- > The user defines how to measure the distance between behaviors, and then Novelty Search seeks to produce as many different behaviors as possible according to this distance metric. The algorithm stops when an individual in the population solves the objective (i.e. their performance is high enough).
 -
