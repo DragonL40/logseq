@@ -7,4 +7,5 @@
 	- Does not work well with very large feature/behavioral spaces.
 - ## [[MAP-Elites]]
 	- Allowing  users to create diversity in the dimensions of variation they choose.
-	- Illuminating the fitness potential of the entire feature space, not just the high-performing areas
+	- Illuminating the fitness potential of the entire feature space, not just the high-performing areas, revealing relationships between dimensions of interest and performance.
+	-
