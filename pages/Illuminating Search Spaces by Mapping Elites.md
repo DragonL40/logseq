@@ -6,6 +6,7 @@
 	- > The user defines how to measure the distance between behaviors, and then Novelty Search seeks to produce as many different behaviors as possible according to this distance metric. The algorithm stops when an individual in the population solves the objective (i.e. their performance is high enough).
 	- Does not work well with very large feature/behavioral spaces.
 - ## [[MAP-Elites]]
-	- Allowing  users to create diversity in the dimensions of variation they choose.
+	- Allowing  users to **create diversity in the dimensions of variation** they choose.
 	- Illuminating the fitness potential of the entire feature space, not just the high-performing areas, revealing relationships between dimensions of interest and performance.
 	- **Improved optimization performance**; the algorithm often finds a better solution than the current state-of-the-art search algorithms in complex search spaces because it explores more of the feature space, which helps it avoid local optima and thus find different, and often better, fitness peaks.
+	-
