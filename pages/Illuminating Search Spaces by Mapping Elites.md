@@ -21,5 +21,7 @@
 	- Choose a performance measure $f(x)$ that evaluates a solution $x$.
 	- Choose $N$ dimensions of variation of interest that define a _feature space_ of interest to the user.
 	- ![MAP-Elites_pseudocode.png](../assets/MAP-Elites_pseudocode_1653626852761_0.png)
+	- We exhibit a feature function $b(x)$, where $b(x)$ returns $b_x$, which is an $N$-dimensional vector describing $x$'s features.
 		- Why do we need a function to map $x$, a description of a candidate solution, to $b_x$, an $N$-dimensional vector describing $x$'s features? Wouldn't it be more convenient if we had $b(x) = x$?#Questions
-	- We exhibit a feature function $b(x)$, where $b(x)$ returns $b_x$, which is a
+		- With _direct encoding_, each element in the genome specifies an independent component fo the phenotype.
+		- With _indirect encoding_,
