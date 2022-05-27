@@ -17,4 +17,5 @@
 - [[illumination algorithms]] are designed to return the highest-performing solution at each point in the feature space.
 	- Note that [[illumination algorithms]] is a **superset** of [[optimization algorithms]]
 - [[MAP-Elites]] is a [[illumination algorithms]] inspired by [[Novelty Search]] + [[Local Competition]] and the [[Multi-Objective Landscape Exploration algorithm (MOLE)]]
--
+- ## Details of the [[MAP-Elites]] algorithm
+	-
