@@ -18,4 +18,5 @@
 	- Note that [[illumination algorithms]] is a **superset** of [[optimization algorithms]]
 - [[MAP-Elites]] is a [[illumination algorithms]] inspired by [[Novelty Search]] + [[Local Competition]] and the [[Multi-Objective Landscape Exploration algorithm (MOLE)]]
 - ## Details of the [[MAP-Elites]] algorithm
+	- Choose a performance measure $f(x)$ that evaluates a solution $x$.
 	-
