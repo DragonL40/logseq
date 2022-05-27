@@ -24,4 +24,4 @@
 	- We exhibit a feature function $b(x)$, where $b(x)$ returns $b_x$, which is an $N$-dimensional vector describing $x$'s features.
 		- Why do we need a function to map $x$, a description of a candidate solution, to $b_x$, an $N$-dimensional vector describing $x$'s features? Wouldn't it be more convenient if we had $b(x) = x$?#Questions
 		- With _direct encoding_, each element in the genome specifies an independent component fo the phenotype.
-		- With _indirect encoding_,
+		- With _indirect encoding_, information in the genome can be reused to affect many parts of the phenotype; such encodings
