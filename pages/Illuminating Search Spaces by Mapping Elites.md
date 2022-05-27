@@ -30,4 +30,5 @@
 		- The features and performance of that offspring are determined, and the offspring is placed in the cell if the cell is empty or if the offspring is higher-performing than the current occupant of the cell, in which case that occupant is discarded.
 	- Note that:
 		- It is not guaranteed that all cells in the feature space will be filled.
+		-
 	-
