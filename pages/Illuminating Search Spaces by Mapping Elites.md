@@ -20,4 +20,4 @@
 - ## Details of the [[MAP-Elites]] algorithm
 	- Choose a performance measure $f(x)$ that evaluates a solution $x$.
 	- Choose $N$ dimensions of variation of interest that define a _feature space_ of interest to the user.
-	-
+	- ![Screen Shot 2022-05-26 at 9.44.47 PM.png](../assets/Screen_Shot_2022-05-26_at_9.44.47_PM_1653626741278_0.png)
