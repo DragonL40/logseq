@@ -15,4 +15,5 @@
 	- Returning a large set of diverse, high-performing individuals embedded in a map that describes where they are located in the feature space, which can be used to create new types of algorithms or improve the performance of existing algorithms
 - [[optimization algorithms]] are not traditionally designed to report the highest-performing solution possible in an area of the feature space that cannot produce either the highest-performing solution overall, or a solution on the Pareto front.
 - [[illumination algorithms]] are designed to return the highest-performing solution at each point in the feature space.
-	- Note that
+	- Note that [[illumination algorithms]] is a superset of [[optimization algorithms]]
+-
