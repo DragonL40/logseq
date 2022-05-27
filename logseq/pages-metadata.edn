@@ -500,6 +500,12 @@
  {:block/name "hypothesis testing",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name "illuminating search spaces by mapping elites",
+  :block/created-at 1653554307645,
+  :block/updated-at 1653624942922}
+ {:block/name "illumination algorithms",
+  :block/created-at 1653624813457,
+  :block/updated-at 1653624813457}
  {:block/name "image",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -648,6 +654,9 @@
  {:block/name "mad max: fury road",
   :block/created-at 1633636025936,
   :block/updated-at 1633636064647}
+ {:block/name "map-elites",
+  :block/created-at 1653554325889,
+  :block/updated-at 1653554325889}
  {:block/name "mark and sweep algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -662,7 +671,7 @@
   :block/updated-at 1652869550393}
  {:block/name "may 18th, 2022",
   :block/created-at 1652832000000,
-  :block/updated-at 1652882307130}
+  :block/updated-at 1653554261823}
  {:block/name "may 19th, 2022",
   :block/created-at 1652943609645,
   :block/updated-at 1652943609645}
@@ -681,9 +690,21 @@
  {:block/name "may 23rd, 2021",
   :block/created-at 1621728000000,
   :block/updated-at 1631745453436}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653334847881,
+  :block/updated-at 1653334847881}
  {:block/name "may 24th, 2021",
   :block/created-at 1621814400000,
   :block/updated-at 1621814400000}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653375623799,
+  :block/updated-at 1653375623799}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653545419223,
+  :block/updated-at 1653545419223}
+ {:block/name "may 26th, 2022",
+  :block/created-at 1653549438303,
+  :block/updated-at 1653554307646}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
   :block/updated-at 1631745450980}
@@ -742,6 +763,12 @@
   "nerf: representing scenes as neural radiance fields for view synthesis",
   :block/created-at 1652860094026,
   :block/updated-at 1652869663692}
+ {:block/name "new page: illuminating s",
+  :block/created-at 1653554281086,
+  :block/updated-at 1653554281086}
+ {:block/name "new page: illuminating se",
+  :block/created-at 1653554281136,
+  :block/updated-at 1653554281136}
  {:block/name "nitrogenous bases",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
@@ -754,6 +781,9 @@
  {:block/name "nosql",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "novelty search",
+  :block/created-at 1653554847797,
+  :block/updated-at 1653623324989}
  {:block/name "now",
   :block/created-at 1630514885159,
   :block/updated-at 1630514885159}
@@ -787,6 +817,9 @@
  {:block/name "odd-length cycle",
   :block/created-at 1630514885152,
   :block/updated-at 1630514885152}
+ {:block/name "optimization algorithms",
+  :block/created-at 1653624798578,
+  :block/updated-at 1653624798578}
  {:block/name "optimization problems",
   :block/created-at 1630514885153,
   :block/updated-at 1630514885153}
@@ -1116,7 +1149,7 @@
   :block/updated-at 1652869690236}
  {:block/name "tensorf: tensorial radiance fields",
   :block/created-at 1652740818022,
-  :block/updated-at 1653175160499}
+  :block/updated-at 1653177420361}
  {:block/name "thaumatrope",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
