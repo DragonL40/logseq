@@ -27,5 +27,5 @@
 	- [[MAP-Elites]] starts by randomly generating $G$ genomes and determining the performance and features of each. These genomes are placed into the cells to which they belong in the feature space.
 	- Then, the following steps are repeated until a termination criterion is reached.
 		- A cell in the map is randomly chosen and the genome in that cell produces an offspring via **mutation** and/or **crossover**.
-		- The features
+		- The features and performance of that offspring are determined, and the offspring is placed in the cell if the cell is empty or if the offspring is placed in the cell if the cell is empty or if the offspring is higher-performing than the current occupant of the cell, in which case that occupant is discarded.
 	-
