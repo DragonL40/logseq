@@ -13,4 +13,4 @@
 		- It may be more likely to generate a solution for one cell by mutating a solution to a more distant cell, a phenomenon called “goal switching” in a new paper that uses MAP-Elites
 		- It may be more likely to produce a solution to a cell by crossing over two solutions from other cells
 	- Returning a large set of diverse, high-performing individuals embedded in a map that describes where they are located in the feature space, which can be used to create new types of algorithms or improve the performance of existing algorithms
-- Optimization algorithms are not traditionally designed to report the highest-performing solution possible in an area of the feature space that cannot produc
+- optimization algorithms are not traditionally designed to report the highest-performing solution possible in an area of the feature space that cannot produce either the highest-performing solution overall, or a solution on the Pareto front.
