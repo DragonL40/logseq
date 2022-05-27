@@ -12,3 +12,5 @@
 	- The search for a solution in any single cell is **aided by the simultaneous search for solutions in other cells**.
 		- It may be more likely to generate a solution for one cell by mutating a solution to a more distant cell, a phenomenon called “goal switching” in a new paper that uses MAP-Elites
 		- It may be more likely to produce a solution to a cell by crossing over two solutions from other cells
+	- Returning a large set of diverse, high-performing individuals embedded in a map that describes where they are located in the feature space, which can be used to create new types of algorithms or improve the performance of existing algorithms
+-
