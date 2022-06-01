@@ -502,7 +502,7 @@
   :block/updated-at 1630514885157}
  {:block/name "illuminating search spaces by mapping elites",
   :block/created-at 1653554307645,
-  :block/updated-at 1653624942922}
+  :block/updated-at 1653632714005}
  {:block/name "illumination algorithms",
   :block/created-at 1653624813457,
   :block/updated-at 1653624813457}
@@ -642,6 +642,9 @@
  {:block/name "living organisms",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "local competition",
+  :block/created-at 1653625195659,
+  :block/updated-at 1653625195659}
  {:block/name "locus",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
@@ -655,8 +658,8 @@
   :block/created-at 1633636025936,
   :block/updated-at 1633636064647}
  {:block/name "map-elites",
-  :block/created-at 1653554325889,
-  :block/updated-at 1653554325889}
+  :block/created-at 1653632647526,
+  :block/updated-at 1653632647526}
  {:block/name "mark and sweep algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -704,19 +707,34 @@
   :block/updated-at 1653545419223}
  {:block/name "may 26th, 2022",
   :block/created-at 1653549438303,
-  :block/updated-at 1653554307646}
+  :block/updated-at 1653625469675}
+ {:block/name "may 27th, 2022",
+  :block/created-at 1653634803892,
+  :block/updated-at 1653634803892}
  {:block/name "may 28th, 2021",
   :block/created-at 1622160000000,
   :block/updated-at 1631745450980}
+ {:block/name "may 28th, 2022",
+  :block/created-at 1653730742219,
+  :block/updated-at 1653730742219}
  {:block/name "may 29th, 2021",
   :block/created-at 1622246400000,
   :block/updated-at 1622246400000}
+ {:block/name "may 29th, 2022",
+  :block/created-at 1653807631128,
+  :block/updated-at 1653807631128}
  {:block/name "may 30th, 2021",
   :block/created-at 1622332800000,
   :block/updated-at 1631745449094}
+ {:block/name "may 30th, 2022",
+  :block/created-at 1653894157076,
+  :block/updated-at 1653894157076}
  {:block/name "may 31st, 2021",
   :block/created-at 1622419200000,
   :block/updated-at 1622419200000}
+ {:block/name "may 31st, 2022",
+  :block/created-at 1653980404379,
+  :block/updated-at 1653980404379}
  {:block/name "meiosis",
   :block/created-at 1631051926606,
   :block/updated-at 1631051926606}
@@ -747,6 +765,12 @@
  {:block/name "morphological species",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "multi-dimensional archive of phenotypic elites",
+  :block/created-at 1653554325889,
+  :block/updated-at 1653632649525}
+ {:block/name "multi-objective landscape exploration algorithm (mole)",
+  :block/created-at 1653625228875,
+  :block/updated-at 1653625228875}
  {:block/name "mutagens",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
