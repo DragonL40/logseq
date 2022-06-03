@@ -174,6 +174,9 @@
  {:block/name "cell",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
+ {:block/name "centroidal voronoi tessellations",
+  :block/created-at 1654289433059,
+  :block/updated-at 1654290387199}
  {:block/name "chromosome",
   :block/created-at 1633055985741,
   :block/updated-at 1633055985741}
@@ -234,6 +237,12 @@
  {:block/name "cut property",
   :block/created-at 1630514885158,
   :block/updated-at 1631576199986}
+ {:block/name "cvt",
+  :block/created-at 1654290387196,
+  :block/updated-at 1654290387196}
+ {:block/name "cvt-map-elites",
+  :block/created-at 1654289342050,
+  :block/updated-at 1654289342050}
  {:block/name "cycle property",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -598,6 +607,9 @@
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654153760472,
   :block/updated-at 1654222473775}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654289289164,
+  :block/updated-at 1654289289164}
  {:block/name "jun 8th, 2021",
   :block/created-at 1623110400000,
   :block/updated-at 1623110400000}
@@ -655,6 +667,9 @@
  {:block/name "living organisms",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "lloyd's algorithm",
+  :block/created-at 1654289973809,
+  :block/updated-at 1654289973809}
  {:block/name "local competition",
   :block/created-at 1653625195659,
   :block/updated-at 1653625195659}
@@ -772,6 +787,9 @@
  {:block/name "mongodb",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "monte carlo method",
+  :block/created-at 1654290041160,
+  :block/updated-at 1654290041160}
  {:block/name "moonlight",
   :block/created-at 1652860094027,
   :block/updated-at 1652860094027}
@@ -1282,7 +1300,7 @@
  {:block/name
   "using centroidal voronoi tessellations to scale up the multidimensional archive of phenotypic elites algorithm",
   :block/created-at 1654222380721,
-  :block/updated-at 1654222479882}
+  :block/updated-at 1654291968531}
  {:block/name "vector-matrix decomposition",
   :block/created-at 1652859965964,
   :block/updated-at 1652859971807}
@@ -1298,6 +1316,9 @@
  {:block/name "vocabulary list",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
+ {:block/name "voronoi tessellation",
+  :block/created-at 1654289457933,
+  :block/updated-at 1654289457933}
  {:block/name "wait",
   :block/created-at 1630514885151,
   :block/updated-at 1630514885151}
