@@ -264,6 +264,10 @@
  {:block/name "directional selection",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
+ {:block/name
+  "discovering the elite hypervolume by leveraging interspecies correlation",
+  :block/created-at 1654203139627,
+  :block/updated-at 1654204107426}
  {:block/name "discrete methods in computer science (170)",
   :block/created-at 1630514885159,
   :block/updated-at 1630514885159}
@@ -500,6 +504,9 @@
  {:block/name "hypothesis testing",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name "icaros",
+  :block/created-at 1654142060767,
+  :block/updated-at 1654142060767}
  {:block/name "illuminating search spaces by mapping elites",
   :block/created-at 1653554307645,
   :block/updated-at 1653632714005}
@@ -582,9 +589,15 @@
  {:block/name "jun 1st, 2021",
   :block/created-at 1622505600000,
   :block/updated-at 1631745447005}
+ {:block/name "jun 1st, 2022",
+  :block/created-at 1654066806986,
+  :block/updated-at 1654203137096}
  {:block/name "jun 2nd, 2021",
   :block/created-at 1622592000000,
   :block/updated-at 1622592000000}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654153760472,
+  :block/updated-at 1654222473775}
  {:block/name "jun 8th, 2021",
   :block/created-at 1623110400000,
   :block/updated-at 1623110400000}
@@ -707,7 +720,7 @@
   :block/updated-at 1653545419223}
  {:block/name "may 26th, 2022",
   :block/created-at 1653549438303,
-  :block/updated-at 1653625469675}
+  :block/updated-at 1654050979305}
  {:block/name "may 27th, 2022",
   :block/created-at 1653634803892,
   :block/updated-at 1653634803892}
@@ -734,7 +747,7 @@
   :block/updated-at 1622419200000}
  {:block/name "may 31st, 2022",
   :block/created-at 1653980404379,
-  :block/updated-at 1653980404379}
+  :block/updated-at 1654051108053}
  {:block/name "meiosis",
   :block/created-at 1631051926606,
   :block/updated-at 1631051926606}
@@ -793,6 +806,10 @@
  {:block/name "new page: illuminating se",
   :block/created-at 1653554281136,
   :block/updated-at 1653554281136}
+ {:block/name
+  "new page: using centroidal voronoi tessellations to scale up the\nmultidimensional archive of phenotypic elites algorithm",
+  :block/created-at 1654222374120,
+  :block/updated-at 1654222374120}
  {:block/name "nitrogenous bases",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
@@ -1262,6 +1279,10 @@
   "users/helen/documents/notes/assets/image_1621452709498_0.png",
   :block/created-at 1652862833756,
   :block/updated-at 1652862833756}
+ {:block/name
+  "using centroidal voronoi tessellations to scale up the multidimensional archive of phenotypic elites algorithm",
+  :block/created-at 1654222380721,
+  :block/updated-at 1654222479882}
  {:block/name "vector-matrix decomposition",
   :block/created-at 1652859965964,
   :block/updated-at 1652859971807}
