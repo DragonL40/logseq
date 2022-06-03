@@ -7,3 +7,4 @@ source:: https://ieeexplore.ieee.org/document/8000667
 - ## Key Concepts
 	- [[Centroidal Voronoi Tessellations]]
 		- A [[Voronoi Tessellation]] is a partitioning of a space into geometric regions based on distance to $k$ prespecified points which are often called _sites_.
+		-
