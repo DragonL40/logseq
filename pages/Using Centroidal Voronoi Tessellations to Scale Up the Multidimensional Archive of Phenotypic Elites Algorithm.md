@@ -15,7 +15,10 @@ source:: https://ieeexplore.ieee.org/document/8000667
 	- Note that [[CVT-MAP-Elites]] requires a distance function to calculate the index $c$ of a descriptor $b$, which could take $O(\log k)$ on average.
 - ## Evaluation
 	- How many solution can $P_i$ find for a test problm?
-	- For a minimization problem
+	- We can use a CDF for a minimization problem
+	  $$
+	  F_X \tilde P_i(x) = P(X \le x)
+	  $$
 	-
 	-
 	-
