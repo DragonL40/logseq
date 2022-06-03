@@ -17,8 +17,11 @@ source:: https://ieeexplore.ieee.org/document/8000667
 	- How many solution can $P_i$ find for a test problm?
 	- We can use a CDF for a minimization problem
 	  $$
-	  F_X \tilde P_i(x) = P(X \le x)
+	  F_X \sim P_i(x) = P(X \le x)
 	  $$
-	-
+	- Or a CCDF for a maximization problem
+	  $$
+	  F_X \sim P_i(x) = P(X > x)
+	  $$
 	-
 	-
