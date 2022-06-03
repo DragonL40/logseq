@@ -10,3 +10,4 @@ source:: https://ieeexplore.ieee.org/document/8000667
 		- If the sites are also the centroids of each region (and the space is bounded), then the [[Voronoi Tessellation]] is the [[Centroidal Voronoi Tessellations]] of the space.
 		- [[Lloyd's algorithm]] can be used in 2-D space.
 		- For higher dimensional space, [[Monte Carlo method]] can be used to obtain a close approximation to a [[Centroidal Voronoi Tessellations]].
+-
