@@ -14,6 +14,7 @@ source:: https://ieeexplore.ieee.org/document/8000667
 	- [[MAP-Elites]] creates an empty archive based on the desired discretizations per dimension $[n_1, \dots, n_d]$, whereas [[CVT-MAP-Elites]] first performs the [[CVT]] construction and then creates the empty archive of $k$ niches.
 	- Note that [[CVT-MAP-Elites]] requires a distance function to calculate the index $c$ of a descriptor $b$, which could take $O(\log k)$ on average.
 - ## Evaluation
-	- Evaluate how well a
+	- Evaluate how well an archive of solution does when the environment changes a little bit.
+	-
 	-
 	-
