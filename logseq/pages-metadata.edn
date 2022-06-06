@@ -606,10 +606,10 @@
   :block/updated-at 1622592000000}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654153760472,
-  :block/updated-at 1654222473775}
+  :block/updated-at 1654294241695}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654289289164,
-  :block/updated-at 1654289289164}
+  :block/updated-at 1654294676290}
  {:block/name "jun 8th, 2021",
   :block/created-at 1623110400000,
   :block/updated-at 1623110400000}
@@ -688,6 +688,13 @@
  {:block/name "map-elites",
   :block/created-at 1653632647526,
   :block/updated-at 1653632647526}
+ {:block/name "map-elites with sliding boundaries",
+  :block/created-at 1654295162645,
+  :block/updated-at 1654295162645}
+ {:block/name
+  "mapping hearthstone deck spaces through map-elites with sliding boundaries",
+  :block/created-at 1654294216355,
+  :block/updated-at 1654295224912}
  {:block/name "mark and sweep algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -775,6 +782,9 @@
  {:block/name "mendel's model",
   :block/created-at 1633055985735,
   :block/updated-at 1633055985735}
+ {:block/name "mesb",
+  :block/created-at 1654295162645,
+  :block/updated-at 1654295162645}
  {:block/name "minimum spanning tree (mst)",
   :block/created-at 1630514885156,
   :block/updated-at 1633136374550}
