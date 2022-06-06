@@ -6,4 +6,5 @@ source:: https://arxiv.org/abs/1904.10656
 	- a new application of this modification of MAP-Elites to generating decks in Hearthstone
 	- several results concerning the availability of good decks in the basic and classic set of cards in Hearthstone
 - ## Mutation and Fitness
+	- **Mutation** is performed by replacing $k$ cards randomly from a pool of basic and classic cards that result in valid decks.
 	-
