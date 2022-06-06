@@ -11,5 +11,5 @@ source:: https://arxiv.org/abs/1904.10656
 - ## [[MAP-Elites with Sliding Boundaries]]
 	- Instead of placing boundaries uniformly by feature value, the boundaries are placed **at uniformly at percentage marks of the distribution**.
 	  ![image.png](../assets/image_1654481316459_0.png)
-	-
+- ## Behavior Vectors
 	-
