@@ -228,6 +228,10 @@
  {:block/name "course plan",
   :block/created-at 1630514885158,
   :block/updated-at 1631052022569}
+ {:block/name
+  "covariance matrix adaptation for the rapid illumination of behavior space",
+  :block/created-at 1654490590518,
+  :block/updated-at 1654490594770}
  {:block/name "cp decomposition",
   :block/created-at 1652860094029,
   :block/updated-at 1652860094029}
@@ -507,6 +511,9 @@
  {:block/name "homozygous",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
+ {:block/name "https://arxiv.org/abs/1912.02400",
+  :block/created-at 1654490594767,
+  :block/updated-at 1654490594767}
  {:block/name "hydrogen bond",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
@@ -606,13 +613,25 @@
   :block/updated-at 1622592000000}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654153760472,
-  :block/updated-at 1654294241695}
+  :block/updated-at 1654545358999}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654289289164,
-  :block/updated-at 1654294676290}
+  :block/updated-at 1654545336902}
+ {:block/name "jun 5th, 2022",
+  :block/created-at 1654480298029,
+  :block/updated-at 1654592171547}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1654498804516,
+  :block/updated-at 1654498804516}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654586952451,
+  :block/updated-at 1654586952451}
  {:block/name "jun 8th, 2021",
   :block/created-at 1623110400000,
   :block/updated-at 1623110400000}
+ {:block/name "jun 8th, 2022",
+  :block/created-at 1654671600426,
+  :block/updated-at 1654671600426}
  {:block/name "jun 9th, 2021",
   :block/created-at 1623196800000,
   :block/updated-at 1623196800000}
@@ -694,7 +713,7 @@
  {:block/name
   "mapping hearthstone deck spaces through map-elites with sliding boundaries",
   :block/created-at 1654294216355,
-  :block/updated-at 1654295224912}
+  :block/updated-at 1654482705840}
  {:block/name "mark and sweep algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
