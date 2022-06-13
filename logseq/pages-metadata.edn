@@ -189,6 +189,9 @@
  {:block/name "closest pair of points in the plane (2d)",
   :block/created-at 1633387464714,
   :block/updated-at 1633389427430}
+ {:block/name "cma-mega",
+  :block/created-at 1655150583210,
+  :block/updated-at 1655150583210}
  {:block/name "coin-changing problem",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -268,6 +271,9 @@
  {:block/name "dependent variable",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
+ {:block/name "differentiable quality diversity",
+  :block/created-at 1655150559126,
+  :block/updated-at 1655150583214}
  {:block/name "dijkstra's algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -308,6 +314,9 @@
  {:block/name "double word",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
+ {:block/name "dqd",
+  :block/created-at 1655150583210,
+  :block/updated-at 1655150583210}
  {:block/name "dynamic programming",
   :block/created-at 1630514885159,
   :block/updated-at 1633561747297}
@@ -602,6 +611,9 @@
  {:block/name "jun 13th, 2021",
   :block/created-at 1623542400000,
   :block/updated-at 1623542400000}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655150320543,
+  :block/updated-at 1655150320543}
  {:block/name "jun 1st, 2021",
   :block/created-at 1622505600000,
   :block/updated-at 1631745447005}
@@ -616,7 +628,7 @@
   :block/updated-at 1654545358999}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654289289164,
-  :block/updated-at 1654545336902}
+  :block/updated-at 1655150559129}
  {:block/name "jun 5th, 2022",
   :block/created-at 1654480298029,
   :block/updated-at 1654592171547}
