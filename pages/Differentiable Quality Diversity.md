@@ -5,7 +5,7 @@ source:: https://proceedings.neurips.cc/paper/2021/hash/532923f11ac97d3e7cb01303
 - The differentiable quality diversity problem is a special case of [[Quality Diversity]] where both the objective and measure functions are first-order differentiable.
 - ## Main Contribution
 	- Introduce and formalize the problem of [[DQD]].
-	- Present the algorithm [[Objective and Measure Gradient MAP-Elites via a Gradient Arborescence]], based on [[MAP-Elites]], and which branches based on the measures $but ascends based on the objective function f
+	- Present the algorithm [[Objective and Measure Gradient MAP-Elites via a Gradient Arborescence]], based on [[MAP-Elites]], and which branches based on the measures $m_i$ but ascends based on the objective function $f$.
 	- Present the algorithm [[Covariance Matrix Adaptation MAP-Elites via a Gradient Arborescence]], based on the [[CMA-ME]] algorithm, and which branches based on the objective-measure space but ascends based on maximizing the QD objective.
 - ## Key Concepts
 	- [[gradient arborescence]]
