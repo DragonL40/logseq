@@ -1,4 +1,5 @@
 alias:: QD
 
 - The quality diversity (QD) problem assumes an objective $f : \mathbb{R}^n \to \mathbb{R}$ in an $n$-dimensional continuous space $\mathbb{R}^n$ and $k$ measures $m_i : \mathbb{R}^n \to \mathbb{R}$ or, as a joint measure, $\bm{m}: \mathbb{R}^n \to \mathbb{R}^k$. Let $S = \bm{m}(\mathbb{R}^n)$ be the measure space formed by the range of $m$. For each $\bm{s} \in S$ the QD objective is to find a solution $\bm{\theta} = \bm{s}$ and $f(\bm{\theta})$ is maximized.
-- However, since the measure space in continuous, QD algorithms in the [[MAP-Elites]] family relax the problem by discretizing $S$ via a tesselation method. Let $T$ be the tessellation of $S$ into $M$ cells. We relax the QD objective to find a set of solutions $\bm{\theta_i}$, $i \in \{\}
+- However, since the measure space in continuous, QD algorithms in the [[MAP-Elites]] family relax the problem by discretizing $S$ via a tesselation method. Let $T$ be the tessellation of $S$ into $M$ cells. We relax the QD objective to find a set of solutions $\bm{\theta_i}$, $i \in \{1, \dots, M\}$, such that each $\bm{\theta_i}$ occupies one unique cell in $T$. The occupants $\bm{\theta_i} of all $M$ cells form an **archive** of solution.
+- Each solution $\
