@@ -11,7 +11,8 @@ source:: https://proceedings.neurips.cc/paper/2021/hash/532923f11ac97d3e7cb01303
 	- Shows that in QD domains linear projection, arm repertoire, and latent space illumination [[DQD]] algorithms significantly outperform state-of-the-art QD algorithms.
 - ## Key Concepts
 	- [[gradient arborescence]]
-		-
+- ## Algorithms
+	-
 -
 - what are "end-to-end differentiable neural networks"? #Questions
 -
