@@ -6,7 +6,7 @@ source:: https://proceedings.neurips.cc/paper/2021/hash/532923f11ac97d3e7cb01303
 - ## Main Contribution
 	- Introduce and formalize the problem of [[DQD]].
 	- Present the algorithm [[Objective and Measure Gradient MAP-Elites via a Gradient Arborescence]]
-	- Present [[MAP-Elites]] via a Gradient Arborescence (MEGA), a [[DQD]] algorithm that leverages gradient information to efficiently explore the joint range of the objective and measure functions.
+	- Present the algorithm , a [[DQD]] algorithm that leverages gradient information to efficiently explore the joint range of the objective and measure functions.
 - ## Key Concepts
 	- [[gradient arborescence]]
 		-
