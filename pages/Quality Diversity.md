@@ -5,5 +5,5 @@ alias:: QD
 - Each solution $\bm{\theta_i}$ has a position in the archive $\bm{m}(\bm{\theta_i})$, corresponding to one out of $M$ cells, and an objective value $f(\bm{\theta_i})$.
 - The objective of this QD relaxation can be rewritten as follows, where the foal is to maximize the objective value for each cell in the archive:
   $$
-  \max
+  \max \sum^M_{i=1} f(\bm{\theta_i})
   $$
