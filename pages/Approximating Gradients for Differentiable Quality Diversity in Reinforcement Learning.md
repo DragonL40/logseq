@@ -18,4 +18,6 @@ source:: https://dqd-rl.github.io
 		-
 		-
 		- #Questions what is a markovian value?
+		- [[Twin Delayed Deep Deterministic policy gradient]]
+			-
 			-
