@@ -14,9 +14,6 @@ source:: https://dqd-rl.github.io
 		  $$
 		  \nabla f(\phi) \approx \frac{1}{\lambda_{es}\sigma} \sum_{i=1}^{\lambda_{es}} f(\phi + \sigma \epsilon_i) \epsilon_i
 		  $$
-		-
-		-
-		- #Questions what is a markovian value?
 		- [[actor-critic methods]]
 			- [[Twin Delayed Deep Deterministic policy gradient]]
 		- [[Quality Diversity]] algorithms
