@@ -13,7 +13,7 @@ source:: https://dqd-rl.github.io
 		- [[OpenAI-ES]] samples $\lambda_{es}$ solutions from an isotropic Gaussian but only computes a gradient step for the mean $\phi$. Each solution is represented as $\phi + \sigma \epsilon_i$, where $\sigma$ is the fixed standard deviation of the Gaussian and $\epsilon \sim N(0,I)$.
 		- [[OpenAI-ES]] estimates the gradient as
 		  $$
-		  \nabla f(\phi) \approx \frac{1}{\lambda_{es}\sigma} \sum_{i=1}^{\lambda_{es}} f()
+		  \nabla f(\phi) \approx \frac{1}{\lambda_{es}\sigma} \sum_{i=1}^{\lambda_{es}} f(\phi + \sigma \epsilon_i) \epsilon_i
 		  $$
 		-
 		-
