@@ -24,6 +24,6 @@ source:: https://dqd-rl.github.io
 			- [[MAP-Elites]]
 			- [[Policy Gradient Assisted MAP-Elites]]
 			- [[ME-ES]], combines [[MAP-Elites]] with an [[OpenAI-ES]] optimizer
-			-
+			- [[CMA-MEGA]]
 			-
 			-
