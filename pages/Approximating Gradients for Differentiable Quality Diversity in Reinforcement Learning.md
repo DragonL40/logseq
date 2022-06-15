@@ -23,6 +23,7 @@ source:: https://dqd-rl.github.io
 		- [[Quality Diversity]] algorithms
 			- [[MAP-Elites]]
 			- [[Policy Gradient Assisted MAP-Elites]]
-			- [[ME-ES]], combines [[MAP-Elites]]
+			- [[ME-ES]], combines [[MAP-Elites]] with an [[OpenAI-ES]] optimizer
+			-
 			-
 			-
