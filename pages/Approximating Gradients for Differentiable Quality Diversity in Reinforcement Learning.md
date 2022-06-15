@@ -10,5 +10,6 @@ source:: https://dqd-rl.github.io
 	- [[evolution strategies]]
 		- A class of evolutionary algorithms which optimizes the objective by sampling a population of solutions and moving the population towards areas of higher performance.
 		- [[Natural Evolution Strategies]] is a type of [[evolution strategies]] which updates the sampling distribution of solutions by taking steps on distribution parameters in the direction of the natural gradient.
-		- [[OpenAI-ES]] samples $\lambda_{es}$ solutions from an isotropic Gaussian but only computes a gradient step for the mean $\phi$.
+		- [[OpenAI-ES]] samples $\lambda_{es}$ solutions from an isotropic Gaussian but only computes a gradient step for the mean $\phi$. Each solution is represented as $\phi + \sigma \episilon_i$, where $\sigma$ is the fixed standard deviation of the Gaussian and $\epsilon \tilde N(0,I)$.
+		-
 		-
