@@ -17,5 +17,5 @@ source:: https://dqd-rl.github.io
 		  $$
 		-
 		-
-		- #QU
+		- #Questions what is a markovian value?
 			-
