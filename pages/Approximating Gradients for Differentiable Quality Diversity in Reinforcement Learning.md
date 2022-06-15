@@ -21,5 +21,8 @@ source:: https://dqd-rl.github.io
 		- [[actor-critic methods]]
 			- [[Twin Delayed Deep Deterministic policy gradient]]
 		- [[Quality Diversity]] algorithms
+			- [[MAP-Elites]]
+			- [[Policy Gradient Assisted MAP-Elites]]
+			- [[ME-ES]], combines [[MAP-Elites]]
 			-
 			-
