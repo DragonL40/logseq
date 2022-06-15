@@ -20,5 +20,6 @@ source:: https://dqd-rl.github.io
 		- #Questions what is a markovian value?
 		- [[actor-critic methods]]
 			- [[Twin Delayed Deep Deterministic policy gradient]]
+		- [[Quality Diversity]] algorithms
 			-
 			-
