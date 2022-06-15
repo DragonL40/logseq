@@ -9,4 +9,5 @@ source:: https://dqd-rl.github.io
 - ## Key Concepts:
 	- [[evolution strategies]]
 		- A class of evolutionary algorithms which optimizes the objective by sampling a population of solutions and moving the population towards areas of higher performance.
+		- [[Natural Evolution Strategies]] is a type of [[evolution strategies]] which updates the sampling distribution of solutions by taking steps on distribution parameters in the direction of the natural gradient.
 		-
