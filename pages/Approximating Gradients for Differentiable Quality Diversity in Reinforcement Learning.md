@@ -8,4 +8,5 @@ source:: https://dqd-rl.github.io
 	- benchmark our variants on four PyBullet locomotion tasks from QDGym.
 - ## Key Concepts:
 	- [[evolution strategies]]
-		- A
+		- A class of evolutionary algorithms which optimizes the objective by sampling a population of solutions and moving the population towards areas of higher performance.
+		-
