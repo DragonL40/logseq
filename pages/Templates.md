@@ -1,5 +1,6 @@
-template:: paper summary
-
+- ## One-liner
+	- TBA
+	-
 -
 - author::
   date:: <% today %>
