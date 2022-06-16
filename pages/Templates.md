@@ -1,10 +1,10 @@
-template:: paper summary
-## Summary
-
+- ## Summary
+  ## Main Contributions
+  
+  template:: abc
+## Key Concepts
 -
 	-
-	- ## Main Contributions
-	- ## Key Concepts
 -
 - author::
   date:: <% today %>
