@@ -5,5 +5,6 @@ source:: https://arxiv.org/abs/2205.10752
 	- This paper proposes a new [[quality diversity]] algorithm that bridges the gap between single-objective optimization and [[quality diversity]] optimization.
 ## Main Contributions
 	- Propose a new algorithm, [[CMA-MAE]] that smoothly blends between [[CMA-ES]] and [[CMA-ME]] through a single parameter $\alpha$.
+	- Prove that [[CMA-MAE]] blends between [[CMA-ES]] and [[CMA-ME]], and that [[CMA-MAE]] becomes a density descent method in measure space for any $0 < \alpha < 1$ when optimizing flat objectives.
 	-
 ## Key Concepts
