@@ -11,4 +11,7 @@ source:: https://arxiv.org/abs/2205.10752
 	-
 - ## Algorithms
 	- [[CMA-MAE]] is an algorithm that smoothly blends between [[CMA-ES]] and [[CMA-ME]].
--
+- ## Experiment
+	- ### Study Design
+		- Independent Variables: between-groups design with two independent variables: the algorithm and the domain.
+		- Dependent Variables: QD
