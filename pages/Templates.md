@@ -1,6 +1,7 @@
 template:: paper summary
+## Summary
 
-	- ## Summary
+-
 	-
 	- ## Main Contributions
 	- ## Key Concepts
