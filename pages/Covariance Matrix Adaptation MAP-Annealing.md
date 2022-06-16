@@ -14,4 +14,5 @@ source:: https://arxiv.org/abs/2205.10752
 - ## Experiment
 	- ### Study Design
 		- Independent Variables: between-groups design with two independent variables: the algorithm and the domain.
-		- Dependent Variables: QD
+		- Dependent Variables: [[QD-score]] as a metric for the quality and diversity of solutions.
+			- Note: The [[QD-score]] i
