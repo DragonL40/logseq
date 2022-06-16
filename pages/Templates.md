@@ -1,6 +1,7 @@
 template:: paper summary
 
-	- ## One-Liner
+	- ## Summary
+	-
 	- ## Main Contributions
 	- ## Key Concepts
 -
