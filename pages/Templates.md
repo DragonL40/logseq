@@ -3,7 +3,6 @@ template:: paper summary
 	- ## One-Liner
 	- ## Main Contributions
 	- ## Key Concepts
-	-
 -
 - author::
   date:: <% today %>
