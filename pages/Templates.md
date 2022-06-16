@@ -1,17 +1,13 @@
-- ## Summary
-  ## Main Contributions
-  
-  template:: abc
-## Key Concepts
--
-	-
--
+template:: paper summary
+
+	- ## Summary
+	- ## Main Contributions
+	- ## Key Concepts
 - author::
   date:: <% today %>
   link::
   type:: articles
   template:: Articles
--
 - template:: book review
   Book reviews:
 	- Summarise the book in 3 Sentences
@@ -24,7 +20,6 @@
 		-
 	- My top 3 quotes
 		-
--
 - template:: article review
   Article Review:
 	- Why did I read this?
