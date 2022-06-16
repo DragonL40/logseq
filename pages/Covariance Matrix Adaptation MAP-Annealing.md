@@ -9,4 +9,6 @@ source:: https://arxiv.org/abs/2205.10752
 	- Showed in three QD benchmark domains (Linear Projection, Arm Repertoire, and Latent Space Illumination) that [[CMA-MAE]] outperforms state-of-the-art QD algorithms, and [[CMA-MAE]] maintains robust performance across different archive resolutions and archive learning rates.
 ## Key Concepts
 -
-- ## [[CMA-MAE]] Algorithm
+- ## Algorithms
+	- [[CMA-MAE]] is an algorithm that smoothly blends between [[CMA-ES]] and [[CMA-ME]].
+	-
