@@ -14,5 +14,6 @@ source:: https://arxiv.org/abs/2205.10752
 - ## Experiment
 	- ### Study Design
 		- Independent Variables: between-groups design with two independent variables: the algorithm and the domain.
-		- Dependent Variables: [[QD-score]] as a metric for the quality and diversity of solutions, and the coverage, defined as the number of occupired cells in the archive divided by the total number of cells.
+		- Dependent Variables: [[QD-score]] as a metric for the quality and diversity of solutions, and the coverage, defined as the number of occupied cells in the archive divided by the total number of cells.
 			- Note: The [[QD-score]] metric is normalized by the archive size.
+	-
