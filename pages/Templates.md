@@ -1,7 +1,9 @@
 template:: paper summary
 
 	- ## One-Liner
-	- TBA
+	- ## Main Contributions
+	- ## Key Concepts
+	-
 -
 - author::
   date:: <% today %>
