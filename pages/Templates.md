@@ -1,13 +1,13 @@
+template:: paper summary
+
 -
--
-  author::
+- author::
   date:: <% today %>
   link::
   type:: articles
   template:: Articles
 -
--
-  template:: book review
+- template:: book review
   Book reviews:
 	- Summarise the book in 3 Sentences
 		-
@@ -20,8 +20,7 @@
 	- My top 3 quotes
 		-
 -
--
-  template:: article review
+- template:: article review
   Article Review:
 	- Why did I read this?
 		-
