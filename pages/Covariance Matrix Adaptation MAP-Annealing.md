@@ -13,7 +13,7 @@ source:: https://arxiv.org/abs/2205.10752
 	- [[CMA-MAE]] is an algorithm that smoothly blends between [[CMA-ES]] and [[CMA-ME]].
 	- Maintains a discount function $f_A(\bm{\theta'})$ and ranks solutions by improvement $f(\bm{\theta'}) - f_A(\bm{\theta'})$, where $f_A(\bm{\theta'}) = t_e$ ($t_e$ is an acceptance threshold maintained for each cell in the archive $A$).
 		- When the archive is updated, $t_e \gets (1 - \alpha) t_e + \alpha f(\bm{\theta'})$.
-		-
+			-
 - ## Experiment
 	- ### Study Design
 		- Independent Variables: between-groups design with two independent variables: the algorithm and the domain.
