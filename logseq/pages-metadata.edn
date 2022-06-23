@@ -25,6 +25,9 @@
  {:block/name "a",
   :block/created-at 1630514885150,
   :block/updated-at 1630514885150}
+ {:block/name "actor-critic methods",
+  :block/created-at 1655326063623,
+  :block/updated-at 1655326063623}
  {:block/name "adaptation",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
@@ -58,6 +61,13 @@
  {:block/name "amortized runtime",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "amsterdam",
+  :block/created-at 1655371954174,
+  :block/updated-at 1655371954174}
+ {:block/name
+  "approximating gradients for differentiable quality diversity in reinforcement learning",
+  :block/created-at 1655247920784,
+  :block/updated-at 1655328870444}
  {:block/name
   "are facebook and other social media platforms bad for our well-being?",
   :block/created-at 1630514885156,
@@ -189,6 +199,15 @@
  {:block/name "closest pair of points in the plane (2d)",
   :block/created-at 1633387464714,
   :block/updated-at 1633389427430}
+ {:block/name "cma-es",
+  :block/created-at 1655368008316,
+  :block/updated-at 1655368008316}
+ {:block/name "cma-mae",
+  :block/created-at 1655249841981,
+  :block/updated-at 1655249841981}
+ {:block/name "cma-me",
+  :block/created-at 1655243672575,
+  :block/updated-at 1655243672575}
  {:block/name "cma-mega",
   :block/created-at 1655150583210,
   :block/updated-at 1655150583210}
@@ -231,10 +250,20 @@
  {:block/name "course plan",
   :block/created-at 1630514885158,
   :block/updated-at 1631052022569}
+ {:block/name "covariance matrix adaptation evolution strategy",
+  :block/created-at 1655367957260,
+  :block/updated-at 1655368008320}
  {:block/name
   "covariance matrix adaptation for the rapid illumination of behavior space",
   :block/created-at 1654490590518,
-  :block/updated-at 1654490594770}
+  :block/updated-at 1655243672577}
+ {:block/name "covariance matrix adaptation map-annealing",
+  :block/created-at 1655249827439,
+  :block/updated-at 1655412556177}
+ {:block/name
+  "covariance matrix adaptation map-elites via a gradient arborescence",
+  :block/created-at 1655243596948,
+  :block/updated-at 1655243624910}
  {:block/name "cp decomposition",
   :block/created-at 1652860094029,
   :block/updated-at 1652860094029}
@@ -273,7 +302,7 @@
   :block/updated-at 1630514885154}
  {:block/name "differentiable quality diversity",
   :block/created-at 1655150559126,
-  :block/updated-at 1655150583214}
+  :block/updated-at 1655338882500}
  {:block/name "dijkstra's algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -317,6 +346,9 @@
  {:block/name "dqd",
   :block/created-at 1655150583210,
   :block/updated-at 1655150583210}
+ {:block/name "dqd-rl",
+  :block/created-at 1655247961433,
+  :block/updated-at 1655247961433}
  {:block/name "dynamic programming",
   :block/created-at 1630514885159,
   :block/updated-at 1633561747297}
@@ -344,6 +376,9 @@
  {:block/name "evc syndrome",
   :block/created-at 1631524402714,
   :block/updated-at 1631524409659}
+ {:block/name "evolution strategies",
+  :block/created-at 1655322421385,
+  :block/updated-at 1655322421385}
  {:block/name "example",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
@@ -432,6 +467,9 @@
  {:block/name "getting things done (book)",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "gradient arborescence",
+  :block/created-at 1655243323624,
+  :block/updated-at 1655243323624}
  {:block/name "gradualism",
   :block/created-at 1652860094027,
   :block/updated-at 1652860094027}
@@ -614,12 +652,30 @@
  {:block/name "jun 13th, 2022",
   :block/created-at 1655150320543,
   :block/updated-at 1655150320543}
+ {:block/name "jun 14th, 2022",
+  :block/created-at 1655190056636,
+  :block/updated-at 1655340833127}
+ {:block/name "jun 15th, 2022",
+  :block/created-at 1655276437875,
+  :block/updated-at 1655376469966}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655362804539,
+  :block/updated-at 1655496673753}
+ {:block/name "jun 17th, 2022",
+  :block/created-at 1655449247525,
+  :block/updated-at 1655449247525}
+ {:block/name "jun 18th, 2022",
+  :block/created-at 1655541031734,
+  :block/updated-at 1655541031734}
+ {:block/name "jun 19th, 2022",
+  :block/created-at 1655622051237,
+  :block/updated-at 1655622051237}
  {:block/name "jun 1st, 2021",
   :block/created-at 1622505600000,
   :block/updated-at 1631745447005}
  {:block/name "jun 1st, 2022",
   :block/created-at 1654066806986,
-  :block/updated-at 1654203137096}
+  :block/updated-at 1655250639377}
  {:block/name "jun 2nd, 2021",
   :block/created-at 1622592000000,
   :block/updated-at 1622592000000}
@@ -628,10 +684,10 @@
   :block/updated-at 1654545358999}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654289289164,
-  :block/updated-at 1655150559129}
+  :block/updated-at 1655247848549}
  {:block/name "jun 5th, 2022",
   :block/created-at 1654480298029,
-  :block/updated-at 1654592171547}
+  :block/updated-at 1655247800970}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654498804516,
   :block/updated-at 1654498804516}
@@ -804,6 +860,9 @@
  {:block/name "may 31st, 2022",
   :block/created-at 1653980404379,
   :block/updated-at 1654051108053}
+ {:block/name "me-es",
+  :block/created-at 1655327101111,
+  :block/updated-at 1655327101111}
  {:block/name "meiosis",
   :block/created-at 1631051926606,
   :block/updated-at 1631051926606}
@@ -852,6 +911,9 @@
  {:block/name "mutation",
   :block/created-at 1631566578426,
   :block/updated-at 1631566578426}
+ {:block/name "natural evolution strategies",
+  :block/created-at 1655322508796,
+  :block/updated-at 1655322508796}
  {:block/name "natural selection",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
@@ -908,6 +970,10 @@
  {:block/name "object-oriented system",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name
+  "objective and measure gradient map-elites via a gradient arborescence",
+  :block/created-at 1655243448573,
+  :block/updated-at 1655243611783}
  {:block/name "observation",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
@@ -920,6 +986,12 @@
  {:block/name "odd-length cycle",
   :block/created-at 1630514885152,
   :block/updated-at 1630514885152}
+ {:block/name "omg-mega",
+  :block/created-at 1655243611779,
+  :block/updated-at 1655243611779}
+ {:block/name "openai-es",
+  :block/created-at 1655322611017,
+  :block/updated-at 1655322611017}
  {:block/name "optimization algorithms",
   :block/created-at 1653624798578,
   :block/updated-at 1653624798578}
@@ -938,6 +1010,9 @@
  {:block/name "parasite",
   :block/created-at 1632424193794,
   :block/updated-at 1632426590949}
+ {:block/name "paris",
+  :block/created-at 1655371963720,
+  :block/updated-at 1655371963720}
  {:block/name "parsimony",
   :block/created-at 1633027633614,
   :block/updated-at 1633027719963}
@@ -992,6 +1067,9 @@
  {:block/name "plenoxels: radiance fields without neural networks",
   :block/created-at 1652882307128,
   :block/updated-at 1653117295465}
+ {:block/name "policy gradient assisted map-elites",
+  :block/created-at 1655327077512,
+  :block/updated-at 1655327077512}
  {:block/name "polyploidy",
   :block/created-at 1633055985735,
   :block/updated-at 1633055985735}
@@ -1064,9 +1142,18 @@
  {:block/name "pyrimidines",
   :block/created-at 1633055985735,
   :block/updated-at 1633055985735}
+ {:block/name "qd",
+  :block/created-at 1655243879218,
+  :block/updated-at 1655243879218}
+ {:block/name "qd-score",
+  :block/created-at 1655409515719,
+  :block/updated-at 1655409515719}
  {:block/name "quad word",
   :block/created-at 1633055985737,
   :block/updated-at 1633055985737}
+ {:block/name "quality diversity",
+  :block/created-at 1655242255340,
+  :block/updated-at 1655244843787}
  {:block/name "questions",
   :block/created-at 1652863259675,
   :block/updated-at 1652863259675}
@@ -1243,7 +1330,7 @@
   :block/updated-at 1630514885157}
  {:block/name "templates",
   :block/created-at 1630514885154,
-  :block/updated-at 1630514885154}
+  :block/updated-at 1655367857781}
  {:block/name "temporal design",
   :block/created-at 1633587497031,
   :block/updated-at 1633587544660}
@@ -1301,12 +1388,18 @@
  {:block/name "topological order",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name "traveling",
+  :block/created-at 1655371944176,
+  :block/updated-at 1655371944176}
  {:block/name "tree",
   :block/created-at 1631573033189,
   :block/updated-at 1631573245227}
  {:block/name "true-breeding",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
+ {:block/name "twin delayed deep deterministic policy gradient",
+  :block/created-at 1655699600033,
+  :block/updated-at 1655699600033}
  {:block/name "type erasure",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
@@ -1393,5 +1486,8 @@
   :block/created-at 1632464285060,
   :block/updated-at 1632464433670}
  {:block/name "zeotrope",
-  :block/created-at 1630514885158, 
-  :block/updated-at 1630514885158}]
+  :block/created-at 1630514885158,
+  :block/updated-at 1630514885158}
+ {:block/name "zurich",
+  :block/created-at 1655371969347, 
+  :block/updated-at 1655371969347}]
