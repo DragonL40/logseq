@@ -8,6 +8,7 @@ source:: https://arxiv.org/pdf/2104.08781.pdf
 	-
 ## Main Contributions
 	- Explores how parent selection driven by the UCB formula can affect the performance of [[MAP-Elites]]
-	- Proposed the maze generation task, which gives insight to how we can appl [[quality diversity]] to actual design problems.
+	- Proposed the maze generation task, which gives insight to how we can apply [[quality diversity]] to actual design problems.
+	-
 ## Key Concepts
 	- [[Multi-Armed Bandit Problem]]
