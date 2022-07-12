@@ -127,6 +127,12 @@
  {:block/name "bacteria",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "barf",
+  :block/created-at 1656189800030,
+  :block/updated-at 1656189800030}
+ {:block/name "barf: bundle-adjusting neural radiance fields",
+  :block/created-at 1656189787517,
+  :block/updated-at 1656191751304}
  {:block/name "big-endian",
   :block/created-at 1632463683468,
   :block/updated-at 1632463863297}
@@ -424,6 +430,13 @@
  {:block/name "gametes",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
+ {:block/name "garf",
+  :block/created-at 1656204962044,
+  :block/updated-at 1656204962044}
+ {:block/name
+  "gaussian activated neural radiance fields for high fidelity reconstruction & pose estimation",
+  :block/created-at 1656204954872,
+  :block/updated-at 1656206188273}
  {:block/name "gene",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
@@ -634,6 +647,9 @@
  {:block/name "jul 13th, 2021",
   :block/created-at 1626134400000,
   :block/updated-at 1626134400000}
+ {:block/name "jul 1st, 2022",
+  :block/created-at 1656658839226,
+  :block/updated-at 1656658839226}
  {:block/name "jul 8th, 2021",
   :block/created-at 1625702400000,
   :block/updated-at 1625702400000}
@@ -678,13 +694,34 @@
   :block/updated-at 1655250639377}
  {:block/name "jun 23rd, 2022",
   :block/created-at 1656021027883,
-  :block/updated-at 1656021027883}
+  :block/updated-at 1656021115107}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656054597798,
+  :block/updated-at 1656054597798}
+ {:block/name "jun 25th, 2022",
+  :block/created-at 1656144694770,
+  :block/updated-at 1656204954873}
+ {:block/name "jun 26th, 2022",
+  :block/created-at 1656251150718,
+  :block/updated-at 1656251150718}
+ {:block/name "jun 27th, 2022",
+  :block/created-at 1656313204020,
+  :block/updated-at 1656313204020}
+ {:block/name "jun 28th, 2022",
+  :block/created-at 1656433275212,
+  :block/updated-at 1656433275212}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1656489176439,
+  :block/updated-at 1656489176439}
  {:block/name "jun 2nd, 2021",
   :block/created-at 1622592000000,
   :block/updated-at 1622592000000}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654153760472,
   :block/updated-at 1654545358999}
+ {:block/name "jun 30th, 2022",
+  :block/created-at 1656572805761,
+  :block/updated-at 1656572805761}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1654289289164,
   :block/updated-at 1655247848549}
@@ -893,6 +930,10 @@
  {:block/name "mongodb",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name
+  "monte carlo elites: quality-diversity selection as a multi-armed bandit problem",
+  :block/created-at 1656021115104,
+  :block/updated-at 1656733141251}
  {:block/name "monte carlo method",
   :block/created-at 1654290041160,
   :block/updated-at 1654290041160}
@@ -902,6 +943,9 @@
  {:block/name "morphological species",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "multi-armed bandit problem",
+  :block/created-at 1656458698673,
+  :block/updated-at 1656458820316}
  {:block/name "multi-dimensional archive of phenotypic elites",
   :block/created-at 1653554325889,
   :block/updated-at 1653632649525}
