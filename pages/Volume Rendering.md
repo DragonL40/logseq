@@ -2,4 +2,5 @@
 - Intensity profile
 - Ray functions
 - ## Ray Traversal
+	- How to sample the **volume ray**?
 	-
