@@ -3,6 +3,7 @@
 - Ray functions
 - ## Ray Traversal
 	- How to sample the **volume ray**?
-	- Method 1: Regular Sampling (requires interpolation for a lot of the points)
+	- Method 1: Regular Sampling
+		- Simply sample the points at a fixed interval along the ray (requires interpolation for a lot of the points).
 	- Method 2: Scan Conversion
-		- Take the
+		- Take the center of each voxel that the ray traverses.
