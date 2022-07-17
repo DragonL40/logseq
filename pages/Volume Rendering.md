@@ -8,4 +8,4 @@
 	- Method 2: Scan Conversion
 		- Take the center of each voxel that the ray traverses.
 	- Method 3: Voxel Intersection
-		- Samples the
+		- Samples the volume of all of the voxel intersections.
