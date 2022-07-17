@@ -3,4 +3,6 @@
 - Ray functions
 - ## Ray Traversal
 	- How to sample the **volume ray**?
-	- Method 1: Regular Samp
+	- Method 1: Regular Sampling (requires interpolation for a lot of the points)
+	- Method 2: Scan Conversion
+		- Take the
