@@ -178,6 +178,12 @@
  {:block/name "canary values",
   :block/created-at 1634368529007,
   :block/updated-at 1634368568182}
+ {:block/name "canceled",
+  :block/created-at 1657632026606,
+  :block/updated-at 1657632026606}
+ {:block/name "cancelled",
+  :block/created-at 1657632026607,
+  :block/updated-at 1657632026607}
  {:block/name "candecomp",
   :block/created-at 1652860094025,
   :block/updated-at 1652860094025}
