@@ -3,4 +3,4 @@
 - Ray functions
 - ## Ray Traversal
 	- How to sample the **volume ray**?
-	-
+	- Method 1: Regular Samp
