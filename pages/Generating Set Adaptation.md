@@ -6,4 +6,5 @@ source:: http://www.cmap.polytechnique.fr/~nikolaus.hansen/GSAES.pdf
   z' := \delta \cdot (z_1 b_1 + \dots + z_n b_n)
   $$
   where $n$ is the number of object variables, $\delta$ is the global step size, $z_i \sim N(0,1)$, and $b_i$ is the $i$th standard basis vector in $\R^n$.
-	- Note that since the normal distribution is isotropic, $z$ is also isotropic.
+	- Note that since the normal distribution is isotropic, $(z_1 b_1 + \dots + z_n b_n)$ is isotropic. (For notes about anisotropic mutation, see page 2 of /pdfHansenOstermeier95)
+	-
