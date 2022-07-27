@@ -5,5 +5,5 @@ source:: http://www.cmap.polytechnique.fr/~nikolaus.hansen/GSAES.pdf
   $$
   z' := \delta \cdot (z_1 b_1 + \dots + z_n b_n)
   $$
-  where
+  where $n$ is the number of object variables, $\delta$ is the global step size, $z_i \sim N(0,1)$
 -
