@@ -1,5 +1,6 @@
 alias:: CMA-ES
 source:: https://cma-es.github.io/
 
-- The CMA-ES (Covariance Matrix Adaptation Evolution Strategy) is an evolutionary algorithm for difficult non-linear non-convex black-box optimisation problems in continuous domain.
+- The CMA-ES (Covariance Matrix Adaptation Evolution Strategy) is an evolutionary algorithm for difficult **non-linear non-convex black-box optimization problems** in continuous domain.
   id:: 62e0a252-395f-45b3-b1de-9621a96528bf
+- > The method should be applied, if derivative based methods, e.g. quasi-Newton BFGS or conjugate gradient, (supposedly) fail due to a rugged search landscape (e.g. discontinuities, sharp bends or ridges, noise, local optima, outliers).
