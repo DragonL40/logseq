@@ -7,4 +7,6 @@ source:: https://cma-es.github.io/
 - Similar to quasi-Newton methods (but not inspired by them), the CMA-ES is a **second order** approach estimating a positive definite matrix within an iterative procedure (more precisely: a covariance matrix, that is, on convex-quadratic functions, closely related to the inverse Hessian).
 - In contrast to quasi-Newton methods, the CMA-ES does not use or approximate gradients and does not even presume or require their existence. This makes the method feasible on non-smooth and even non-continuous problems, as well as on multimodal and/or noisy problems.
 - ### Invariance Properties
-	- Invariance to order preserving transformations of the objective function value
+	- Invariance to order preserving transformations of the objective function value.
+	- invariance to angle preserving transformations of the search space
+	-
