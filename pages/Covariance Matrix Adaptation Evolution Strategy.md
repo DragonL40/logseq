@@ -8,5 +8,6 @@ source:: https://cma-es.github.io/
 - In contrast to quasi-Newton methods, the CMA-ES does not use or approximate gradients and does not even presume or require their existence. This makes the method feasible on non-smooth and even non-continuous problems, as well as on multimodal and/or noisy problems.
 - ### Invariance Properties
 	- Invariance to order preserving transformations of the objective function value.
-	- invariance to angle preserving transformations of the search space
+	- Invariance to angle preserving transformations of the search space (including rotation, reflection, and translation).
+-
 	-
