@@ -1,2 +1,3 @@
 - Compare population mean and sample mean of a single sample.
+- Requirements: normal, independent
 -
