@@ -1,4 +1,3 @@
 - Take the difference between before and after of a group, then perform [[One-sample T-test]].
 - Note: the difference must satisfy the requirements of [[One-sample T-test]]
 	- ((62f0b2cd-60a0-41af-846b-33a5beb7e406))
--
