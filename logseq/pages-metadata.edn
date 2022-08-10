@@ -126,10 +126,10 @@
   :block/updated-at 1659514513414}
  {:block/name "aug 7th, 2022",
   :block/created-at 1659939556308,
-  :block/updated-at 1659939556308}
+  :block/updated-at 1659944838254}
  {:block/name "aug 8th, 2022",
   :block/created-at 1659939437432,
-  :block/updated-at 1659939484601}
+  :block/updated-at 1659942520614}
  {:block/name "b",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
@@ -851,6 +851,9 @@
  {:block/name "leetcode",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name "levene's test for equality of variance",
+  :block/created-at 1659943898800,
+  :block/updated-at 1659943898800}
  {:block/name "linear algebra and linear differential equations (225)",
   :block/created-at 1658888786631,
   :block/updated-at 1658888786631}
@@ -1111,6 +1114,9 @@
  {:block/name "omg-mega",
   :block/created-at 1655243611779,
   :block/updated-at 1655243611779}
+ {:block/name "one-sample t-test",
+  :block/created-at 1659941518446,
+  :block/updated-at 1659941750316}
  {:block/name "openai-es",
   :block/created-at 1655322611017,
   :block/updated-at 1655322611017}
@@ -1453,6 +1459,9 @@
  {:block/name "systematics",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
+ {:block/name "t-test for equality of means",
+  :block/created-at 1659940052734,
+  :block/updated-at 1659940052734}
  {:block/name "take-home practice",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
@@ -1602,6 +1611,9 @@
  {:block/name "weighted interval scheduling problem",
   :block/created-at 1658888793037,
   :block/updated-at 1658888793037}
+ {:block/name "wilcoxon rank sum test",
+  :block/created-at 1659940779309,
+  :block/updated-at 1659940779309}
  {:block/name "word",
   :block/created-at 1633055985740,
   :block/updated-at 1633055985740}
