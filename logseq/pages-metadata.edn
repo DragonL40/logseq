@@ -130,6 +130,9 @@
  {:block/name "aug 8th, 2022",
   :block/created-at 1659939437432,
   :block/updated-at 1659942520614}
+ {:block/name "aug 9th, 2022",
+  :block/created-at 1660109765178,
+  :block/updated-at 1660112250751}
  {:block/name "b",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
@@ -163,6 +166,9 @@
  {:block/name "bipartite matching",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name "bonferroni",
+  :block/created-at 1660112171795,
+  :block/updated-at 1660112171795}
  {:block/name "bordwell and thompson",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -1117,6 +1123,9 @@
  {:block/name "one-sample t-test",
   :block/created-at 1659941518446,
   :block/updated-at 1659941750316}
+ {:block/name "one-way anova",
+  :block/created-at 1660111603309,
+  :block/updated-at 1660111648305}
  {:block/name "openai-es",
   :block/created-at 1655322611017,
   :block/updated-at 1655322611017}
@@ -1129,6 +1138,9 @@
  {:block/name "order",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "paired-sample t-test",
+  :block/created-at 1660110245936,
+  :block/updated-at 1660110572908}
  {:block/name "paper",
   :block/created-at 1652869663689,
   :block/updated-at 1652869663689}
@@ -1204,6 +1216,9 @@
  {:block/name "pomodoro technique",
   :block/created-at 1630514885155,
   :block/updated-at 1630514885155}
+ {:block/name "post hoc tests",
+  :block/created-at 1660112244430,
+  :block/updated-at 1660112244430}
  {:block/name "prim's algorithm",
   :block/created-at 1658888789838,
   :block/updated-at 1658888789838}
@@ -1534,6 +1549,9 @@
  {:block/name "true-breeding",
   :block/created-at 1658888787932,
   :block/updated-at 1658888787932}
+ {:block/name "tukey hsd",
+  :block/created-at 1660112164090,
+  :block/updated-at 1660112164090}
  {:block/name "twin delayed deep deterministic policy gradient",
   :block/created-at 1655699600033,
   :block/updated-at 1655699600033}
