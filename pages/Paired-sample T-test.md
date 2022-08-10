@@ -1,2 +1,2 @@
-- Requirements:
+- Requirements: the difference
 - Take the difference between before and after of a group, then perform [[One-sample T-test]].
