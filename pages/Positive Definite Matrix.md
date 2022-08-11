@@ -1,0 +1,1 @@
+- A symmetric matrix is positive definite if for any non-zero column vector $\bm{x}$
