@@ -1,3 +1,3 @@
 - Normal distribution for higher dimensions.
 - A multivariate normal distribution, $N(m, C)$, has a unimodel, "bell-shaped" density, where the top of the bell (the modal value) corresponds to the distribution mean, $m$. The distribution $N(m, C)$ is uniquely determined by its mean $m \in \R^n$ and its symmetric and [[Positive Definite]] covariance matrix $C \in \R^{n \times n}$.
--
+- Covariance ([[Positive Definite]]) matrices can be uniquely
