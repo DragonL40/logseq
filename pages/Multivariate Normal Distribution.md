@@ -1,0 +1,2 @@
+- Normal distribution for higher dimensions.
+- A multivariate normal distribution, $N(m, C)$,
