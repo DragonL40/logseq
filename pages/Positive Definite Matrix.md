@@ -1,1 +1,2 @@
-- A symmetric matrix is positive definite if for any non-zero column vector $\bm{x}$
+- A symmetric matrix $C \in \R^{n \times n}$ is positive definite if for all $\bm{x} \in \R^n \setminus \{0\}$
+-
