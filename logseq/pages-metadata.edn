@@ -96,7 +96,28 @@
   :block/updated-at 1658888785940}
  {:block/name "aug 10th, 2022",
   :block/created-at 1660119373831,
-  :block/updated-at 1660119373831}
+  :block/updated-at 1660181050474}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660201203554,
+  :block/updated-at 1660201203554}
+ {:block/name "aug 12th, 2022",
+  :block/created-at 1660287618722,
+  :block/updated-at 1660287618722}
+ {:block/name "aug 13th, 2022",
+  :block/created-at 1660374020275,
+  :block/updated-at 1660374020275}
+ {:block/name "aug 14th, 2022",
+  :block/created-at 1660460452869,
+  :block/updated-at 1660460452869}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660546845132,
+  :block/updated-at 1660546845132}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660634631751,
+  :block/updated-at 1660634631751}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660719638767,
+  :block/updated-at 1660794995770}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659338216027,
   :block/updated-at 1659338216027}
@@ -364,6 +385,9 @@
  {:block/name "divide and conquer",
   :block/created-at 1652860094025,
   :block/updated-at 1652860094025}
+ {:block/name "dlhs",
+  :block/created-at 1660792572432,
+  :block/updated-at 1660792572432}
  {:block/name "dna polymerase",
   :block/created-at 1658888787017,
   :block/updated-at 1658888787017}
@@ -397,6 +421,9 @@
  {:block/name "effects of the mass media",
   :block/created-at 1658888787540,
   :block/updated-at 1658888787540}
+ {:block/name "eigendecomposition",
+  :block/created-at 1660180587582,
+  :block/updated-at 1660180587582}
  {:block/name "energy processing",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985740}
@@ -513,6 +540,12 @@
  {:block/name "getting things done (book)",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "ghs",
+  :block/created-at 1660790278305,
+  :block/updated-at 1660790278305}
+ {:block/name "global-best hs",
+  :block/created-at 1660790265737,
+  :block/updated-at 1660790278310}
  {:block/name "gradient arborescence",
   :block/created-at 1655243323624,
   :block/updated-at 1655243323624}
@@ -546,6 +579,9 @@
  {:block/name "hardy-weinberg principle",
   :block/created-at 1658888788019,
   :block/updated-at 1658888788019}
+ {:block/name "harmony search",
+  :block/created-at 1660784843954,
+  :block/updated-at 1660784843954}
  {:block/name "hash table",
   :block/created-at 1633055985735,
   :block/updated-at 1633055985735}
@@ -619,6 +655,9 @@
  {:block/name "icaros",
   :block/created-at 1654142060767,
   :block/updated-at 1654142060767}
+ {:block/name "ihs",
+  :block/created-at 1660794995770,
+  :block/updated-at 1660794995770}
  {:block/name "illuminating search spaces by mapping elites",
   :block/created-at 1658888788728,
   :block/updated-at 1658888788728}
@@ -1039,6 +1078,9 @@
  {:block/name "multi-objective landscape exploration algorithm (mole)",
   :block/created-at 1653625228875,
   :block/updated-at 1653625228875}
+ {:block/name "multivariate normal distribution",
+  :block/created-at 1660181050473,
+  :block/updated-at 1660181358714}
  {:block/name "mutagens",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
@@ -1219,6 +1261,9 @@
  {:block/name "pomodoro technique",
   :block/created-at 1630514885155,
   :block/updated-at 1630514885155}
+ {:block/name "positive definite",
+  :block/created-at 1660180141021,
+  :block/updated-at 1660181294379}
  {:block/name "post hoc tests",
   :block/created-at 1660112244430,
   :block/updated-at 1660112244430}
