@@ -5,8 +5,7 @@
 		- If $T + e$ is acyclic, then add $e$ to $T$
 	- Endfor
 	- Output $T$
--
-- _Kruskal's Algorithm produces a [[Spanning Tree]] of G_ (feasibility)
+- Proof: _Kruskal's Algorithm produces a [[Spanning Tree]] of G_ (feasibility)
 	- Let $T$ be output of algorithm
 	- $T$ is acyclic by definition of algorithm
 	- If we show that $T$ is connected, then by ((613fd6c8-6437-42e4-9e61-9aba48332d96)) we know that $T$ is a spanning tree.
