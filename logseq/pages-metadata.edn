@@ -144,10 +144,13 @@
   :block/updated-at 1658888794456}
  {:block/name "aug 24th, 2022",
   :block/created-at 1661360679179,
-  :block/updated-at 1661360679179}
+  :block/updated-at 1661363106960}
  {:block/name "aug 25th, 2021",
   :block/created-at 1658888794464,
   :block/updated-at 1658888794464}
+ {:block/name "aug 25th, 2022",
+  :block/created-at 1661410859610,
+  :block/updated-at 1661410859610}
  {:block/name "aug 26th, 2021",
   :block/created-at 1658888790350,
   :block/updated-at 1658888790350}
@@ -895,7 +898,7 @@
   :block/updated-at 1652860094028}
  {:block/name "kruskal's algorithm",
   :block/created-at 1658888789834,
-  :block/updated-at 1658888789834}
+  :block/updated-at 1661364586808}
  {:block/name "la la land",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -1611,7 +1614,7 @@
   :block/updated-at 1655371944176}
  {:block/name "tree",
   :block/created-at 1658888792184,
-  :block/updated-at 1658888792184}
+  :block/updated-at 1661364671546}
  {:block/name "true-breeding",
   :block/created-at 1658888787932,
   :block/updated-at 1658888787932}
