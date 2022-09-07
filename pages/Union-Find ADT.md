@@ -8,8 +8,7 @@
 		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other.
 			- To avoid creating a linked-list, always point the root of smaller tree (less nodes) to the larger tree (more nodes). Then, the height above a node can only increase when the size of the node's set at least doubles. $\implies$ max-height $\le \log n$
 	- Path compression: whenever we search for the root from a node, do a second pass over that path and point each node on the path directly at the root.
-		- Amortized $O(\log^* n)$
-		-
+		- Amortized $O(\log^* n)$ per operation
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime
   collapsed:: true
