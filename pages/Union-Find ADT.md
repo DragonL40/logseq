@@ -5,7 +5,7 @@
 - Our implementation:
 	- Directed forest. Root of a node is the "representative"
 		- `Find(v)`: Follow pointers from $v$ to parent, until there are no more parents.
-		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other. Always point the smaller-depth tree to the larger-depth tree.
+		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other. Always point the tree with less nodes to the tree with more nodes.
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime of [[Kruskal's Algorithm]]
   collapsed:: true
