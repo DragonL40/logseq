@@ -6,19 +6,6 @@
 	- Directed forest. Root of a node is the "representative"
 		- `Find(v)`: Follow pointers from $v$ to parent, until there are no more parents.
 		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other.
-- Implementing [[Kruskal's Algorithm]] without union-find.
-	- What would be the first step in the implementation of Kruskal's Algorithm?
-	  collapsed:: true
-		- Sort the edges.
-	- What is the runtime of this step?
-	  collapsed:: true
-		- $\Theta(m \log m)$
-	- How do we determine if an edge creates a cycle?
-	  collapsed:: true
-		- When adding edge $\langle u,v \rangle$, run BFS or DFS from $u$ on the MST-so-far to see if there is already a path from $u$ to $v$. If so, don't add the edge.
-	- What's the runtime of this implementation?
-	  collapsed:: true
-		- $\Theta(mn)$. We can do better, but we're going to need a new data structure.
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime of [[Kruskal's Algorithm]]
   collapsed:: true
