@@ -4,8 +4,8 @@
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
 - Our implementation:
 	- Directed forest. Root of a node is the "representative"
-		- `Find(v)`: Follow pointers from $e$ to parent, until there are no more parents.
-		- `Union(S_1, S_2)`: Make one
+		- `Find(v)`: Follow pointers from $v$ to parent, until there are no more parents.
+		- `Union(v, v)`: Make one of the roots of $S_1, S_2$ parent of the other.
 - Implementing [[Kruskal's Algorithm]] without union-find.
 	- What would be the first step in the implementation of Kruskal's Algorithm?
 	  collapsed:: true
