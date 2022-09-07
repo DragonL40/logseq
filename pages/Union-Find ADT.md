@@ -1,6 +1,6 @@
+-
 - Give [[Kruskal's Algorithm]] a significant improvement in runtime, which is used to solve [[The Minimum Spanning Tree Problem]]
 - Implementing [[Kruskal's Algorithm]] without union-find.
-  collapsed:: true
 	- What would be the first step in the implementation of Kruskal's Algorithm?
 	  collapsed:: true
 		- Sort the edges.
