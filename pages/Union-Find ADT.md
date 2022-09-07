@@ -2,24 +2,15 @@
 - Supports collection of disjoint sets.
 	- `Find(v)`, which returns the name of the set containing node $v$ is in. If `Find(u) == Find(v)`, then `v` and `u` are in the same set/component, and we don't want to add edge $\langle u, v \rangle$.
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
-- Our implementation:
+- Implementation:
 	- Directed forest. Root of a node is the "representative"
 		- `Find(v)`: Follow pointers from $v$ to parent, until there are no more parents.
 		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other.
-			- To avoid creating a linked-list, always point the root of smaller tree (less nodes) to the larger tree (more nodes). Then, the height above a node can only increase when the size of the node's set at least doubles. $\implies$ max-height $\le
+			- To avoid creating a linked-list, always point the root of smaller tree (less nodes) to the larger tree (more nodes). Then, the height above a node can only increase when the size of the node's set at least doubles. $\implies$ max-height $\le \log n$
 - ![image.png](../assets/image_1622153312667_0.png)
-- Runtime of [[Kruskal's Algorithm]]
+- Runtime
   collapsed:: true
 	- Sorting takes $\Theta(m \log m)$
 	- `Find` is called $2m$ times
 	- `Union` is called $n-1$ times, because there is at most $n-1$ edges on the graph
 	- Runtime $= \Theta(m \log m + m \cdot Find + n \cdot Union)$
-## Implementing Union-Find
-	- Every node points to a "parent" node that is in the same component.
-	- The root of the component has no parent, and is the "captain", or "identifier", of the component.
-	- Runtime
-		- `Union(u,v)` will be $\Theta(1)$, since we just assign the parent pointer.
-		- `Find(v)` will potentially be $\Theta(n)$, if the parent pointers form a linked list.
-	- How could we modify Union to ensure the runtime of Find is minimized
-		- Always point the smaller-depth tree to the larger depth tree.
-		- By doing this, we reduce the runtime of Find to $\Theta(\log n)$
