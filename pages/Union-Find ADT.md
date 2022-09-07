@@ -1,7 +1,10 @@
+- Give [[Kruskal's Algorithm]] a significant improvement in runtime.
 - Supports collection of disjoint sets.
 	- `Find(v)`, which returns the name of the set containing node $v$ is in. If `Find(u) == Find(v)`, then `v` and `u` are in the same set/component, and we don't want to add edge $\langle u, v \rangle$.
 	- `Union(u,v)`, which combines the components of node $u$ and node $v$ into the same component. We use this when we add edge $\langle u, v \rangle$.
-- Give [[Kruskal's Algorithm]] a significant improvement in runtime, which is used to solve [[The Minimum Spanning Tree Problem]]
+- Our implementation:
+	- Directed forest. Root of a node is the "representative"
+		- `Find(v)`
 - Implementing [[Kruskal's Algorithm]] without union-find.
 	- What would be the first step in the implementation of Kruskal's Algorithm?
 	  collapsed:: true
