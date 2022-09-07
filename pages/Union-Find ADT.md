@@ -15,7 +15,8 @@
 	- `Find` is called $2m$ times
 	- `Union` is called $n-1$ times, because there is at most $n-1$ edges on the graph
 	- Runtime $= \Theta(m \log m + m \log m)$
-	- With path compression $\Theta()$
+	- With path compression $\Theta(m \log m + m \log^* m)$
 - Open Questions
 	- Is there a deterministic MST algorithm running in $O(m)$?
 	- How about if edges come sorted?
+	-
