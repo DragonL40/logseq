@@ -7,6 +7,7 @@
 		- `Find(v)`: Follow pointers from $v$ to parent, until there are no more parents.
 		- `Union(u, v)`: Make one of the roots of $u, v$ parent of the other.
 			- To avoid creating a linked-list, always point the root of smaller tree (less nodes) to the larger tree (more nodes). Then, the height above a node can only increase when the size of the node's set at least doubles. $\implies$ max-height $\le \log n$
+	-
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime
   collapsed:: true
