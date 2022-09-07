@@ -11,8 +11,9 @@
 		- Amortized $O(\log^* n)$ per operation
 - ![image.png](../assets/image_1622153312667_0.png)
 - Runtime
-  collapsed:: true
 	- Sorting takes $\Theta(m \log m)$
 	- `Find` is called $2m$ times
 	- `Union` is called $n-1$ times, because there is at most $n-1$ edges on the graph
-	- Runtime $= \Theta(m \log m + m \cdot Find + n \cdot Union)$
+	- Runtime $= \Theta(m \log m + m \cdot )$
+- Open Questions
+	- Is there a deterministic MST algorithm running in $O(m)$?
