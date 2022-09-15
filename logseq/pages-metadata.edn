@@ -490,7 +490,7 @@
   :block/updated-at 1663229063789}
  {:block/name "federated averaging",
   :block/created-at 1663228174136,
-  :block/updated-at 1663228174136}
+  :block/updated-at 1663229670935}
  {:block/name "federated learning",
   :block/created-at 1663228331554,
   :block/updated-at 1663228331554}
@@ -1129,7 +1129,7 @@
   :block/updated-at 1631566578426}
  {:block/name "nash equilibrium",
   :block/created-at 1663228420659,
-  :block/updated-at 1663229003353}
+  :block/updated-at 1663229331026}
  {:block/name "natural evolution strategies",
   :block/created-at 1655322508796,
   :block/updated-at 1655322508796}
@@ -1471,7 +1471,7 @@
   :block/updated-at 1663224977764}
  {:block/name "sep 15th, 2022",
   :block/created-at 1663225202390,
-  :block/updated-at 1663228420660}
+  :block/updated-at 1663229447317}
  {:block/name "sep 1st, 2021",
   :block/created-at 1658888794506,
   :block/updated-at 1658888794506}
