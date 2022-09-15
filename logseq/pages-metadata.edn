@@ -25,6 +25,13 @@
  {:block/name "a",
   :block/created-at 1630514885150,
   :block/updated-at 1630514885150}
+ {:block/name
+  "a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em",
+  :block/created-at 1663229063790,
+  :block/updated-at 1663229063790}
+ {:block/name "aaa}.mw-parser-output",
+  :block/created-at 1663229063791,
+  :block/updated-at 1663229063791}
  {:block/name "actor-critic methods",
   :block/created-at 1655326063623,
   :block/updated-at 1655326063623}
@@ -478,6 +485,15 @@
  {:block/name "favorites",
   :block/created-at 1652861877343,
   :block/updated-at 1652861877343}
+ {:block/name "fdfdfd}.mw-parser-output",
+  :block/created-at 1663229063789,
+  :block/updated-at 1663229063789}
+ {:block/name "federated averaging",
+  :block/created-at 1663228174136,
+  :block/updated-at 1663228174136}
+ {:block/name "federated learning",
+  :block/created-at 1663228331554,
+  :block/updated-at 1663228331554}
  {:block/name "fibonacci number",
   :block/created-at 1658888787581,
   :block/updated-at 1658888787581}
@@ -1111,6 +1127,9 @@
  {:block/name "mutation",
   :block/created-at 1631566578426,
   :block/updated-at 1631566578426}
+ {:block/name "nash equilibrium",
+  :block/created-at 1663228420659,
+  :block/updated-at 1663229003353}
  {:block/name "natural evolution strategies",
   :block/created-at 1655322508796,
   :block/updated-at 1655322508796}
@@ -1452,7 +1471,7 @@
   :block/updated-at 1663224977764}
  {:block/name "sep 15th, 2022",
   :block/created-at 1663225202390,
-  :block/updated-at 1663225202390}
+  :block/updated-at 1663228420660}
  {:block/name "sep 1st, 2021",
   :block/created-at 1658888794506,
   :block/updated-at 1658888794506}
@@ -1540,6 +1559,9 @@
  {:block/name "statistics",
   :block/created-at 1659939484599,
   :block/updated-at 1659939484599}
+ {:block/name "stochastic gradient descent (sgd)",
+  :block/created-at 1663228145650,
+  :block/updated-at 1663228145650}
  {:block/name "structs",
   :block/created-at 1658888790642,
   :block/updated-at 1658888790642}
