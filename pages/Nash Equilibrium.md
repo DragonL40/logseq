@@ -1,3 +1,3 @@
 - https://en.wikipedia.org/wiki/Nash_equilibrium
--
+- In game theory, the **Nash equilibrium**, named after the mathematician John Nash, is the most common way to define the solution of a non-cooperative game involving two or more players. In a Nash equilibrium, each player is assumed to know the equilibrium strategies of the other players, and no one has anything to gain by changing only one's own strategy.
 -
