@@ -4,4 +4,3 @@
 	- In a game in which Carol and Dan are also players, (A, B, C, D) is a Nash equilibrium if A is Alice's best response to (B, C, D), B is Bob's best response to (A, C, D), and so forth.
 - Nash showed that there is a Nash equilibrium for every finite game.
   background-color:: #978626
--
