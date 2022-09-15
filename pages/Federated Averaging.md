@@ -1,3 +1,2 @@
 - https://arxiv.org/abs/1602.05629
-- The key idea is to use the powerful processors in modern mobile devices  to compute higher quality updates than simple gradient steps. Since it takes fewer iterations of high-quality updates to produce a good model, training can use much less communication
--
+- The key idea is to use the powerful processors in modern mobile devices  to compute higher quality updates than simple gradient steps. Since it takes fewer iterations of high-quality updates to produce a good model, training can use much less communication.
