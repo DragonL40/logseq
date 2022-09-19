@@ -447,7 +447,6 @@
 	- The [[Sequence Alignment Problem]]: How to efficiently calculate the [[Edit Distance]]?
 	  id:: 62e0a255-96f7-4f58-a762-02d41535c6f6
 		- Bite-size Decision
-		  collapsed:: true
 			- "Do I match $x_i$ and $y_j$?
 			- There are a few options:
 				- Match the letters
@@ -469,7 +468,6 @@
 			- $SA(i,j) = SA(i+1,j+1)$, if $x_i = y_j$
 			- $SA(i,j) = 1 + \min(SA(i+1, j+1), SA(i, j+1), SA(i+1, j))$, otherwise
 		- Base case:
-		  collapsed:: true
 			- $SA(i, m+1) = n-i+1$
 			- $SA(n+1, j) = m - j + 1$
 		- What order do we need to fill the array?
