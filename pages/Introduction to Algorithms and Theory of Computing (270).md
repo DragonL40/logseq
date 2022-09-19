@@ -468,6 +468,7 @@
 			- $SA(i,j) = SA(i+1,j+1)$, if $x_i = y_j$
 			- $SA(i,j) = 1 + \min(SA(i+1, j+1), SA(i, j+1), SA(i+1, j))$, otherwise
 		- Base case:
+		  collapsed:: true
 			- $SA(i, m+1) = n-i+1$
 			- $SA(n+1, j) = m - j + 1$
 		- What order do we need to fill the array?
