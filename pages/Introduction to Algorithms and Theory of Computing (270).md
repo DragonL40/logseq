@@ -8,8 +8,7 @@
 ## [[The Stable Matching Problem]]
 	- What is the [[Gale-Shapley Algorithm]]?
 	- How many iteration before the [[Gale-Shapley Algorithm]] terminates?
-		-
-		  > It is not guaranteed that the runtime of the Gale-Shapley Algorithm is $O(n^2)$, as the **runtime per iteration** may vary.
+		- > It is not guaranteed that the runtime of the Gale-Shapley Algorithm is $O(n^2)$, as the **runtime per iteration** may vary.
 	- How to guarantee that each iteration of the [[Gale-Shapley Algorithm]] takes constant time?
 	- Prove: Consider an execution of the [[Gale-Shapley Algorithm]] that returns a set of pairs $S$. The set $S$ is a stable matching.
 	- Five Representative Problems
@@ -61,8 +60,7 @@
 			- For every person in the class, ask if they know me, and if I know them. If any queries fail, I'm not famous. Otherwise, I am.
 		- How would we alter our test to find all famous people in the class?
 		  collapsed:: true
-			-
-			  ```cpp
+			- ```cpp
 			  			  			  			  			  			  			  			  			  			  For all people in the class p
 			  			  			  			  			  			  			  			  			  			  	For all people in the class q, where p != q
 			  			  			  			  			  			  			  			  			  			    	If p knows q, then p is not famous
@@ -84,8 +82,7 @@
 		  collapsed:: true
 			- If $p$ knows $q$, then we know that $p$ is not famous.
 			- If $p$ does not know $q$, then we know that $q$ is not famous.
-			-
-			  1. Maintain a list of famous candidates, initially everyone
+			- 1. Maintain a list of famous candidates, initially everyone
 			  2. Take any pair $<p, q>$ from the list, or go to step 5
 			  3. Check if $p$ knows $q$. If so, remove $p$. Otherwise, remove $q$.
 			  4. Return to step 2
@@ -93,8 +90,7 @@
 			  6. For all people $q \ne c$:
 				- Check if $c$ knows $q$. If so, return `nullptr`.
 				- Check if $q$ knows $c$. If not, return `nullptr`.
-				-
-				  7. Return $c$.
+				- 7. Return $c$.
 				- But $c$ is not necessarily famous.
 				- Improve the algorithm for the Famous Person Problem to require only $3 \cdot (n-1) - \log_2 n$ queries.
 				- Prove that the Famous Person Problem cannot be solved with less than $\Theta(n)$ queries.
@@ -212,8 +208,7 @@
 			- Given that $f(n) = O(g(n))$, this means that $f(n) \le C_1g(n)$ for $n > x_1$
 			- Prove or disprove: $\log f(n) = O(\log g(n))$
 			  collapsed:: true
-				-
-				  $$ 
+				- $$ 
 				  \log f(n) \le \log(C_1g(n))) = \log C_1 + \log g(n) \\
 				  \log f(n) \le \log g(n) + C_2 \text{ for } n \ge x_1 \\
 				  \log f(n) = O(g(n))
@@ -334,8 +329,7 @@
 	- Recursive Fibonacci
 	  collapsed:: true
 		- If you wanted to write an algorithm that calculated the $n$th Fibonacci number, you might do it like this:
-		-
-		  ```cpp
+		- ```cpp
 		  		  		  		  		  int Fib
 		  		  		  		  		  ```
 		- The recurrence relation for this function is $f(n) = f(n-1) + f(n-2) + \Theta(1)$
@@ -351,8 +345,7 @@
 			- 2, 7 or 3, 6, 8
 		- Find a Recursive Solution for [[Weighted Interval Scheduling]]
 		  collapsed:: true
-			-
-			  ```cpp
+			- ```cpp
 			  			  			  			  			  int WIS(int i)
 			  			  			  			  			  	if i > n Then Return 0
 			  			  			  			  			  	x = WIS(i+1)
@@ -452,6 +445,7 @@
 		  collapsed:: true
 			- $\Theta(n)$
 	- The [[Sequence Alignment Problem]]: How to efficiently calculate the [[Edit Distance]]?
+	  id:: 62e0a255-96f7-4f58-a762-02d41535c6f6
 		- Bite-size Decision
 		  collapsed:: true
 			- "Do I match $x_i$ and $y_j$?
@@ -574,8 +568,7 @@
 			- $ASP(i,z,z)=0$
 			- $ASP(0,x,z) = \infty$, for $x \ne z$
 			- $ASP(i,x,z) = \min_{\langle x, y \rangle \subset E} (c_{\langle x, y \rangle} + ASP(i-1, y, z))$
-			-
-			  ```cpp
+			- ```cpp
 			  for i=1 to n-1
 			  	for all nodes z
 			      	for all nodes x
