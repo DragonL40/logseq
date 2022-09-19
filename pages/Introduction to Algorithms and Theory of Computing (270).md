@@ -460,7 +460,6 @@
 		  collapsed:: true
 			- The edit distance of $X = x_i \dots x_n$ and $Y = y_j \dots y_m$
 		- What is the recursive formula for $SA(i,j)$
-		  collapsed:: true
 			- If $x_i = y_i$, then we return $SA(i+1,j+1)$. It is possible to formally prove that is always optimal
 			- If we decide to transform $x_i$ into $y_j$, we return $1 + SA(i+1, j+1)$
 			- If we remove $x_j$, we return $1 + SA(i+1, j)$
