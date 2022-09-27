@@ -29,12 +29,9 @@
   :block/created-at 1630514885150,
   :block/updated-at 1630514885150}
  {:block/name
-  "a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em",
-  :block/created-at 1663229063790,
-  :block/updated-at 1663229063790}
- {:block/name "aaa}.mw-parser-output",
-  :block/created-at 1663229063791,
-  :block/updated-at 1663229063791}
+  "a survey on offline reinforcement learning: taxonomy, review, and open problems",
+  :block/created-at 1663924763259,
+  :block/updated-at 1663924763259}
  {:block/name "actor-critic methods",
   :block/created-at 1655326063623,
   :block/updated-at 1655326063623}
@@ -107,87 +104,30 @@
  {:block/name "aug 10th, 2022",
   :block/created-at 1660119373831,
   :block/updated-at 1660181050474}
- {:block/name "aug 11th, 2022",
-  :block/created-at 1660201203554,
-  :block/updated-at 1660201203554}
- {:block/name "aug 12th, 2022",
-  :block/created-at 1660287618722,
-  :block/updated-at 1660287618722}
- {:block/name "aug 13th, 2022",
-  :block/created-at 1660374020275,
-  :block/updated-at 1660374020275}
- {:block/name "aug 14th, 2022",
-  :block/created-at 1660460452869,
-  :block/updated-at 1660460452869}
- {:block/name "aug 15th, 2022",
-  :block/created-at 1660546845132,
-  :block/updated-at 1660546845132}
- {:block/name "aug 16th, 2022",
-  :block/created-at 1660634631751,
-  :block/updated-at 1660634631751}
  {:block/name "aug 17th, 2022",
   :block/created-at 1660719638767,
   :block/updated-at 1660794995770}
- {:block/name "aug 18th, 2022",
-  :block/created-at 1660806044192,
-  :block/updated-at 1660806044192}
- {:block/name "aug 19th, 2022",
-  :block/created-at 1660892437370,
-  :block/updated-at 1660892437370}
- {:block/name "aug 1st, 2022",
-  :block/created-at 1659338216027,
-  :block/updated-at 1659338216027}
- {:block/name "aug 20th, 2022",
-  :block/created-at 1660978832408,
-  :block/updated-at 1660978832408}
- {:block/name "aug 21st, 2022",
-  :block/created-at 1661065208213,
-  :block/updated-at 1661065208213}
- {:block/name "aug 22nd, 2022",
-  :block/created-at 1661151608719,
-  :block/updated-at 1661151608719}
  {:block/name "aug 23rd, 2021",
   :block/created-at 1658888794447,
   :block/updated-at 1658888794447}
  {:block/name "aug 24th, 2021",
   :block/created-at 1658888794456,
   :block/updated-at 1658888794456}
- {:block/name "aug 24th, 2022",
-  :block/created-at 1661360679179,
-  :block/updated-at 1661363106960}
  {:block/name "aug 25th, 2021",
   :block/created-at 1658888794464,
   :block/updated-at 1658888794464}
- {:block/name "aug 25th, 2022",
-  :block/created-at 1661410859610,
-  :block/updated-at 1661410859610}
  {:block/name "aug 26th, 2021",
   :block/created-at 1658888790350,
   :block/updated-at 1658888790350}
- {:block/name "aug 27th, 2021",
-  :block/created-at 1658888794480,
-  :block/updated-at 1658888794480}
- {:block/name "aug 2nd, 2022",
-  :block/created-at 1659423628532,
-  :block/updated-at 1659423628532}
  {:block/name "aug 30th, 2021",
   :block/created-at 1658888794488,
   :block/updated-at 1658888794488}
  {:block/name "aug 31st, 2021",
   :block/created-at 1658888794496,
   :block/updated-at 1658888794496}
- {:block/name "aug 31st, 2022",
-  :block/created-at 1661965601501,
-  :block/updated-at 1661993381546}
- {:block/name "aug 3rd, 2022",
-  :block/created-at 1659514513414,
-  :block/updated-at 1659514513414}
  {:block/name "aug 7th, 2022",
   :block/created-at 1659939556308,
   :block/updated-at 1659944838254}
- {:block/name "aug 8th, 2022",
-  :block/created-at 1659939437432,
-  :block/updated-at 1659942520614}
  {:block/name "aug 9th, 2022",
   :block/created-at 1660109765178,
   :block/updated-at 1660112250751}
@@ -227,9 +167,6 @@
  {:block/name "bonferroni",
   :block/created-at 1660112171795,
   :block/updated-at 1660112171795}
- {:block/name "bordwell and thompson",
-  :block/created-at 1630514885158,
-  :block/updated-at 1630514885158}
  {:block/name "bottleneck effect",
   :block/created-at 1658888793157,
   :block/updated-at 1658888793157}
@@ -452,6 +389,9 @@
  {:block/name "edit distance",
   :block/created-at 1630514885155,
   :block/updated-at 1630514885155}
+ {:block/name "edmonds-karp",
+  :block/created-at 1664212022376,
+  :block/updated-at 1664212022376}
  {:block/name "effects of the mass media",
   :block/created-at 1658888787540,
   :block/updated-at 1658888787540}
@@ -488,9 +428,6 @@
  {:block/name "favorites",
   :block/created-at 1652861877343,
   :block/updated-at 1652861877343}
- {:block/name "fdfdfd}.mw-parser-output",
-  :block/created-at 1663229063789,
-  :block/updated-at 1663229063789}
  {:block/name "federated averaging",
   :block/created-at 1663228174136,
   :block/updated-at 1663239030996}
@@ -512,6 +449,9 @@
  {:block/name "first person outside",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
+ {:block/name "ford-fulkerson",
+  :block/created-at 1664212039644,
+  :block/updated-at 1664212039644}
  {:block/name "founder effect",
   :block/created-at 1658888793191,
   :block/updated-at 1658888793191}
@@ -616,6 +556,9 @@
  {:block/name "guanine",
   :block/created-at 1633055985739,
   :block/updated-at 1633055985739}
+ {:block/name "hall's theorem",
+  :block/created-at 1664216112371,
+  :block/updated-at 1664216112371}
  {:block/name "hamiltonian cycle",
   :block/created-at 1658888788542,
   :block/updated-at 1658888788542}
@@ -762,60 +705,9 @@
  {:block/name "json",
   :block/created-at 1630514885150,
   :block/updated-at 1630514885150}
- {:block/name "jul 12th, 2022",
-  :block/created-at 1657631917382,
-  :block/updated-at 1657631917382}
  {:block/name "jul 13th, 2021",
   :block/created-at 1658888785719,
   :block/updated-at 1658888785719}
- {:block/name "jul 17th, 2022",
-  :block/created-at 1658094884557,
-  :block/updated-at 1658094884557}
- {:block/name "jul 18th, 2022",
-  :block/created-at 1658095204405,
-  :block/updated-at 1658095204405}
- {:block/name "jul 19th, 2022",
-  :block/created-at 1658186100827,
-  :block/updated-at 1658186100827}
- {:block/name "jul 1st, 2022",
-  :block/created-at 1656658839226,
-  :block/updated-at 1656658839226}
- {:block/name "jul 20th, 2022",
-  :block/created-at 1658270624019,
-  :block/updated-at 1658270624019}
- {:block/name "jul 21st, 2022",
-  :block/created-at 1658422258285,
-  :block/updated-at 1658422258285}
- {:block/name "jul 22nd, 2022",
-  :block/created-at 1658442721858,
-  :block/updated-at 1658442721858}
- {:block/name "jul 23rd, 2022",
-  :block/created-at 1658527211325,
-  :block/updated-at 1658527211325}
- {:block/name "jul 24th, 2022",
-  :block/created-at 1658646005091,
-  :block/updated-at 1658646005091}
- {:block/name "jul 25th, 2022",
-  :block/created-at 1658732452071,
-  :block/updated-at 1658732452071}
- {:block/name "jul 26th, 2022",
-  :block/created-at 1658842802578,
-  :block/updated-at 1658842802578}
- {:block/name "jul 27th, 2022",
-  :block/created-at 1658906558705,
-  :block/updated-at 1658906558705}
- {:block/name "jul 28th, 2022",
-  :block/created-at 1658991701766,
-  :block/updated-at 1658991701766}
- {:block/name "jul 29th, 2022",
-  :block/created-at 1659078043094,
-  :block/updated-at 1659078043094}
- {:block/name "jul 30th, 2022",
-  :block/created-at 1659166657216,
-  :block/updated-at 1659166657216}
- {:block/name "jul 31st, 2022",
-  :block/created-at 1659250850619,
-  :block/updated-at 1659250850619}
  {:block/name "jul 8th, 2021",
   :block/created-at 1658888794365,
   :block/updated-at 1658888794365}
@@ -831,9 +723,6 @@
  {:block/name "jun 13th, 2021",
   :block/created-at 1658888794355,
   :block/updated-at 1658888794355}
- {:block/name "jun 13th, 2022",
-  :block/created-at 1655150320543,
-  :block/updated-at 1655150320543}
  {:block/name "jun 14th, 2022",
   :block/created-at 1658888794767,
   :block/updated-at 1658888794767}
@@ -843,15 +732,6 @@
  {:block/name "jun 16th, 2022",
   :block/created-at 1658888794795,
   :block/updated-at 1658888794795}
- {:block/name "jun 17th, 2022",
-  :block/created-at 1655449247525,
-  :block/updated-at 1655449247525}
- {:block/name "jun 18th, 2022",
-  :block/created-at 1655541031734,
-  :block/updated-at 1655541031734}
- {:block/name "jun 19th, 2022",
-  :block/created-at 1655622051237,
-  :block/updated-at 1655622051237}
  {:block/name "jun 1st, 2021",
   :block/created-at 1658888794315,
   :block/updated-at 1658888794315}
@@ -861,57 +741,24 @@
  {:block/name "jun 23rd, 2022",
   :block/created-at 1658888794814,
   :block/updated-at 1658888794814}
- {:block/name "jun 24th, 2022",
-  :block/created-at 1656054597798,
-  :block/updated-at 1656054597798}
  {:block/name "jun 25th, 2022",
   :block/created-at 1658888794862,
   :block/updated-at 1658888794862}
- {:block/name "jun 26th, 2022",
-  :block/created-at 1656251150718,
-  :block/updated-at 1656251150718}
- {:block/name "jun 27th, 2022",
-  :block/created-at 1656313204020,
-  :block/updated-at 1656313204020}
- {:block/name "jun 28th, 2022",
-  :block/created-at 1656433275212,
-  :block/updated-at 1656433275212}
- {:block/name "jun 29th, 2022",
-  :block/created-at 1656489176439,
-  :block/updated-at 1656489176439}
- {:block/name "jun 2nd, 2021",
-  :block/created-at 1658888794322,
-  :block/updated-at 1658888794322}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1658888794665,
   :block/updated-at 1658888794665}
- {:block/name "jun 30th, 2022",
-  :block/created-at 1656572805761,
-  :block/updated-at 1656572805761}
  {:block/name "jun 3rd, 2022",
   :block/created-at 1658888794718,
   :block/updated-at 1658888794718}
  {:block/name "jun 5th, 2022",
   :block/created-at 1658888794730,
   :block/updated-at 1658888794730}
- {:block/name "jun 6th, 2022",
-  :block/created-at 1654498804516,
-  :block/updated-at 1654498804516}
- {:block/name "jun 7th, 2022",
-  :block/created-at 1654586952451,
-  :block/updated-at 1654586952451}
- {:block/name "jun 8th, 2021",
-  :block/created-at 1658888794328,
-  :block/updated-at 1658888794328}
  {:block/name "jun 8th, 2022",
   :block/created-at 1658888794750,
   :block/updated-at 1658888794750}
  {:block/name "jun 9th, 2021",
   :block/created-at 1658888794334,
   :block/updated-at 1658888794334}
- {:block/name "jun 9th, 2022",
-  :block/created-at 1654758028802,
-  :block/updated-at 1654758028802}
  {:block/name "k-vertex-connected",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
@@ -997,15 +844,15 @@
  {:block/name "mark and sweep algorithm",
   :block/created-at 1658888791109,
   :block/updated-at 1658888791109}
+ {:block/name "markov decision process",
+  :block/created-at 1663925334633,
+  :block/updated-at 1663925334633}
  {:block/name "master theorem",
   :block/created-at 1630514885153,
   :block/updated-at 1630514885153}
  {:block/name "matching",
   :block/created-at 1658888791117,
   :block/updated-at 1658888791117}
- {:block/name "max-flow",
-  :block/created-at 1663610429160,
-  :block/updated-at 1663610429160}
  {:block/name "max-flow ",
   :block/created-at 1663609998186,
   :block/updated-at 1663609998186}
@@ -1021,66 +868,24 @@
  {:block/name "may 18th, 2022",
   :block/created-at 1658888794611,
   :block/updated-at 1658888794611}
- {:block/name "may 19th, 2022",
-  :block/created-at 1652943609645,
-  :block/updated-at 1652943609645}
  {:block/name "may 20th, 2021",
   :block/created-at 1658888794210,
   :block/updated-at 1658888794210}
- {:block/name "may 20th, 2022",
-  :block/created-at 1653030047481,
-  :block/updated-at 1653030047481}
  {:block/name "may 21st, 2021",
   :block/created-at 1658888794224,
   :block/updated-at 1658888794224}
- {:block/name "may 21st, 2022",
-  :block/created-at 1653116400331,
-  :block/updated-at 1653116400331}
  {:block/name "may 23rd, 2021",
   :block/created-at 1658888794231,
   :block/updated-at 1658888794231}
- {:block/name "may 23rd, 2022",
-  :block/created-at 1653334847881,
-  :block/updated-at 1653334847881}
- {:block/name "may 24th, 2021",
-  :block/created-at 1658888794237,
-  :block/updated-at 1658888794237}
- {:block/name "may 24th, 2022",
-  :block/created-at 1653375623799,
-  :block/updated-at 1653375623799}
- {:block/name "may 25th, 2022",
-  :block/created-at 1653545419223,
-  :block/updated-at 1653545419223}
  {:block/name "may 26th, 2022",
   :block/created-at 1658888794627,
   :block/updated-at 1658888794627}
- {:block/name "may 27th, 2022",
-  :block/created-at 1653634803892,
-  :block/updated-at 1653634803892}
  {:block/name "may 28th, 2021",
   :block/created-at 1658888794281,
   :block/updated-at 1658888794281}
- {:block/name "may 28th, 2022",
-  :block/created-at 1653730742219,
-  :block/updated-at 1653730742219}
- {:block/name "may 29th, 2021",
-  :block/created-at 1658888794287,
-  :block/updated-at 1658888794287}
- {:block/name "may 29th, 2022",
-  :block/created-at 1653807631128,
-  :block/updated-at 1653807631128}
  {:block/name "may 30th, 2021",
   :block/created-at 1658888794299,
   :block/updated-at 1658888794299}
- {:block/name "may 30th, 2022",
-  :block/created-at 1653894157076,
-  :block/updated-at 1653894157076}
- {:block/name "may 31st, 2021",
-  :block/created-at 1658888794309,
-  :block/updated-at 1658888794309}
- {:block/name "may 31st, 2022",
-  :block/created-at 1658888794635,
-  :block/updated-at 1658888794635}
  {:block/name "me-es",
   :block/created-at 1655327101111,
   :block/updated-at 1655327101111}
@@ -1220,6 +1025,9 @@
  {:block/name "odd-length cycle",
   :block/created-at 1658888791442,
   :block/updated-at 1658888791442}
+ {:block/name "offline reinforcement learning",
+  :block/created-at 1663924810399,
+  :block/updated-at 1663924810399}
  {:block/name "omg-mega",
   :block/created-at 1655243611779,
   :block/updated-at 1655243611779}
@@ -1421,6 +1229,9 @@
  {:block/name "regulation",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "reinforcement learning",
+  :block/created-at 1663924832272,
+  :block/updated-at 1663925610148}
  {:block/name "remnote",
   :block/created-at 1630514885151,
   :block/updated-at 1630514885151}
@@ -1442,6 +1253,9 @@
  {:block/name "ribonucleicacid (rna)",
   :block/created-at 1658888787958,
   :block/updated-at 1658888787958}
+ {:block/name "rl",
+  :block/created-at 1663925004032,
+  :block/updated-at 1663925004032}
  {:block/name "rna secondary structure",
   :block/created-at 1658888789811,
   :block/updated-at 1658888789811}
@@ -1475,27 +1289,12 @@
  {:block/name "seminar in humanistic inquiry (gesm 120)",
   :block/created-at 1658888786625,
   :block/updated-at 1658888786625}
- {:block/name "sep 13th, 2022",
-  :block/created-at 1663062865735,
-  :block/updated-at 1663062865735}
  {:block/name "sep 14th, 2021",
   :block/created-at 1658888792984,
   :block/updated-at 1658888792984}
- {:block/name "sep 14th, 2022",
-  :block/created-at 1663224977764,
-  :block/updated-at 1663224977764}
  {:block/name "sep 15th, 2022",
   :block/created-at 1663225202390,
   :block/updated-at 1663239473330}
- {:block/name "sep 16th, 2022",
-  :block/created-at 1663318908704,
-  :block/updated-at 1663318908704}
- {:block/name "sep 17th, 2022",
-  :block/created-at 1663398007325,
-  :block/updated-at 1663398007325}
- {:block/name "sep 18th, 2022",
-  :block/created-at 1663484448409,
-  :block/updated-at 1663484448409}
  {:block/name "sep 19th, 2022",
   :block/created-at 1663571121912,
   :block/updated-at 1663613088294}
@@ -1504,10 +1303,19 @@
   :block/updated-at 1658888794506}
  {:block/name "sep 20th, 2022",
   :block/created-at 1663717514490,
-  :block/updated-at 1663717642975}
- {:block/name "sep 21st, 2022",
-  :block/created-at 1663779840126,
-  :block/updated-at 1663779840126}
+  :block/updated-at 1663924740820}
+ {:block/name "sep 23rd, 2022",
+  :block/created-at 1663924727900,
+  :block/updated-at 1663925115681}
+ {:block/name "sep 24th, 2022",
+  :block/created-at 1664002804576,
+  :block/updated-at 1664002804576}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664089203031,
+  :block/updated-at 1664089203031}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664197206038,
+  :block/updated-at 1664217862241}
  {:block/name "sep 2nd, 2021",
   :block/created-at 1658888794515,
   :block/updated-at 1658888794515}
