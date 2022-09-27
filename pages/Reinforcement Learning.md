@@ -5,4 +5,3 @@ alias:: RL
 	- The objective is to find a policy $\pi(a_t | s_t)$, which denotes the probability of taking action $a_t$ conditioned on the current state $s_t$.
 - However, in most cases, instead of working with states $s_t$ we have to work with observations $o_t$ of these states. This can be defined in a [[partially-observable Markov Decisions Process]].
 	- Note that now we find a policy $\pi(a_t | o_t)$.
-	-
