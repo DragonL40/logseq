@@ -1,3 +1,4 @@
 - Occurs when two or more threads have conflicting access to
 	- Memory location
-	- Hardware
+	- Hardware device
+	- File / OS-level resource
