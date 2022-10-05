@@ -1,0 +1,2 @@
+- Given universe $U$ of $n$ elements, collections $S_1, S_2, \dots, S_m \subseteq U$ of $m$ sets.
+- Also given integer $k$, is there a collection
