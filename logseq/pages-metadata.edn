@@ -1045,7 +1045,7 @@
   :block/updated-at 1664780436019}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664989436485,
-  :block/updated-at 1664991819656}
+  :block/updated-at 1664992422654}
  {:block/name "oct 6th, 2021",
   :block/created-at 1633478400000,
   :block/updated-at 1633478400000}
@@ -1591,6 +1591,9 @@
  {:block/name "vector-matrix decomposition",
   :block/created-at 1658888792876,
   :block/updated-at 1658888792876}
+ {:block/name "vertex cover",
+  :block/created-at 1664991980980,
+  :block/updated-at 1664991980980}
  {:block/name "virtual machine",
   :block/created-at 1664766660482,
   :block/updated-at 1664766660482}
