@@ -4,4 +4,3 @@
 - Simultaneously a packing and covering problem.
 	- Can we find $n$ disjoint triples?
 	- Can we cover all elements with $n$ triples?
--
