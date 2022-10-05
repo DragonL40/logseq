@@ -1,2 +1,1 @@
-- Given universe $U$ of $n$ elements, collections $S_1, S_2, \dots, S_m \subseteq U$ of $m$ sets. Also given integer $k$, is there a collection of $k$ subsets of the $S_i$ s.t. $\bigcup_{i=1}^k S_{j_i} = U$
--
+- Given universe $U$ of $n$ elements, collections $S_1, S_2, \dots, S_m \subseteq U$ of $m$ sets (wlog $\bigcup_{i=1}^m S_i = U$). Also given integer $k$, is there a collection of $k$ subsets of the $S_i$ s.t. $\bigcup_{i=1}^k S_{j_i} = U$
