@@ -807,6 +807,9 @@
  {:block/name "levene's test for equality of variance",
   :block/created-at 1659943898800,
   :block/updated-at 1659943898800}
+ {:block/name "licon",
+  :block/created-at 1665479265929,
+  :block/updated-at 1665479265929}
  {:block/name "linear algebra and linear differential equations (225)",
   :block/created-at 1658888786631,
   :block/updated-at 1658888786631}
@@ -1045,7 +1048,7 @@
   :block/updated-at 1665443363525}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665471657399,
-  :block/updated-at 1665471657399}
+  :block/updated-at 1665479289118}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664766659526,
   :block/updated-at 1664766659526}
