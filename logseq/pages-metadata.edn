@@ -340,6 +340,9 @@
  {:block/name "differentiable quality diversity",
   :block/created-at 1658888787168,
   :block/updated-at 1658888787168}
+ {:block/name "diffusion models",
+  :block/created-at 1665566926285,
+  :block/updated-at 1665566926285}
  {:block/name "dijkstra's algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -1048,10 +1051,10 @@
   :block/updated-at 1665443363525}
  {:block/name "oct 11th, 2022",
   :block/created-at 1665471657399,
-  :block/updated-at 1665479663278}
+  :block/updated-at 1665566896260}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665558029892,
-  :block/updated-at 1665558029892}
+  :block/updated-at 1665566930940}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664766659526,
   :block/updated-at 1664766659526}
