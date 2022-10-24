@@ -1,0 +1,2 @@
+- Bayesian networks can represent essentially any full joint probability distribution and in many cases can do so very concisely.
+-
