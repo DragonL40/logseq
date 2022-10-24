@@ -6,6 +6,6 @@
 - A conditional probability table for a node with $k$ parents contains $2^k$ independently specifiable probabilities.
 - Assume that the Bayes net contains $n$ variables, $X_1, \dots, X_n$. A generic entry in the joint distribution is then $P(x_1, \dots, x_n)$. The semantics of Bayes net defines each entry in the joint distribution as follows:
   $$
-  P(x_1, \dots, x_n) = \
+  P(x_1, \dots, x_n) = \prod_{i=1}^n \theta(x_i | \mathrm{Parents}(X_i))
   $$
 -
