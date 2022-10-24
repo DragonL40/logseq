@@ -155,6 +155,9 @@
  {:block/name "barf: bundle-adjusting neural radiance fields",
   :block/created-at 1658888785969,
   :block/updated-at 1658888785969}
+ {:block/name "bayesian network",
+  :block/created-at 1666598700697,
+  :block/updated-at 1666598763432}
  {:block/name "big-endian",
   :block/created-at 1658888786063,
   :block/updated-at 1658888786063}
@@ -274,7 +277,7 @@
   :block/updated-at 1658888786572}
  {:block/name "contents",
   :block/created-at 1658888798246,
-  :block/updated-at 1658888798246}
+  :block/updated-at 1666598661997}
  {:block/name "context switch",
   :block/created-at 1664766660467,
   :block/updated-at 1664766660467}
@@ -1069,7 +1072,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666593206477}
+  :block/updated-at 1666598707257}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666594815130}
