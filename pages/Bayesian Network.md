@@ -3,4 +3,4 @@
 	- 1. Each node corresponds to a random variable, which may be discrete or continuous.
 	  2. Directed edges connect pairs of nodes. The graph has no directed cycles and hence is a [[Directed Acyclic Graph (DAG)]]
 	  3. Each node $X_i$ has associated probability information $\theta(X_i | \mathrm{Parents}(X_i))$ that quantifies the effect of the parents on the node using a finite number of **parameters**.
--
+- A conditional probability table
