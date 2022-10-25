@@ -49,5 +49,6 @@
 		- Number of parents $\rho$ that come together to form offspring (commonly $\rho = 2$).
 			- When $\rho = 1$ we have [[stochastic beam search]], i.e. asexual reproduction.
 		- **Selection** process for selecting the individuals who will become the parents of the next generation.
-			- Select from all indivisuals with probability proportional to their fitness score.
-			- Sele
+			- Select from all individuals with probability proportional to their fitness score.
+			- Randomly select $n$ individuals $(n > \rho)$, and then select the $\rho$ most fit ones as parents.
+		- Recombination procedure.
