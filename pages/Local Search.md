@@ -20,4 +20,5 @@
 - [[simulated annealing]]
 	- Similar to [[hill-climbing search]]
 	- Instead of picking the *best* move, pick a random move $m$.
-		- If $m$
+		- If $m$ improves the situation, it is always accepted. Otherwise, accept $m$ with some probability less than 1.
+		- The probability decreases as $T$ goes down.
