@@ -12,3 +12,7 @@
 		  collapsed:: true
 			- ![image.png](../assets/image_1666665576616_0.png)
 		- Plateaus
+	- Variants:
+		- Allow a certain number of sideways move
+		- Stochastic hill-climbing
+		-
