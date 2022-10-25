@@ -1,2 +1,3 @@
-- **Feedforward network** has connections only in one direction - [[Directed Acyclic Graph (DAG)]].
+- **Feedforward network** has connections only in one direction - [[Directed Acyclic Graph (DAG)]] with designated input and output nodes.
+- Each node computes a function of its inputs and passes the result to its successors in the network.
 -
