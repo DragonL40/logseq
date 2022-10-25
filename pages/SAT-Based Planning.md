@@ -1,2 +1,2 @@
 - Instantiate all predicates and eliminate those that are in all states reachable from the start state by operator applications.
--
+- Ins
