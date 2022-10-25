@@ -1,3 +1,3 @@
 - $KB \models S \iff$ for all interpretations of $KB$, $KB = \mathrm{true} \implies S = \mathrm{true}$
-- $KB \not\models S \iff$ there exists an interpretation of $KB$, $KB = \mathrm{true} \implies S = \mathrm{true}$
+- $KB \not\models S \iff$ there exists an interpretation of $KB$, s.t. $KB = \mathrm{true} \land S = \mathrm{false}$
 -
