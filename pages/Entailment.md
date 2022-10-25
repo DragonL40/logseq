@@ -1,1 +1,1 @@
-- $KB \models S \iff \forall $
+- $KB \models S \iff$ for all interpretation
