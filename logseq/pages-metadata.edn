@@ -1028,7 +1028,7 @@
   :block/updated-at 1658888791336}
  {:block/name "neural network learning",
   :block/created-at 1666706276355,
-  :block/updated-at 1666707465200}
+  :block/updated-at 1666710810521}
  {:block/name "new page: illuminating s",
   :block/created-at 1658888793853,
   :block/updated-at 1658888793853}
@@ -1649,6 +1649,9 @@
  {:block/name "unions",
   :block/created-at 1658888792259,
   :block/updated-at 1658888792259}
+ {:block/name "universal approximation theorem",
+  :block/created-at 1666709946233,
+  :block/updated-at 1666709946233}
  {:block/name "university of southern california (usc)",
   :block/created-at 1658888785414,
   :block/updated-at 1658888785414}
