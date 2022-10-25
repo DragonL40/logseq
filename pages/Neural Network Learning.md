@@ -1,2 +1,4 @@
 - **Feedforward network** has connections only in one direction - [[Directed Acyclic Graph (DAG)]] with designated input and output nodes.
 - Each node computes a function of its inputs and passes the result to its successors in the network.
+- **Recurrent network** feeds its intermediate of final outputs back into its own inputs.
+	- The signal values within the network form a dynamical system that has internal state or memory.
