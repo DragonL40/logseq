@@ -25,10 +25,14 @@
 - [[gradient descent]]
 	- Finding a local minimum of differentiable function $f(x_1, x_2, \dots, x_n)$ with gradient descent (for a small learning rate $\alpha > 0$).
 	- ```python
-	  def GRADIENT_DESCENT():
-	    
+	  def GRADIENT_DESCENT(f, alpha):
+	    initialize v = (x_1, x_2, ..., x_n) with random values
+	    while (v is not local minimum):
+	      for x_i in v:
+	        x_i = x_i - alpha (derivative of f with respect to x_i)
 	  ```
-	-
-	- Repeat until local minimum reached
-		- For all $x_i$ in parallel
-			-
+	- Problems and solution approaches
+		- Overshooting the local minimum: momentum term
+		- Local minima: random restarts, simulated annealing, STAGE
+		- Plateaus (one of the issues of threshold activation functions): random restarts
+		- Ridges: momentum term
