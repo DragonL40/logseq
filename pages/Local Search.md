@@ -31,6 +31,9 @@
 	      for x_i in v:
 	        x_i = x_i - alpha (derivative of f with respect to x_i)
 	  ```
+	- $$
+	  x_i = x_i - \alpha (\frac{d})
+	  $$
 	- Problems and solution approaches
 		- Overshooting the local minimum: momentum term
 		- Local minima: random restarts, simulated annealing, STAGE
