@@ -1,0 +1,2 @@
+- Linear function can be used for classification as well as regression.
+-
