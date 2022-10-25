@@ -1026,6 +1026,9 @@
   "nerf: representing scenes as neural radiance fields for view synthesis",
   :block/created-at 1658888791336,
   :block/updated-at 1658888791336}
+ {:block/name "neural network learning",
+  :block/created-at 1666706276355,
+  :block/updated-at 1666706276355}
  {:block/name "new page: illuminating s",
   :block/created-at 1658888793853,
   :block/updated-at 1658888793853}
@@ -1102,7 +1105,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666699203061}
+  :block/updated-at 1666706655640}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666679356985}
