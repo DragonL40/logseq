@@ -1,3 +1,4 @@
+- #[[optimization algorithms]]
 - Local search algorithms operate by searching from a start state to neighboring states, without keeping track of the paths, nor the set of states that have been reached.
 	- Not systematic — might never explore a portion of the search space where a solution actually resides.
 	- Use very little memory.
