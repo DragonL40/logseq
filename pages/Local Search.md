@@ -9,5 +9,6 @@
 	- Can get stuck for any of the following reasons:
 		- Local maxima
 		- Ridges: A sequence of local maxima that are not directly connected to each other.
+		  collapsed:: true
 			- ![image.png](../assets/image_1666665576616_0.png)
 		- Plateaus
