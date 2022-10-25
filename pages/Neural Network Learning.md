@@ -4,4 +4,7 @@
 	- The signal values within the network form a dynamical system that has internal state or memory.
 - [[universal approximation theorem]] states that a network with just two layers of computational units, the first nonlinear and the second linear, can approximate any continuous function to an arbitrary degree of accuracy.
 - Common activation functions:
-	- **Sigmoid**: $\sigma(x) = \frac{1}{1 + \exp}
+	- **Sigmoid:** $\sigma(x) = \frac{1}{1 + e^{-x}}$
+	- **ReLU:** $\mathrm{ReLU}(x) = \max(0,x)$
+	-
+	-
