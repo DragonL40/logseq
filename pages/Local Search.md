@@ -24,4 +24,10 @@
 		- The probability decreases as $T$ goes down.
 - [[gradient descent]]
 	- Finding a local minimum of differentiable function $f(x_1, x_2, \dots, x_n)$ with gradient descent (for a small learning rate $\alpha > 0$).
-	- Initialize $x_1,
+	- ```python
+	  
+	  ```
+	- Initialize $x_1, x_2, \dots, x_n$ with random values.
+	- Repeat until local minimum reached
+		- For all $x_i$ in parallel
+			-

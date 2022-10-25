@@ -559,6 +559,9 @@
  {:block/name "gradient arborescence",
   :block/created-at 1655243323624,
   :block/updated-at 1655243323624}
+ {:block/name "gradient descent",
+  :block/created-at 1666671526258,
+  :block/updated-at 1666671526258}
  {:block/name "gradualism",
   :block/created-at 1652860094027,
   :block/updated-at 1652860094027}
@@ -857,7 +860,7 @@
   :block/updated-at 1653625195659}
  {:block/name "local search",
   :block/created-at 1666664462347,
-  :block/updated-at 1666667649407}
+  :block/updated-at 1666671600306}
  {:block/name "locus",
   :block/created-at 1658888793265,
   :block/updated-at 1658888793265}
