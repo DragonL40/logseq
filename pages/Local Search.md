@@ -57,5 +57,5 @@
 			- Determines how often offspring have random mutations to their representation.
 		- The makeup of the next generation.
 			- Simply the newly formed offspring.
-			- Include a few top-scoring parents from the previous generation (**elitism**; guarantees that overall fitness will never decrease over time).
-			- All individuals below a given threshold are discarded (**culling**)
+			- Include a few top-scoring parents from the previous generation (**elitism**); guarantees that overall fitness will never decrease over time).
+			- All individuals below a given threshold are discarded (**culling**); can lead to a speedup.
