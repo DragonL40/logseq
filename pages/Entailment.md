@@ -1,1 +1,2 @@
-- $KB \models S \iff$ for all interpretation
+- $KB \models S \iff$ for all interpretations, $KB = \mathrm{true} \impiles $
+-
