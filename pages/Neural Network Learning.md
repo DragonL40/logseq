@@ -1,0 +1,2 @@
+- **Feedforward network** has connections only in one direction - [[Directed Acyclic Graph (DAG)]].
+-
