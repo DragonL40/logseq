@@ -6,6 +6,7 @@
 - Common activation functions:
 	- **Sigmoid:** $\sigma(x) = \frac{1}{1 + e^{-x}}$
 	- **ReLU:** $\mathrm{ReLU}(x) = \max(0,x)$
-	- **Softplus**: $\mathrm{softplus}(x) = \log(1+e^x)$
+	- **Softplus:** $\mathrm{softplus}(x) = \log(1+e^x)$
 		- The derivate of the softplus function is the sigmoid function.
-	- **tna**
+	- **tanh:** $\tanh(x) = \frac{e^{2x}-1}{e^{2x} + 1}$
+		- Note that the range of $\tanh$
