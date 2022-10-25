@@ -4,6 +4,12 @@
 	- Use very little memory.
 	- Often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
 - [[hill-climbing search]]
-	- ```
-	  
+	- ```c
+	  function HILL-CLIMBING(problem) returns a state that is a local maximum
+	  	current <- problem.Initial
+	      while true do
+	      	neighbor <- a highest-valued successor state of current
+	          if VALUE(neighbor) <= VALUE(current)
+	          	then return current
+	          current <- neighbor
 	  ```
