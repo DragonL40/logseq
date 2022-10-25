@@ -18,4 +18,6 @@
 		- First-choice hill-climbing
 		- Random-restart hill-climbing
 - [[simulated annealing]]
-	-
+	- Similar to [[hill-climbing search]]
+	- Instead of picking the *best* move, pick a random move $m$.
+		- If $m$
