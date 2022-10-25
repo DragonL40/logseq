@@ -1,0 +1,93 @@
+{:logseq-split-block
+ {:version "1.2.0",
+  :repo "hyrijk/logseq-plugin-split-block",
+  :effect false,
+  :theme false},
+ :logseq-atlas-theme
+ {:version "0.2.19",
+  :repo "sethfair/logseq-atlas-theme",
+  :effect false,
+  :theme true},
+ :logseq-journals-calendar
+ {:version "0.0.4",
+  :repo "xyhp915/logseq-journals-calendar",
+  :effect false,
+  :theme false},
+ :logseq-markdown-table
+ {:version "v1.7.0",
+  :repo "haydenull/logseq-plugin-markdown-table",
+  :effect false,
+  :theme false},
+ :logseq-heatmap
+ {:version "2.1.0",
+  :repo "pengx17/logseq-plugin-heatmap",
+  :effect true,
+  :theme false},
+ :logseq-random-note
+ {:version "1.0.1",
+  :repo "tankcool/logseq-random-note",
+  :effect false,
+  :theme false},
+ :logseq-pdf-export-plugin
+ {:version "2.2.4",
+  :repo "sawhney17/logseq-pdf-export",
+  :effect true,
+  :theme false},
+ :logseq-vim-shortcuts
+ {:version "v0.1.14",
+  :repo "vipzhicheng/logseq-plugin-vim-shortcuts",
+  :effect true,
+  :theme false},
+ :logseq-bonofix-theme
+ {:version "3.5.2",
+  :repo "sansui233/logseq-bonofix-theme",
+  :effect false,
+  :theme true},
+ :logseq-tabs
+ {:version "1.7.5",
+  :repo "pengx17/logseq-plugin-tabs",
+  :effect true,
+  :theme false},
+ :logseq-block-to-page
+ {:version "0.0.3",
+  :repo "hyrijk/logseq-plugin-block-to-page",
+  :effect false,
+  :theme false},
+ :logseq-agenda
+ {:version "2.2.0",
+  :repo "haydenull/logseq-plugin-agenda",
+  :effect true,
+  :theme false},
+ :logseq-link-preview
+ {:version "v2.2.6",
+  :repo "pengx17/logseq-plugin-link-preview",
+  :effect true,
+  :theme false},
+ :logseq-toolbox
+ {:version "0.0.2",
+  :repo "tankcool/logseq-toolbox",
+  :effect false,
+  :theme false},
+ :logseq-focus-mode
+ {:version "v0.2.5",
+  :repo "sethfair/logseq-focus-mode",
+  :effect false,
+  :theme false},
+ :logseq-automatic-linker
+ {:version "1.1.1",
+  :repo "sawhney17/logseq-automatic-linker",
+  :effect false,
+  :theme false},
+ :logseq-tags
+ {:version "v0.1.2",
+  :repo "gidongkwon/logseq-plugin-tags",
+  :effect false,
+  :theme false},
+ :logseq-wordcount-plugin
+ {:version "v2.0.1",
+  :repo "hkgnp/logseq-wordcount-plugin",
+  :effect false,
+  :theme false},
+ :logseq-pomodoro-timer {:version "1.0.1", :repo "sawhney17/logseq-pomodoro-plugin", :effect false, :theme false}
+ :logseq-git {:version "v1.4.0", :repo "haydenull/logseq-plugin-git", :effect true, :theme false}
+ :logseq-todo-plugin {:version "v1.11.1", :repo "ahonn/logseq-plugin-todo", :effect true, :theme false}}
