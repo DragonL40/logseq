@@ -1390,7 +1390,7 @@
   :block/updated-at 1666676802137}
  {:block/name "sat-based planning",
   :block/created-at 1666724701292,
-  :block/updated-at 1666726722015}
+  :block/updated-at 1666727015611}
  {:block/name "scheduling to minimize lateness",
   :block/created-at 1658888789707,
   :block/updated-at 1658888789707}
