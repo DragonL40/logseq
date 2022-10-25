@@ -1102,7 +1102,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666679553937}
+  :block/updated-at 1666698774659}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666679356985}
@@ -1175,6 +1175,9 @@
  {:block/name "pentose sugar",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "perceptron learning",
+  :block/created-at 1666698920800,
+  :block/updated-at 1666698920800}
  {:block/name "perfect matching",
   :block/created-at 1658888791482,
   :block/updated-at 1658888791482}
