@@ -607,6 +607,9 @@
  {:block/name "heterozygous",
   :block/created-at 1658888787938,
   :block/updated-at 1658888787938}
+ {:block/name "hill-climbing search",
+  :block/created-at 1666664765731,
+  :block/updated-at 1666664765731}
  {:block/name "hls__cs356unit03_fp_1631175822688_0",
   :block/created-at 1658888793309,
   :block/updated-at 1658888793309}
@@ -852,6 +855,9 @@
  {:block/name "local competition",
   :block/created-at 1653625195659,
   :block/updated-at 1653625195659}
+ {:block/name "local search",
+  :block/created-at 1666664462347,
+  :block/updated-at 1666664998446}
  {:block/name "locus",
   :block/created-at 1658888793265,
   :block/updated-at 1658888793265}
@@ -1081,7 +1087,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666662193504}
+  :block/updated-at 1666664492949}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666594815130}
