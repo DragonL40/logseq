@@ -1,4 +1,5 @@
 - **Translate classical planning problems into satisfiability problems, and solving them using a highly optimized SAT solver.**
--
 - Instantiate all predicates and eliminate those that are in all states reachable from the start state by operator applications.
 - Instantiate all operator schemata and eliminate those operators whose preconditions are not satisfied in any state reachable from the start state.
+- Convert the remaining ground(ed) predicates and operators for each time slice $1...T$ (for a given time horizon $T$) into propositional symbols.
+-
