@@ -13,5 +13,5 @@
   where $\mathrm{step}(z)$ is $1$ if $z \ge 0$ and $0$ otherwise.
 - **Perceptron learning rule**
   $$
-  w_i \gets w_i + \alpha (y - h())
+  w_i \gets w_i + \alpha (y - h_w(\vec{x})) \times x_i
   $$
