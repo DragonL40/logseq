@@ -10,4 +10,4 @@
 		- The derivate of the softplus function is the sigmoid function.
 	- **tanh:** $\tanh(x) = \frac{e^{2x}-1}{e^{2x} + 1}$
 		- Note that the range of $\tanh$ is $(-1, +1)$. $\tanh$ is a scaled and shifted version of sigmoid, as $\tanh(x) = 2\sigma(2x)-1$.
-		-
+-
