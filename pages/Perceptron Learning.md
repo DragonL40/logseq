@@ -10,4 +10,5 @@
   $$
   h_w(\vec{x}) = \mathrm{step}(\vec{w} \cdot \vec{x})
   $$
+  where $\mathrm{step}(z)$ is $1$ if $z \ge 0$ and $0$ otherwise.
 -
