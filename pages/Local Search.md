@@ -46,4 +46,6 @@
 			- In [[genetic algorithms]], each individual is a string over a finite alphabet (often a Boolean string).
 			- In [[evolution strategies]], an individual is a sequence of real numbers.
 			- In [[genetic programming]], an individual is a computer program.
-		- The number of parents $\rho$ that come together to form offspring (commonly $\rho = 2$.)
+		- The number of parents $\rho$ that come together to form offspring (commonly $\rho = 2$).
+			- When $\rho = 1$ we have [[stochastic beam search]], i.e. asexual reproduction.
+		- The selection pro
