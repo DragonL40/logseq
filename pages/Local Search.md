@@ -6,3 +6,6 @@
 - [[hill-climbing search]]
 	- Greedy; heads in the direction that provides the **steepest ascent**.
 	- Terminates when it reaches a "peak" where no neighbor has a higher value.
+	- Can get stuck for any of the following reasons:
+		- Local maxima
+		- Platuae
