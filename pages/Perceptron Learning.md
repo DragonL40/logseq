@@ -8,6 +8,6 @@
   where $x_0 = 1$.
 - We can write the classification hypothesis as
   $$
-  h_w(\vec{x}) = 1 \text{ if } \vec{w} \cdot \vec{x} \ge 0 \text{ and } 0 \text{ otherwise}
+  h_w(\vec{x}) = \mathrm{step}(\vec{w} \cdot \vec{x})
   $$
 -
