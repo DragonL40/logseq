@@ -4,4 +4,5 @@
 	- Use very little memory.
 	- Often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
 - [[hill-climbing search]]
-	- Greedy; heads in the direction that provides the **steepest ascent**
+	- Greedy; heads in the direction that provides the **steepest ascent**.
+	- Terminates when it reaches a "peak" where no neighbor has a higher value.
