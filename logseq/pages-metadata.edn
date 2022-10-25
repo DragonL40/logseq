@@ -852,6 +852,9 @@
  {:block/name "linneaus",
   :block/created-at 1633055985736,
   :block/updated-at 1633055985736}
+ {:block/name "lipschitz continuity",
+  :block/created-at 1666679356985,
+  :block/updated-at 1666679356985}
  {:block/name "literary determinations",
   :block/created-at 1658888790353,
   :block/updated-at 1658888790353}
@@ -1102,7 +1105,7 @@
   :block/updated-at 1666676802138}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
-  :block/updated-at 1666594815130}
+  :block/updated-at 1666679356985}
  {:block/name "oct 2nd, 2022",
   :block/created-at 1664766659526,
   :block/updated-at 1664766659526}
