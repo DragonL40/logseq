@@ -51,4 +51,7 @@
 		- **Selection** process for selecting the individuals who will become the parents of the next generation.
 			- Select from all individuals with probability proportional to their fitness score.
 			- Randomly select $n$ individuals $(n > \rho)$, and then select the $\rho$ most fit ones as parents.
-		- Recombination procedure.
+		- Recombination procedure
+			- Randomly select a **crossover point** to split each of the parent strings, and recombine the parts to form two children.
+		- **Mutation rate**
+			- Determines ou
