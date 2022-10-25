@@ -3,3 +3,5 @@
 - **Recurrent network** feeds its intermediate of final outputs back into its own inputs.
 	- The signal values within the network form a dynamical system that has internal state or memory.
 - [[universal approximation theorem]] states that a network with just two layers of computational units, the first nonlinear and the second linear, can approximate any continuous function to an arbitrary degree of accuracy.
+- Common activation functions:
+	-
