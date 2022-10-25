@@ -3,3 +3,7 @@
 	- Not systematic — might never explore a portion of the search space where a solution actually resides.
 	- Use very little memory.
 	- Often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
+- [[hill-climbing search]]
+	- ```
+	  
+	  ```
