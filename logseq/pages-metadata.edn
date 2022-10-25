@@ -331,6 +331,9 @@
  {:block/name "decision problems",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
+ {:block/name "decision-tree learning",
+  :block/created-at 1666657968847,
+  :block/updated-at 1666657968847}
  {:block/name "defragmentation",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
@@ -980,6 +983,9 @@
  {:block/name "mutation",
   :block/created-at 1631566578426,
   :block/updated-at 1631566578426}
+ {:block/name "naive bayesian learning",
+  :block/created-at 1666657982415,
+  :block/updated-at 1666658301205}
  {:block/name "nash equilibrium",
   :block/created-at 1663228420659,
   :block/updated-at 1663229331026}
@@ -1072,7 +1078,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666654886646}
+  :block/updated-at 1666657982417}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666594815130}
