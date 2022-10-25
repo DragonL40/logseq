@@ -16,3 +16,5 @@
 		- Allow a certain number of sideways move
 		- Stochastic hill-climbing
 		- First-choice hill-climbing
+		- Random-restart hill-climbing
+	-
