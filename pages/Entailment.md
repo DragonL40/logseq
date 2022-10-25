@@ -1,0 +1,1 @@
+- $KB \models S \iff \forall $
