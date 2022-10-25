@@ -24,6 +24,9 @@
 		- The probability decreases as $T$ goes down.
 - [[gradient descent]]
 	- Finding a local minimum of differentiable function $f(x_1, x_2, \dots, x_n)$ with gradient descent (for a small learning rate $\alpha > 0$).
+	  $$
+	  x_i = x_i - \alpha (\frac{df}{dx_i})
+	  $$
 	- ```python
 	  def GRADIENT_DESCENT(f, alpha):
 	    initialize v = (x_1, x_2, ..., x_n) with random values
@@ -31,9 +34,6 @@
 	      for x_i in v:
 	        x_i = x_i - alpha (derivative of f with respect to x_i)
 	  ```
-	- $$
-	  x_i = x_i - \alpha (\frac{d})
-	  $$
 	- Problems and solution approaches
 		- Overshooting the local minimum: momentum term
 		- Local minima: random restarts, simulated annealing, STAGE
