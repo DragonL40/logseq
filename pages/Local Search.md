@@ -40,4 +40,4 @@
 		- Plateaus (one of the issues of threshold activation functions): random restarts
 		- Ridges: momentum term
 - [[evolutionary algorithms]]
-	-
+	- There are endless forms of evolutionary lagorithms
