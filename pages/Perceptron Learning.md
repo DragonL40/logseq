@@ -17,5 +17,6 @@
   $$
 - The one we learned in class
   $$
-  w_i \gets w_i - \alpha \frac{d }
+  w_i \gets w_i - \alpha \frac{d \mathrm{Error}(w_1, w_2, \dots)}{dw_i}
   $$
+-
