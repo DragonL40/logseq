@@ -8,5 +8,6 @@
 	- Terminates when it reaches a "peak" where no neighbor has a higher value.
 	- Can get stuck for any of the following reasons:
 		- Local maxima
-		- Ridges:
+		- Ridges: A sequence of local maxima that are not directly connected to each other.
+			- ![image.png](../assets/image_1666665576616_0.png)
 		- Plateaus
