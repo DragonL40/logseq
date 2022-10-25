@@ -1105,7 +1105,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666712751603}
+  :block/updated-at 1666724701294}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666679356985}
@@ -1388,6 +1388,9 @@
  {:block/name "rule-based systems",
   :block/created-at 1666676802137,
   :block/updated-at 1666676802137}
+ {:block/name "sat-based planning",
+  :block/created-at 1666724701292,
+  :block/updated-at 1666724701292}
  {:block/name "scheduling to minimize lateness",
   :block/created-at 1658888789707,
   :block/updated-at 1658888789707}
