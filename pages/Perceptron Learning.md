@@ -1,5 +1,7 @@
 - Linear function can be used for classification as well as regression.
 - > Given some training data, the task of classification is to learn a hypothesis $h$ that will take new $(x_1, x_2)$ points and return either $0$ for class A and $1$ for class B.
 - A **decision boundary** is a line (or a surface, in higher dimensions) that separates the two classes.
-- A linear decision boundary is called a **linear separator** and data that admit such a separator are called **linearly separable**.
--
+- A linear decision boundary is called a **linear separator** and data that admit such a separator are called **linearly separable**. Note that a linear separator is defined by
+  $$
+  w_1 x_1 + w_2 x_2 + \cdots + w_n x_n = 
+  $$
