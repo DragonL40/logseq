@@ -15,4 +15,7 @@
   $$
   w_i \gets w_i + \alpha (y - h_w(\vec{x})) \times x_i
   $$
--
+- The one we learned in class
+  $$
+  w_i \gets w_i - \alpha \frac{d }
+  $$
