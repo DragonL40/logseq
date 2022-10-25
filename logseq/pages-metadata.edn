@@ -443,6 +443,9 @@
  {:block/name "evolution strategies",
   :block/created-at 1655322421385,
   :block/updated-at 1655322421385}
+ {:block/name "evolutionary algorithms",
+  :block/created-at 1666673396912,
+  :block/updated-at 1666673396912}
  {:block/name "example",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
@@ -860,7 +863,7 @@
   :block/updated-at 1653625195659}
  {:block/name "local search",
   :block/created-at 1666664462347,
-  :block/updated-at 1666672034655}
+  :block/updated-at 1666673396913}
  {:block/name "locus",
   :block/created-at 1658888793265,
   :block/updated-at 1658888793265}

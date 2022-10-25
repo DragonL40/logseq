@@ -39,4 +39,5 @@
 		- Local minima: random restarts, simulated annealing, STAGE
 		- Plateaus (one of the issues of threshold activation functions): random restarts
 		- Ridges: momentum term
-- Evolutionary alg
+- [[evolutionary algorithms]]
+	-
