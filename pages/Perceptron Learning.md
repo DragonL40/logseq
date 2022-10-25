@@ -3,7 +3,7 @@
 - A **decision boundary** is a line (or a surface, in higher dimensions) that separates the two classes.
 - A linear decision boundary is called a **linear separator** and data that admit such a separator are called **linearly separable**. Note that a linear separator is defined by
   $$
-  w_0 x_0 + w_1 x_1  + \cdots + w_n x_n = 0
+  \vec{w}  = 0
   $$
   where $x_0 = 1$.
 -
