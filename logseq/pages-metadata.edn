@@ -444,8 +444,8 @@
   :block/created-at 1655322421385,
   :block/updated-at 1655322421385}
  {:block/name "evolutionary algorithms",
-  :block/created-at 1666673396912,
-  :block/updated-at 1666673396912}
+  :block/created-at 1666673434899,
+  :block/updated-at 1666673434899}
  {:block/name "example",
   :block/created-at 1631566578425,
   :block/updated-at 1631566578425}
@@ -535,12 +535,18 @@
  {:block/name "generics",
   :block/created-at 1658888788480,
   :block/updated-at 1658888788480}
+ {:block/name "genetic algorithms",
+  :block/created-at 1666673765617,
+  :block/updated-at 1666673765617}
  {:block/name "genetic code",
   :block/created-at 1633055985734,
   :block/updated-at 1633055985734}
  {:block/name "genetic drift",
   :block/created-at 1658888788004,
   :block/updated-at 1658888788004}
+ {:block/name "genetic programming",
+  :block/created-at 1666673815495,
+  :block/updated-at 1666673815495}
  {:block/name "genotype",
   :block/created-at 1658888787937,
   :block/updated-at 1658888787937}
@@ -863,7 +869,7 @@
   :block/updated-at 1653625195659}
  {:block/name "local search",
   :block/created-at 1666664462347,
-  :block/updated-at 1666673396913}
+  :block/updated-at 1666674239808}
  {:block/name "locus",
   :block/created-at 1658888793265,
   :block/updated-at 1658888793265}
@@ -1511,6 +1517,9 @@
  {:block/name "statistics",
   :block/created-at 1659939484599,
   :block/updated-at 1659939484599}
+ {:block/name "stochastic beam search",
+  :block/created-at 1666673886868,
+  :block/updated-at 1666673886868}
  {:block/name "stochastic gradient descent (sgd)",
   :block/created-at 1663228145650,
   :block/updated-at 1663228145650}
