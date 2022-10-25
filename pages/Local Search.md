@@ -22,4 +22,6 @@
 	- Instead of picking the *best* move, pick a random move $m$.
 		- If $m$ improves the situation, it is always accepted. Otherwise, accept $m$ with some probability less than 1.
 		- The probability decreases as $T$ goes down.
--
+- [[gradient descent]]
+	- Finding a local minimum of differentiable function $f(x_1, x_2, \dots, x_n)$ with gradient descent (for a small learning rate $\alpha > 0$).
+	- Initialize $x_1,
