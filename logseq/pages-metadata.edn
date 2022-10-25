@@ -428,6 +428,9 @@
  {:block/name "engineering freshman academy (engr 102)",
   :block/created-at 1658888786622,
   :block/updated-at 1658888786622}
+ {:block/name "entailment",
+  :block/created-at 1666662193504,
+  :block/updated-at 1666662593681}
  {:block/name "esteban ortiz-ospina",
   :block/created-at 1631051926606,
   :block/updated-at 1631051926606}
@@ -1078,7 +1081,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666661042215}
+  :block/updated-at 1666662193504}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666594815130}
