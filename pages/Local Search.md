@@ -54,4 +54,6 @@
 		- Recombination procedure
 			- Randomly select a **crossover point** to split each of the parent strings, and recombine the parts to form two children.
 		- **Mutation rate**
-			- Determines ou
+			- Determines how often offspring have random mutations to their representation.
+		- The makeup of the next generation.
+			- Simply the newly formed offspring
