@@ -857,7 +857,7 @@
   :block/updated-at 1653625195659}
  {:block/name "local search",
   :block/created-at 1666664462347,
-  :block/updated-at 1666666452879}
+  :block/updated-at 1666667649407}
  {:block/name "locus",
   :block/created-at 1658888793265,
   :block/updated-at 1658888793265}
@@ -1451,6 +1451,9 @@
  {:block/name "shortest path problem",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
+ {:block/name "simulated annealing",
+  :block/created-at 1666667649407,
+  :block/updated-at 1666667649407}
  {:block/name "sine-cosine encoding",
   :block/created-at 1653174630132,
   :block/updated-at 1653174630132}
