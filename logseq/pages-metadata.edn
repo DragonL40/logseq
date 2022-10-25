@@ -1099,7 +1099,7 @@
   :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
-  :block/updated-at 1666664492949}
+  :block/updated-at 1666676802138}
  {:block/name "oct 24th, 2022",
   :block/created-at 1666594815130,
   :block/updated-at 1666594815130}
@@ -1370,6 +1370,9 @@
  {:block/name "round towards 0 (chopping)",
   :block/created-at 1658888790613,
   :block/updated-at 1658888790613}
+ {:block/name "rule-based systems",
+  :block/created-at 1666676802137,
+  :block/updated-at 1666676802137}
  {:block/name "scheduling to minimize lateness",
   :block/created-at 1658888789707,
   :block/updated-at 1658888789707}
