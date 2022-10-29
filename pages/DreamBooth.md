@@ -6,4 +6,4 @@ source:: https://arxiv.org/pdf/2208.12242.pdf
   model’s semantic knowledge on the class of the subject.
 - Examples of output variations include: changing the place where the subject is, changing a property of the subject such as color, species, or shape, and modifying the subject’s pose, expression, material, and other semantic modifications.
 - ## Method
-	-
+	- ![image.png](../assets/image_1667054672048_0.png){:height 378, :width 666}
