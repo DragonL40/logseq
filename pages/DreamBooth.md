@@ -1,4 +1,5 @@
 source:: https://arxiv.org/pdf/2208.12242.pdf
+github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 
 - **Objective: subject-driven generation**
 	- Given a few (3-5) casually captured images of a subject, the goal is to synthesize novel renditions of the subject in different contexts, while maintaining high fidelity to its key visual features.
