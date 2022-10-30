@@ -11,6 +11,6 @@ github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 	- The DreamBooth pipeline mainly consist of the following:
 		- **Input**: images of a particular subject + the corresponding class name
 		- **Regularization**: generate regularization images of the corresponding class name using pre-trained Text-to-Image model
-		- **Fine-tuning**: based on **regularization** images and **input** images
+		- **Fine-tuning**: fine-tune the pre-trained Text-to-Image model based on **regularization** images and **input** images to generate a *personalized* Text-to-Image model
 		- **Super-Resolution**
 		- **Inference**
