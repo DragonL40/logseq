@@ -8,7 +8,7 @@ github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 	  model’s semantic knowledge on the class of the subject.
 	- Examples of output variations include: changing the place where the subject is, changing a property of the subject such as color, species, or shape, and modifying the subject’s pose, expression, material, and other semantic modifications.
 - ## Method
-	- Overview flowchart
+	- **Expand**: pipeline overview
 	  collapsed:: true
 		- ![](https://lh6.googleusercontent.com/myPgm3ieu3I3cG-HULMvmivhlsTLwCyQMDSgwBLkGPbf-j_M25NpAHqysGMP6VMFlQ1JO-9Ar2odooTjBUbw_OSdSOJEgH0N-2eFzZumfNQlgRcGXDnz-aZPucCUep11O9LLeJM-sF0QxKEsV2LOMbEQXN8f4T93sYvPDRsOz4iREqaIEoMTOsIb){:height 471, :width 623}
 		- ![image.png](../assets/image_1667054672048_0.png){:height 269, :width 705}
@@ -18,4 +18,3 @@ github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 		- **Fine-tuning**: fine-tune the pre-trained Text-to-Image model based on **regularization** images and **input** images to generate a *personalized* Text-to-Image model
 		- **Super-Resolution**
 		- **Inference**
-	- Pipeline flowchart
