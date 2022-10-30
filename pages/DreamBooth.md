@@ -8,3 +8,9 @@ github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 - Examples of output variations include: changing the place where the subject is, changing a property of the subject such as color, species, or shape, and modifying the subject’s pose, expression, material, and other semantic modifications.
 - ## Method
 	- ![image.png](../assets/image_1667054672048_0.png){:height 378, :width 666}
+	- The DreamBooth pipeline mainly consist of the following:
+		- **Input**: images of a particular subject + the corresponding class name
+		- **Regularization**: generate regularization images of the corresponding class name using pre-trained Text-to-Image model
+		- **Fine-tuning**: based on **regularization** images and **input** images
+		- **Super-Resolution**
+		- **Inference**
