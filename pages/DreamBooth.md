@@ -8,12 +8,14 @@ github:: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 	  model’s semantic knowledge on the class of the subject.
 	- Examples of output variations include: changing the place where the subject is, changing a property of the subject such as color, species, or shape, and modifying the subject’s pose, expression, material, and other semantic modifications.
 - ## Method
-	- ![image.png](../assets/image_1667054672048_0.png){:height 269, :width 705}
+	- Overview flowchart
+	  collapsed:: true
+		- ![](https://lh6.googleusercontent.com/myPgm3ieu3I3cG-HULMvmivhlsTLwCyQMDSgwBLkGPbf-j_M25NpAHqysGMP6VMFlQ1JO-9Ar2odooTjBUbw_OSdSOJEgH0N-2eFzZumfNQlgRcGXDnz-aZPucCUep11O9LLeJM-sF0QxKEsV2LOMbEQXN8f4T93sYvPDRsOz4iREqaIEoMTOsIb){:height 471, :width 623}
+		- ![image.png](../assets/image_1667054672048_0.png){:height 269, :width 705}
 	- The DreamBooth pipeline mainly consist of the following:
 		- **Input**: images of a particular subject + the corresponding class name
 		- **Regularization**: generate regularization images of the corresponding class name using pre-trained Text-to-Image model
 		- **Fine-tuning**: fine-tune the pre-trained Text-to-Image model based on **regularization** images and **input** images to generate a *personalized* Text-to-Image model
 		- **Super-Resolution**
 		- **Inference**
-	- Visualization
-		- ![](https://lh6.googleusercontent.com/myPgm3ieu3I3cG-HULMvmivhlsTLwCyQMDSgwBLkGPbf-j_M25NpAHqysGMP6VMFlQ1JO-9Ar2odooTjBUbw_OSdSOJEgH0N-2eFzZumfNQlgRcGXDnz-aZPucCUep11O9LLeJM-sF0QxKEsV2LOMbEQXN8f4T93sYvPDRsOz4iREqaIEoMTOsIb){:height 330, :width 376}
+	- Pipeline flowchart
