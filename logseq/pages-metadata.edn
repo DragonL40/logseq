@@ -1132,7 +1132,7 @@
   :block/updated-at 1664766659526}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667113241712,
-  :block/updated-at 1667157702852}
+  :block/updated-at 1667225957938}
  {:block/name "oct 31st, 2022",
   :block/created-at 1667199623011,
   :block/updated-at 1667199623011}
@@ -1253,6 +1253,9 @@
  {:block/name "plenoxels: radiance fields without neural networks",
   :block/created-at 1658888791627,
   :block/updated-at 1658888791627}
+ {:block/name "poisson flow generative models",
+  :block/created-at 1667225957936,
+  :block/updated-at 1667225957936}
  {:block/name "policy gradient assisted map-elites",
   :block/created-at 1655327077512,
   :block/updated-at 1655327077512}
