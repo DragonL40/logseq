@@ -348,7 +348,7 @@
   :block/updated-at 1658888787168}
  {:block/name "diffusion models",
   :block/created-at 1665566926285,
-  :block/updated-at 1665566926285}
+  :block/updated-at 1667496495299}
  {:block/name "dijkstra's algorithm",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -1059,7 +1059,7 @@
   :block/updated-at 1667339309157}
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667373016048,
-  :block/updated-at 1667447730285}
+  :block/updated-at 1667496392349}
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667459364769,
   :block/updated-at 1667459364769}
@@ -1141,7 +1141,7 @@
   :block/updated-at 1664766659526}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667113241712,
-  :block/updated-at 1667225957938}
+  :block/updated-at 1667496411984}
  {:block/name "oct 31st, 2022",
   :block/created-at 1667199623011,
   :block/updated-at 1667199623011}
