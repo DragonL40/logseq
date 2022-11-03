@@ -1,0 +1,2 @@
+- In thermodynamics, "diffusion" refers to the flow of particles from high-density regions towards low-density regions.
+- In statistics, diffusion is the process of transforming a complex distribution t
