@@ -1065,13 +1065,13 @@
   :block/updated-at 1667459364769}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667545331400,
-  :block/updated-at 1667796636281}
+  :block/updated-at 1667799761613}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667631656812,
   :block/updated-at 1667631656812}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667718004134,
-  :block/updated-at 1667796708946}
+  :block/updated-at 1667799703521}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
@@ -1138,7 +1138,7 @@
   :block/updated-at 1666781594406}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666854236190,
-  :block/updated-at 1667028900536}
+  :block/updated-at 1667799918684}
  {:block/name "oct 28th, 2022",
   :block/created-at 1666941875958,
   :block/updated-at 1666941875958}
@@ -1150,7 +1150,7 @@
   :block/updated-at 1664766659526}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667113241712,
-  :block/updated-at 1667496411984}
+  :block/updated-at 1667799815420}
  {:block/name "oct 31st, 2022",
   :block/created-at 1667199623011,
   :block/updated-at 1667199623011}
@@ -1370,6 +1370,9 @@
  {:block/name "quality diversity",
   :block/created-at 1658888785491,
   :block/updated-at 1658888785491}
+ {:block/name "quantsc",
+  :block/created-at 1667799671209,
+  :block/updated-at 1667799671209}
  {:block/name "questions",
   :block/created-at 1652863259675,
   :block/updated-at 1652863259675}
