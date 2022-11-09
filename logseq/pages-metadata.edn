@@ -1080,7 +1080,7 @@
   :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
-  :block/updated-at 1667980815248}
+  :block/updated-at 1667982045392}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
@@ -1514,6 +1514,9 @@
  {:block/name "sep 8th, 2021",
   :block/created-at 1658888794574,
   :block/updated-at 1658888794574}
+ {:block/name "sep-cma-es",
+  :block/created-at 1667982030577,
+  :block/updated-at 1667982030577}
  {:block/name "sequence alignment problem",
   :block/created-at 1658888789803,
   :block/updated-at 1658888789803}
