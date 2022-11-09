@@ -1086,7 +1086,7 @@
   :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
-  :block/updated-at 1667984570476}
+  :block/updated-at 1668033761205}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
@@ -1451,6 +1451,9 @@
  {:block/name "sat-based planning",
   :block/created-at 1666724701292,
   :block/updated-at 1666730441972}
+ {:block/name "scalable cma-mae",
+  :block/created-at 1668033761201,
+  :block/updated-at 1668033897222}
  {:block/name "scheduling to minimize lateness",
   :block/created-at 1658888789707,
   :block/updated-at 1658888789707}
