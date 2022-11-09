@@ -1,4 +1,4 @@
-- #[[quality diversity]]
+- #[[quality diversity]] #[[Constraint Programming]]
 - [[Constraint Programming]], effective methods to generate multiple solutions that are significantly diverse.
 - What is [[quality diversity]] useful for?
 	- Personnel scheduling (when not all user preferences are known in advance)
