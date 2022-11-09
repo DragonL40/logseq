@@ -870,6 +870,9 @@
  {:block/name "lloyd's algorithm",
   :block/created-at 1654289973809,
   :block/updated-at 1654289973809}
+ {:block/name "lm-ma-es",
+  :block/created-at 1667982673658,
+  :block/updated-at 1667982673658}
  {:block/name "local competition",
   :block/created-at 1653625195659,
   :block/updated-at 1653625195659}
@@ -1080,7 +1083,7 @@
   :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
-  :block/updated-at 1667982045392}
+  :block/updated-at 1667982694611}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
