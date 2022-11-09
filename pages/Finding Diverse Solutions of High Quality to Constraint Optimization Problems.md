@@ -1,2 +1,7 @@
 - #[[quality diversity]]
--
+- [[Constraint Programming]], effective methods to generate multiple solutions that are significantly diverse.
+- What is [[quality diversity]] useful for?
+	- Personnel scheduling (when not all user preferences are known in advance)
+	- Routing problems (alternative paths are useful in case of unexpected events)
+	- Configuration (a good quality product can be made using diverse sets of components)
+- Large Neighborhood Search
