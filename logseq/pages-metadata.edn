@@ -476,6 +476,10 @@
  {:block/name "film stock",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
+ {:block/name
+  "finding diverse solutions of high quality to constraint optimization problems",
+  :block/created-at 1668034313671,
+  :block/updated-at 1668034392513}
  {:block/name "first person inside",
   :block/created-at 1630514885159,
   :block/updated-at 1630514885159}
@@ -1086,7 +1090,7 @@
   :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
-  :block/updated-at 1668033761205}
+  :block/updated-at 1668034334618}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
