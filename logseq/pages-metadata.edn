@@ -1065,13 +1065,13 @@
   :block/updated-at 1667459364769}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667545331400,
-  :block/updated-at 1667950536999}
+  :block/updated-at 1667956672523}
  {:block/name "nov 5th, 2022",
   :block/created-at 1667631656812,
   :block/updated-at 1667631656812}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667718004134,
-  :block/updated-at 1667799703521}
+  :block/updated-at 1667956769905}
  {:block/name "nov 7th, 2022",
   :block/created-at 1667808482244,
   :block/updated-at 1667886472772}
@@ -1678,7 +1678,7 @@
   :block/updated-at 1658888792588}
  {:block/name "todo",
   :block/created-at 1658888798247,
-  :block/updated-at 1658888798247}
+  :block/updated-at 1667956776298}
  {:block/name "topological order",
   :block/created-at 1658888789774,
   :block/updated-at 1658888789774}
