@@ -275,6 +275,9 @@
  {:block/name "connectivity (graph)",
   :block/created-at 1658888786572,
   :block/updated-at 1658888786572}
+ {:block/name "constraint programming",
+  :block/created-at 1667984552036,
+  :block/updated-at 1667984552036}
  {:block/name "contents",
   :block/created-at 1658888798246,
   :block/updated-at 1666598661997}
@@ -1083,7 +1086,7 @@
   :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
-  :block/updated-at 1667984075516}
+  :block/updated-at 1667984570476}
  {:block/name "novelty search",
   :block/created-at 1658888788722,
   :block/updated-at 1658888788722}
