@@ -5,3 +5,5 @@
 	- Routing problems (alternative paths are useful in case of unexpected events)
 	- Configuration (a good quality product can be made using diverse sets of components)
 - Large Neighborhood Search
+- Max Diverse k-Set Problem
+-
