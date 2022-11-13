@@ -7,4 +7,8 @@
 	- Repeat with ($i += 1$)
 - ## Pseudocode
 	- ```
+	  for curIndex = 0 until 2nd to last element 
+	      minIndex = find the minimum in the rest of the list
+	      swap at curIndex and minIndex
+	      // now everything up to curIndex is sorted
 	  ```
