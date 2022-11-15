@@ -13,4 +13,6 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 		- Parameterize appearance with **reflectance** (diffuse albedo, roughness) and **mesogeometric** (normal, height, ambient occlusion)
 	- Hybrid method: neural architecture is employed on the most challenging aspects of the problem, and scalable numerical methods are used on easier tasks.
 		- Circumvents the **neural dimensionality problem**.
+		- Deep neural architecture to resolve the most ambiguous tasks – delighting the input picture and extracting the geometric gradients
+		- while relying on explicit numerical methods to deduce the remaining SVBRDF channels
 	- We propose a [[SVBRDF]] acquisition method from a single image that targets highly-irregular materials captured in a natural lighting environment, where self-cast shadows have to be removed.

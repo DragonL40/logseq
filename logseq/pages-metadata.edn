@@ -137,6 +137,9 @@
  {:block/name "aug 9th, 2022",
   :block/created-at 1660109765178,
   :block/updated-at 1660112250751}
+ {:block/name "authors",
+  :block/created-at 1668479263780,
+  :block/updated-at 1668479263780}
  {:block/name "b",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
@@ -182,6 +185,9 @@
  {:block/name "branch prediction",
   :block/created-at 1652860094026,
   :block/updated-at 1652860094026}
+ {:block/name "brdf",
+  :block/created-at 1668479542821,
+  :block/updated-at 1668479542821}
  {:block/name "breadth-first search",
   :block/created-at 1630514885157,
   :block/updated-at 1630514885157}
@@ -331,15 +337,24 @@
  {:block/name "data structures and object oriented design (104)",
   :block/created-at 1658888786626,
   :block/updated-at 1658888786626}
+ {:block/name "dataset synthesis",
+  :block/created-at 1668479204935,
+  :block/updated-at 1668479204935}
  {:block/name "decision problems",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
  {:block/name "decision-tree learning",
   :block/created-at 1666657968847,
   :block/updated-at 1666657968847}
+ {:block/name "deep learning",
+  :block/created-at 1668479204935,
+  :block/updated-at 1668479204935}
  {:block/name "defragmentation",
   :block/created-at 1630514885158,
   :block/updated-at 1630514885158}
+ {:block/name "delighting",
+  :block/created-at 1668479204933,
+  :block/updated-at 1668479204933}
  {:block/name "deoxyribonucleicacid (dna)",
   :block/created-at 1658888787048,
   :block/updated-at 1658888787048}
@@ -920,6 +935,16 @@
  {:block/name "matching",
   :block/created-at 1658888791117,
   :block/updated-at 1658888791117}
+ {:block/name "materia",
+  :block/created-at 1668479144538,
+  :block/updated-at 1668480030080}
+ {:block/name
+  "materia: single image high-resolution material capture in the wild",
+  :block/created-at 1668479220752,
+  :block/updated-at 1668479220752}
+ {:block/name "material capture",
+  :block/created-at 1668479164698,
+  :block/updated-at 1668479164698}
  {:block/name "max-flow ",
   :block/created-at 1663609998186,
   :block/updated-at 1663609998186}
@@ -1078,7 +1103,7 @@
   :block/updated-at 1668326401125}
  {:block/name "nov 14th, 2022",
   :block/created-at 1668413444493,
-  :block/updated-at 1668413444493}
+  :block/updated-at 1668479144539}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667286025453,
   :block/updated-at 1667880384817}
@@ -1569,6 +1594,9 @@
  {:block/name "sexual selection",
   :block/created-at 1658888788014,
   :block/updated-at 1658888788014}
+ {:block/name "shadow removal",
+  :block/created-at 1668479181801,
+  :block/updated-at 1668479181801}
  {:block/name "shortest path problem",
   :block/created-at 1630514885154,
   :block/updated-at 1630514885154}
@@ -1644,6 +1672,9 @@
  {:block/name "subset sum problem",
   :block/created-at 1658888789806,
   :block/updated-at 1658888789806}
+ {:block/name "svbrdf",
+  :block/created-at 1668479170990,
+  :block/updated-at 1668479170990}
  {:block/name "sympatric speciation",
   :block/created-at 1658888788025,
   :block/updated-at 1658888788025}
