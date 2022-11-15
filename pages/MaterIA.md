@@ -4,5 +4,6 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 
 - ### Background
 	- Recent development uses a single, uncalibrated smartphone photo of the sample to reverse-engineer the individual components of its [[SVBRDF]].
-		- This approach falls short in the fo
--
+		- **This approach falls short in outdoor scenarios.**
+- ## Main Contributions
+	- A
