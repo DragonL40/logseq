@@ -12,4 +12,5 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 		- Relies on a micro-facet [[BRDF]] model based on the GGX normal distribution function.
 		- Parameterize appearance with **reflectance** (diffuse albedo, roughness) and **mesogeometric** (normal, height, ambient occlusion)
 	- Hybrid method: neural architecture is employed on the most challenging aspects of the problem, and scalable numerical methods are used on easier tasks.
-		- Circumvents the neural dimensionality problem.
+		- Circumvents the **neural dimensionality problem**.
+	-
