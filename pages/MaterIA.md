@@ -8,11 +8,12 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 	- **This approach falls short in outdoor scenarios.**
 		- Camera flash may have no effect, with lighting being dominated by the sky and/or the sun.
 - ## Main Contributions
-	- A single image method to address outdoor material capture scenarios.
+	- We propose a [[SVBRDF]] acquisition method from a single image that targets highly-irregular materials captured in a natural lighting environment, where self-cast shadows have to be removed.
+		- addresses outdoor material capture scenarios.
 		- Relies on a micro-facet [[BRDF]] model based on the GGX normal distribution function.
 		- Parameterize appearance with **reflectance** (diffuse albedo, roughness) and **mesogeometric** (normal, height, ambient occlusion)
 	- Hybrid method: neural architecture is employed on the most challenging aspects of the problem, and scalable numerical methods are used on easier tasks.
 		- Circumvents the **neural dimensionality problem**.
-		- Deep neural architecture to resolve the most ambiguous tasks – delighting the input picture and extracting the geometric gradients
-		- while relying on explicit numerical methods to deduce the remaining SVBRDF channels
-	- We propose a [[SVBRDF]] acquisition method from a single image that targets highly-irregular materials captured in a natural lighting environment, where self-cast shadows have to be removed.
+		- Deep neural architecture to resolve the most ambiguous tasks – delighting the input picture and extracting the geometric gradients.
+		- Explicit numerical methods to deduce the remaining SVBRDF channels.
+	-
