@@ -16,9 +16,8 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 		- Circumvents the **neural dimensionality problem**.
 		- Deep neural architecture to resolve the most ambiguous tasks – delighting the input picture and extracting the geometric gradients.
 		- Explicit numerical methods to deduce the remaining [[SVBRDF]] channels.
-	- Synthetic dataset generation
-	- Illumination decomposition
-	-
-	- Cascaded neural architecture
+	- **Synthetic dataset generation**
+	- **Illumination decomposition**: decompose the delighting problem into the prediction of the irradiance and specular contribution to compute the albedo.
+	- **Cascaded neural architecture**: cascaded U-Nets
 	- Seamless high-resolution outputs
 	-
