@@ -10,4 +10,5 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 - ## Main Contributions
 	- A single image method to address outdoor material capture scenarios.
 		- Relies on a micro-facet [[BRDF]] model based on the GGX normal distribution function.
-		- Parameterize appearance with reflectance (diffuse albedo, roughness)
+		- Parameterize appearance with **reflectance** (diffuse albedo, roughness) and **mesogeometric** (normal, height, ambient occlusion)
+	-
