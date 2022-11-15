@@ -18,6 +18,7 @@ authors:: Rosalie Martin, Arthur Roullier, Romain Rouffet, Adrien Kaiser, and Ta
 		- Explicit numerical methods to deduce the remaining [[SVBRDF]] channels.
 	- Synthetic dataset generation
 	- Illumination decomposition
+	-
 	- Cascaded neural architecture
 	- Seamless high-resolution outputs
 	-
