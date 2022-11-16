@@ -1089,18 +1089,6 @@
  {:block/name "nosql",
   :block/created-at 1630514885156,
   :block/updated-at 1630514885156}
- {:block/name "nov 10th, 2022",
-  :block/created-at 1668067228256,
-  :block/updated-at 1668067228256}
- {:block/name "nov 11th, 2022",
-  :block/created-at 1668153602765,
-  :block/updated-at 1668153602765}
- {:block/name "nov 12th, 2022",
-  :block/created-at 1668260938253,
-  :block/updated-at 1668318415025}
- {:block/name "nov 13th, 2022",
-  :block/created-at 1668326401125,
-  :block/updated-at 1668326401125}
  {:block/name "nov 14th, 2022",
   :block/created-at 1668413444493,
   :block/updated-at 1668479144539}
@@ -1110,24 +1098,15 @@
  {:block/name "nov 2nd, 2022",
   :block/created-at 1667373016048,
   :block/updated-at 1667796678314}
- {:block/name "nov 3rd, 2022",
-  :block/created-at 1667459364769,
-  :block/updated-at 1667459364769}
  {:block/name "nov 4th, 2022",
   :block/created-at 1667545331400,
   :block/updated-at 1667956672523}
- {:block/name "nov 5th, 2022",
-  :block/created-at 1667631656812,
-  :block/updated-at 1667631656812}
  {:block/name "nov 6th, 2022",
   :block/created-at 1667718004134,
   :block/updated-at 1668304462758}
  {:block/name "nov 7th, 2022",
   :block/created-at 1667808482244,
   :block/updated-at 1668304412353}
- {:block/name "nov 8th, 2022",
-  :block/created-at 1667894401982,
-  :block/updated-at 1667894401982}
  {:block/name "nov 9th, 2022",
   :block/created-at 1667980815248,
   :block/updated-at 1668034334618}
@@ -1168,21 +1147,12 @@
  {:block/name "oct 10th, 2022",
   :block/created-at 1665436502256,
   :block/updated-at 1665443363525}
- {:block/name "oct 11th, 2022",
-  :block/created-at 1665471657399,
-  :block/updated-at 1665605771077}
  {:block/name "oct 12th, 2022",
   :block/created-at 1665558029892,
   :block/updated-at 1667299023761}
  {:block/name "oct 15th, 2022",
   :block/created-at 1666134339703,
   :block/updated-at 1667054938742}
- {:block/name "oct 18th, 2022",
-  :block/created-at 1666077887414,
-  :block/updated-at 1666077887414}
- {:block/name "oct 19th, 2022",
-  :block/created-at 1666163056452,
-  :block/updated-at 1666163056452}
  {:block/name "oct 23rd, 2022",
   :block/created-at 1666522166236,
   :block/updated-at 1666854256017}
@@ -1192,30 +1162,15 @@
  {:block/name "oct 25th, 2022",
   :block/created-at 1666681201551,
   :block/updated-at 1666681201551}
- {:block/name "oct 26th, 2022",
-  :block/created-at 1666781594406,
-  :block/updated-at 1666781594406}
  {:block/name "oct 27th, 2022",
   :block/created-at 1666854236190,
   :block/updated-at 1667799918684}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666941875958,
-  :block/updated-at 1666941875958}
  {:block/name "oct 29th, 2022",
   :block/created-at 1667026811467,
   :block/updated-at 1667157117231}
- {:block/name "oct 2nd, 2022",
-  :block/created-at 1664766659526,
-  :block/updated-at 1664766659526}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667113241712,
   :block/updated-at 1667799815420}
- {:block/name "oct 31st, 2022",
-  :block/created-at 1667199623011,
-  :block/updated-at 1667199623011}
- {:block/name "oct 3rd, 2022",
-  :block/created-at 1664780436019,
-  :block/updated-at 1664780436019}
  {:block/name "oct 5th, 2022",
   :block/created-at 1664989436485,
   :block/updated-at 1664994847455}
@@ -1516,9 +1471,6 @@
  {:block/name "search problems",
   :block/created-at 1630514885151,
   :block/updated-at 1630514885151}
- {:block/name "selection sort",
-  :block/created-at 1668318415025,
-  :block/updated-at 1668318481751}
  {:block/name "self-fertilization",
   :block/created-at 1633055985735,
   :block/updated-at 1633055985735}
@@ -1540,15 +1492,6 @@
  {:block/name "sep 20th, 2022",
   :block/created-at 1663717514490,
   :block/updated-at 1663924740820}
- {:block/name "sep 23rd, 2022",
-  :block/created-at 1663924727900,
-  :block/updated-at 1663925115681}
- {:block/name "sep 24th, 2022",
-  :block/created-at 1664002804576,
-  :block/updated-at 1664002804576}
- {:block/name "sep 25th, 2022",
-  :block/created-at 1664089203031,
-  :block/updated-at 1664089203031}
  {:block/name "sep 26th, 2022",
   :block/created-at 1664197206038,
   :block/updated-at 1664217862241}
