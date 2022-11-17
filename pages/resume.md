@@ -1,4 +1,5 @@
-- ```
+- Bryon's Advice
+  ```
   - Treat it more like a poster - if the recruiter had 6 seconds to look at your
     resume, what would they see?
   - That means you need to be able to skim and see the important things, so:
@@ -20,3 +21,4 @@
   - Never use first-person - at least in the US
   - Use smaller margins to fit more stuff
   ```
+-
