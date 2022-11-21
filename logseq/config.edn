@@ -56,7 +56,7 @@
             [(> ?d ?start)]
             [(< ?d ?next)]
             [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-    :inputs [:today :14d-after]
+    :inputs [:today :14d]
     :result-transform (fn [result]
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
