@@ -65,7 +65,8 @@
             [?h :block/marker ?marker]
             [?p :page/journal? true]
             [?p :page/journal-day ?d]
-            (between ?b ?start ?today)
+            [(>= ?d ?start)]
+            [(<= ?d ?today)]
             [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
     :inputs [:56d :today]
     :collapsed? true}
