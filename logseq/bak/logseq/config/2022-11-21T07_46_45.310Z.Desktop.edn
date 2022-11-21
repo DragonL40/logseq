@@ -52,7 +52,7 @@
             [?h :block/marker ?marker]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
-            [?h :block/ref-pages ?p]
+            ; [?h :block/ref-pages ?p]
             [(> ?d ?start)]
             [(< ?d ?next)]
 		        [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
