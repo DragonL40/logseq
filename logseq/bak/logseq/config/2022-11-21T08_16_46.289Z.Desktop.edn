@@ -45,28 +45,34 @@
                         (sort-by (fn [h]
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
-   {:title "📅 NEXT"
+    {:title "📅 NEXT"
     :query [:find (pull ?h [*])
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
-            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]
-            (between ?b ?start ?next)]
-    :inputs [:today :10d-after]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            [(> ?d ?start)]
+            [(< ?d ?next)]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:today :14d-after]
+    :result-transform (fn [result]
+                        (sort-by (fn [h]
+                                   (get h :block/priority "Z")) result))
     :collapsed? false}
-   ; {:title "🔥 OVERDUE"
-   ;  :query [:find (pull ?h [*])
-   ;          :in $ ?start ?today
-   ;          :where
-   ;          [?h :block/marker ?marker]
-   ;          [?p :page/journal? true]
-   ;          [?p :page/journal-day ?d]
-   ;          (between ?b ?start ?today)
-   ;          [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-   ;  :inputs [:56d :today]
-   ;  :collapsed? true}
+   {:title "🔥 OVERDUE"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?h :block/page ?p]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            (between ?d ?start ?today)
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:56d :today]
+    :collapsed? true}
    ]}
 
  ;; Add your own commands to speedup.
