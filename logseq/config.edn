@@ -56,7 +56,7 @@
             [?p :block/journal-day ?d]
             [(> ?d ?start)]
             [(< ?d ?next)]]
-    :inputs [:today :10d-after]
+    :inputs [:today :7d-after]
     :collapsed? false}
    ; {:title "🔥 OVERDUE"
    ;  :query [:find (pull ?h [*])
