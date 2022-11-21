@@ -58,17 +58,17 @@
             [(< ?d ?next)]]
     :inputs [:today :7d-after]
     :collapsed? false}
-   ; {:title "🔥 OVERDUE"
-   ;  :query [:find (pull ?h [*])
-   ;          :in $ ?start ?today
-   ;          :where
-   ;          [?h :block/marker ?marker]
-   ;          [?p :page/journal? true]
-   ;          [?p :page/journal-day ?d]
-   ;          (between ?b ?start ?today)
-   ;          [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-   ;  :inputs [:56d :today]
-   ;  :collapsed? true}
+   {:title "🔥 OVERDUE"
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
+            :where
+            [?h :block/marker ?marker]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
+            (between ?d ?start ?today)
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:56d :today]
+    :collapsed? true}
    ]}
 
  ;; Add your own commands to speedup.
