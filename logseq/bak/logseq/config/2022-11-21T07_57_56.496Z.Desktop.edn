@@ -49,25 +49,25 @@
     :query [:find (pull ?h [*])
             :in $ ?start ?next
             :where
-            ; [?h :block/marker ?marker]
-            ; [?p :block/journal? true]
-            ; [?p :block/journal-day ?d]
-            ; [?h :block/ref-pages ?p]
-            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
+            [?p :block/journal? true]
+            [?p :block/journal-day ?d]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]
             (between ?b ?start ?next)]
     :inputs [:today :10d-after]
     :collapsed? false}
-   {:title "🔥 OVERDUE"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?today
-            :where
-            [?h :block/marker ?marker]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            (between ?b ?start ?today)
-            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-    :inputs [:56d :today]
-    :collapsed? true}
+   ; {:title "🔥 OVERDUE"
+   ;  :query [:find (pull ?h [*])
+   ;          :in $ ?start ?today
+   ;          :where
+   ;          [?h :block/marker ?marker]
+   ;          [?p :page/journal? true]
+   ;          [?p :page/journal-day ?d]
+   ;          (between ?b ?start ?today)
+   ;          [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+   ;  :inputs [:56d :today]
+   ;  :collapsed? true}
    ]}
 
  ;; Add your own commands to speedup.

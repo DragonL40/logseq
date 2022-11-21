@@ -50,7 +50,6 @@
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
-            [?h :block/ref-pages ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]
