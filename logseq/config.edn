@@ -59,21 +59,17 @@
     :inputs [:today :7d-after]
     :collapsed? false}
    {:title "🔥 OVERDUE"
-    :query [:find (pull ?b [*])
-            :in $ ?start ?next
+    :query [:find (pull ?h [*])
+            :in $ ?start ?today
             :where
-            [?b :block/marker ?marker]
-            (or [?b :block/scheduled ?d]
-            [?b :block/deadline ?d])
-            [(contains? #{"TODO" "DOING" "NOW" "LATER" "WAITING"} ?marker)]
+            [?h :block/marker ?marker]
+            [?p :page/journal? true]
+            [?p :page/journal-day ?d]
             [(>= ?d ?start)]
-            [(<= ?d ?next)]]
-    :inputs [:365d :1d]
-    :result-transform (fn [result]
-                             (sort-by (fn [h]
-                                   (get h :block/priority "Z")) result))
-    :collapsed? false
-    :breadcrumb-show? false}
+            [(<= ?d ?today)]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+    :inputs [:56d :today]
+    :collapsed? true}
    ]}
 
  ;; Add your own commands to speedup.
