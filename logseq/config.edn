@@ -58,14 +58,11 @@
     :inputs [:today :10d-after]
     :collapsed? false}
    {:title "🔥 OVERDUE"
-    :query [:find (pull ?h [*])
+    :query [:find (pull ?b [*])
             :in $ ?start ?today
             :where
-            [?h :block/marker ?marker]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            (between ?b ?start ?today)
-            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (between ?b ?start ?today)]
     :inputs [:56d :today]
     :collapsed? true}
    ]}

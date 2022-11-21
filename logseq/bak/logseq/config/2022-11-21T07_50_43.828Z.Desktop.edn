@@ -46,17 +46,16 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
    {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
+    :query [:find (pull ?b [*])
             :in $ ?start ?next
             :where
-            [?h :block/marker ?marker]
-            [?p :block/journal? true]
-            [?p :block/journal-day ?d]
+            ; [?h :block/marker ?marker]
+            ; [?p :block/journal? true]
+            ; [?p :block/journal-day ?d]
             ; [?h :block/ref-pages ?p]
-            [(> ?d ?start)]
-            [(< ?d ?next)]
-		        [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-    :inputs [:today :7d-after]
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (between ?b ?start ?next)]
+    :inputs [:today :10d-after]
     :collapsed? false}
    {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])
