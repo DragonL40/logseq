@@ -50,12 +50,11 @@
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
-            [?h :block/ref-pages ?p]
-		        [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]]
+            [?h :block/ref-pages ?p]
+            (between ?b ?start ?next)
+		        [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
     :inputs [:today :7d-after]
     :collapsed? false}
    {:title "🔥 OVERDUE"
@@ -65,8 +64,7 @@
             [?h :block/marker ?marker]
             [?p :page/journal? true]
             [?p :page/journal-day ?d]
-            [(>= ?d ?start)]
-            [(<= ?d ?today)]
+            (between ?b ?start ?today)
             [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
     :inputs [:56d :today]
     :collapsed? true}

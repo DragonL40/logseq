@@ -46,7 +46,7 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
    {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
+    :query [:find (pull ?b [*])
             :in $ ?start ?next
             :where
             ; [?h :block/marker ?marker]
