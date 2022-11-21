@@ -55,7 +55,7 @@
             [?p :page/journal-day ?d]
             [(> ?d ?start)]
             [(< ?d ?next)]
-            [(contains? #{"LATER" "TODO"} ?marker)]]
+            [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
     :inputs [:14d :today]
     :result-transform (fn [result]
                         (sort-by (fn [h]
