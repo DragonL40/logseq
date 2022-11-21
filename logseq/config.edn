@@ -63,6 +63,7 @@
             :in $ ?start ?today
             :where
             [?h :block/marker ?marker]
+            [?h :block/page ?p]
             [?p :page/journal? true]
             [?p :page/journal-day ?d]
             (between ?d ?start ?today)
