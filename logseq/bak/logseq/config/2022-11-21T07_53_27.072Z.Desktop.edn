@@ -53,9 +53,9 @@
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
             [?h :block/ref-pages ?p]
-            (between ?b ?start ?next)
-		        [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
-    :inputs [:today :7d-after]
+            (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+            (between ?b ?start ?next)]
+    :inputs [:today :10d-after]
     :collapsed? false}
    {:title "🔥 OVERDUE"
     :query [:find (pull ?h [*])

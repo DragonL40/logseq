@@ -46,7 +46,7 @@
                                    (get h :block/priority "Z")) result))
     :collapsed? false}
    {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
+    :query [:find (pull ?b [*])
             :in $ ?start ?next
             :where
             ; [?h :block/marker ?marker]
@@ -68,6 +68,14 @@
             [(contains? #{"NOW" "LATER" "TODO" "DOING"} ?marker)]]
     :inputs [:56d :today]
     :collapsed? true}
+   ; {:title "🔥 OVERDUE"
+   ;  :query [:find (pull ?b [*])
+   ;          :in $ ?start ?today
+   ;          :where
+   ;          (task ?b #{"NOW" "LATER" "TODO" "DOING"})
+   ;          (between ?b ?start ?today)]
+   ;  :inputs [:56d :today]
+   ;  :collapsed? false}
    ]}
 
  ;; Add your own commands to speedup.

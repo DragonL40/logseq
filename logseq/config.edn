@@ -50,9 +50,9 @@
             :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
+            [?h :block/ref-pages ?p]
             [?p :block/journal? true]
             [?p :block/journal-day ?d]
-            [?h :block/ref-pages ?p]
             (task ?b #{"NOW" "LATER" "TODO" "DOING"})
             (between ?b ?start ?next)]
     :inputs [:today :10d-after]
