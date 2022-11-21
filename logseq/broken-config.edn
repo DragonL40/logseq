@@ -47,7 +47,7 @@
     :collapsed? false}
    {:title "📅 NEXT"
     :query [:find (pull ?h [*])
-            :in $ ?start ?today
+            :in $ ?start ?next
             :where
             [?h :block/marker ?marker]
             [?h :block/ref-pages ?p]
